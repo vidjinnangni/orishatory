@@ -1,0 +1,25 @@
+{
+  "id": "amma",
+  "nom": "Amma",
+  "variantes": [],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": ["Dogon"],
+  "resume": "Dieu créateur unique de la cosmogonie dogon, à l'origine de l'univers, de la terre et des premiers êtres vivants, dont les Nommo. Central dans le système cosmologique dogon documenté au 20e siècle par les ethnologues français.",
+  "domaines": ["création", "cosmos", "ordre du monde"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": ["terre (dans certaines versions du mythe)"],
+    "enfants": [],
+    "entites_liees": ["nommo"]
+  },
+  "attributs": ["œuf cosmique", "graine de fonio"],
+  "recits_associes": [],
+  "culte_contemporain": "Le système cosmologique dogon reste vivant dans les pratiques rituelles au Mali (falaises de Bandiagara), bien que la portée exacte des interprétations ethnographiques du 20e siècle (Griaule) fasse débat académique.",
+  "sources": [
+    "Griaule, M. & Dieterlen, G. (1965). Le Renard pâle",
+    "van Beek, W.E.A. (1991). Dogon Restudied: A Field Evaluation of the Work of Marcel Griaule (critique méthodologique)"
+  ],
+  "notes": "Prudence académique requise : les travaux de Griaule sur la cosmologie dogon (notamment l'astronomie de Sirius) ont été largement contestés par des anthropologues ultérieurs quant à leur représentativité réelle des croyances dogon communes vs. un savoir ésotérique restreint à quelques informateurs."
+}

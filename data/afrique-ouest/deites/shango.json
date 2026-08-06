@@ -1,0 +1,25 @@
+{
+  "id": "shango",
+  "nom": "Ṣàngó",
+  "variantes": ["Shango", "Chango", "Xangô"],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": ["Yoruba"],
+  "resume": "Orisha du tonnerre et de la foudre, ancien roi historique du royaume d'Oyo déifié après sa mort. Figure de puissance, de justice implacable et de virilité royale.",
+  "domaines": ["foudre", "tonnerre", "royauté", "justice", "danse"],
+  "tags": ["foudre-orage", "royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": ["oshun"],
+    "enfants": [],
+    "entites_liees": ["oshun"]
+  },
+  "attributs": ["hache double (oshe)", "couleurs rouge et blanc", "bélier"],
+  "recits_associes": [],
+  "culte_contemporain": "Un des orishas les plus diffusés dans les Amériques (Chango à Cuba, Xangô au Brésil) via la traite atlantique, souvent syncrétisé avec Sainte Barbe dans le catholicisme populaire.",
+  "sources": [
+    "Barnes, S.T. (1997). Africa's Ogun: Old World and New (chapitre comparatif sur Shango)",
+    "Omosade Awolalu, J. (1979). Yoruba Beliefs and Sacrificial Rites"
+  ],
+  "notes": "Exemple notable d'un souverain historique (l'un des premiers alaafin d'Oyo) devenu divinité — illustre la porosité entre héros historique et figure du panthéon dans la cosmologie yoruba."
+}

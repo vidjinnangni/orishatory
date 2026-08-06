@@ -1,0 +1,25 @@
+{
+  "id": "ogun",
+  "nom": "Ògún",
+  "variantes": ["Ogun", "Ogoun"],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": ["Yoruba"],
+  "resume": "Orisha du fer, de la forge, de la guerre et de la technologie. Défricheur des chemins, patron des forgerons, chasseurs et de tous ceux qui travaillent le métal.",
+  "domaines": ["fer", "guerre", "chasse", "technologie", "justice par le serment"],
+  "tags": ["forge-artisanat"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["eshu-elegba"]
+  },
+  "attributs": ["machette", "fer", "chien", "palme"],
+  "recits_associes": [],
+  "culte_contemporain": "Toujours vénéré au Nigeria et au Bénin ; les serments prêtés sur le fer d'Ogun ont une valeur juridique coutumière dans certaines communautés yoruba. Diffusé dans les Amériques sous le nom d'Ogou (vaudou haïtien) ou Ogún (santería).",
+  "sources": [
+    "Barnes, S.T. (1997). Africa's Ogun: Old World and New",
+    "Idowu, E.B. (1962). Olodumare: God in Yoruba Belief"
+  ],
+  "notes": "Divinité ambivalente : associée à la création (outils, civilisation) autant qu'à la violence destructrice ; les récits insistent sur cette double nature plutôt que de la résoudre."
+}

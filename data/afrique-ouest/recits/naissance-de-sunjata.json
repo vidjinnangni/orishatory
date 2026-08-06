@@ -1,0 +1,25 @@
+{
+  "id": "naissance-de-sunjata",
+  "nom": "La naissance et l'enfance de Sunjata",
+  "variantes": [],
+  "region": "afrique-ouest",
+  "categorie": "recits",
+  "peuples": ["Mandingue", "Malinké"],
+  "resume": "Épisode d'ouverture de l'épopée mandingue : la mère de Sunjata, Sogolon, femme au double physique bosselé (associée au totem-buffle), est prise pour épouse par prophétie. Sunjata naît infirme, incapable de marcher jusqu'à l'adolescence, méprisé par la cour, avant de se redresser miraculeusement à l'aide d'un bâton de fer.",
+  "domaines": ["destinée", "humiliation surmontée", "prophétie"],
+  "tags": ["royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["sunjata-keita"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "Récité par les griots (jeliw) lors de cérémonies et d'événements politiques au Mali, en Guinée et en Gambie ; sert encore de référence à la légitimité royale dans les lignages mandingues.",
+  "sources": [
+    "Niane, D.T. (1960). Soundjata ou l'épopée mandingue",
+    "Conrad, D.C. (2004). Sunjata: A West African Epic of the Mande Peoples"
+  ],
+  "notes": "Il existe de nombreuses variantes de cet épisode selon le lignage de griot qui la transmet ; la version de Niane (1960), basée sur le récit du griot Mamadou Kouyaté, est la plus diffusée en français, mais n'est pas la seule autorité sur le texte."
+}

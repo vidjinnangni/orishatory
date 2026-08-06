@@ -1,0 +1,25 @@
+{
+  "id": "oshun",
+  "nom": "Ọ̀ṣun",
+  "variantes": ["Oshun", "Osun", "Ochún"],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": ["Yoruba"],
+  "resume": "Orisha de la rivière qui porte son nom, associée à l'amour, la beauté, la fertilité et la richesse douce (par opposition à la richesse guerrière). L'une des figures féminines majeures du panthéon yoruba.",
+  "domaines": ["eau douce", "amour", "fertilité", "richesse", "diplomatie"],
+  "tags": ["eau", "terre-fertilite"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": ["shango"],
+    "enfants": [],
+    "entites_liees": ["shango"]
+  },
+  "attributs": ["miroir", "éventail en laiton", "miel", "couleur jaune/or"],
+  "recits_associes": [],
+  "culte_contemporain": "Le festival annuel Osun-Osogbo, sur les rives du fleuve Osun au Nigeria, est inscrit au patrimoine mondial de l'UNESCO. Vénérée aussi dans les Amériques sous le nom d'Ochún.",
+  "sources": [
+    "Murphy, J.M. & Sanford, M.M. (2001). Osun across the Waters: A Yoruba Goddess in Africa and the Americas",
+    "Olupona, J.K. (2014). African Religions: A Very Short Introduction"
+  ],
+  "notes": "Souvent réduite dans les représentations populaires à une simple 'déesse de l'amour' ; les récits traditionnels lui accordent aussi un rôle politique majeur, notamment dans les mythes de fondation d'Osogbo."
+}
