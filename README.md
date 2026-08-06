@@ -1,4 +1,4 @@
-# Codex Africain
+# Orishatory
 
 Une base de données ouverte et structurée sur les mythologies du continent africain et de ses diasporas, organisée par grande aire culturelle.
 
@@ -13,7 +13,7 @@ Rassembler, de façon rigoureuse et sourcée, les figures divines, héros, créa
 ## Structure du dépôt
 
 ```
-codex-africain/
+orishatory/
 ├── data/
 │   ├── afrique-ouest/
 │   ├── afrique-centrale/
