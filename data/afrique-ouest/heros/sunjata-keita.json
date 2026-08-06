@@ -1,0 +1,25 @@
+{
+  "id": "sunjata-keita",
+  "nom": "Sunjata Keïta",
+  "variantes": ["Soundiata Keïta", "Sundiata"],
+  "region": "afrique-ouest",
+  "categorie": "heros",
+  "peuples": ["Mandingue", "Malinké"],
+  "resume": "Fondateur légendaire de l'empire du Mali au 13e siècle, héros de l'épopée orale mandingue transmise par les griots. Né infirme et méprisé, il surmonte son handicap pour devenir un souverain unificateur.",
+  "domaines": ["royauté", "unification", "destinée", "résilience"],
+  "tags": ["royaute-sacree"],
+  "genealogie": {
+    "parents": ["Naré Maghann Konaté (père)", "Sogolon Kondé (mère)"],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["bâton de fer (pour marcher après son infirmité)", "arc"],
+  "recits_associes": [],
+  "culte_contemporain": "L'épopée mandingue (l'Épopée de Sundiata) reste transmise oralement par les griots (jeliw) en Afrique de l'Ouest et fait partie du patrimoine culturel immatériel reconnu par l'UNESCO (Charte du Manden).",
+  "sources": [
+    "Niane, D.T. (1960). Soundjata ou l'épopée mandingue",
+    "UNESCO (2009). Charte du Manden, proclamée à Kouroukan Fouga - inscription au patrimoine immatériel"
+  ],
+  "notes": "Figure à la frontière entre histoire et mythe : Sunjata est un personnage historiquement attesté, mais son récit a pris une forme épique et symbolique via la tradition orale des griots, avec des variantes selon les lignages narrateurs."
+}

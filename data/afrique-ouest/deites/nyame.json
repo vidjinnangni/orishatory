@@ -1,0 +1,25 @@
+{
+  "id": "nyame",
+  "nom": "Nyame",
+  "variantes": ["Onyame", "Onyankopon"],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": ["Akan", "Ashanti"],
+  "resume": "Dieu suprême du ciel dans la cosmologie akan, créateur du monde, source ultime de tout pouvoir spirituel. Figure lointaine et abstraite, rarement l'objet d'un culte direct.",
+  "domaines": ["ciel", "création", "omniscience"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": ["asase-yaa"],
+    "enfants": [],
+    "entites_liees": ["anansi"]
+  },
+  "attributs": ["symbole Gye Nyame (adinkra)", "soleil et lune"],
+  "recits_associes": [],
+  "culte_contemporain": "Le symbole adinkra 'Gye Nyame' (\"sauf Dieu\") reste un des motifs graphiques les plus répandus au Ghana, y compris hors contexte religieux traditionnel.",
+  "sources": [
+    "Rattray, R.S. (1923). Ashanti",
+    "Opoku, K.A. (1978). West African Traditional Religion"
+  ],
+  "notes": "Comme plusieurs dieux-créateurs suprêmes en Afrique de l'Ouest (Amma chez les Dogon, Olodumare chez les Yoruba), Nyame est peu représenté et n'a pas de temple dédié : il agit via des intermédiaires (les abosom, esprits moindres)."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ifa",
+  "nom": "Ifá",
+  "variantes": ["Ọ̀rúnmìlà (l'orisha associé au système)"],
+  "region": "afrique-ouest",
+  "categorie": "rites",
+  "peuples": ["Yoruba"],
+  "resume": "Système de divination complexe reposant sur 256 figures (odù), interprétées par un prêtre-devin (babalawo) à l'aide d'une chaîne divinatoire (opele) ou de noix de palme. Sert à guider les décisions individuelles et collectives.",
+  "domaines": ["divination", "sagesse", "destin"],
+  "tags": ["divination"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["eshu-elegba"]
+  },
+  "attributs": ["opele (chaîne divinatoire)", "noix de palme (ikin)", "plateau de divination (opon Ifá)"],
+  "recits_associes": [],
+  "culte_contemporain": "Le corpus Ifá est inscrit au patrimoine culturel immatériel de l'UNESCO. La pratique reste vivante au Nigeria, au Bénin, à Cuba (Ifá/Santería) et au Brésil.",
+  "sources": [
+    "Bascom, W. (1969). Ifa Divination: Communication between Gods and Men in West Africa",
+    "UNESCO (2005). Ifá Divination System - inscription au patrimoine culturel immatériel"
+  ],
+  "notes": "Ifá n'est pas qu'un outil de prédiction : le corpus oral associé (odù Ifá) constitue une vaste bibliothèque de mythes, proverbes et cas de jurisprudence coutumière transmis par la formation des babalawo, qui dure souvent plusieurs années."
+}

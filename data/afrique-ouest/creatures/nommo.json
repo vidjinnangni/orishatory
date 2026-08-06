@@ -1,0 +1,25 @@
+{
+  "id": "nommo",
+  "nom": "Nommo",
+  "variantes": ["Nummo"],
+  "region": "afrique-ouest",
+  "categorie": "creatures",
+  "peuples": ["Dogon"],
+  "resume": "Ancêtres primordiaux à forme amphibie, premiers êtres créés par Amma, envoyés sur terre pour apporter l'ordre civilisateur et enseigner aux humains l'agriculture, le tissage et la parole.",
+  "domaines": ["eau", "civilisation", "parole", "ancestralité"],
+  "tags": ["eau", "ancetres", "metamorphose"],
+  "genealogie": {
+    "parents": ["amma"],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["amma"]
+  },
+  "attributs": ["corps mi-humain mi-serpent ou mi-poisson", "eau des mares et rivières"],
+  "recits_associes": [],
+  "culte_contemporain": "Toujours présents dans les récits rituels et les masques dogon associés aux cérémonies funéraires (Dama).",
+  "sources": [
+    "Griaule, M. & Dieterlen, G. (1965). Le Renard pâle",
+    "van Beek, W.E.A. (1991). Dogon Restudied"
+  ],
+  "notes": "Comme pour Amma, la description détaillée des Nommo provient largement des travaux de Griaule ; à recouper avec des sources dogon contemporaines quand c'est possible."
+}

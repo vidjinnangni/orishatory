@@ -1,0 +1,25 @@
+{
+  "id": "sasabonsam",
+  "nom": "Sasabonsam",
+  "variantes": [],
+  "region": "afrique-ouest",
+  "categorie": "creatures",
+  "peuples": ["Akan", "Ashanti"],
+  "resume": "Créature monstrueuse habitant les forêts profondes, décrite avec de longues jambes, des pieds tournés vers l'arrière et parfois des ailes. Figure d'avertissement associée aux dangers de la forêt et à la sorcellerie (obayifo).",
+  "domaines": ["forêt", "danger", "sorcellerie"],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["longues jambes", "pieds inversés", "poils rouges dans certaines versions"],
+  "recits_associes": [],
+  "culte_contemporain": "Toujours présent dans le folklore populaire ghanéen contemporain comme figure d'histoire effrayante et de mise en garde pour les enfants s'aventurant seuls en forêt.",
+  "sources": [
+    "Rattray, R.S. (1930). Akan-Ashanti Folk-Tales",
+    "Opoku, K.A. (1978). West African Traditional Religion"
+  ],
+  "notes": "Souvent associé aux abosom (esprits mineurs de la forêt) et aux figures de sorcières (obayifo) dans un même complexe de croyances sur les dangers non-humains de la forêt."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ijapa",
+  "nom": "Ijapa",
+  "variantes": ["Ajapa"],
+  "region": "afrique-ouest",
+  "categorie": "heros",
+  "peuples": ["Yoruba"],
+  "resume": "Tortue rusée, figure du trickster dans le corpus de contes yoruba (àlọ́). Triomphe habituellement par la ruse, mais finit souvent puni par sa propre cupidité, servant de leçon morale.",
+  "domaines": ["ruse", "morale", "narration"],
+  "tags": ["trickster"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["carapace fêlée (motif récurrent expliquant son origine dans plusieurs contes)"],
+  "recits_associes": [],
+  "culte_contemporain": "Personnage encore central dans les contes racontés aux enfants au Nigeria et au Bénin ; comparable structurellement à Anansi chez les Akan ou au lièvre dans d'autres traditions ouest-africaines.",
+  "sources": [
+    "Bascom, W. (1969). Ifa Divination (contexte du corpus narratif yoruba)",
+    "Owomoyela, O. (1997). Yoruba Trickster Tales"
+  ],
+  "notes": "Contrairement à Anansi, souvent présenté positivement, Ijapa incarne plus fréquemment une ruse punie. Les contes s'en servent pour illustrer les excès de la cupidité et de la vanité."
+}
