@@ -1,0 +1,21 @@
+# Fichiers d'environnement et secrets
+.env
+.env.local
+*.pem
+
+# Builds et dossiers de sortie
+dist/
+build/
+out/
+
+# Fichiers de journaux (logs)
+*.log
+npm-debug.log*
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Éditeurs de code
+.vscode/
+.idea/

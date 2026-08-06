@@ -1,0 +1,25 @@
+{
+  "id": "anansi",
+  "nom": "Anansi",
+  "variantes": ["Kwaku Ananse", "Ananse"],
+  "region": "afrique-ouest",
+  "categorie": "heros",
+  "peuples": ["Akan", "Ashanti"],
+  "resume": "Araignée rusée et conteuse, figure centrale des récits akan. Anansi triomphe par l'intelligence plutôt que par la force et est crédité d'avoir apporté les histoires au monde.",
+  "domaines": ["ruse", "narration", "savoir"],
+  "tags": ["trickster", "metamorphose", "diaspora-survivance"],
+  "genealogie": {
+    "parents": ["Nyame (dieu du ciel)"],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["nyame"]
+  },
+  "attributs": ["toile d'araignée", "forme d'araignée ou d'homme"],
+  "recits_associes": [],
+  "culte_contemporain": "Personnage central des contes oraux, largement transmis dans les Caraïbes (Anansi stories) via la traite transatlantique, notamment en Jamaïque.",
+  "sources": [
+    "Rattray, R.S. (1930). Akan-Ashanti Folk-Tales",
+    "Vecsey, C. (1981). The Exception Who Proves the Rules: Ananse the Akan Trickster"
+  ],
+  "notes": "À ne pas confondre avec d'autres tricksters ouest-africains comme le lièvre (motif que l'on retrouve aussi, sous forme transformée, chez Br'er Rabbit dans le folklore afro-américain)."
+}
