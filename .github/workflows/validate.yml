@@ -1,0 +1,37 @@
+name: Validate codex entries
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+      - "schema/**"
+      - "scripts/validate.py"
+      - ".github/workflows/validate.yml"
+  pull_request:
+    branches: [main]
+    paths:
+      - "data/**"
+      - "schema/**"
+      - "scripts/validate.py"
+      - ".github/workflows/validate.yml"
+  workflow_dispatch: {}
+
+jobs:
+  validate:
+    name: Valider les fiches JSON
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout du dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances
+        run: pip install jsonschema
+
+      - name: Lancer la validation
+        run: python scripts/validate.py

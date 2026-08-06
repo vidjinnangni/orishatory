@@ -1,0 +1,92 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://codex-africain/schema/entite.schema.json",
+  "title": "Entité du Codex de mythologie africaine",
+  "type": "object",
+  "required": ["id", "nom", "region", "categorie", "peuples", "resume"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Identifiant unique en kebab-case, ex: eshu-elegba",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "nom": {
+      "type": "string",
+      "description": "Nom principal de l'entité"
+    },
+    "variantes": {
+      "type": "array",
+      "description": "Autres orthographes ou noms régionaux",
+      "items": { "type": "string" }
+    },
+    "region": {
+      "type": "string",
+      "enum": [
+        "afrique-ouest",
+        "afrique-centrale",
+        "afrique-est",
+        "afrique-australe",
+        "afrique-nord",
+        "diaspora"
+      ]
+    },
+    "categorie": {
+      "type": "string",
+      "enum": ["deites", "heros", "creatures", "recits", "rites"]
+    },
+    "peuples": {
+      "type": "array",
+      "description": "Peuple(s) ou culture(s) d'origine",
+      "items": { "type": "string" },
+      "minItems": 1
+    },
+    "resume": {
+      "type": "string",
+      "description": "Résumé court (2-4 phrases) en langage neutre et informatif"
+    },
+    "domaines": {
+      "type": "array",
+      "description": "Domaines d'influence (ex: fertilité, guerre, eau, commerce...)",
+      "items": { "type": "string" }
+    },
+    "tags": {
+      "type": "array",
+      "description": "Tags transversaux, voir tags.json à la racine",
+      "items": { "type": "string" }
+    },
+    "genealogie": {
+      "type": "object",
+      "properties": {
+        "parents": { "type": "array", "items": { "type": "string" } },
+        "conjoints": { "type": "array", "items": { "type": "string" } },
+        "enfants": { "type": "array", "items": { "type": "string" } },
+        "entites_liees": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "attributs": {
+      "type": "array",
+      "description": "Symboles, couleurs, objets, animaux associés",
+      "items": { "type": "string" }
+    },
+    "recits_associes": {
+      "type": "array",
+      "description": "IDs d'autres fiches (catégorie recits) liées à cette entité",
+      "items": { "type": "string" }
+    },
+    "culte_contemporain": {
+      "type": "string",
+      "description": "Pratiques ou survivances contemporaines, le cas échéant"
+    },
+    "sources": {
+      "type": "array",
+      "description": "Références bibliographiques ou académiques",
+      "items": { "type": "string" },
+      "minItems": 1
+    },
+    "notes": {
+      "type": "string",
+      "description": "Variantes régionales, débats académiques, incertitudes"
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,20 @@
+{
+  "description": "Tags transversaux utilisables dans le champ 'tags' de n'importe quelle fiche, indépendamment de la région. Objectif : repérer les motifs mythologiques récurrents à travers le continent.",
+  "tags": [
+    { "id": "trickster", "label": "Décepteur / Trickster" },
+    { "id": "creation", "label": "Mythe de création" },
+    { "id": "deluge", "label": "Déluge / catastrophe originelle" },
+    { "id": "ancetres", "label": "Culte des ancêtres" },
+    { "id": "eau", "label": "Divinité ou esprit aquatique" },
+    { "id": "foudre-orage", "label": "Foudre, orage, ciel" },
+    { "id": "terre-fertilite", "label": "Terre, fertilité, agriculture" },
+    { "id": "mort-au-dela", "label": "Mort et au-delà" },
+    { "id": "metamorphose", "label": "Métamorphose / animal-humain" },
+    { "id": "jumeaux", "label": "Motif des jumeaux" },
+    { "id": "initiation", "label": "Rite de passage / initiation" },
+    { "id": "divination", "label": "Divination et oracle" },
+    { "id": "forge-artisanat", "label": "Forge, artisanat, technologie" },
+    { "id": "royaute-sacree", "label": "Royauté sacrée" },
+    { "id": "diaspora-survivance", "label": "Survivance dans la diaspora" }
+  ]
+}

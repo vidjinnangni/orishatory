@@ -1,0 +1,25 @@
+{
+  "id": "eshu-elegba",
+  "nom": "Èṣù",
+  "variantes": ["Eshu", "Elegba", "Legba", "Èṣù-Ẹlẹ́gbára"],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": ["Yoruba"],
+  "resume": "Orisha des carrefours, du langage et de la communication entre les mondes humain et divin. Figure ambivalente souvent associée au trickster, gardien des choix et de l'imprévisible.",
+  "domaines": ["carrefours", "communication", "chance", "ambivalence morale"],
+  "tags": ["trickster", "divination"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["ifa", "ogun"]
+  },
+  "attributs": ["bâton (ogo)", "calebasse", "couleurs rouge et noir", "carrefour"],
+  "recits_associes": [],
+  "culte_contemporain": "Vénéré au sein de l'Ifá/Orisha traditionnel au Nigeria et au Bénin, ainsi que dans ses formes diasporiques sous les noms de Legba (vaudou) et Elegguá (santería).",
+  "sources": [
+    "Bascom, W. (1969). Ifa Divination: Communication between Gods and Men in West Africa",
+    "Olupona, J.K. (2014). African Religions: A Very Short Introduction"
+  ],
+  "notes": "Interprété à tort par certaines sources coloniales comme une figure 'diabolique' par assimilation chrétienne ; ce n'est pas une figure du mal mais un gardien des seuils et de l'incertitude."
+}

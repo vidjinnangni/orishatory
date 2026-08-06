@@ -1,0 +1,25 @@
+{
+  "id": "mami-wata",
+  "nom": "Mami Wata",
+  "variantes": ["Maman de l'eau", "Watermama"],
+  "region": "diaspora",
+  "categorie": "deites",
+  "peuples": ["panafricain (Afrique de l'Ouest et Centrale)", "diasporas afro-américaines et afro-caribéennes"],
+  "resume": "Esprit ou panthéon d'esprits aquatiques associé à la beauté, la richesse et le danger. Culte largement répandu le long des côtes ouest et centre-africaines, exporté ensuite vers les Amériques.",
+  "domaines": ["eau", "fertilité", "richesse", "séduction"],
+  "tags": ["eau", "diaspora-survivance", "metamorphose"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["miroir", "peigne", "serpent", "queue de poisson dans certaines représentations"],
+  "recits_associes": [],
+  "culte_contemporain": "Culte vivant au Bénin, Togo, Nigeria, RDC ; retrouvé sous des formes syncrétiques dans le vaudou haïtien (La Sirène) et certaines traditions afro-brésiliennes.",
+  "sources": [
+    "Drewal, H.J. (2008). Mami Wata: Arts for Water Spirits in Africa and Its Diasporas",
+    "Bassett, T.J. (2020). Water Spirits and West African Coastal Cosmologies"
+  ],
+  "notes": "Le culte a intégré des éléments iconographiques venus d'Europe (chromolithographies indiennes de charmeuses de serpents diffusées au 19e siècle), illustrant un syncrétisme continu plutôt qu'une tradition figée."
+}
