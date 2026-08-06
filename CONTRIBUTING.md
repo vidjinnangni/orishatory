@@ -1,4 +1,4 @@
-# Contribuer au Codex Africain
+# Contribuer à Orishatory
 
 En contribuant, vous acceptez que votre contribution soit diffusée sous licence
 CC BY-SA 4.0 (voir [`LICENSE`](./LICENSE)), au même titre que le reste du projet.
