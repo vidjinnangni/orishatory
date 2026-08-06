@@ -1,7 +1,5 @@
 # Codex Africain
 
-[![Validate codex entries](https://github.com/vidjinnangni/codex-africain.git/actions/workflows/validate.yml/badge.svg)](https://github.com/vidjinnangni/codex-africain.git/actions/workflows/validate.yml)
-
 Une base de données ouverte et structurée sur les mythologies du continent africain et de ses diasporas, organisée par grande aire culturelle.
 
 ## Objectif
