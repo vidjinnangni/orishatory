@@ -1,0 +1,25 @@
+{
+  "id": "tokoloshe",
+  "nom": "Tokoloshe",
+  "variantes": ["Thokolosi", "Hili (variante xhosa)"],
+  "region": "afrique-australe",
+  "categorie": "creatures",
+  "peuples": ["Zulu", "Xhosa"],
+  "resume": "Esprit malveillant de petite taille, invoqué par la sorcellerie pour nuire à une personne ou une famille. Reste une figure de crainte très présente dans la culture populaire sud-africaine contemporaine.",
+  "domaines": ["sorcellerie", "malchance", "nuit"],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["petite taille", "invisible aux yeux non avertis dans certaines versions"],
+  "recits_associes": [],
+  "culte_contemporain": "La pratique consistant à surélever son lit sur des briques pour se protéger du Tokoloshe (censé ne pas pouvoir grimper) reste répandue en Afrique du Sud, y compris hors contexte de croyance active.",
+  "sources": [
+    "Berglund, A-I. (1976). Zulu Thought-Patterns and Symbolism",
+    "Hammond-Tooke, W.D. (1989). Rituals and Medicines: Indigenous Healing in South Africa"
+  ],
+  "notes": "Figure souvent sensationnalisée dans les médias sud-africains populaires ; les récits traditionnels sont généralement plus sobres et centrés sur la sorcellerie interpersonnelle (jalousie, conflits de voisinage) que sur l'horreur pure."
+}

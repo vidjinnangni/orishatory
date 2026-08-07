@@ -1,0 +1,25 @@
+{
+  "id": "isis",
+  "nom": "Isis",
+  "variantes": ["Aset", "Iset"],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Déesse égyptienne de la magie, de la maternité et de la royauté, épouse et sœur d'Osiris, mère d'Horus. Son culte, né en Égypte, s'est répandu dans tout le bassin méditerranéen antique jusqu'à l'Empire romain.",
+  "domaines": ["magie", "maternité", "royauté", "protection"],
+  "tags": ["royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": ["osiris"],
+    "enfants": [],
+    "entites_liees": ["osiris"]
+  },
+  "attributs": ["trône (hiéroglyphe de son nom)", "ailes", "disque solaire entre cornes de vache"],
+  "recits_associes": ["mythe-osiris"],
+  "culte_contemporain": "Culte disparu comme religion vivante depuis l'Antiquité tardive, mais influence iconographique et symbolique persistante, notamment dans certains courants ésotériques occidentaux modernes.",
+  "sources": [
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "Assmann, J. (2001). The Search for God in Ancient Egypt"
+  ],
+  "notes": ""
+}

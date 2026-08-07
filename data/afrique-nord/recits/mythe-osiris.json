@@ -1,0 +1,25 @@
+{
+  "id": "mythe-osiris",
+  "nom": "Le mythe d'Osiris",
+  "variantes": [],
+  "region": "afrique-nord",
+  "categorie": "recits",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Récit du meurtre d'Osiris par son frère Seth, du deuil et de la magie d'Isis qui reconstitue son corps, et de la résurrection partielle d'Osiris qui devient souverain du royaume des morts. Leur fils Horus venge ensuite son père en affrontant Seth pour le trône d'Égypte.",
+  "domaines": ["mort", "résurrection", "succession royale", "vengeance"],
+  "tags": ["mort-au-dela"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["isis", "osiris"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "Le mythe d'Osiris a structuré une bonne part de la théologie funéraire égyptienne antique (chaque défunt étant symboliquement assimilé à Osiris) ; il n'a pas de survivance cultuelle directe aujourd'hui mais reste l'un des récits égyptiens antiques les plus documentés.",
+  "sources": [
+    "Plutarque, De Iside et Osiride (source antique secondaire, 1er-2e siècle apr. J.-C.)",
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions"
+  ],
+  "notes": "La version la plus complète et continue qui nous soit parvenue est celle de Plutarque, un auteur grec tardif écrivant plusieurs siècles après les sources égyptiennes originales fragmentaires ; certains détails narratifs sont donc probablement des réinterprétations plutôt que la version égyptienne canonique."
+}

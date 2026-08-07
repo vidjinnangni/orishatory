@@ -1,0 +1,25 @@
+{
+  "id": "ubungoma",
+  "nom": "Ubungoma",
+  "variantes": ["Isangoma (le/la praticien·ne)"],
+  "region": "afrique-australe",
+  "categorie": "rites",
+  "peuples": ["Zulu", "Xhosa", "Sotho"],
+  "resume": "Pratique de divination et de guérison assurée par des devins-guérisseurs (izangoma), reposant sur la communication avec les esprits ancestraux, la transe et la lecture des os (divination osseuse).",
+  "domaines": ["divination", "guérison", "ancestralité", "transe"],
+  "tags": ["divination", "ancetres", "initiation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["os de divination", "tenue rituelle", "transe induite par le tambour et la danse"],
+  "recits_associes": [],
+  "culte_contemporain": "Pratique très vivante en Afrique du Sud contemporaine, reconnue légalement via le Conseil sud-africain des praticiens de médecine traditionnelle (Traditional Health Practitioners Act).",
+  "sources": [
+    "Ngubane, H. (1977). Body and Mind in Zulu Medicine",
+    "Hammond-Tooke, W.D. (1989). Rituals and Medicines: Indigenous Healing in South Africa"
+  ],
+  "notes": "Le processus d'appel à devenir isangoma (ukuthwasa) est lui-même vécu comme un rite de passage souvent précédé d'une période de maladie ou de crise interprétée comme un signe des ancêtres, plutôt qu'un choix de carrière ordinaire."
+}

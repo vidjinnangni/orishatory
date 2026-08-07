@@ -1,0 +1,25 @@
+{
+  "id": "heitsi-eibib",
+  "nom": "Heitsi-eibib",
+  "variantes": ["Heitsi Eibip"],
+  "region": "afrique-australe",
+  "categorie": "heros",
+  "peuples": ["Khoikhoi", "San"],
+  "resume": "Héros culturel et figure de trickster khoikhoi, mort et ressuscité à de multiples reprises selon les récits. Ses tombes multiples, marquées par des tas de pierres le long des routes, font l'objet d'un rite de passage encore observé.",
+  "domaines": ["mort et résurrection", "chasse", "voyage", "ruse"],
+  "tags": ["trickster", "mort-au-dela", "metamorphose"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["cairns de pierre (tombes multiples)", "forme changeante"],
+  "recits_associes": [],
+  "culte_contemporain": "La coutume consistant à ajouter une pierre sur les cairns attribués à Heitsi-eibib le long de certains chemins reste rapportée dans des communautés khoikhoi contemporaines, comme geste de bonne fortune pour le voyage.",
+  "sources": [
+    "Hahn, T. (1881). Tsuni-Goam: The Supreme Being of the Khoi-Khoi",
+    "Schmidt, S. (1989). Catalogue of the Khoisan Folktales of Southern Africa"
+  ],
+  "notes": "Ses morts et résurrections répétées en font une figure difficile à classer dans un panthéon fixe : certaines sources le traitent comme un héros culturel, d'autres comme une divinité mineure liée au cycle des saisons."
+}

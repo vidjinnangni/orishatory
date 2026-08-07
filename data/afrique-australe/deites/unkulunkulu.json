@@ -1,0 +1,25 @@
+{
+  "id": "unkulunkulu",
+  "nom": "uNkulunkulu",
+  "variantes": ["Unkulunkulu"],
+  "region": "afrique-australe",
+  "categorie": "deites",
+  "peuples": ["Zulu"],
+  "resume": "Dieu créateur suprême dans la cosmologie zulu, souvent identifié au premier homme sorti des roseaux (uthlanga) à l'origine de l'humanité. Figure lointaine, rarement l'objet d'un culte ou de sacrifices directs.",
+  "domaines": ["création", "origine humaine", "ciel"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["roseaux (uthlanga)", "distance/absence rituelle"],
+  "recits_associes": [],
+  "culte_contemporain": "Le nom uNkulunkulu a été repris par les missionnaires chrétiens du 19e siècle pour traduire 'Dieu' en zulu, ce qui a partiellement transformé sa portée théologique d'origine.",
+  "sources": [
+    "Callaway, H. (1868). The Religious System of the Amazulu",
+    "Berglund, A-I. (1976). Zulu Thought-Patterns and Symbolism"
+  ],
+  "notes": "Prudence historiographique : une bonne part de la documentation du 19e siècle sur uNkulunkulu provient de missionnaires, dont les traductions ont pu déformer le concept zulu original de créateur distant vers un monothéisme plus proche du modèle chrétien."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pesee-du-coeur",
+  "nom": "La pesée du cœur",
+  "variantes": ["Psychostasie"],
+  "region": "afrique-nord",
+  "categorie": "rites",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Rituel funéraire égyptien au cours duquel le cœur du défunt est pesé face à la plume de Maât (déesse de la vérité et de l'ordre cosmique) devant un tribunal divin présidé par Osiris. Un cœur plus lourd que la plume est dévoré par Ammit, condamnant le défunt à une seconde mort définitive.",
+  "domaines": ["jugement", "au-delà", "morale funéraire", "vérité"],
+  "tags": ["mort-au-dela"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["ammit"]
+  },
+  "attributs": ["balance", "plume de Maât"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Faulkner, R.O. (trad.) (1972). The Egyptian Book of the Dead",
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions"
+  ],
+  "notes": "Ce rituel est le mieux documenté grâce aux nombreuses copies illustrées du Livre des Morts retrouvées dans les tombes, ce qui en fait l'une des scènes iconographiques égyptiennes les plus reproduites et les mieux comprises."
+}
