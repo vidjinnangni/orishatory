@@ -1,0 +1,25 @@
+{
+  "id": "mythe-creation-bumba",
+  "nom": "Le mythe de la création selon les Kuba",
+  "variantes": [],
+  "region": "afrique-centrale",
+  "categorie": "recits",
+  "peuples": ["Kuba"],
+  "resume": "Récit cosmogonique kuba où le dieu Bumba, seul dans les ténèbres et souffrant de maux d'estomac, vomit successivement le soleil, la lune et les étoiles, puis neuf animaux qui deviennent les ancêtres de toutes les espèces, dont l'humanité.",
+  "domaines": ["création", "cosmos", "origine des espèces"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["bumba"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Torday, E. & Joyce, T.A. (1910). Notes ethnographiques sur les peuples communément appelés Bakuba",
+    "Abrahamsson, H. (1951). The Origin of Death: Studies in African Mythology"
+  ],
+  "notes": "Comme beaucoup de mythes de création collectés au début du 20e siècle par des ethnographes coloniaux, la mise en récit disponible aujourd'hui doit être lue avec conscience du filtre de transcription et de traduction de l'époque."
+}

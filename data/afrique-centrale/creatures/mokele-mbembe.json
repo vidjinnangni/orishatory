@@ -1,0 +1,25 @@
+{
+  "id": "mokele-mbembe",
+  "nom": "Mokele-mbembe",
+  "variantes": [],
+  "region": "afrique-centrale",
+  "categorie": "creatures",
+  "peuples": ["peuples du bassin du Congo (notamment région de la Likouala)"],
+  "resume": "Créature légendaire décrite comme un grand animal aquatique vivant dans les rivières et marécages du bassin du Congo, objet de récits locaux transmis oralement et d'un intérêt occidental récurrent en cryptozoologie.",
+  "domaines": ["rivières", "marécages", "mystère"],
+  "tags": ["eau"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["grande taille", "cou long dans certaines descriptions"],
+  "recits_associes": [],
+  "culte_contemporain": "Reste un sujet récurrent d'expéditions cryptozoologiques occidentales depuis le 20e siècle, sans validation scientifique de son existence.",
+  "sources": [
+    "Mackal, R.P. (1987). A Living Dinosaur? In Search of Mokele-Mbembe (source cryptozoologique, à traiter avec prudence critique)",
+    "Radford, B. (2016). Investigating loch and river monster reports (analyse critique du phénomène)"
+  ],
+  "notes": "À distinguer des interprétations sensationnalistes occidentales qui l'assimilent à un 'dinosaure survivant' : cette lecture, largement diffusée par la cryptozoologie occidentale depuis les années 1980, déforme la fonction culturelle originale du récit dans les traditions locales, où il relève davantage de la mise en garde sur les dangers des zones marécageuses que d'une revendication zoologique."
+}

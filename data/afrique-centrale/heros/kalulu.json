@@ -1,0 +1,25 @@
+{
+  "id": "kalulu",
+  "nom": "Kalulu",
+  "variantes": ["Le Lièvre"],
+  "region": "afrique-centrale",
+  "categorie": "heros",
+  "peuples": ["peuples bantous d'Afrique centrale et australe"],
+  "resume": "Lièvre rusé, figure de trickster récurrente dans les contes bantous d'Afrique centrale, triomphant des animaux plus grands et plus forts (éléphant, hippopotame, hyène) par la ruse plutôt que par la force.",
+  "domaines": ["ruse", "narration"],
+  "tags": ["trickster"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "Toujours transmis dans les contes populaires à travers l'Afrique centrale et australe, avec de nombreuses variantes régionales du nom et des épisodes.",
+  "sources": [
+    "Werner, A. (1933). Myths and Legends of the Bantu",
+    "Finnegan, R. (1970). Oral Literature in Africa"
+  ],
+  "notes": "Structurellement comparable à Ijapa (Yoruba) ou au lièvre des traditions ouest-africaines : le motif du petit animal rusé triomphant du plus fort traverse la quasi-totalité des régions africaines sous des figures locales distinctes."
+}

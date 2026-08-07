@@ -1,0 +1,25 @@
+{
+  "id": "dikenga",
+  "nom": "Dikenga (cosmogramme kongo)",
+  "variantes": ["Yowa", "Croix kongo"],
+  "region": "afrique-centrale",
+  "categorie": "rites",
+  "peuples": ["Kongo"],
+  "resume": "Symbole cosmologique kongo en forme de croix inscrite dans un cercle, représentant le cycle de vie, mort et renaissance ainsi que le passage entre le monde des vivants et celui des ancêtres. Utilisé dans les rituels et l'art rituel.",
+  "domaines": ["cosmologie", "cycle de vie", "ancestralité"],
+  "tags": ["ancetres", "mort-au-dela"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["croix inscrite dans un cercle", "quatre points cardinaux associés aux étapes de l'existence"],
+  "recits_associes": [],
+  "culte_contemporain": "Le symbole a influencé l'iconographie afro-diasporique, notamment certaines traditions afro-américaines et afro-caribéennes, bien que ses usages contemporains varient largement par rapport à son sens rituel kongo d'origine.",
+  "sources": [
+    "Fu-Kiau, K.K.B. (2001). African Cosmology of the Bantu-Kongo",
+    "Thompson, R.F. (1983). Flash of the Spirit: African and Afro-American Art and Philosophy"
+  ],
+  "notes": ""
+}
