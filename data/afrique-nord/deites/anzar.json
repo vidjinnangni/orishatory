@@ -1,0 +1,25 @@
+{
+  "id": "anzar",
+  "nom": "Anzar",
+  "variantes": [],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Amazigh (Berbères)"],
+  "resume": "Divinité ou esprit de la pluie dans les traditions amazighes du Maghreb, au centre du rituel de Tislit n Wanzar (\"la fiancée de la pluie\"), pratiqué en cas de sécheresse pour appeler les précipitations.",
+  "domaines": ["pluie", "fertilité agricole", "sécheresse"],
+  "tags": ["eau", "terre-fertilite"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["poupée rituelle habillée en mariée (tislit)", "cortège processionnel"],
+  "recits_associes": [],
+  "culte_contemporain": "Le rituel Tislit n Wanzar reste pratiqué dans certaines régions berbérophones du Maghreb (Kabylie, Atlas marocain) en période de sécheresse prolongée, souvent réinterprété aujourd'hui comme une tradition culturelle plus qu'une croyance religieuse active.",
+  "sources": [
+    "Servier, J. (1985). Tradition et civilisation berbères",
+    "Genevois, H. (1972). Le rituel de la pluie chez les Berbères du Maroc central"
+  ],
+  "notes": "La documentation académique sur Anzar comme figure divine à part entière (plutôt que comme simple nom du rituel) reste limitée ; certaines sources traitent 'Anzar' avant tout comme le nom de la pluie elle-même, personnifiée le temps du rite."
+}

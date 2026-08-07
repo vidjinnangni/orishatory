@@ -1,0 +1,25 @@
+{
+  "id": "mbaba-mwana-waresa",
+  "nom": "Mbaba Mwana Waresa",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "deites",
+  "peuples": ["Zulu"],
+  "resume": "Déesse zulu de l'arc-en-ciel, de l'agriculture, de la fertilité et de la bière de sorgho traditionnelle (utshwala). Associée au mariage et à l'abondance des récoltes.",
+  "domaines": ["arc-en-ciel", "agriculture", "fertilité", "fermentation/bière"],
+  "tags": ["terre-fertilite"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["arc-en-ciel", "grains de sorgho", "bière traditionnelle (utshwala)"],
+  "recits_associes": [],
+  "culte_contemporain": "Le brassage rituel de la bière de sorgho reste une pratique culturelle zulu vivante, bien que sa dimension explicitement religieuse se soit largement estompée.",
+  "sources": [
+    "Berglund, A-I. (1976). Zulu Thought-Patterns and Symbolism",
+    "Krige, E.J. (1936). The Social System of the Zulus"
+  ],
+  "notes": ""
+}

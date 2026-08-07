@@ -1,0 +1,25 @@
+{
+  "id": "ammit",
+  "nom": "Ammit",
+  "variantes": ["Ammout", "Ahemait"],
+  "region": "afrique-nord",
+  "categorie": "creatures",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Créature composite (tête de crocodile, avant-corps de lion, arrière-train d'hippopotame) chargée de dévorer le cœur des défunts jugés indignes lors de la pesée du cœur, leur interdisant ainsi l'accès à l'au-delà.",
+  "domaines": ["jugement des morts", "au-delà", "punition"],
+  "tags": ["mort-au-dela"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["tête de crocodile", "avant-corps de lion", "arrière-train d'hippopotame"],
+  "recits_associes": ["pesee-du-coeur"],
+  "culte_contemporain": "",
+  "sources": [
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "Faulkner, R.O. (trad.) (1972). The Egyptian Book of the Dead"
+  ],
+  "notes": "Contrairement à la plupart des figures funéraires égyptiennes, Ammit n'est associée à aucun culte : elle n'est jamais priée ni vénérée, seulement redoutée comme aboutissement d'un jugement défavorable."
+}
