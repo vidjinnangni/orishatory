@@ -1,0 +1,25 @@
+{
+  "id": "nkisi",
+  "nom": "Nkisi",
+  "variantes": ["Minkisi (pluriel)"],
+  "region": "afrique-centrale",
+  "categorie": "rites",
+  "peuples": ["Kongo"],
+  "resume": "Objets rituels investis d'une force spirituelle (bakisi) par un spécialiste (nganga), utilisés pour la guérison, la protection ou la justice. Les nkisi nkondi (\"chasseurs\"), hérissés de clous, comptent parmi les formes les plus documentées.",
+  "domaines": ["protection", "guérison", "justice spirituelle"],
+  "tags": ["divination"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["clous et lames plantés (nkisi nkondi)", "miroir", "sac de charges rituelles (bilongo)"],
+  "recits_associes": [],
+  "culte_contemporain": "Pratique fortement réprimée durant la colonisation et l'évangélisation, mais des formes de la tradition nganga subsistent. Les minkisi anciens sont aujourd'hui très présents dans les collections muséales occidentales, un sujet de débats actuels sur la restitution du patrimoine africain.",
+  "sources": [
+    "MacGaffey, W. (1986). Religion and Society in Central Africa: The BaKongo of Lower Zaire",
+    "MacGaffey, W. (1993). Astonishment and Power: The Eyes of Understanding"
+  ],
+  "notes": "Le terme 'nkisi' a été traduit de façon simpliste par 'fétiche' dans une bonne partie de la littérature coloniale, un vocabulaire aujourd'hui reconnu comme réducteur et à éviter : le nkisi n'est pas un objet magique isolé mais l'aboutissement d'un processus rituel complexe encadré par le nganga."
+}

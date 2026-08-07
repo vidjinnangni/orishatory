@@ -1,0 +1,25 @@
+{
+  "id": "mbumba-luangu",
+  "nom": "Mbumba Luangu",
+  "variantes": [],
+  "region": "afrique-centrale",
+  "categorie": "deites",
+  "peuples": ["Kongo"],
+  "resume": "Esprit-serpent de l'arc-en-ciel et des eaux dans la cosmologie kongo, associé aux sources et rivières, gardien de la fertilité et parfois redouté pour sa capacité à provoquer des inondations.",
+  "domaines": ["eau", "arc-en-ciel", "fertilité"],
+  "tags": ["eau", "terre-fertilite"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["forme de serpent", "arc-en-ciel"],
+  "recits_associes": [],
+  "culte_contemporain": "Des sites associés aux sources et rivières considérées comme sa demeure restent parfois traités avec un respect rituel particulier dans certaines communautés kongo.",
+  "sources": [
+    "MacGaffey, W. (1986). Religion and Society in Central Africa: The BaKongo of Lower Zaire",
+    "Janzen, J.M. (1982). Lemba, 1650-1930: A Drum of Affliction in Africa and the New World"
+  ],
+  "notes": "Le motif du serpent-arc-en-ciel gardien des eaux se retrouve, sous des formes distinctes, dans plusieurs cosmologies bantoues d'Afrique centrale et australe."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "bumba",
+  "nom": "Bumba",
+  "variantes": ["Mbombo"],
+  "region": "afrique-centrale",
+  "categorie": "deites",
+  "peuples": ["Kuba"],
+  "resume": "Dieu créateur kuba qui, selon le mythe, créa le monde en vomissant le soleil, la lune, les étoiles, puis les premiers animaux et humains, après avoir souffert de violentes douleurs d'estomac.",
+  "domaines": ["création", "cosmos"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["vomissement primordial"],
+  "recits_associes": ["mythe-creation-bumba"],
+  "culte_contemporain": "",
+  "sources": [
+    "Torday, E. & Joyce, T.A. (1910). Notes ethnographiques sur les peuples communément appelés Bakuba",
+    "Abrahamsson, H. (1951). The Origin of Death: Studies in African Mythology"
+  ],
+  "notes": "Le motif de la création par vomissement (plutôt que par parole, souffle ou façonnage) est relativement rare dans les cosmogonies comparées et distingue nettement ce récit d'autres mythes créateurs africains."
+}

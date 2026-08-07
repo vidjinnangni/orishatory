@@ -1,0 +1,25 @@
+{
+  "id": "chibinda-ilunga",
+  "nom": "Chibinda Ilunga",
+  "variantes": ["Cibinda Ilunga"],
+  "region": "afrique-centrale",
+  "categorie": "heros",
+  "peuples": ["Luba", "Lunda"],
+  "resume": "Prince chasseur luba légendaire qui, selon la tradition orale, épouse la reine lunda Lueji et fonde la dynastie à l'origine de l'empire lunda, incarnant la fusion entre la légitimité par la chasse et le pouvoir royal transmis par alliance.",
+  "domaines": ["royauté", "chasse", "fondation dynastique"],
+  "tags": ["royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": ["Lueji"],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["arc et flèches de chasse", "bracelet royal (lukano) transmis par Lueji"],
+  "recits_associes": [],
+  "culte_contemporain": "Le récit de Chibinda Ilunga et Lueji continue de structurer la légitimité de plusieurs lignages royaux en Angola, en Zambie et en RDC se réclamant de l'héritage lunda.",
+  "sources": [
+    "Vansina, J. (1966). Kingdoms of the Savanna",
+    "Miller, J.C. (1976). Kings and Kinsmen: Early Mbundu States in Angola (contexte comparatif régional)"
+  ],
+  "notes": "Comme pour Sunjata Keïta en Afrique de l'Ouest, ce récit se situe à la frontière entre histoire dynastique attestée et épopée transmise oralement, avec des variantes selon les lignages narrateurs."
+}
