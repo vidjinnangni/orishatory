@@ -1,0 +1,25 @@
+{
+  "id": "abuk-garang",
+  "nom": "Le mythe d'Abuk et Garang",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "recits",
+  "peuples": ["Dinka"],
+  "resume": "Récit cosmogonique dinka narrant la création du premier homme (Garang) et de la première femme (Abuk), et la séparation originelle entre le ciel et la terre provoquée par une transgression, expliquant la condition mortelle de l'humanité.",
+  "domaines": ["création", "origine humaine", "séparation ciel-terre"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["nhialic"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Lienhardt, G. (1961). Divinity and Experience: The Religion of the Dinka",
+    "Deng, F.M. (1972). The Dinka of the Sudan"
+  ],
+  "notes": "Le récit existe en plusieurs variantes selon les groupes dinka ; le rôle exact d'Abuk (parfois pilonnant le grain trop près du ciel, provoquant sa rupture avec la terre) varie d'une version à l'autre."
+}

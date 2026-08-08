@@ -1,0 +1,25 @@
+{
+  "id": "waaq",
+  "nom": "Waaq",
+  "variantes": ["Waaqa"],
+  "region": "afrique-est",
+  "categorie": "deites",
+  "peuples": ["Oromo"],
+  "resume": "Divinité suprême de la religion traditionnelle oromo (Waaqeffannaa), créateur unique et source de l'ordre moral (safuu). Central au système socio-religieux oromo, y compris dans l'organisation du système gadaa.",
+  "domaines": ["création", "ciel", "ordre moral"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "Le Waaqeffannaa connaît un regain d'intérêt contemporain chez certains Oromo comme alternative aux religions importées (christianisme, islam), en lien avec des mouvements de revitalisation culturelle et identitaire.",
+  "sources": [
+    "Bartels, L. (1983). Oromo Religion: Myths and Rites of the Western Oromo of Ethiopia",
+    "Hassen, M. (1990). The Oromo of Ethiopia: A History, 1570-1860"
+  ],
+  "notes": ""
+}

@@ -1,0 +1,25 @@
+{
+  "id": "deng",
+  "nom": "Deng",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "deites",
+  "peuples": ["Dinka"],
+  "resume": "Divinité dinka du tonnerre et de la pluie, fils de Nhialic, souvent invoqué directement dans les prières agricoles et lors des orages. Figure centrale du culte des esprits (jok) dinka, plus accessible que le dieu suprême distant.",
+  "domaines": ["tonnerre", "pluie", "fertilité agricole"],
+  "tags": ["foudre-orage", "terre-fertilite"],
+  "genealogie": {
+    "parents": ["nhialic"],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["nhialic"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Lienhardt, G. (1961). Divinity and Experience: The Religion of the Dinka",
+    "Deng, F.M. (1972). The Dinka of the Sudan"
+  ],
+  "notes": ""
+}

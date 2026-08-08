@@ -1,0 +1,25 @@
+{
+  "id": "eunoto",
+  "nom": "Eunoto",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "rites",
+  "peuples": ["Maasai"],
+  "resume": "Cérémonie maasai marquant le passage des jeunes guerriers (moran) au statut d'ancien junior, impliquant plusieurs jours de rituels collectifs et la coupe rituelle des cheveux longs portés depuis l'initiation.",
+  "domaines": ["passage rituel", "guerre", "statut social"],
+  "tags": ["initiation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["engai"]
+  },
+  "attributs": ["coupe rituelle des cheveux", "ornements de guerrier"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Spencer, P. (1988). The Maasai of Matapato: A Study of Rituals of Rebellion",
+    "Galaty, J.G. (1993). Maasai Expansion and the New East African Pastoralism"
+  ],
+  "notes": ""
+}

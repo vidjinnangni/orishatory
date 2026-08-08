@@ -1,0 +1,25 @@
+{
+  "id": "kintu",
+  "nom": "Kintu",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "heros",
+  "peuples": ["Baganda"],
+  "resume": "Premier homme et ancêtre fondateur mythique du royaume du Buganda, dont le mariage avec Nnambi, fille du dieu du ciel Ggulu, est à l'origine de la lignée royale baganda et, selon le récit, de l'arrivée de la mort sur terre.",
+  "domaines": ["origine humaine", "royauté", "fondation dynastique"],
+  "tags": ["royaute-sacree", "creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": ["Nnambi"],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "Le nom de Kintu reste central à l'identité du royaume du Buganda contemporain (Ouganda), notamment dans la légitimation symbolique de la lignée des kabaka (rois).",
+  "sources": [
+    "Ray, B.C. (1991). Myth, Ritual, and Kingship in Buganda",
+    "Roscoe, J. (1911). The Baganda: An Account of Their Native Customs and Beliefs"
+  ],
+  "notes": ""
+}

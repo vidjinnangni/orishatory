@@ -1,0 +1,25 @@
+{
+  "id": "buda",
+  "nom": "Buda",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "creatures",
+  "peuples": ["peuples des hautes terres éthiopiennes (Amhara, autres)"],
+  "resume": "Croyance répandue dans les hautes terres éthiopiennes selon laquelle certaines personnes, souvent des artisans du fer ou de la poterie, possèdent un mauvais œil leur permettant de se transformer en hyène la nuit et de nuire à autrui, en particulier aux enfants.",
+  "domaines": ["mauvais œil", "métamorphose", "artisanat marginalisé"],
+  "tags": ["metamorphose"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["transformation en hyène", "regard"],
+  "recits_associes": [],
+  "culte_contemporain": "La stigmatisation sociale des artisans (forgerons, potiers) associée à cette croyance reste documentée dans certaines régions rurales éthiopiennes contemporaines.",
+  "sources": [
+    "Reminick, R.A. (1974). The evil eye belief among the Amhara of Ethiopia",
+    "Finneran, N. (2003). Ethiopian evil eye belief and the magical symbolism of iron working"
+  ],
+  "notes": "Cette croyance a eu des conséquences sociales réelles et documentées de marginalisation de certaines castes artisanales ; à traiter avec prudence descriptive plutôt que comme simple curiosité folklorique."
+}

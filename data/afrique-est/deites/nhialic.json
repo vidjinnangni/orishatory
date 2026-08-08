@@ -1,0 +1,25 @@
+{
+  "id": "nhialic",
+  "nom": "Nhialic",
+  "variantes": ["Nhialiac"],
+  "region": "afrique-est",
+  "categorie": "deites",
+  "peuples": ["Dinka"],
+  "resume": "Dieu créateur suprême et esprit du ciel dans la cosmologie dinka (Soudan du Sud), source ultime de la pluie, de la vie et de l'ordre moral. Généralement distant, approché via des esprits intermédiaires (jok/yeeth) ou des figures comme Deng.",
+  "domaines": ["création", "ciel", "pluie", "ordre moral"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": ["deng"],
+    "entites_liees": ["deng"]
+  },
+  "attributs": [],
+  "recits_associes": ["abuk-garang"],
+  "culte_contemporain": "",
+  "sources": [
+    "Lienhardt, G. (1961). Divinity and Experience: The Religion of the Dinka",
+    "Deng, F.M. (1972). The Dinka of the Sudan"
+  ],
+  "notes": ""
+}
