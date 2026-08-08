@@ -1,0 +1,25 @@
+{
+  "id": "gada",
+  "nom": "Système gadaa",
+  "variantes": ["Gada"],
+  "region": "afrique-est",
+  "categorie": "rites",
+  "peuples": ["Oromo"],
+  "resume": "Système socio-politique et rituel oromo organisant la société en classes d'âge (luba) se succédant au pouvoir tous les huit ans, encadrant la transmission des rôles politiques, militaires et religieux.",
+  "domaines": ["organisation sociale", "passage rituel", "gouvernance"],
+  "tags": ["initiation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["waaq"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "Reconnu par l'UNESCO au patrimoine culturel immatériel en 2016. Continue de structurer l'identité culturelle oromo contemporaine, malgré un affaiblissement de son rôle politique direct sous les États modernes.",
+  "sources": [
+    "Legesse, A. (1973). Gada: Three Approaches to the Study of African Society",
+    "UNESCO (2016). Gada system, an indigenous democratic socio-political system of the Oromo"
+  ],
+  "notes": ""
+}

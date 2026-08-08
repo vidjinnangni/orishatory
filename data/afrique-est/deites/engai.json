@@ -1,0 +1,25 @@
+{
+  "id": "engai",
+  "nom": "Engai",
+  "variantes": ["Enkai", "Eng'ai"],
+  "region": "afrique-est",
+  "categorie": "deites",
+  "peuples": ["Maasai"],
+  "resume": "Divinité suprême maasai, associée au ciel, à la pluie et au bétail, considéré comme un don d'Engai à l'humanité. Se manifeste sous deux aspects opposés : Engai Narok (bienveillant, associé au noir et à la pluie) et Engai Nanyokie (colérique, associé au rouge).",
+  "domaines": ["ciel", "pluie", "bétail", "fertilité"],
+  "tags": ["eau", "terre-fertilite"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["dualité chromatique : noir bienveillant / rouge colérique"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Hollis, A.C. (1905). The Masai: Their Language and Folklore",
+    "Galaty, J.G. (1993). Maasai Expansion and the New East African Pastoralism"
+  ],
+  "notes": ""
+}

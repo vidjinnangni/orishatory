@@ -1,0 +1,25 @@
+{
+  "id": "popobawa",
+  "nom": "Popobawa",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "creatures",
+  "peuples": ["Swahili (Zanzibar, Pemba)"],
+  "resume": "Esprit malveillant à forme changeante, souvent décrit avec une seule aile de chauve-souris, associé à des vagues de panique collective sur l'île de Pemba et à Zanzibar depuis les années 1960.",
+  "domaines": ["peur collective", "nuit", "métamorphose"],
+  "tags": ["metamorphose"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["une seule aile de chauve-souris", "forme changeante"],
+  "recits_associes": [],
+  "culte_contemporain": "Le phénomène refait périodiquement surface sous forme de paniques morales médiatisées, étudiées par certains chercheurs en sciences sociales comme cas d'hystérie collective lié à des tensions politiques et sociales locales.",
+  "sources": [
+    "Walsh, M.T. (2009). The politicisation of Popobawa: changing explanations of a collective panic in Zanzibar",
+    "Parkin, D. (2004). In and out the mangrove"
+  ],
+  "notes": ""
+}
