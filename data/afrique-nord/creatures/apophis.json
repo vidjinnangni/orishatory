@@ -1,0 +1,25 @@
+{
+  "id": "apophis",
+  "nom": "Apophis",
+  "variantes": ["Apep"],
+  "region": "afrique-nord",
+  "categorie": "creatures",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Serpent gigantesque incarnant le chaos primordial, ennemi éternel du dieu solaire Rê qu'il attaque chaque nuit lors de la traversée du monde souterrain.",
+  "domaines": ["chaos", "ténèbres", "menace cosmique"],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["forme de serpent démesuré"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "Borghouts, J.F. (1973). The Evil Eye of Apopis"
+  ],
+  "notes": "Contrairement à la plupart des figures du panthéon égyptien, Apophis n'a jamais de culte positif : les rites qui lui sont associés visent exclusivement à le repousser, notamment le rituel dit de 'l'exécration d'Apophis'."
+}

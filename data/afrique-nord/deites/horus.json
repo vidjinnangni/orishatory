@@ -1,0 +1,25 @@
+{
+  "id": "horus",
+  "nom": "Horus",
+  "variantes": ["Heru"],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Dieu-faucon du ciel et de la royauté, fils d'Isis et Osiris, vengeur de son père face à Seth. Les pharaons vivants étaient considérés comme son incarnation terrestre.",
+  "domaines": ["royauté", "ciel", "guerre", "protection"],
+  "tags": ["royaute-sacree"],
+  "genealogie": {
+    "parents": ["isis", "osiris"],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["seth"]
+  },
+  "attributs": ["tête de faucon", "œil d'Horus (oudjat)", "double couronne d'Égypte"],
+  "recits_associes": ["combat-horus-seth"],
+  "culte_contemporain": "L'œil d'Horus reste un motif iconographique largement diffusé aujourd'hui, y compris hors de tout contexte religieux (bijouterie, symboles de protection populaire).",
+  "sources": [
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "te Velde, H. (1967). Seth, God of Confusion"
+  ],
+  "notes": ""
+}

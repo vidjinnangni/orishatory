@@ -1,0 +1,25 @@
+{
+  "id": "combat-horus-seth",
+  "nom": "Les contestations d'Horus et Seth",
+  "variantes": [],
+  "region": "afrique-nord",
+  "categorie": "recits",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Cycle narratif relatant le long conflit judiciaire et physique entre Horus et Seth pour la succession d'Osiris au trône d'Égypte, tranché finalement par le tribunal des dieux en faveur d'Horus.",
+  "domaines": ["succession royale", "justice divine", "conflit"],
+  "tags": ["royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["horus", "osiris"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Papyrus Chester Beatty I (source antique, époque ramesside, ~12e siècle av. J.-C.)",
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions"
+  ],
+  "notes": "Ce récit, connu principalement par un papyrus de l'époque ramesside, adopte un ton étonnamment comique et satirique par endroits, contrastant avec la gravité généralement attendue d'un mythe de légitimation royale."
+}

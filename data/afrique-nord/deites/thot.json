@@ -1,0 +1,25 @@
+{
+  "id": "thot",
+  "nom": "Thot",
+  "variantes": ["Djehuty", "Thoth"],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Dieu de la sagesse, de l'écriture et de la lune, scribe des dieux et arbitre lors du jugement des morts, inventeur mythique des hiéroglyphes.",
+  "domaines": ["écriture", "sagesse", "lune", "arbitrage"],
+  "tags": ["divination"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["tête d'ibis", "palette de scribe", "forme alternative de babouin"],
+  "recits_associes": [],
+  "culte_contemporain": "Identifié par les Grecs à Hermès Trismégiste, influençant durablement la tradition hermétique occidentale ultérieure.",
+  "sources": [
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "Boylan, P. (1922). Thoth, the Hermes of Egypt"
+  ],
+  "notes": ""
+}

@@ -1,0 +1,25 @@
+{
+  "id": "imhotep",
+  "nom": "Imhotep",
+  "variantes": [],
+  "region": "afrique-nord",
+  "categorie": "heros",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Architecte, vizir et médecin de la IIIe dynastie, concepteur de la pyramide à degrés de Saqqarah, progressivement déifié après sa mort comme patron de la médecine et de la sagesse.",
+  "domaines": ["architecture", "médecine", "sagesse"],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["rouleau de papyrus", "statuette assise de scribe"],
+  "recits_associes": [],
+  "culte_contemporain": "Son culte tardif, associé à celui d'Asclépios sous l'influence grecque, illustre le passage d'une figure historique attestée au statut de divinité, comme pour Shango en Afrique de l'Ouest ou Chibinda Ilunga en Afrique centrale.",
+  "sources": [
+    "Wildung, D. (1977). Egyptian Saints: Deification in Pharaonic Egypt",
+    "Hurry, J.B. (1926). Imhotep: The Vizier and Physician of King Zoser"
+  ],
+  "notes": ""
+}

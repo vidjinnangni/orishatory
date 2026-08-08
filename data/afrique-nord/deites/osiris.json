@@ -1,0 +1,25 @@
+{
+  "id": "osiris",
+  "nom": "Osiris",
+  "variantes": ["Ausir", "Wesir"],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Dieu égyptien du monde souterrain, de la résurrection et de l'agriculture cyclique, assassiné par son frère Seth puis restauré par la magie d'Isis pour régner sur le royaume des morts.",
+  "domaines": ["mort", "résurrection", "agriculture", "jugement"],
+  "tags": ["mort-au-dela"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": ["isis"],
+    "enfants": ["horus"],
+    "entites_liees": ["isis", "horus", "seth"]
+  },
+  "attributs": ["couronne atef", "crosse et fléau", "peau verte ou noire (symbole de fertilité et de renaissance)"],
+  "recits_associes": ["mythe-osiris", "combat-horus-seth"],
+  "culte_contemporain": "Culte disparu comme religion vivante, mais chaque défunt égyptien antique était rituellement assimilé à Osiris lors des funérailles — une influence structurante sur toute la théologie funéraire égyptienne.",
+  "sources": [
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "Assmann, J. (2005). Death and Salvation in Ancient Egypt"
+  ],
+  "notes": ""
+}
