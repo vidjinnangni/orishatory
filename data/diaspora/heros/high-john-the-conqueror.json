@@ -1,0 +1,25 @@
+{
+  "id": "high-john-the-conqueror",
+  "nom": "High John the Conqueror",
+  "variantes": [],
+  "region": "diaspora",
+  "categorie": "heros",
+  "peuples": ["Afro-Américains du Sud des États-Unis"],
+  "resume": "Héros folklorique afro-américain, esclave rusé qui déjoue systématiquement son maître par l'intelligence. Son nom a aussi été donné à une racine utilisée en hoodoo pour la chance et la protection.",
+  "domaines": ["ruse", "résistance", "chance"],
+  "tags": ["trickster", "diaspora-survivance"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["racine de John le Conquérant (Ipomoea jalapa), utilisée comme talisman"],
+  "recits_associes": [],
+  "culte_contemporain": "La racine 'High John the Conqueror' reste vendue et utilisée dans les pratiques hoodoo contemporaines aux États-Unis.",
+  "sources": [
+    "Hurston, Z.N. (1935). Mules and Men",
+    "Hyatt, H.M. (1970-1978). Hoodoo, Conjuration, Witchcraft, Rootwork"
+  ],
+  "notes": "La figure narrative (l'esclave rusé) et l'objet rituel (la racine) sont liés dans la tradition mais fonctionnent aussi de façon indépendante selon les contextes."
+}

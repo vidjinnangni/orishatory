@@ -1,0 +1,25 @@
+{
+  "id": "kanzo",
+  "nom": "Kanzo",
+  "variantes": [],
+  "region": "diaspora",
+  "categorie": "rites",
+  "peuples": ["Haïtiens (vodou)"],
+  "resume": "Cérémonie d'initiation centrale du vodou haïtien, marquant l'engagement formel d'un pratiquant envers les loa et sa communauté religieuse, impliquant une période de retraite et une épreuve rituelle par le feu.",
+  "domaines": ["initiation", "engagement religieux", "communauté"],
+  "tags": ["initiation", "diaspora-survivance"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["épreuve du feu", "retraite collective (kay)"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Métraux, A. (1959). Le Vaudou haïtien",
+    "Brown, K.M. (1991). Mama Lola: A Vodou Priestess in Brooklyn"
+  ],
+  "notes": ""
+}

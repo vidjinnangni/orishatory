@@ -1,0 +1,25 @@
+{
+  "id": "damballa",
+  "nom": "Damballa",
+  "variantes": ["Danbala", "Damballah Wedo"],
+  "region": "diaspora",
+  "categorie": "deites",
+  "peuples": ["Haïtiens (vodou)"],
+  "resume": "Loa vodou haïtien serpent, associé à la création, à la sagesse et à la pureté primordiale, souvent représenté avec sa parèdre Ayida-Wédo (l'arc-en-ciel). Hérité de traditions ouest-africaines et kongo du serpent créateur.",
+  "domaines": ["création", "sagesse", "eau", "fertilité"],
+  "tags": ["creation", "eau", "diaspora-survivance"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": ["Ayida-Wédo"],
+    "enfants": [],
+    "entites_liees": ["mbumba-luangu"]
+  },
+  "attributs": ["serpent blanc", "œuf", "arc-en-ciel"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Métraux, A. (1959). Le Vaudou haïtien",
+    "Deren, M. (1953). Divine Horsemen: The Living Gods of Haiti"
+  ],
+  "notes": "Le motif du serpent créateur associé à l'arc-en-ciel relie cette figure à Mbumba Luangu (Kongo) et à d'autres traditions ouest et centre-africaines de serpents cosmiques, illustrant une continuité directe entre les cosmologies d'origine et leur recomposition dans le vodou haïtien."
+}

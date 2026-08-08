@@ -1,0 +1,25 @@
+{
+  "id": "zombi",
+  "nom": "Zombi",
+  "variantes": ["Zombie"],
+  "region": "diaspora",
+  "categorie": "creatures",
+  "peuples": ["Haïtiens (vodou)"],
+  "resume": "Dans la tradition vodou haïtienne d'origine, personne dont l'âme a été capturée et le corps asservi par un bokor (sorcier), la privant de volonté propre. Une figure liée aux angoisses historiques de l'esclavage, très différente du monstre dévoreur de chair popularisé par le cinéma occidental.",
+  "domaines": ["esclavage", "perte de volonté", "sorcellerie"],
+  "tags": ["diaspora-survivance"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["absence de volonté propre", "état de transe permanent"],
+  "recits_associes": [],
+  "culte_contemporain": "La figure a été radicalement transformée par la culture populaire occidentale (cinéma d'horreur depuis les années 1930), au point d'effacer largement son sens d'origine.",
+  "sources": [
+    "Davis, W. (1985). The Serpent and the Rainbow",
+    "Ackermann, H.W. & Gauthier, J. (1991). The Ways and Nature of the Zombi"
+  ],
+  "notes": "La figure d'origine porte une charge historique liée à la peur de l'esclavage perpétuel, y compris après la mort, plutôt qu'à l'horreur corporelle qui domine ses adaptations occidentales ultérieures."
+}
