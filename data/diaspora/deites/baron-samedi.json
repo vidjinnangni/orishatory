@@ -1,0 +1,25 @@
+{
+  "id": "baron-samedi",
+  "nom": "Baron Samedi",
+  "variantes": ["Bawon Samdi"],
+  "region": "diaspora",
+  "categorie": "deites",
+  "peuples": ["Haïtiens (vodou)"],
+  "resume": "Loa vodou haïtien de la mort, gardien des cimetières et chef de la famille des Guédé (esprits des morts), connu pour son humour noir et son irrévérence face à la mortalité.",
+  "domaines": ["mort", "cimetières", "humour", "transgression"],
+  "tags": ["mort-au-dela", "diaspora-survivance"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["chapeau haut-de-forme", "habit noir de deuil", "lunettes de soleil sans verres", "rhum pimenté"],
+  "recits_associes": [],
+  "culte_contemporain": "Figure toujours centrale des cérémonies Guédé, célébrées notamment autour de la Toussaint dans le vodou haïtien contemporain.",
+  "sources": [
+    "Métraux, A. (1959). Le Vaudou haïtien",
+    "Hurbon, L. (1995). Voodoo: Search for the Spirit"
+  ],
+  "notes": ""
+}

@@ -1,0 +1,25 @@
+{
+  "id": "papa-legba",
+  "nom": "Papa Legba",
+  "variantes": [],
+  "region": "diaspora",
+  "categorie": "deites",
+  "peuples": ["Haïtiens (vodou)"],
+  "resume": "Loa vodou haïtien des carrefours, de la communication et du seuil entre les mondes, invoqué en premier lors de toute cérémonie vodou pour ouvrir le passage vers les autres esprits. Descend directement d'Èṣù/Elegba yoruba et de Legba fon, recomposé dans le contexte haïtien.",
+  "domaines": ["carrefours", "communication", "seuils"],
+  "tags": ["trickster", "divination", "diaspora-survivance"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["eshu-elegba"]
+  },
+  "attributs": ["bâton", "pipe", "chapeau de paille"],
+  "recits_associes": [],
+  "culte_contemporain": "Toujours invoqué en ouverture de toute cérémonie vodou haïtienne contemporaine, en Haïti comme dans sa diaspora.",
+  "sources": [
+    "Métraux, A. (1959). Le Vaudou haïtien",
+    "Deren, M. (1953). Divine Horsemen: The Living Gods of Haiti"
+  ],
+  "notes": "À ne pas réduire à une simple 'version haïtienne' d'Èṣù : le vodou a développé sa propre théologie et pratique autour de Legba, distincte de la pratique yoruba d'origine."
+}

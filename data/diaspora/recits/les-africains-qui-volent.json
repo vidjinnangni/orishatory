@@ -1,0 +1,25 @@
+{
+  "id": "les-africains-qui-volent",
+  "nom": "Les Africains qui volent",
+  "variantes": ["The Flying Africans", "légende d'Ibo Landing"],
+  "region": "diaspora",
+  "categorie": "recits",
+  "peuples": ["Afro-Américains des Sea Islands (Géorgie, Caroline du Sud)"],
+  "resume": "Récit folklorique afro-américain selon lequel un groupe d'Africains réduits en esclavage, ayant conservé le pouvoir de voler ou prononçant un mot magique, se seraient envolés collectivement pour échapper à l'esclavage et retourner en Afrique plutôt que de se soumettre.",
+  "domaines": ["résistance", "liberté", "mémoire de l'esclavage"],
+  "tags": ["diaspora-survivance", "metamorphose"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "Le récit reste central à la mémoire culturelle des Gullah Geechee des Sea Islands, popularisé littérairement par le recueil de Virginia Hamilton 'The People Could Fly' (1985).",
+  "sources": [
+    "Georgia Writers' Project (1940). Drums and Shadows: Survival Studies among the Georgia Coastal Negroes",
+    "Hamilton, V. (1985). The People Could Fly: American Black Folktales"
+  ],
+  "notes": "Le récit est parfois rattaché à un événement historique documenté à Igbo Landing (1803), où un groupe d'Igbo capturés se seraient suicidés collectivement plutôt que de se soumettre à l'esclavage — la légende du vol transforme cet événement tragique en acte de résistance transcendante."
+}

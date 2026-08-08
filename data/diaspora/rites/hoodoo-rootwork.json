@@ -1,0 +1,25 @@
+{
+  "id": "hoodoo-rootwork",
+  "nom": "Hoodoo (rootwork)",
+  "variantes": [],
+  "region": "diaspora",
+  "categorie": "rites",
+  "peuples": ["Afro-Américains du Sud des États-Unis"],
+  "resume": "Tradition de magie populaire afro-américaine, distincte des religions organisées, mêlant héritages ouest-africains, kongo, amérindiens et éléments chrétiens, centrée sur l'usage de racines, d'objets rituels et de formules pour la protection, la chance ou l'influence.",
+  "domaines": ["magie populaire", "protection", "guérison"],
+  "tags": ["divination", "diaspora-survivance"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["high-john-the-conqueror"]
+  },
+  "attributs": ["racines et herbes rituelles", "mojo bags (sachets porte-bonheur)", "poudre de brique rouge"],
+  "recits_associes": [],
+  "culte_contemporain": "Pratique toujours vivante dans certaines régions du Sud des États-Unis, avec une diffusion commerciale croissante (boutiques spécialisées, contenus en ligne) qui a partiellement transformé sa transmission traditionnelle orale et familiale.",
+  "sources": [
+    "Hurston, Z.N. (1935). Mules and Men",
+    "Anderson, J.E. (2005). Conjure in African American Society"
+  ],
+  "notes": "À distinguer du vodou haïtien et de la santería, qui sont des religions structurées avec panthéons et clergé : le hoodoo est une pratique magique populaire sans théologie centralisée propre, historiquement pratiquée par des chrétiens afro-américains en parallèle de leur foi religieuse."
+}

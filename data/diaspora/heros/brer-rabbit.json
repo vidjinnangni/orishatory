@@ -1,0 +1,25 @@
+{
+  "id": "brer-rabbit",
+  "nom": "Br'er Rabbit",
+  "variantes": ["Brother Rabbit"],
+  "region": "diaspora",
+  "categorie": "heros",
+  "peuples": ["Afro-Américains du Sud des États-Unis"],
+  "resume": "Lapin rusé, figure de trickster afro-américaine descendant des contes ouest-africains du lièvre et convergeant avec des récits amérindiens locaux, popularisé par la transcription controversée de Joel Chandler Harris à la fin du 19e siècle.",
+  "domaines": ["ruse", "résistance", "narration"],
+  "tags": ["trickster", "diaspora-survivance"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["ijapa"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Hurston, Z.N. (1935). Mules and Men",
+    "Levine, L.W. (1977). Black Culture and Black Consciousness"
+  ],
+  "notes": "La version popularisée par Joel Chandler Harris ('Uncle Remus Tales', 1880) a fait l'objet de critiques importantes pour son cadre narratif paternaliste, malgré son rôle dans la préservation écrite de ces contes ; à distinguer de la tradition orale afro-américaine elle-même, bien antérieure à cette transcription."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "yemaya",
+  "nom": "Yemayá",
+  "variantes": ["Iemanjá", "Yemoja"],
+  "region": "diaspora",
+  "categorie": "deites",
+  "peuples": ["Yoruba (origine)", "communautés afro-cubaines et afro-brésiliennes"],
+  "resume": "Orisha/orixá de la mer et de la maternité, l'une des figures féminines les plus vénérées de la santería cubaine et du candomblé brésilien, où de grandes fêtes populaires lui sont dédiées chaque année en bord de mer.",
+  "domaines": ["mer", "maternité", "protection", "abondance"],
+  "tags": ["eau", "diaspora-survivance"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["couleurs bleu et blanc", "coquillages", "éventail"],
+  "recits_associes": [],
+  "culte_contemporain": "La fête du Réveillon dédiée à Iemanjá sur les plages de Rio de Janeiro et Salvador de Bahia (31 décembre) rassemble chaque année des millions de participants, croyants ou non.",
+  "sources": [
+    "Verger, P. (1957). Notes sur le culte des orisa et vodun",
+    "Bahia, R.M. (2008). Iemanjá: mãe das águas (contexte brésilien contemporain)"
+  ],
+  "notes": "Bien qu'issue du panthéon yoruba, où elle est associée aux rivières plutôt qu'à l'océan, sa fonction et son iconographie se sont largement recomposées dans le contexte diasporique atlantique."
+}
