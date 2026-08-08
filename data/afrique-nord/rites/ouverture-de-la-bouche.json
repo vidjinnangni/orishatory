@@ -1,0 +1,25 @@
+{
+  "id": "ouverture-de-la-bouche",
+  "nom": "Le rituel de l'ouverture de la bouche",
+  "variantes": [],
+  "region": "afrique-nord",
+  "categorie": "rites",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Cérémonie funéraire égyptienne pratiquée sur la momie ou la statue du défunt, censée restaurer l'usage des sens (parole, vue, respiration) pour lui permettre de vivre pleinement dans l'au-delà.",
+  "domaines": ["funérailles", "au-delà", "restauration des sens"],
+  "tags": ["mort-au-dela"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["instrument en forme d'herminette (peseshkaf)", "encens"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Otto, E. (1960). Das ägyptische Mundöffnungsritual",
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions"
+  ],
+  "notes": ""
+}

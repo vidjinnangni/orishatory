@@ -1,0 +1,25 @@
+{
+  "id": "bennu",
+  "nom": "Bennu",
+  "variantes": [],
+  "region": "afrique-nord",
+  "categorie": "creatures",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Oiseau mythique associé au soleil, à la création et au cycle de mort et renaissance, considéré comme un précurseur du phénix des traditions grecque et occidentale ultérieures.",
+  "domaines": ["renaissance", "soleil", "création"],
+  "tags": ["mort-au-dela", "metamorphose"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["forme de héron", "association au pilier djed et à la ville d'Héliopolis"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "Rundle Clark, R.T. (1959). Myth and Symbol in Ancient Egypt"
+  ],
+  "notes": "La filiation directe avec le phénix grec est débattue académiquement, davantage vue comme un parallélisme culturel que comme une transmission directe avérée."
+}

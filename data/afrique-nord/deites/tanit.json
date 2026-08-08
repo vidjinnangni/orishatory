@@ -1,0 +1,25 @@
+{
+  "id": "tanit",
+  "nom": "Tanit",
+  "variantes": ["Tinnit"],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Puniques (Carthage)", "Amazigh (Berbères)"],
+  "resume": "Déesse majeure du monde punique (Carthage), associée à la fertilité, à la lune et à la protection de la cité. Son culte s'enracine en partie dans des traditions berbères antérieures à la colonisation phénicienne du Maghreb.",
+  "domaines": ["fertilité", "lune", "protection de la cité"],
+  "tags": ["terre-fertilite"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["symbole de Tanit (figure trapézoïdale surmontée d'un disque)", "croissant de lune"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Lipiński, E. (1995). Dieux et déesses de l'univers phénicien et punique",
+    "Bénichou-Safar, H. (2004). Le tophet de Salammbô à Carthage"
+  ],
+  "notes": "L'ampleur de l'héritage berbère préexistant dans le culte de Tanit, par opposition à un simple import phénicien, reste débattue parmi les spécialistes du monde punique."
+}

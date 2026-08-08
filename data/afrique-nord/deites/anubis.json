@@ -1,0 +1,25 @@
+{
+  "id": "anubis",
+  "nom": "Anubis",
+  "variantes": ["Anpu", "Inpu"],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Dieu à tête de chacal associé à l'embaumement et à la conduite des morts, présidant les rites funéraires et guidant les défunts jusqu'à la pesée du cœur.",
+  "domaines": ["embaumement", "mort", "protection des tombes"],
+  "tags": ["mort-au-dela"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["tête de chacal", "couleur noire (associée à la momification, non à la mort elle-même)"],
+  "recits_associes": ["pesee-du-coeur"],
+  "culte_contemporain": "Figure égyptienne parmi les plus reconnaissables de la culture populaire contemporaine, souvent reprise hors de tout contexte religieux d'origine.",
+  "sources": [
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "Faulkner, R.O. (trad.) (1972). The Egyptian Book of the Dead"
+  ],
+  "notes": ""
+}
