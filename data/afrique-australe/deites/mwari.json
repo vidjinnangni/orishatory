@@ -1,0 +1,25 @@
+{
+  "id": "mwari",
+  "nom": "Mwari",
+  "variantes": ["Mwali"],
+  "region": "afrique-australe",
+  "categorie": "deites",
+  "peuples": ["Shona"],
+  "resume": "Divinité suprême shona (Zimbabwe), source de la pluie, de la fertilité et de l'ordre moral, consultée traditionnellement via un oracle vivant au sanctuaire de Njelele dans les collines de Matobo.",
+  "domaines": ["pluie", "fertilité", "ordre moral", "oracle"],
+  "tags": ["creation", "terre-fertilite", "divination"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["sanctuaire-oracle de Njelele (collines de Matobo)"],
+  "recits_associes": [],
+  "culte_contemporain": "Le sanctuaire de Njelele demeure un site de pèlerinage actif au Zimbabwe contemporain, consulté notamment lors de sécheresses.",
+  "sources": [
+    "Daneel, M.L. (1970). The God of the Matopo Hills",
+    "Ranger, T.O. (1999). Voices from the Rocks: Nature, Culture and History in the Matopos Hills of Zimbabwe"
+  ],
+  "notes": ""
+}

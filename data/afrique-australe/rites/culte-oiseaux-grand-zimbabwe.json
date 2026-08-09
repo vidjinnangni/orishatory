@@ -1,0 +1,25 @@
+{
+  "id": "culte-oiseaux-grand-zimbabwe",
+  "nom": "Le culte des oiseaux de pierre du Grand Zimbabwe",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "rites",
+  "peuples": ["Shona"],
+  "resume": "Pratique spirituelle associée aux huit sculptures d'oiseaux en stéatite retrouvées sur le site du Grand Zimbabwe (11e-15e siècle), interprétées comme représentant des esprits ancestraux royaux ou des messagers entre Mwari et les rois, jouant un rôle central dans la légitimation du pouvoir royal shona.",
+  "domaines": ["royauté", "ancestralité", "légitimité politique"],
+  "tags": ["royaute-sacree", "ancetres"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["mwari"]
+  },
+  "attributs": ["sculptures d'oiseaux en stéatite (soapstone birds)"],
+  "recits_associes": [],
+  "culte_contemporain": "L'un de ces oiseaux figure sur le drapeau et les armoiries du Zimbabwe contemporain, symbole national fort. La plupart des sculptures originales, pillées à l'époque coloniale, ont fait l'objet de demandes de restitution, plusieurs ayant été rendues au pays depuis les années 1980.",
+  "sources": [
+    "Garlake, P.S. (1973). Great Zimbabwe",
+    "Huffman, T.N. (1985). The Soapstone Birds from Great Zimbabwe"
+  ],
+  "notes": "L'appropriation coloniale de ces objets sacrés, avec plusieurs pièces dispersées dans des collections privées et muséales occidentales jusqu'à des restitutions tardives, illustre les enjeux contemporains de patrimoine et de mémoire coloniale en Afrique australe."
+}
