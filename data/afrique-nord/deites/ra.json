@@ -1,0 +1,25 @@
+{
+  "id": "ra",
+  "nom": "Rê",
+  "variantes": ["Ra", "Amon-Rê (forme syncrétique)"],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Dieu solaire suprême de la religion égyptienne, souverain des dieux, traversant le ciel le jour sur sa barque solaire puis affrontant chaque nuit le serpent du chaos Apophis dans le monde souterrain.",
+  "domaines": ["soleil", "royauté divine", "création", "cycle jour-nuit"],
+  "tags": ["creation", "royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["apophis"]
+  },
+  "attributs": ["disque solaire", "tête de faucon", "barque solaire"],
+  "recits_associes": ["voyage-nocturne-de-ra"],
+  "culte_contemporain": "",
+  "sources": [
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "Assmann, J. (1995). Egyptian Solar Religion in the New Kingdom"
+  ],
+  "notes": "Fusionné à partir du Moyen Empire avec Amon sous la forme syncrétique Amon-Rê, illustrant les recompositions théologiques internes à la religion égyptienne au fil des dynasties."
+}

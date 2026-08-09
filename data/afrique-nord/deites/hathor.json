@@ -1,0 +1,25 @@
+{
+  "id": "hathor",
+  "nom": "Hathor",
+  "variantes": ["Het-Heru"],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Déesse de l'amour, de la joie, de la musique et de la maternité, l'une des divinités les plus largement vénérées d'Égypte ancienne, associée à la fertilité, à la danse et à l'accueil des défunts dans l'au-delà.",
+  "domaines": ["amour", "joie", "musique", "maternité", "au-delà"],
+  "tags": ["terre-fertilite"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["tête ou cornes de vache", "disque solaire", "sistre (instrument de musique)"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "Pinch, G. (1993). Votive Offerings to Hathor"
+  ],
+  "notes": "Son temple de Dendérah, l'un des mieux conservés d'Égypte, reste un témoignage majeur de l'ampleur et de la continuité de son culte à travers l'histoire égyptienne."
+}

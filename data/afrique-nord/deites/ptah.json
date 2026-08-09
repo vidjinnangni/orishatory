@@ -1,0 +1,25 @@
+{
+  "id": "ptah",
+  "nom": "Ptah",
+  "variantes": [],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Dieu créateur de Memphis, façonnant le monde par la pensée et la parole plutôt que par l'action physique, patron des artisans, sculpteurs et bâtisseurs.",
+  "domaines": ["création par la parole", "artisanat", "architecture"],
+  "tags": ["creation", "forge-artisanat"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["sceptre triple (was-djed-ankh)", "momie stylisée", "calotte serrée"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "Sethe, K. (1928). Dramatische Texte zu altägyptischen Mysterienspielen (théologie memphite)"
+  ],
+  "notes": "La théologie memphite qui lui est associée, où la création procède du verbe divin plutôt que d'un acte physique, est souvent comparée par les égyptologues à d'autres cosmogonies fondées sur le pouvoir créateur de la parole."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "apedemak",
+  "nom": "Apedemak",
+  "variantes": [],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Nubiens (royaume de Kouch)"],
+  "resume": "Dieu guerrier à tête de lion du royaume de Kouch (Nubie antique, actuel Soudan), l'une des rares divinités majeures du panthéon nubien à ne pas être directement empruntée à l'Égypte, associée à la victoire militaire et à la fertilité.",
+  "domaines": ["guerre", "victoire", "fertilité"],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["tête de lion", "arc et flèches"],
+  "recits_associes": [],
+  "culte_contemporain": "Ses temples, notamment à Naga et Musawwarat es-Sufra (actuel Soudan), comptent parmi les rares témoignages archéologiques majeurs d'une théologie nubienne autonome de celle de l'Égypte.",
+  "sources": [
+    "Welsby, D.A. (1996). The Kingdom of Kush: The Napatan and Meroitic Empires",
+    "Zabkar, L.V. (1975). Apedemak, Lion God of Meroe"
+  ],
+  "notes": "Le royaume de Kouch a longtemps été étudié comme simple périphérie culturelle de l'Égypte ancienne ; les recherches archéologiques récentes insistent davantage sur son autonomie théologique et politique propre, dont Apedemak est l'un des meilleurs exemples."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "gurzil",
+  "nom": "Gurzil",
+  "variantes": [],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Amazigh (Berbères)"],
+  "resume": "Dieu guerrier à tête de taureau vénéré par les peuples berbères de l'Antiquité, notamment les Garamantes et les Laguatan, mentionné par des sources byzantines comme divinité invoquée avant les batailles.",
+  "domaines": ["guerre", "force", "taureau sacré"],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["tête de taureau"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Corippus, Iohannis (poème épique latin du 6e siècle, source antique sur les guerres byzantino-berbères)",
+    "Brett, M. & Fentress, E. (1996). The Berbers"
+  ],
+  "notes": "La documentation sur Gurzil provient presque exclusivement de sources extérieures byzantines, rédigées dans un contexte de conflit militaire ; à lire avec la prudence critique que requiert toute source hostile décrivant les pratiques religieuses de l'adversaire."
+}

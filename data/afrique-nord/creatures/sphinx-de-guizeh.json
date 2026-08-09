@@ -1,0 +1,25 @@
+{
+  "id": "sphinx-de-guizeh",
+  "nom": "Le Sphinx de Guizeh",
+  "variantes": ["Horemakhet (nom égyptien : 'Horus dans l'horizon')"],
+  "region": "afrique-nord",
+  "categorie": "creatures",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Statue colossale à corps de lion et tête humaine, gardienne du plateau de Guizeh, généralement associée au visage du pharaon Khéphren et identifiée dans l'Égypte antique tardive au dieu Horemakhet.",
+  "domaines": ["protection royale", "gardiennage", "soleil levant"],
+  "tags": ["royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["corps de lion", "tête humaine coiffée du némès royal"],
+  "recits_associes": [],
+  "culte_contemporain": "Reste l'un des monuments les plus visités et symboliquement chargés au monde, objet de nombreuses théories non académiques quant à son âge et sa fonction d'origine.",
+  "sources": [
+    "Lehner, M. (1997). The Complete Pyramids",
+    "Hawass, Z. (2006). Mountains of the Pharaohs"
+  ],
+  "notes": "À distinguer des théories pseudo-archéologiques (datation 'pré-dynastique' fondée sur l'érosion, connexions extraterrestres, etc.) largement diffusées dans la culture populaire mais rejetées par le consensus égyptologique."
+}
