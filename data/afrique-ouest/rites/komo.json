@@ -1,0 +1,25 @@
+{
+  "id": "komo",
+  "nom": "Komo",
+  "variantes": [],
+  "region": "afrique-ouest",
+  "categorie": "rites",
+  "peuples": ["Bambara", "Mandingue"],
+  "resume": "Société d'initiation masculine bambara transmettant un savoir ésotérique gradué sur la cosmologie, la nature et l'ordre social, marquée par l'usage de masques redoutés et de savoirs tenus secrets vis-à-vis des non-initiés.",
+  "domaines": ["initiation", "savoir ésotérique", "masculinité rituelle"],
+  "tags": ["initiation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["masque komo (bois, cornes, matières organiques)", "hiérarchie de grades initiatiques"],
+  "recits_associes": ["partage-monde-faro-pemba"],
+  "culte_contemporain": "Pratique en net déclin depuis le 20e siècle sous la pression de l'islamisation et des transformations sociales, mais des formes subsistent dans certaines régions rurales du Mali et de Guinée.",
+  "sources": [
+    "Zahan, D. (1960). Sociétés d'initiation bambara: le N'domo, le Korè",
+    "McNaughton, P.R. (1988). The Mande Blacksmiths: Knowledge, Power, and Art in West Africa"
+  ],
+  "notes": ""
+}

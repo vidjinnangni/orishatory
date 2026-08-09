@@ -1,0 +1,25 @@
+{
+  "id": "sonni-ali-ber",
+  "nom": "Sonni Ali Ber",
+  "variantes": [],
+  "region": "afrique-ouest",
+  "categorie": "heros",
+  "peuples": ["Songhaï"],
+  "resume": "Empereur du 15e siècle qui étendit considérablement l'empire Songhaï, devenu dans la tradition orale une figure à la fois historique et légendaire, réputée posséder des pouvoirs magiques puissants (métamorphose, invisibilité) qui lui auraient permis ses victoires militaires.",
+  "domaines": ["royauté", "conquête", "magie"],
+  "tags": ["royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["réputation de sorcellerie et de métamorphose"],
+  "recits_associes": [],
+  "culte_contemporain": "Figure encore centrale de l'identité historique songhaï contemporaine au Mali et au Niger, bien que son règne soit aussi documenté par des sources écrites (chroniques de Tombouctou) qui nuancent l'image légendaire.",
+  "sources": [
+    "Hunwick, J.O. (1999). Timbuktu and the Songhay Empire (traduction du Tarikh al-Sudan)",
+    "Rouch, J. (1989). La religion et la magie songhay"
+  ],
+  "notes": "Contrairement à Sunjata ou Chibinda Ilunga, la légende de Sonni Ali Ber coexiste avec une documentation écrite relativement riche (chroniques arabo-songhaï de Tombouctou), permettant de mieux distinguer les couches historique et légendaire du récit."
+}

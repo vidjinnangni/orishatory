@@ -1,0 +1,25 @@
+{
+  "id": "ogbanje",
+  "nom": "Ogbanje",
+  "variantes": [],
+  "region": "afrique-ouest",
+  "categorie": "creatures",
+  "peuples": ["Igbo"],
+  "resume": "Dans la croyance igbo, esprit d'enfant qui meurt en bas âge de façon répétée au sein d'une même famille pour y retourner et mourir à nouveau, dans un cycle destiné à tourmenter ses parents. Des rituels spécifiques visaient traditionnellement à briser ce cycle.",
+  "domaines": ["mort infantile", "cycle de renaissance", "affliction familiale"],
+  "tags": ["mort-au-dela", "metamorphose"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["objet enterré (iyi-uwa) censé le lier au monde des esprits"],
+  "recits_associes": [],
+  "culte_contemporain": "Le concept reste culturellement présent au Nigeria contemporain, notamment popularisé littérairement par des romans comme 'Freshwater' d'Akwaeke Emezi (2018).",
+  "sources": [
+    "Achebe, C. (1958). Things Fall Apart (référence littéraire largement diffusée du concept)",
+    "Bastian, M.L. (2001). The Demon Superstition: Abnormal Infant Mortality and Religious Health Provision among the Igbo"
+  ],
+  "notes": "Croyance qui a historiquement pu être associée à des pratiques traumatisantes envers des enfants malades ou présentant des différences physiques ; à traiter avec la prudence descriptive requise plutôt que comme curiosité folklorique isolée de ses conséquences sociales réelles."
+}

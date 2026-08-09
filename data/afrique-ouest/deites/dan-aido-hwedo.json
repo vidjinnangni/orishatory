@@ -1,0 +1,25 @@
+{
+  "id": "dan-aido-hwedo",
+  "nom": "Dan Aïdo-Hwedo",
+  "variantes": ["Aido-Hwedo", "Dan"],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": ["Fon (Dahomey)"],
+  "resume": "Serpent cosmique fon soutenant et entourant le monde tel un anneau, créé par Mawu-Lisa pour porter la terre lors de sa création. Se mordant la queue, il maintient la cohésion de l'univers et provoquerait des tremblements de terre en se déplaçant.",
+  "domaines": ["cosmos", "stabilité du monde", "mouvement tellurique"],
+  "tags": ["creation", "eau"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["mawu-lisa", "damballa"]
+  },
+  "attributs": ["forme d'ouroboros (serpent se mordant la queue)", "arc-en-ciel"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Herskovits, M.J. (1938). Dahomey: An Ancient West African Kingdom",
+    "Blier, S.P. (1995). African Vodun: Art, Psychology, and Power"
+  ],
+  "notes": "Figure directement à l'origine de Damballa et Ayida-Wédo dans le vodou haïtien, illustrant une filiation mythologique directe et bien documentée entre Afrique de l'Ouest et diaspora."
+}

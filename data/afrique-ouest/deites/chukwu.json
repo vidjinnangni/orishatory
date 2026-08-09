@@ -1,0 +1,25 @@
+{
+  "id": "chukwu",
+  "nom": "Chukwu",
+  "variantes": ["Chineke"],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": ["Igbo"],
+  "resume": "Dieu créateur suprême dans la cosmologie igbo, source de toute vie et de la destinée individuelle. Généralement approché indirectement via des divinités intermédiaires et des oracles plutôt que par un culte direct.",
+  "domaines": ["création", "destin", "ordre cosmique"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Achebe, C. (1975). Chi in Igbo Cosmology (essai)",
+    "Uchendu, V.C. (1965). The Igbo of Southeast Nigeria"
+  ],
+  "notes": "À distinguer de 'chi', le principe de destinée personnelle propre à chaque individu dans la pensée igbo, bien que les deux concepts soient théologiquement liés."
+}

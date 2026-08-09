@@ -1,0 +1,25 @@
+{
+  "id": "egungun",
+  "nom": "Egungun",
+  "variantes": [],
+  "region": "afrique-ouest",
+  "categorie": "rites",
+  "peuples": ["Yoruba"],
+  "resume": "Tradition de mascarade rituelle yoruba honorant les ancêtres collectifs du lignage, où des initiés masqués et costumés incarnent temporairement les esprits des morts lors de cérémonies publiques et de festivals annuels.",
+  "domaines": ["ancestralité", "mascarade", "mémoire collective"],
+  "tags": ["ancetres", "mort-au-dela"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["costume élaboré recouvrant intégralement le corps", "danse rituelle"],
+  "recits_associes": [],
+  "culte_contemporain": "Pratiqué au Nigeria, au Bénin et au Togo ; certaines formes ont voyagé dans la diaspora, notamment à Cuba et au Brésil (Egungun/Babá Egum).",
+  "sources": [
+    "Drewal, H.J. & Drewal, M.T. (1983). Gelede: Art and Female Power among the Yoruba (contexte comparatif)",
+    "Lawal, B. (1996). The Gèlèdé Spectacle: Art, Gender, and Social Harmony in an African Culture"
+  ],
+  "notes": ""
+}

@@ -1,0 +1,25 @@
+{
+  "id": "gelede",
+  "nom": "Gelede",
+  "variantes": [],
+  "region": "afrique-ouest",
+  "categorie": "rites",
+  "peuples": ["Yoruba"],
+  "resume": "Spectacle rituel de mascarade yoruba honorant le pouvoir spirituel des femmes, en particulier des mères âgées et des 'mères mystiques' (aje), censées pouvoir user de leur pouvoir pour le bien ou pour nuire. Le rite vise à les honorer et à apaiser ce pouvoir.",
+  "domaines": ["pouvoir féminin", "fertilité", "équilibre social"],
+  "tags": ["terre-fertilite", "ancetres"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["masques sculptés portés sur la tête", "costumes colorés", "danse et chant collectifs"],
+  "recits_associes": [],
+  "culte_contemporain": "Inscrit au patrimoine culturel immatériel de l'UNESCO en 2008. Pratiqué au Nigeria, au Bénin et au Togo.",
+  "sources": [
+    "Drewal, H.J. & Drewal, M.T. (1983). Gelede: Art and Female Power among the Yoruba",
+    "UNESCO (2008). Gelede oral heritage - inscription au patrimoine immatériel"
+  ],
+  "notes": ""
+}

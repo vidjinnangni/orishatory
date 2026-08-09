@@ -1,0 +1,25 @@
+{
+  "id": "moremi-ajasoro",
+  "nom": "Moremi Ajasoro",
+  "variantes": [],
+  "region": "afrique-ouest",
+  "categorie": "heros",
+  "peuples": ["Yoruba"],
+  "resume": "Reine légendaire d'Ifé qui, selon la tradition orale, se serait délibérément fait capturer par les envahisseurs Ugbo pour apprendre le secret de leurs déguisements effrayants, permettant ensuite à Ifé de vaincre ces raids. Elle aurait sacrifié son fils unique en accomplissement d'un vœu fait à la rivière Esimirin pour obtenir cette aide.",
+  "domaines": ["sacrifice", "résistance", "stratégie"],
+  "tags": ["royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["statue commémorative à Ile-Ife"],
+  "recits_associes": [],
+  "culte_contemporain": "Le festival Edi à Ile-Ife commémore chaque année son sacrifice ; une statue monumentale (la 'Queen Moremi Statue of Liberty') y a été érigée en 2016.",
+  "sources": [
+    "Johnson, S. (1921). The History of the Yorubas",
+    "Akintoye, S.A. (2010). A History of the Yoruba People"
+  ],
+  "notes": ""
+}
