@@ -1,0 +1,25 @@
+{
+  "id": "nyaminyami",
+  "nom": "Nyaminyami",
+  "variantes": ["Esprit du fleuve Zambèze"],
+  "region": "afrique-australe",
+  "categorie": "deites",
+  "peuples": ["Tonga"],
+  "resume": "Dieu-serpent du fleuve Zambèze vénéré par les Tonga, gardien du fleuve et de ses ressources. La construction du barrage de Kariba dans les années 1950, qui aurait selon la croyance locale déclenché sa colère, reste associée à plusieurs incidents de chantier majeurs.",
+  "domaines": ["eau", "fleuve", "colère divine"],
+  "tags": ["eau"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "Le récit de Nyaminyami reste central à l'identité culturelle tonga contemporaine, notamment dans les récits populaires liés à la construction controversée du barrage de Kariba, qui a déplacé de force des dizaines de milliers de Tonga.",
+  "sources": [
+    "Colson, E. (1971). The Social Consequences of Resettlement: The Impact of the Kariba Resettlement upon the Gwembe Tonga",
+    "Weinrich, A.K.H. (1977). The Tonga People on the Southern Shore of Lake Kariba"
+  ],
+  "notes": "Le récit de Nyaminyami est indissociable de l'histoire du déplacement forcé des Tonga lors de la construction du barrage ; le traiter uniquement comme créature folklorique sans ce contexte historique serait réducteur."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "impundulu",
+  "nom": "Impundulu",
+  "variantes": ["Oiseau-tonnerre", "Ihlolo (variante xhosa)"],
+  "region": "afrique-australe",
+  "categorie": "creatures",
+  "peuples": ["Xhosa", "Zulu"],
+  "resume": "Créature surnaturelle en forme d'oiseau associée à la foudre, censée servir de familier à des sorcières et se nourrir de sang humain. Sa présence est traditionnellement invoquée pour expliquer des morts soudaines ou des maladies inexpliquées.",
+  "domaines": ["foudre", "sorcellerie", "maladie"],
+  "tags": ["foudre-orage"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["plumage noir et blanc", "capacité de métamorphose en humain"],
+  "recits_associes": [],
+  "culte_contemporain": "Les accusations liées à l'impundulu ont historiquement contribué à des violences réelles contre des femmes accusées de sorcellerie en Afrique australe, un phénomène qui persiste par endroits.",
+  "sources": [
+    "Hammond-Tooke, W.D. (1989). Rituals and Medicines: Indigenous Healing in South Africa",
+    "Niehaus, I. (2001). Witchcraft, Power and Politics: Exploring the Occult in the South African Lowveld"
+  ],
+  "notes": "Comme pour d'autres croyances liées à la sorcellerie sur le continent, la charge sociale réelle de cette croyance (accusations, violences) doit être gardée à l'esprit plutôt que traitée comme pur folklore désincarné."
+}

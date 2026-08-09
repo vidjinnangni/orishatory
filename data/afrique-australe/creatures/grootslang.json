@@ -1,0 +1,25 @@
+{
+  "id": "grootslang",
+  "nom": "Grootslang",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "creatures",
+  "peuples": ["folklore afrikaner et khoikhoi du Cap"],
+  "resume": "Créature légendaire hybride, mi-éléphant mi-serpent, censée habiter une grotte près de Richtersveld (Afrique du Sud) et amasser un trésor de pierres précieuses. Syncrétise des motifs khoikhoi et des récits coloniaux afrikaners ultérieurs.",
+  "domaines": ["trésor", "grotte", "hybridation"],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["corps de serpent", "tête et défenses d'éléphant"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Wells, L.H. (1933). Local Legends and the Grootslang",
+    "Bell, C. & Bell, J. (2006). Guide to the Reptiles of Southern Africa (contexte naturaliste comparatif)"
+  ],
+  "notes": "Figure hybride entre traditions khoikhoi antérieures et récits coloniaux afrikaners plus tardifs, illustrant les recompositions folkloriques qui accompagnent souvent le contact colonial ; son statut de mythe 'authentiquement' précolonial est débattu par certains folkloristes."
+}

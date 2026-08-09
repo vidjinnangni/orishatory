@@ -1,0 +1,25 @@
+{
+  "id": "kaggen",
+  "nom": "Kaggen",
+  "variantes": ["Cagn", "/Kaggen"],
+  "region": "afrique-australe",
+  "categorie": "deites",
+  "peuples": ["San"],
+  "resume": "Figure centrale de la mythologie san (bushmen), à la fois créateur, trickster et esprit de la mante religieuse, capable de se métamorphoser en de nombreux animaux. Auteur de nombreux actes de création et de créations malicieuses qui structurent le monde tel qu'il est.",
+  "domaines": ["création", "ruse", "métamorphose", "nature"],
+  "tags": ["trickster", "creation", "metamorphose"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["forme de mante religieuse", "capacité de métamorphose en éland, serpent et autres animaux"],
+  "recits_associes": ["lune-de-kaggen"],
+  "culte_contemporain": "",
+  "sources": [
+    "Bleek, W.H.I. & Lloyd, L.C. (1911). Specimens of Bushman Folklore",
+    "Guenther, M. (1999). Tricksters and Trancers: Bushman Religion and Society"
+  ],
+  "notes": "Contrairement à de nombreux créateurs suprêmes africains distants, Kaggen reste une figure activement présente et souvent comique dans les récits san, mêlant sacré et bouffonnerie d'une manière atypique parmi les cosmogonies du continent."
+}

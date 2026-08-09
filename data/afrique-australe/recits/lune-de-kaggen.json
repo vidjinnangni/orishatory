@@ -1,0 +1,25 @@
+{
+  "id": "lune-de-kaggen",
+  "nom": "Comment Kaggen créa la lune",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "recits",
+  "peuples": ["San"],
+  "resume": "Conte san expliquant l'origine de la lune : Kaggen, en colère ou par jeu selon les versions, jette une vieille chaussure ou un morceau de cuir dans le ciel nocturne, qui se transforme en lune éclairant l'obscurité pour les créatures de la nuit.",
+  "domaines": ["création", "lune", "origine des astres"],
+  "tags": ["creation", "trickster"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["kaggen"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Bleek, W.H.I. & Lloyd, L.C. (1911). Specimens of Bushman Folklore",
+    "Guenther, M. (1999). Tricksters and Trancers: Bushman Religion and Society"
+  ],
+  "notes": ""
+}

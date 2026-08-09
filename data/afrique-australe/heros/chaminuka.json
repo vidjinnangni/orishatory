@@ -1,0 +1,25 @@
+{
+  "id": "chaminuka",
+  "nom": "Chaminuka",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "heros",
+  "peuples": ["Shona"],
+  "resume": "Prophète et esprit-médium légendaire shona, réputé pour ses pouvoirs de divination, de guérison et de prédiction de la pluie, dont l'esprit continue selon la tradition à posséder des médiums (svikiro) successifs depuis le 19e siècle.",
+  "domaines": ["prophétie", "guérison", "pluie", "résistance"],
+  "tags": ["divination"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["mwari"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "Le culte de possession par l'esprit de Chaminuka via des médiums successifs reste documenté au Zimbabwe contemporain, où certains svikiro ont joué un rôle politique notable, y compris pendant la guerre de libération du Zimbabwe.",
+  "sources": [
+    "Lan, D. (1985). Guns and Rain: Guerrillas and Spirit Mediums in Zimbabwe",
+    "Fry, P. (1976). Spirits of Protest: Spirit-Mediums and the Articulation of Consensus among the Zezuru of Southern Rhodesia"
+  ],
+  "notes": ""
+}
