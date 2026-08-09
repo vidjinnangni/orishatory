@@ -1,0 +1,25 @@
+{
+  "id": "pemba",
+  "nom": "Pemba",
+  "variantes": [],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": ["Bambara", "Mandingue"],
+  "resume": "Principe créateur primordial dans la cosmogonie bambara, associé à la terre et à un désordre originel qu'il provoque en agissant seul avant l'intervention organisatrice de Faro. Sa graine primordiale (le 'pembele') est un motif central du récit de création.",
+  "domaines": ["terre", "création", "désordre primordial"],
+  "tags": ["terre-fertilite", "creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["faro"]
+  },
+  "attributs": ["graine primordiale (pembele)"],
+  "recits_associes": ["partage-monde-faro-pemba"],
+  "culte_contemporain": "",
+  "sources": [
+    "Dieterlen, G. (1951). Essai sur la religion bambara",
+    "Zahan, D. (1960). Sociétés d'initiation bambara: le N'domo, le Korè"
+  ],
+  "notes": ""
+}

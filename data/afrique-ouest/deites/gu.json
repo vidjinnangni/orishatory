@@ -1,0 +1,25 @@
+{
+  "id": "gu",
+  "nom": "Gu",
+  "variantes": ["Gou"],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": ["Fon (Dahomey)"],
+  "resume": "Dieu fon du fer, de la guerre et du travail des métaux, envoyé par Mawu-Lisa pour ouvrir la voie aux humains en défrichant la terre à l'aide d'outils de fer qu'il leur enseigne ensuite à fabriquer.",
+  "domaines": ["fer", "guerre", "outils", "défrichement"],
+  "tags": ["forge-artisanat"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["mawu-lisa", "ogun"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Herskovits, M.J. (1938). Dahomey: An Ancient West African Kingdom",
+    "Blier, S.P. (1995). African Vodun: Art, Psychology, and Power"
+  ],
+  "notes": "Parallèle fonctionnel direct avec Ogun chez les Yoruba, illustrant comment des peuples voisins d'Afrique de l'Ouest développent des figures analogues du forgeron divin sous des noms distincts."
+}

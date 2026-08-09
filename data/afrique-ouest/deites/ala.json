@@ -1,0 +1,25 @@
+{
+  "id": "ala",
+  "nom": "Ala",
+  "variantes": ["Ani", "Anị"],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": ["Igbo"],
+  "resume": "Déesse de la terre chez les Igbo, gardienne de la fertilité, de la moralité publique et de la loi coutumière. Les violations graves de la morale sociale sont traditionnellement dites 'souiller la terre d'Ala'.",
+  "domaines": ["terre", "fertilité", "moralité", "loi coutumière"],
+  "tags": ["terre-fertilite", "ancetres"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["sanctuaires de terre (mbari)", "association aux ancêtres enterrés dans le sol"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Uchendu, V.C. (1965). The Igbo of Southeast Nigeria",
+    "Cole, H.M. & Aniakor, C.C. (1984). Igbo Arts: Community and Cosmos"
+  ],
+  "notes": "Figure centrale du système judiciaire coutumier igbo précolonial, où l'appel à Ala servait de fondement à la sanction morale communautaire."
+}

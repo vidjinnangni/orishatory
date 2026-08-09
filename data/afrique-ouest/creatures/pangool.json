@@ -1,0 +1,25 @@
+{
+  "id": "pangool",
+  "nom": "Pangool",
+  "variantes": ["Fangool (singulier)"],
+  "region": "afrique-ouest",
+  "categorie": "creatures",
+  "peuples": ["Serer"],
+  "resume": "Esprits ancestraux intermédiaires de la religion serer, servant de lien entre Roog et les vivants. Invoqués pour la protection, la guérison et le maintien de l'ordre social, ils occupent des sites naturels sacrés (arbres, rivières, rochers).",
+  "domaines": ["ancestralité", "protection", "médiation spirituelle"],
+  "tags": ["ancetres", "divination"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["roog"]
+  },
+  "attributs": ["sanctuaires naturels (arbres, rivières, rochers sacrés)"],
+  "recits_associes": [],
+  "culte_contemporain": "Le culte des pangool reste pratiqué au Sénégal contemporain, y compris de façon syncrétique par certains Serer se déclarant par ailleurs musulmans ou chrétiens.",
+  "sources": [
+    "Gravrand, H. (1990). La civilisation sereer - Pangool",
+    "Galvan, D.C. (2001). Political Turbulence without Systemic Change: Religion and the State in Senegal"
+  ],
+  "notes": ""
+}

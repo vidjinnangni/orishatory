@@ -1,0 +1,25 @@
+{
+  "id": "obatala",
+  "nom": "Ọbàtálá",
+  "variantes": ["Obatala", "Orisanla"],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": ["Yoruba"],
+  "resume": "Orisha de la création et de la pureté, chargé par Olodumare de façonner les corps humains dans l'argile avant que le souffle de vie ne leur soit insufflé. Associé à la sagesse, à la patience et à la couleur blanche.",
+  "domaines": ["création", "pureté", "sagesse", "artisanat (poterie/sculpture)"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["couleur blanche", "argile", "étain"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Idowu, E.B. (1962). Olodumare: God in Yoruba Belief",
+    "Bascom, W. (1969). Ifa Divination: Communication between Gods and Men in West Africa"
+  ],
+  "notes": "Certains récits présentent Obatala en état d'ébriété au moment de façonner certains humains, ce qui expliquerait mythologiquement les handicaps physiques. Cette dimension du mythe est traitée par les pratiquants avec une charge symbolique de compassion plutôt que de stigmatisation, Obatala étant précisément le protecteur des personnes en situation de handicap."
+}

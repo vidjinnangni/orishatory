@@ -1,0 +1,25 @@
+{
+  "id": "roog",
+  "nom": "Roog",
+  "variantes": ["Roog Sene", "Koox"],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": ["Serer"],
+  "resume": "Dieu créateur suprême dans la religion traditionnelle serer (Sénégal, Gambie), source première de l'univers et garant de l'ordre cosmique, approché principalement à travers les pangool, esprits ancestraux intermédiaires.",
+  "domaines": ["création", "ordre cosmique", "ciel"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["pangool"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Galvan, D.C. (2001). Political Turbulence without Systemic Change: Religion and the State in Senegal",
+    "Gravrand, H. (1990). La civilisation sereer - Pangool"
+  ],
+  "notes": ""
+}

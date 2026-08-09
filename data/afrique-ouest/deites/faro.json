@@ -1,0 +1,25 @@
+{
+  "id": "faro",
+  "nom": "Faro",
+  "variantes": [],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": ["Bambara", "Mandingue"],
+  "resume": "Divinité de l'eau et organisatrice du monde dans la cosmogonie bambara (Mali), envoyée pour restaurer l'ordre après le désordre provoqué par Pemba. Associée à la parole, à la gémellité et à la purification.",
+  "domaines": ["eau", "ordre du monde", "parole", "purification"],
+  "tags": ["eau", "creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["pemba"]
+  },
+  "attributs": [],
+  "recits_associes": ["partage-monde-faro-pemba"],
+  "culte_contemporain": "",
+  "sources": [
+    "Dieterlen, G. (1951). Essai sur la religion bambara",
+    "Zahan, D. (1960). Sociétés d'initiation bambara: le N'domo, le Korè"
+  ],
+  "notes": ""
+}

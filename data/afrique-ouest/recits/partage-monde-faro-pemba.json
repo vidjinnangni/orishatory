@@ -1,0 +1,25 @@
+{
+  "id": "partage-monde-faro-pemba",
+  "nom": "Le partage du monde entre Faro et Pemba",
+  "variantes": [],
+  "region": "afrique-ouest",
+  "categorie": "recits",
+  "peuples": ["Bambara"],
+  "resume": "Récit cosmogonique bambara narrant comment Pemba, agissant seul et dans le désordre, façonne prématurément la terre, provoquant un chaos que la divinité Faro doit ensuite réparer en instaurant l'ordre, la parole et les règles sociales fondatrices.",
+  "domaines": ["création", "ordre et désordre", "fondation sociale"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["faro", "pemba"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Dieterlen, G. (1951). Essai sur la religion bambara",
+    "Zahan, D. (1960). Sociétés d'initiation bambara: le N'domo, le Korè"
+  ],
+  "notes": "Ce récit sert de fondement mythologique aux sociétés d'initiation bambara (N'domo, Komo), où sa réactualisation rituelle structure le passage des initiés."
+}

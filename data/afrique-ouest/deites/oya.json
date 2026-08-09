@@ -1,0 +1,25 @@
+{
+  "id": "oya",
+  "nom": "Ọya",
+  "variantes": ["Oya", "Yansan"],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": ["Yoruba"],
+  "resume": "Orisha des vents violents, des tempêtes et de la transformation, associée au fleuve Niger (qui porte son nom en yoruba) et aux portes de la mort. Épouse de Shango, guerrière redoutée capable de commander la foudre en son absence.",
+  "domaines": ["vent", "tempête", "transformation", "passage vers la mort"],
+  "tags": ["foudre-orage", "mort-au-dela"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": ["shango"],
+    "enfants": [],
+    "entites_liees": ["shango"]
+  },
+  "attributs": ["neuf couleurs (associées à ses neuf enfants)", "buffle (forme alternative)", "sabre"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Badejo, D.L. (1996). Osun Seegesi: The Elegant Deity of Wealth, Power, and Femininity (contexte comparatif des orisha féminins)",
+    "Murphy, J.M. (1994). Working the Spirit: Ceremonies of the African Diaspora"
+  ],
+  "notes": "Figure de transformation radicale et de rupture, souvent associée aux moments de changement social ou personnel brutal dans l'interprétation contemporaine de son culte."
+}
