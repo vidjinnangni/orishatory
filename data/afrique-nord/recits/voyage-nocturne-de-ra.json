@@ -1,0 +1,25 @@
+{
+  "id": "voyage-nocturne-de-ra",
+  "nom": "Le voyage nocturne de Rê",
+  "variantes": [],
+  "region": "afrique-nord",
+  "categorie": "recits",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Récit mythologique décrivant la traversée nocturne du dieu solaire Rê à bord de sa barque à travers les douze heures du monde souterrain (Douat), où il doit vaincre chaque nuit le serpent du chaos Apophis pour renaître à l'aube.",
+  "domaines": ["cycle solaire", "renaissance", "combat contre le chaos"],
+  "tags": ["mort-au-dela", "creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["ra", "apophis", "seth"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Hornung, E. (1999). The Ancient Egyptian Books of the Afterlife",
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions"
+  ],
+  "notes": "Ce cycle narratif structure plusieurs textes funéraires égyptiens majeurs (Livre de l'Amdouat, Livre des Portes), destinés à guider symboliquement le défunt dans ce même voyage souterrain."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "seth",
+  "nom": "Seth",
+  "variantes": ["Set", "Sutekh"],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Dieu du chaos, du désert, des tempêtes et des terres étrangères, meurtrier de son frère Osiris et rival de son neveu Horus pour le trône d'Égypte. Figure ambivalente, à la fois nécessaire et redoutée.",
+  "domaines": ["chaos", "désert", "tempête", "terres étrangères"],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["osiris", "horus"]
+  },
+  "attributs": ["animal composite non identifié (l''animal de Seth')", "couleur rouge"],
+  "recits_associes": ["mythe-osiris", "combat-horus-seth"],
+  "culte_contemporain": "",
+  "sources": [
+    "te Velde, H. (1967). Seth, God of Confusion",
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions"
+  ],
+  "notes": "Contrairement à une lecture simpliste qui l'assimilerait à un 'diable' égyptien, Seth occupe un rôle théologique complexe et ambivalent : il défend la barque solaire de Rê contre Apophis chaque nuit, malgré son rôle antagoniste dans le cycle osirien."
+}

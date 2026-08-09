@@ -1,0 +1,25 @@
+{
+  "id": "fete-opet",
+  "nom": "La fête d'Opet",
+  "variantes": [],
+  "region": "afrique-nord",
+  "categorie": "rites",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Grande fête religieuse thébaine annuelle célébrant le renouvellement du pouvoir divin du pharaon, au cours de laquelle la statue du dieu Amon était processionnellement transportée de Karnak au temple de Louxor.",
+  "domaines": ["royauté", "renouvellement divin", "procession publique"],
+  "tags": ["royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["barque processionnelle sacrée", "statue cultuelle d'Amon"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Bell, L. (1985). Luxor Temple and the Cult of the Royal Ka",
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions"
+  ],
+  "notes": "Contrairement à beaucoup de rites égyptiens réservés au clergé, la fête d'Opet impliquait une participation publique large, la population pouvant notamment adresser des questions oraculaires à la statue processionnelle."
+}
