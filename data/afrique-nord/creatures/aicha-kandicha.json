@@ -1,0 +1,25 @@
+{
+  "id": "aicha-kandicha",
+  "nom": "Aïcha Kandicha",
+  "variantes": ["Aïcha Qandicha"],
+  "region": "afrique-nord",
+  "categorie": "creatures",
+  "peuples": ["Marocains (folklore maghrébin)"],
+  "resume": "Figure féminine surnaturelle du folklore marocain, décrite comme une femme à la beauté envoûtante mais aux pieds de chèvre ou de chameau, séduisant et rendant fous ou noyant les hommes qui l'approchent près des points d'eau.",
+  "domaines": ["séduction dangereuse", "eau", "châtiment moral"],
+  "tags": ["eau"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["pieds de chèvre ou de chameau", "beauté envoûtante"],
+  "recits_associes": [],
+  "culte_contemporain": "La figure reste très présente dans la culture populaire marocaine contemporaine, invoquée notamment pour mettre en garde contre les comportements jugés imprudents.",
+  "sources": [
+    "Legey, F. (1926). Essai de folklore marocain",
+    "Westermarck, E. (1926). Ritual and Belief in Morocco"
+  ],
+  "notes": "Certaines interprétations universitaires y voient une possible christianisation puis islamisation d'une ancienne figure féminine divine préislamique, bien que cette filiation reste hypothétique et discutée."
+}

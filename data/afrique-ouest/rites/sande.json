@@ -1,0 +1,25 @@
+{
+  "id": "sande",
+  "nom": "Sande",
+  "variantes": ["Bundu"],
+  "region": "afrique-ouest",
+  "categorie": "rites",
+  "peuples": ["Mende", "Temne"],
+  "resume": "Société d'initiation féminine, pendant du Poro masculin en Sierra Leone et au Liberia, encadrant l'éducation des jeunes filles, les rites de passage à l'âge adulte et la transmission des savoirs féminins traditionnels sous l'autorité de la société.",
+  "domaines": ["initiation féminine", "éducation traditionnelle", "féminité rituelle"],
+  "tags": ["initiation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["poro", "sowei"]
+  },
+  "attributs": ["masque sowei (unique exemple documenté de masque africain traditionnel porté exclusivement par des femmes)"],
+  "recits_associes": [],
+  "culte_contemporain": "Reste active en Sierra Leone et au Liberia contemporains ; ses pratiques historiquement liées à l'excision ont fait l'objet de débats internationaux importants sur la santé et les droits des femmes, entraînant des réformes dans certaines communautés.",
+  "sources": [
+    "MacCormack, C.P. (1979). Sande: The Public Face of a Secret Society",
+    "Boone, S.A. (1986). Radiance from the Waters: Ideals of Feminine Beauty in Mende Art"
+  ],
+  "notes": "Le sujet des mutilations génitales féminines historiquement associées à certaines initiations sande fait l'objet de débats de santé publique et de droits humains majeurs, et continue d'évoluer, y compris au sein des communautés mende et temne elles-mêmes."
+}

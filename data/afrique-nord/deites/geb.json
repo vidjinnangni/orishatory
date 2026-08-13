@@ -1,0 +1,25 @@
+{
+  "id": "geb",
+  "nom": "Geb",
+  "variantes": [],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Dieu de la terre, souvent représenté allongé sous le corps arqué de sa sœur-épouse Nout, associé aux tremblements de terre (interprétés comme son rire) et à la fertilité du sol.",
+  "domaines": ["terre", "fertilité", "tremblements de terre"],
+  "tags": ["terre-fertilite"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": ["nut"],
+    "enfants": [],
+    "entites_liees": ["nut"]
+  },
+  "attributs": [],
+  "recits_associes": ["separation-nut-geb"],
+  "culte_contemporain": "",
+  "sources": [
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "Hart, G. (2005). The Routledge Dictionary of Egyptian Gods and Goddesses"
+  ],
+  "notes": ""
+}

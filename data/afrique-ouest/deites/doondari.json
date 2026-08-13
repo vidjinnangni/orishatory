@@ -1,0 +1,25 @@
+{
+  "id": "doondari",
+  "nom": "Doondari",
+  "variantes": [],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": ["Fulani (Peul)"],
+  "resume": "Dieu créateur dans certaines traditions cosmogoniques peules, censé avoir créé le monde en quatre étapes successives (la pierre, le fer, le feu, l'eau), chacune engendrant la suivante jusqu'à la création de l'homme.",
+  "domaines": ["création", "éléments primordiaux"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Hampâté Bâ, A. & Dieterlen, G. (1961). Koumen: Texte initiatique des pasteurs peuls",
+    "Seydou, C. (1976). La devise dans la tradition peule"
+  ],
+  "notes": "La cosmogonie peule connaît plusieurs versions et noms divins selon les régions (Doondari, Geno/Gueno) ; les traditions peules, très diverses géographiquement (du Sénégal au Cameroun), n'ont pas de forme unique et standardisée du récit."
+}

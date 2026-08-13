@@ -1,0 +1,25 @@
+{
+  "id": "poro",
+  "nom": "Poro",
+  "variantes": [],
+  "region": "afrique-ouest",
+  "categorie": "rites",
+  "peuples": ["Mende", "Temne"],
+  "resume": "Société d'initiation masculine influente en Sierra Leone et au Liberia, encadrant l'éducation traditionnelle, le passage à l'âge adulte et certaines fonctions judiciaires et politiques communautaires, à travers un savoir gradué tenu secret des non-initiés.",
+  "domaines": ["initiation", "éducation traditionnelle", "autorité communautaire"],
+  "tags": ["initiation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["sande"]
+  },
+  "attributs": ["masques et costumes rituels spécifiques", "camp de brousse (bush school)"],
+  "recits_associes": [],
+  "culte_contemporain": "Continue de jouer un rôle social et parfois politique en Sierra Leone et au Liberia contemporains, bien que son influence sur la vie politique nationale ait fluctué au fil des régimes.",
+  "sources": [
+    "Little, K. (1965). The Political Function of the Poro",
+    "Bellman, B.L. (1984). The Language of Secrecy: Symbols and Metaphors in Poro Ritual"
+  ],
+  "notes": ""
+}

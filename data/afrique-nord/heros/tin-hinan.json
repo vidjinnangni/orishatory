@@ -1,0 +1,25 @@
+{
+  "id": "tin-hinan",
+  "nom": "Tin Hinan",
+  "variantes": [],
+  "region": "afrique-nord",
+  "categorie": "heros",
+  "peuples": ["Touareg"],
+  "resume": "Reine et ancêtre fondatrice légendaire du peuple touareg, dont la tombe monumentale découverte à Abalessa (Algérie) en 1925 a alimenté un mythe fondateur de migration depuis le Maroc jusqu'au Hoggar, où elle aurait fondé la lignée des chefs touareg.",
+  "domaines": ["migration", "fondation matriarcale", "royauté"],
+  "tags": ["royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["tombeau monumental d'Abalessa", "bijoux et objets funéraires retrouvés en 1925"],
+  "recits_associes": [],
+  "culte_contemporain": "Figure toujours centrale à l'identité culturelle touareg contemporaine, notamment dans les récits de filiation matrilinéaire de plusieurs confédérations touareg.",
+  "sources": [
+    "Reygasse, M. (1950). Monuments funéraires préislamiques de l'Afrique du Nord",
+    "Keenan, J. (2013). The Tuareg: People of Ahaggar"
+  ],
+  "notes": "L'archéologie a confirmé l'existence historique d'une tombe royale monumentale à Abalessa datée d'environ le 4e siècle apr. J.-C., mais l'identification précise de son occupante avec la Tin Hinan légendaire relève de la tradition orale plutôt que d'une preuve archéologique directe."
+}
