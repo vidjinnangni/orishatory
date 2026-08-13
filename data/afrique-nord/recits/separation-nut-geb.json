@@ -1,0 +1,25 @@
+{
+  "id": "separation-nut-geb",
+  "nom": "La séparation de Nout et Geb",
+  "variantes": [],
+  "region": "afrique-nord",
+  "categorie": "recits",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Récit mythologique où le dieu de l'air Shu sépare de force les amants Nout (le ciel) et Geb (la terre), unis dans un embrassement perpétuel, créant ainsi l'espace habitable entre ciel et terre où peuvent exister les humains.",
+  "domaines": ["séparation ciel-terre", "création de l'espace habitable"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["nut", "geb"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "Hart, G. (2005). The Routledge Dictionary of Egyptian Gods and Goddesses"
+  ],
+  "notes": "Ce motif de séparation forcée du ciel et de la terre pour créer un espace habitable trouve des échos structurels dans d'autres cosmogonies africaines, comme le récit dinka d'Abuk et Garang."
+}

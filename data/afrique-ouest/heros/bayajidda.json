@@ -1,0 +1,25 @@
+{
+  "id": "bayajidda",
+  "nom": "Bayajidda",
+  "variantes": [],
+  "region": "afrique-ouest",
+  "categorie": "heros",
+  "peuples": ["Hausa"],
+  "resume": "Héros fondateur légendaire des États haoussa, venu d'Orient selon le récit, qui aurait tué le serpent Sarki bloquant l'accès au puits de la ville de Daura, épousant ensuite la reine locale. Leurs descendants auraient fondé les sept États haoussa historiques (Hausa Bakwai).",
+  "domaines": ["fondation dynastique", "héroïsme", "migration"],
+  "tags": ["royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": ["Reine Daurama"],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["épée", "serpent Sarki vaincu"],
+  "recits_associes": [],
+  "culte_contemporain": "La légende reste centrale à l'identité politique et culturelle haoussa contemporaine au Nigeria et au Niger, invoquée dans la légitimation de plusieurs lignages émiraux.",
+  "sources": [
+    "Palmer, H.R. (1908). The Kano Chronicle",
+    "Smith, M.G. (1978). The Affairs of Daura"
+  ],
+  "notes": "Comme pour Sunjata ou Sonni Ali Ber, le récit mêle éléments historiques probables et structure narrative typique des mythes fondateurs : le héros étranger, le monstre vaincu, le mariage légitimant."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "nut",
+  "nom": "Nout",
+  "variantes": ["Nut"],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Déesse du ciel représentée arquée au-dessus de la terre, avalant le soleil chaque soir pour lui donner naissance à nouveau chaque matin. Mère de plusieurs divinités majeures dont Osiris, Isis, Seth et Nephthys.",
+  "domaines": ["ciel", "cycle solaire", "maternité divine"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": ["geb"],
+    "enfants": ["osiris", "isis"],
+    "entites_liees": ["geb"]
+  },
+  "attributs": ["corps étoilé arqué au-dessus de la terre"],
+  "recits_associes": ["separation-nut-geb"],
+  "culte_contemporain": "",
+  "sources": [
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "Hart, G. (2005). The Routledge Dictionary of Egyptian Gods and Goddesses"
+  ],
+  "notes": ""
+}

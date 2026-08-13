@@ -1,0 +1,25 @@
+{
+  "id": "bastet",
+  "nom": "Bastet",
+  "variantes": ["Bast"],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Déesse à tête de chatte associée à la protection du foyer, à la fertilité et à la joie, dont le culte majeur était centré sur la ville de Bubastis. Contrepartie plus douce de la déesse lionne Sekhmet.",
+  "domaines": ["protection du foyer", "fertilité", "joie", "maternité"],
+  "tags": ["terre-fertilite"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["sekhmet"]
+  },
+  "attributs": ["tête de chatte", "sistre", "panier"],
+  "recits_associes": [],
+  "culte_contemporain": "Son association avec les chats domestiques reste largement diffusée dans la culture populaire contemporaine, parfois de façon anachronique par rapport à son rôle théologique d'origine.",
+  "sources": [
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "Malek, J. (1993). The Cat in Ancient Egypt"
+  ],
+  "notes": ""
+}

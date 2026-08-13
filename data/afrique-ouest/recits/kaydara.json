@@ -1,0 +1,25 @@
+{
+  "id": "kaydara",
+  "nom": "Kaydara",
+  "variantes": [],
+  "region": "afrique-ouest",
+  "categorie": "recits",
+  "peuples": ["Fulani (Peul)"],
+  "resume": "Conte initiatique peul relatant le voyage de trois jeunes hommes à la recherche de Kaydara, génie souterrain incarnant la connaissance suprême, dont la quête révèle progressivement leurs caractères respectifs (sagesse, richesse, pouvoir) et enseigne une hiérarchie de valeurs spirituelles.",
+  "domaines": ["initiation", "sagesse", "quête spirituelle"],
+  "tags": ["initiation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "Rendu largement accessible par la transcription et traduction d'Amadou Hampâté Bâ (1969), qui en a fait l'un des textes initiatiques peuls les plus étudiés hors de son contexte oral d'origine.",
+  "sources": [
+    "Hampâté Bâ, A. (1969). Kaydara",
+    "Hampâté Bâ, A. (1973). Contes initiatiques peuls"
+  ],
+  "notes": "Le texte de Hampâté Bâ est lui-même une mise en forme littéraire d'un récit initiatique oral transmis dans des cercles restreints ; sa publication a suscité des débats sur la publicité donnée à un savoir traditionnellement réservé aux initiés."
+}

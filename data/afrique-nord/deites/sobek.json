@@ -1,0 +1,25 @@
+{
+  "id": "sobek",
+  "nom": "Sobek",
+  "variantes": [],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Dieu à tête de crocodile associé à la puissance du Nil, à la fertilité agricole et à la protection militaire du pharaon, particulièrement vénéré dans la région du Fayoum où des crocodiles sacrés étaient élevés dans ses temples.",
+  "domaines": ["Nil", "fertilité", "puissance militaire", "crocodiles"],
+  "tags": ["eau", "terre-fertilite"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["tête de crocodile", "disque solaire"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "Dolzani, C. (1961). Il dio Sobk"
+  ],
+  "notes": ""
+}

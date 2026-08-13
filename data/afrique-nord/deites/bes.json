@@ -1,0 +1,25 @@
+{
+  "id": "bes",
+  "nom": "Bès",
+  "variantes": ["Bes"],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Dieu protecteur nain à l'apparence difforme et grimaçante, censée effrayer les esprits malveillants. Protecteur du foyer, des femmes en couches et des jeunes enfants.",
+  "domaines": ["protection domestique", "accouchement", "joie", "danse"],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["taweret"]
+  },
+  "attributs": ["apparence naine et grimaçante", "langue tirée", "plumes sur la tête"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "Meeks, D. & Meeks-Favard, C. (1996). La vie quotidienne des dieux égyptiens"
+  ],
+  "notes": "Contrairement à la majorité des divinités égyptiennes, Bès est représenté de face plutôt que de profil dans l'iconographie, une exception notable dans les conventions artistiques égyptiennes."
+}

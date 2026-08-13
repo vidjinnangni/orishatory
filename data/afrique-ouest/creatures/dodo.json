@@ -1,0 +1,25 @@
+{
+  "id": "dodo",
+  "nom": "Dodo",
+  "variantes": [],
+  "region": "afrique-ouest",
+  "categorie": "creatures",
+  "peuples": ["Hausa"],
+  "resume": "Figure de croquemitaine du folklore haoussa, utilisée traditionnellement pour dissuader les enfants de s'aventurer seuls hors du village ou de désobéir, sans apparence fixe précise, laissée à l'imagination de chaque conteur.",
+  "domaines": ["peur enfantine", "discipline", "avertissement"],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["apparence variable selon les récits"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Skinner, N. (1969). Hausa Tales and Traditions",
+    "Besmer, F.E. (1983). Horses, Musicians, and Gods: The Hausa Cult of Possession-Trance"
+  ],
+  "notes": ""
+}

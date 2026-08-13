@@ -1,0 +1,25 @@
+{
+  "id": "nana-buluku",
+  "nom": "Nana Buluku",
+  "variantes": [],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": ["Fon (Dahomey)"],
+  "resume": "Divinité primordiale et androgyne dans certaines traditions fon, antérieure et mère de Mawu-Lisa, associée à la création originelle du monde avant même la répartition des principes masculin et féminin.",
+  "domaines": ["création primordiale", "androgynie divine"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["mawu-lisa"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Herskovits, M.J. (1938). Dahomey: An Ancient West African Kingdom",
+    "Blier, S.P. (1995). African Vodun: Art, Psychology, and Power"
+  ],
+  "notes": "La place exacte de Nana Buluku varie selon les sources : certaines traditions la présentent comme antérieure à Mawu-Lisa, d'autres l'associent plus étroitement voire la confondent avec Mawu seule."
+}
