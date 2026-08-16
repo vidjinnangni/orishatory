@@ -1,0 +1,25 @@
+{
+  "id": "bwiti",
+  "nom": "Bwiti",
+  "variantes": [],
+  "region": "afrique-centrale",
+  "categorie": "rites",
+  "peuples": ["Fang"],
+  "resume": "Tradition religieuse initiatique fang centrée sur la consommation rituelle de l'iboga, plante hallucinogène censée permettre un voyage spirituel vers les ancêtres et une renaissance symbolique du néophyte.",
+  "domaines": ["initiation", "ancestralité", "expérience visionnaire"],
+  "tags": ["initiation", "ancetres"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["iboga (Tabernanthe iboga)", "tenue rituelle", "chant et musique au mvett ou à la harpe ngombi"],
+  "recits_associes": [],
+  "culte_contemporain": "Reconnu comme patrimoine national au Gabon ; attire aussi un tourisme spirituel international croissant autour de l'iboga, soulevant des questions de préservation et d'appropriation culturelle.",
+  "sources": [
+    "Fernandez, J.W. (1982). Bwiti: An Ethnography of the Religious Imagination in Africa",
+    "Swiderski, S. (1990). La religion Bouiti"
+  ],
+  "notes": ""
+}

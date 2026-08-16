@@ -1,0 +1,25 @@
+{
+  "id": "elima",
+  "nom": "Elima",
+  "variantes": [],
+  "region": "afrique-centrale",
+  "categorie": "rites",
+  "peuples": ["Mbuti"],
+  "resume": "Cérémonie mbuti célébrant les premières règles d'une jeune fille, réunissant les filles nubiles du camp dans une hutte spéciale pendant plusieurs semaines pour un apprentissage collectif encadré par les femmes plus âgées, ponctué de chants distinctifs.",
+  "domaines": ["passage à l'âge adulte", "féminité", "apprentissage collectif"],
+  "tags": ["initiation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["hutte elima", "chants elima spécifiques"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Turnbull, C.M. (1961). The Forest People",
+    "Turnbull, C.M. (1965). Wayward Servants: The Two Worlds of the African Pygmies"
+  ],
+  "notes": ""
+}

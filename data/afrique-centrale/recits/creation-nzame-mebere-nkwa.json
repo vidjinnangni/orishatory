@@ -1,0 +1,25 @@
+{
+  "id": "creation-nzame-mebere-nkwa",
+  "nom": "La création selon Nzame, Mebere et Nkwa",
+  "variantes": [],
+  "region": "afrique-centrale",
+  "categorie": "recits",
+  "peuples": ["Fang"],
+  "resume": "Récit cosmogonique fang où trois aspects divins, Nzame, Mebere et Nkwa, créent conjointement le monde, les animaux puis l'humanité, façonnant Fam le premier homme à leur image après plusieurs tentatives.",
+  "domaines": ["création", "trinité divine", "origine humaine"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["nzame"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Tessmann, G. (1913). Die Pangwe",
+    "Fernandez, J.W. (1982). Bwiti: An Ethnography of the Religious Imagination in Africa"
+  ],
+  "notes": ""
+}

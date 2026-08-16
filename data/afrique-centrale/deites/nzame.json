@@ -1,0 +1,25 @@
+{
+  "id": "nzame",
+  "nom": "Nzame",
+  "variantes": [],
+  "region": "afrique-centrale",
+  "categorie": "deites",
+  "peuples": ["Fang"],
+  "resume": "Dieu créateur suprême dans la cosmogonie fang (Gabon, Guinée équatoriale, Cameroun), l'un des trois aspects divins (avec Mebere et Nkwa) ayant participé à la création du monde et de l'humanité.",
+  "domaines": ["création", "ciel", "ordre cosmique"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": ["creation-nzame-mebere-nkwa"],
+  "culte_contemporain": "",
+  "sources": [
+    "Tessmann, G. (1913). Die Pangwe (étude ethnographique fang)",
+    "Fernandez, J.W. (1982). Bwiti: An Ethnography of the Religious Imagination in Africa"
+  ],
+  "notes": ""
+}

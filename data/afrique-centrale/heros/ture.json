@@ -1,0 +1,25 @@
+{
+  "id": "ture",
+  "nom": "Ture",
+  "variantes": [],
+  "region": "afrique-centrale",
+  "categorie": "heros",
+  "peuples": ["Azande"],
+  "resume": "Araignée rusée et figure de trickster centrale des contes azande (Soudan du Sud, RDC, République centrafricaine), triomphant des autres animaux et parfois des humains par la ruse, souvent au prix de conséquences imprévues pour lui-même.",
+  "domaines": ["ruse", "narration", "imprévisibilité"],
+  "tags": ["trickster"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["forme d'araignée"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Evans-Pritchard, E.E. (1967). The Zande Trickster",
+    "Evans-Pritchard, E.E. (1937). Witchcraft, Oracles and Magic among the Azande (contexte ethnographique plus large)"
+  ],
+  "notes": "Distinct d'Anansi (Akan) bien que partageant la forme arachnéenne et la fonction de trickster ; les deux traditions ne semblent pas historiquement reliées, illustrant une convergence indépendante du motif."
+}

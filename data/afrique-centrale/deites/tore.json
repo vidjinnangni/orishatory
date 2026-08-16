@@ -1,0 +1,25 @@
+{
+  "id": "tore",
+  "nom": "Tore",
+  "variantes": [],
+  "region": "afrique-centrale",
+  "categorie": "deites",
+  "peuples": ["Mbuti"],
+  "resume": "Figure divine et esprit de la forêt dans la cosmologie mbuti (pygmées de la forêt d'Ituri), associé à l'origine de la mort et parfois envisagé comme complémentaire à la forêt elle-même, vénérée comme source de vie ultime.",
+  "domaines": ["forêt", "mort", "origine du monde"],
+  "tags": ["mort-au-dela"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Turnbull, C.M. (1961). The Forest People",
+    "Schebesta, P. (1936-1938). Die Bambuti-Pygmäen vom Ituri"
+  ],
+  "notes": "Pour les Mbuti, la forêt elle-même occupe souvent une place théologique plus centrale que Tore : certains ethnographes ont noté que la forêt était traitée comme parent nourricier avant tout panthéon personnifié."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "emela-ntouka",
+  "nom": "Emela-ntouka",
+  "variantes": [],
+  "region": "afrique-centrale",
+  "categorie": "creatures",
+  "peuples": ["peuples du bassin du Congo"],
+  "resume": "Créature légendaire semi-aquatique à corne unique décrite dans le folklore du bassin du Congo, réputée redoutable et capable de tuer des éléphants qui s'aventureraient sur son territoire. Objet, comme Mokele-mbembe, d'un intérêt cryptozoologique occidental.",
+  "domaines": ["rivières", "danger", "territoire"],
+  "tags": ["eau"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["mokele-mbembe"]
+  },
+  "attributs": ["corne unique", "taille massive"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Mackal, R.P. (1987). A Living Dinosaur? In Search of Mokele-Mbembe (mentionne aussi l'Emela-ntouka)",
+    "Shuker, K.P.N. (1995). In Search of Prehistoric Survivors"
+  ],
+  "notes": "Comme pour Mokele-mbembe, le récit local d'origine sert davantage de mise en garde territoriale que de revendication zoologique littérale ; à distinguer des lectures cryptozoologiques sensationnalistes qui en ont été faites en Occident."
+}
