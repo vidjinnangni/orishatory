@@ -1,0 +1,25 @@
+{
+  "id": "mvett",
+  "nom": "Mvett",
+  "variantes": [],
+  "region": "afrique-centrale",
+  "categorie": "recits",
+  "peuples": ["Fang", "Beti"],
+  "resume": "Tradition épique orale fang et beti, mêlant récit chanté et instrument de musique du même nom, narrant les exploits des Immortels (Beketan) dans leur lutte contre les Mortels (Elat Osamu), transmise par des maîtres-conteurs spécialisés (mvett obiang).",
+  "domaines": ["épopée", "immortalité", "conflit héroïque"],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["instrument de musique à cordes (également nommé mvett)"],
+  "recits_associes": [],
+  "culte_contemporain": "Reconnu comme patrimoine culturel majeur au Gabon et au Cameroun, avec des efforts de transmission scolaire et de documentation face au déclin du nombre de maîtres-conteurs.",
+  "sources": [
+    "Ondo Mba, T. (1990). Le Mvett, épopée des Fang",
+    "Nnang Ndong, L. (1990). Le mvett: littérature orale fang"
+  ],
+  "notes": ""
+}

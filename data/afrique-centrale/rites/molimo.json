@@ -1,0 +1,25 @@
+{
+  "id": "molimo",
+  "nom": "Molimo",
+  "variantes": [],
+  "region": "afrique-centrale",
+  "categorie": "rites",
+  "peuples": ["Mbuti"],
+  "resume": "Cérémonie nocturne mbuti organisée en réponse à un événement grave (mort, maladie, malheur collectif), au cours de laquelle les hommes font résonner une longue trompette en bois à travers la forêt pour 'réveiller' celle-ci et restaurer l'harmonie.",
+  "domaines": ["crise collective", "harmonie avec la forêt", "musique rituelle"],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["tore"]
+  },
+  "attributs": ["trompette molimo en bois ou en écorce", "chants nocturnes"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Turnbull, C.M. (1961). The Forest People",
+    "Turnbull, C.M. (1965). Wayward Servants: The Two Worlds of the African Pygmies"
+  ],
+  "notes": ""
+}

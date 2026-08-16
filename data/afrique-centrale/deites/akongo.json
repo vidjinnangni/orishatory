@@ -1,0 +1,25 @@
+{
+  "id": "akongo",
+  "nom": "Akongo",
+  "variantes": [],
+  "region": "afrique-centrale",
+  "categorie": "deites",
+  "peuples": ["Mongo"],
+  "resume": "Dieu créateur suprême dans la cosmologie mongo (bassin du fleuve Congo), retiré du monde après la création et devenu largement indifférent aux affaires humaines, laissant la gestion du quotidien aux esprits ancestraux et à la sorcellerie.",
+  "domaines": ["création", "retrait divin", "destin"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Hulstaert, G. (1938). Les Mongo: Aperçu général",
+    "de Rop, A. (1958). La création de l'homme dans les traditions mongo"
+  ],
+  "notes": ""
+}
