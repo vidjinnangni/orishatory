@@ -1,0 +1,25 @@
+{
+  "id": "chitimukulu",
+  "nom": "Chitimukulu",
+  "variantes": [],
+  "region": "afrique-centrale",
+  "categorie": "heros",
+  "peuples": ["Bemba"],
+  "resume": "Titre et figure fondatrice légendaire de la royauté bemba (actuelle Zambie), désignant le premier chef ayant conduit la migration du peuple depuis le cœur de l'ancien empire luba jusqu'à leur territoire actuel. Fonction toujours portée par le chef suprême bemba contemporain.",
+  "domaines": ["migration", "fondation royale", "autorité suprême"],
+  "tags": ["royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": ["migration-bemba"],
+  "culte_contemporain": "",
+  "sources": [
+    "Roberts, A. (1973). A History of the Bemba: Political Growth and Change in North-Eastern Zambia",
+    "Richards, A.I. (1940). Bemba Chief and Council (contexte ethnographique politique)"
+  ],
+  "notes": "'Chitimukulu' est à la fois le nom du fondateur légendaire et le titre porté aujourd'hui par le souverain suprême bemba, illustrant une continuité symbolique délibérément entretenue entre passé mythique et autorité contemporaine."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "nkira",
+  "nom": "Nkira",
+  "variantes": [],
+  "region": "afrique-centrale",
+  "categorie": "deites",
+  "peuples": ["Teke"],
+  "resume": "Catégorie d'esprits de la terre et de l'eau dans la cosmologie teke, intimement liés à la légitimité du souverain Makoko du royaume teke, dont l'investiture royale nécessitait traditionnellement leur reconnaissance rituelle.",
+  "domaines": ["terre", "eau", "légitimité royale"],
+  "tags": ["eau", "terre-fertilite", "royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Vansina, J. (1973). The Tio Kingdom of the Middle Congo, 1880-1892",
+    "Dupré, M-C. (1985). Le système des forces nkira chez les Teke Tsaayi"
+  ],
+  "notes": ""
+}

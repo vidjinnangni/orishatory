@@ -1,0 +1,25 @@
+{
+  "id": "cikunza",
+  "nom": "Cikunza",
+  "variantes": [],
+  "region": "afrique-centrale",
+  "categorie": "deites",
+  "peuples": ["Chokwe"],
+  "resume": "Esprit protecteur chokwe de la chasse et de la circoncision, incarné par un masque conique caractéristique porté lors des cérémonies d'initiation masculine (mukanda), garant de la réussite à la chasse et de la fertilité du gibier.",
+  "domaines": ["chasse", "initiation masculine", "fertilité animale"],
+  "tags": ["initiation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["mwana-pwo"]
+  },
+  "attributs": ["masque conique élevé (cikunza)", "fibres végétales"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Bastin, M-L. (1961). Art décoratif tshokwe",
+    "Jordán, M.A. (1998). Chokwe!: Art and Initiation among Chokwe and Related Peoples"
+  ],
+  "notes": ""
+}

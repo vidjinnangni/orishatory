@@ -1,0 +1,25 @@
+{
+  "id": "lukasa",
+  "nom": "Lukasa",
+  "variantes": [],
+  "region": "afrique-centrale",
+  "categorie": "rites",
+  "peuples": ["Luba"],
+  "resume": "Planchette de mémoire luba couverte de perles et de motifs sculptés en relief, utilisée par les membres de la société Mbudye comme support mnémotechnique pour réciter l'histoire dynastique, la généalogie royale et la géographie sacrée du royaume lors de performances rituelles.",
+  "domaines": ["mémoire dynastique", "histoire orale", "légitimité politique"],
+  "tags": ["royaute-sacree", "ancetres"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["bulopwe"]
+  },
+  "attributs": ["planchette en bois couverte de perles, coquillages et motifs sculptés"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Nooter Roberts, M. & Roberts, A.F. (1996). Memory: Luba Art and the Making of History",
+    "Petit, P. (2008). La question luba: identités, appartenances et pouvoirs"
+  ],
+  "notes": "Le lukasa n'est pas un texte écrit à décoder terme à terme mais un dispositif mnémotechnique dont la lecture varie selon la performance et le récitant, ce qui en fait un objet d'étude particulièrement riche sur les formes non-écrites de transmission historique."
+}

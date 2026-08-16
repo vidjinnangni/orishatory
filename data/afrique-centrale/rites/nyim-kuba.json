@@ -1,0 +1,25 @@
+{
+  "id": "nyim-kuba",
+  "nom": "Le Nyim (royauté sacrée kuba)",
+  "variantes": [],
+  "region": "afrique-centrale",
+  "categorie": "rites",
+  "peuples": ["Kuba"],
+  "resume": "Institution de royauté sacrée kuba selon laquelle le souverain (nyim) est considéré comme un intermédiaire quasi-divin, soumis à un ensemble strict de tabous et de rituels de cour destinés à préserver la prospérité et l'ordre cosmique du royaume.",
+  "domaines": ["royauté sacrée", "tabous royaux", "ordre cosmique"],
+  "tags": ["royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["bumba"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Vansina, J. (1978). The Children of Woot: A History of the Kuba Peoples",
+    "Binkley, D.A. & Darish, P. (2009). Kuba"
+  ],
+  "notes": "La richesse des arts de cour kuba (textiles raphia, sculpture, ndop royaux) documentée par les collections muséales occidentales depuis le début du 20e siècle est directement liée à cette centralité rituelle de la figure du nyim."
+}

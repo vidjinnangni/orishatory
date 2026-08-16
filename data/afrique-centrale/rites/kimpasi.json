@@ -1,0 +1,25 @@
+{
+  "id": "kimpasi",
+  "nom": "Kimpasi",
+  "variantes": [],
+  "region": "afrique-centrale",
+  "categorie": "rites",
+  "peuples": ["Kongo"],
+  "resume": "Société d'initiation kongo historiquement destinée aux adolescents traversant une crise ou une maladie grave, impliquant une retraite en forêt, une 'mort' et 'renaissance' symbolique encadrée par des spécialistes rituels, restaurant l'équilibre spirituel du néophyte et de la communauté.",
+  "domaines": ["initiation", "guérison", "mort et renaissance symbolique"],
+  "tags": ["initiation", "mort-au-dela"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "MacGaffey, W. (1986). Religion and Society in Central Africa: The BaKongo of Lower Zaire",
+    "Janzen, J.M. (1982). Lemba, 1650-1930: A Drum of Affliction in Africa and the New World"
+  ],
+  "notes": "Largement réprimée par les missions chrétiennes durant la période coloniale, la pratique du kimpasi a fortement décliné au 20e siècle, contrairement à d'autres institutions kongo comme le nkisi qui ont mieux survécu sous des formes adaptées."
+}

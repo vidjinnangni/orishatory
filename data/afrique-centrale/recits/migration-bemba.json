@@ -1,0 +1,25 @@
+{
+  "id": "migration-bemba",
+  "nom": "La migration bemba depuis le Luba",
+  "variantes": [],
+  "region": "afrique-centrale",
+  "categorie": "recits",
+  "peuples": ["Bemba"],
+  "resume": "Récit fondateur bemba narrant l'exode d'un groupe dirigé par les ancêtres de Chitimukulu depuis le royaume luba, à la suite d'un conflit de succession, jusqu'à leur installation sur le plateau du nord-est de l'actuelle Zambie où ils fondent le royaume bemba.",
+  "domaines": ["migration", "conflit de succession", "fondation territoriale"],
+  "tags": ["royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["chitimukulu"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Roberts, A. (1973). A History of the Bemba: Political Growth and Change in North-Eastern Zambia",
+    "Labrecque, E. (1933). La tribu des Babemba (première transcription missionnaire du récit)"
+  ],
+  "notes": ""
+}
