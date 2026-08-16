@@ -1,0 +1,25 @@
+{
+  "id": "kipoko",
+  "nom": "Kipoko",
+  "variantes": ["Giphogo"],
+  "region": "afrique-centrale",
+  "categorie": "creatures",
+  "peuples": ["Pende"],
+  "resume": "Esprit-masque pende associé au pouvoir royal et divinatoire, porté lors de cérémonies liées à l'investiture des chefs et à la résolution de crises communautaires, réputé capable de révéler des vérités cachées.",
+  "domaines": ["pouvoir royal", "divination", "résolution de crise"],
+  "tags": ["divination", "royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["masque à traits stylisés", "coiffe conique"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "de Sousberghe, L. (1958). L'art pende",
+    "Strother, Z.S. (1998). Inventing Masks: Agency and History in the Art of the Central Pende"
+  ],
+  "notes": ""
+}

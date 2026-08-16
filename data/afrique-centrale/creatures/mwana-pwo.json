@@ -1,0 +1,25 @@
+{
+  "id": "mwana-pwo",
+  "nom": "Mwana Pwo",
+  "variantes": ["Pwo"],
+  "region": "afrique-centrale",
+  "categorie": "creatures",
+  "peuples": ["Chokwe"],
+  "resume": "Masque féminin idéalisé chokwe représentant une ancêtre exemplaire, incarnant la beauté, la fécondité et les vertus féminines transmises aux jeunes initiées, dansé traditionnellement par un homme lors des cérémonies publiques liées au mukanda.",
+  "domaines": ["féminité idéale", "ancestralité", "fécondité"],
+  "tags": ["ancetres", "terre-fertilite"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["cikunza"]
+  },
+  "attributs": ["masque au visage scarifié", "coiffe élaborée", "costume moulant en fibres"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Bastin, M-L. (1961). Art décoratif tshokwe",
+    "Jordán, M.A. (1998). Chokwe!: Art and Initiation among Chokwe and Related Peoples"
+  ],
+  "notes": "Le fait qu'un homme incarne traditionnellement cette figure féminine illustre la complexité des rapports de genre dans la ritualité chokwe, où la performance rituelle ne reproduit pas nécessairement une répartition genrée simple des rôles."
+}

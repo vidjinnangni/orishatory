@@ -1,0 +1,25 @@
+{
+  "id": "bulopwe",
+  "nom": "Bulopwe",
+  "variantes": [],
+  "region": "afrique-centrale",
+  "categorie": "rites",
+  "peuples": ["Luba"],
+  "resume": "Principe de royauté sacrée luba selon lequel le pouvoir politique procède d'une force spirituelle transmise par le sang royal, incarnée par le souverain (mulopwe) et matérialisée par des objets de régalia consacrés.",
+  "domaines": ["royauté sacrée", "légitimité politique", "transmission spirituelle"],
+  "tags": ["royaute-sacree", "ancetres"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["lukasa"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Reefe, T.Q. (1981). The Rainbow and the Kings: A History of the Luba Empire to 1891",
+    "Nooter Roberts, M. & Roberts, A.F. (1996). Memory: Luba Art and the Making of History"
+  ],
+  "notes": ""
+}
