@@ -1,0 +1,25 @@
+{
+  "id": "okuruwo",
+  "nom": "Okuruwo",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "rites",
+  "peuples": ["Herero"],
+  "resume": "Foyer sacré entretenu en continu au sein de chaque homestead herero, symbolisant le lien ininterrompu avec les ancêtres et Mukuru, sous la responsabilité d'un gardien du feu désigné au sein de la famille.",
+  "domaines": ["feu sacré", "ancestralité", "continuité familiale"],
+  "tags": ["ancetres"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["mukuru"]
+  },
+  "attributs": ["feu perpétuel", "emplacement fixe entre l'habitation et l'enclos à bétail"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Vedder, H. (1928). The Herero",
+    "Gibson, G.D. (1956). Double Descent and Its Correlates among the Herero"
+  ],
+  "notes": ""
+}

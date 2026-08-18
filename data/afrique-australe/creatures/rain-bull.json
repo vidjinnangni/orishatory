@@ -1,0 +1,25 @@
+{
+  "id": "rain-bull",
+  "nom": "Le taureau de pluie",
+  "variantes": ["!Khwa"],
+  "region": "afrique-australe",
+  "categorie": "creatures",
+  "peuples": ["San"],
+  "resume": "Créature mythique san associée à l'origine de la pluie, souvent représentée dans l'art rupestre san, capturée et 'menée' symboliquement par les chamanes en transe pour provoquer les précipitations lors de rituels de danse.",
+  "domaines": ["pluie", "transe chamanique", "art rupestre"],
+  "tags": ["eau"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["kaggen"]
+  },
+  "attributs": ["forme bovine ou hybride selon les représentations rupestres"],
+  "recits_associes": [],
+  "culte_contemporain": "Motif central de l'art rupestre san (peintures rupestres du Drakensberg notamment), aujourd'hui étudié comme témoignage majeur de la cosmologie chamanique san précoloniale.",
+  "sources": [
+    "Lewis-Williams, J.D. (1981). Believing and Seeing: Symbolic Meanings in Southern San Rock Paintings",
+    "Lewis-Williams, J.D. & Dowson, T.A. (1989). Images of Power: Understanding San Rock Art"
+  ],
+  "notes": "L'interprétation chamanique de l'art rupestre san (associée notamment aux travaux de Lewis-Williams) fait référence dans le champ académique, mais certains éléments spécifiques de lecture symbolique restent débattus entre spécialistes."
+}

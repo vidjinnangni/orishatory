@@ -1,0 +1,25 @@
+{
+  "id": "nehanda",
+  "nom": "Nehanda (Charwe Nyakasikana)",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "heros",
+  "peuples": ["Shona"],
+  "resume": "Esprit-médium shona et titre porté par plusieurs prêtresses successives, dont la plus connue historiquement, Charwe Nyakasikana, dirigea une résistance armée contre la colonisation britannique lors de la première guerre Chimurenga (1896-1897) avant d'être exécutée par les autorités coloniales.",
+  "domaines": ["résistance anticoloniale", "prophétie", "esprit-médium"],
+  "tags": ["divination"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["chaminuka"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "Figure centrale de la mémoire nationale zimbabwéenne, invoquée notamment durant la guerre de libération des années 1970 (seconde Chimurenga) et commémorée par une statue nationale.",
+  "sources": [
+    "Lan, D. (1985). Guns and Rain: Guerrillas and Spirit Mediums in Zimbabwe",
+    "Ranger, T.O. (1967). Revolt in Southern Rhodesia 1896-97"
+  ],
+  "notes": "La distinction entre Nehanda comme titre spirituel porté par une lignée de médiums et Charwe Nyakasikana comme personne historique exécutée en 1898 est parfois estompée dans la mémoire populaire, qui fusionne les deux dans une figure unique."
+}

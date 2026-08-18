@@ -1,0 +1,25 @@
+{
+  "id": "nyambe",
+  "nom": "Nyambe",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "deites",
+  "peuples": ["Lozi"],
+  "resume": "Dieu créateur lozi (plaine inondable du Zambèze, Zambie), à l'origine du monde et des premiers hommes, ayant fui vers le ciel après que les humains eurent découvert le secret de fabriquer des armes capables de le menacer.",
+  "domaines": ["création", "ciel", "retrait divin"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Jalla, A. (1921). Litaba za Sicaba sa Malozi (histoire orale lozi)",
+    "Gluckman, M. (1941). Economy of the Central Barotse Plain"
+  ],
+  "notes": "Le motif d'un créateur contraint de fuir au ciel face à une menace humaine se retrouve, sous des formes distinctes, dans plusieurs cosmogonies africaines de créateurs 'retirés'."
+}
