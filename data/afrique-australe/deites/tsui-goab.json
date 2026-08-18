@@ -1,0 +1,25 @@
+{
+  "id": "tsui-goab",
+  "nom": "Tsui//goab",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "deites",
+  "peuples": ["Khoikhoi"],
+  "resume": "Dieu du ciel et de la pluie dans la religion khoikhoi, associé au tonnerre et à la guérison, traditionnellement opposé au dieu du mal et des ténèbres Gaunab dans un conflit cosmique originel qu'il remporte.",
+  "domaines": ["ciel", "pluie", "tonnerre", "guérison"],
+  "tags": ["eau", "foudre-orage"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["heitsi-eibib"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Hahn, T. (1881). Tsuni-Goam: The Supreme Being of the Khoi-Khoi",
+    "Schmidt, S. (2001). Khoisan folktales"
+  ],
+  "notes": "Le nom même de Tsui//goab a longtemps été discuté par les linguistes et missionnaires du 19e siècle, certains y voyant une divinité authentiquement précoloniale, d'autres soupçonnant une influence des premiers contacts avec les récits chrétiens."
+}

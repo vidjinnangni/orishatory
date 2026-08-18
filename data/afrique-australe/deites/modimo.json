@@ -1,0 +1,25 @@
+{
+  "id": "modimo",
+  "nom": "Modimo",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "deites",
+  "peuples": ["Sotho", "Tswana"],
+  "resume": "Concept de divinité suprême dans la pensée sotho-tswana, entité abstraite et lointaine associée à la création et à l'ordre moral, rarement représentée sous une forme anthropomorphe et approchée surtout via les esprits ancestraux (badimo).",
+  "domaines": ["création", "ordre moral", "transcendance"],
+  "tags": ["creation", "ancetres"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Setiloane, G.M. (1976). The Image of God among the Sotho-Tswana",
+    "Schapera, I. (1953). The Tswana"
+  ],
+  "notes": "Le terme Modimo a également été repris par les missionnaires chrétiens pour traduire 'Dieu', ce qui complique la reconstitution de sa signification précoloniale exacte, comme pour uNkulunkulu chez les Zulu."
+}

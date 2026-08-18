@@ -1,0 +1,25 @@
+{
+  "id": "swikwembu",
+  "nom": "Swikwembu",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "rites",
+  "peuples": ["Tsonga"],
+  "resume": "Pratique tsonga de vénération des esprits ancestraux, consultés pour la protection, la guérison et la résolution des conflits familiaux, souvent par l'intermédiaire de devins-guérisseurs (nyanga) en état de possession.",
+  "domaines": ["ancestralité", "guérison", "divination"],
+  "tags": ["ancetres", "divination"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Junod, H.A. (1912-1913). The Life of a South African Tribe",
+    "Harris, M. (1959). Considerations on Tsonga Ancestor Worship"
+  ],
+  "notes": ""
+}

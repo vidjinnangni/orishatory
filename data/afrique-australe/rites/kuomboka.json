@@ -1,0 +1,25 @@
+{
+  "id": "kuomboka",
+  "nom": "Kuomboka",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "rites",
+  "peuples": ["Lozi"],
+  "resume": "Cérémonie royale lozi marquant le déplacement annuel du roi (litunga) et de sa cour depuis la plaine inondable du Zambèze vers des terres plus élevées à l'approche de la saison des crues, accompagné d'une procession fluviale spectaculaire en pirogues royales.",
+  "domaines": ["royauté", "migration saisonnière", "cohésion communautaire"],
+  "tags": ["royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["nyambe"]
+  },
+  "attributs": ["pirogue royale Nalikwanda", "tambours royaux maoma"],
+  "recits_associes": [],
+  "culte_contemporain": "Reste célébrée chaque année en Zambie, devenue également une attraction touristique et un symbole national d'identité lozi.",
+  "sources": [
+    "Gluckman, M. (1941). Economy of the Central Barotse Plain",
+    "Mainga, M. (1973). Bulozi under the Luyana Kings"
+  ],
+  "notes": ""
+}

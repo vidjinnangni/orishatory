@@ -1,0 +1,25 @@
+{
+  "id": "mukuru",
+  "nom": "Mukuru",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "deites",
+  "peuples": ["Herero"],
+  "resume": "Dieu suprême herero (Namibie), associé aux ancêtres fondateurs et au feu sacré, dont la présence est maintenue au sein de chaque communauté par le foyer rituel okuruwo, entretenu en continu par un gardien désigné.",
+  "domaines": ["création", "ancestralité", "feu sacré"],
+  "tags": ["creation", "ancetres"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["okuruwo"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Vedder, H. (1928). The Herero",
+    "Gibson, G.D. (1956). Double Descent and Its Correlates among the Herero"
+  ],
+  "notes": ""
+}
