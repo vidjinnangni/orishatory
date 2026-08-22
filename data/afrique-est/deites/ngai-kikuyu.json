@@ -1,0 +1,25 @@
+{
+  "id": "ngai-kikuyu",
+  "nom": "Ngai",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "deites",
+  "peuples": ["Kikuyu"],
+  "resume": "Dieu suprême kikuyu, créateur associé au mont Kenya (Kirinyaga, sa demeure terrestre), à l'origine des ancêtres fondateurs Gikuyu et Mumbi. Concept apparenté à l'Engai maasai voisin, reflétant des contacts culturels anciens entre les deux peuples.",
+  "domaines": ["création", "montagne sacrée", "fondation ancestrale"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["engai"]
+  },
+  "attributs": ["mont Kenya (Kirinyaga)"],
+  "recits_associes": ["gikuyu-et-mumbi"],
+  "culte_contemporain": "",
+  "sources": [
+    "Kenyatta, J. (1938). Facing Mount Kenya",
+    "Leakey, L.S.B. (1977). The Southern Kikuyu before 1903"
+  ],
+  "notes": "Jomo Kenyatta, futur premier président du Kenya, a documenté cette cosmologie dans sa thèse d'anthropologie publiée en 1938, l'un des rares cas où un dirigeant politique africain majeur a lui-même produit une étude académique de référence sur la religion de son peuple."
+}

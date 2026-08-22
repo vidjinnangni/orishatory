@@ -1,0 +1,25 @@
+{
+  "id": "zanahary",
+  "nom": "Zanahary",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "deites",
+  "peuples": ["Malgaches"],
+  "resume": "Dieu créateur suprême dans la cosmologie malgache, associé au ciel et à l'origine de la vie, souvent envisagé en complémentarité avec Ratovoantany, la divinité de la terre, selon un schéma dualiste ciel-terre présent dans plusieurs traditions régionales de Madagascar.",
+  "domaines": ["création", "ciel", "origine de la vie"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["ratovoantany"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Ruud, J. (1960). Taboo: A Study of Malagasy Customs and Beliefs",
+    "Bloch, M. (1986). From Blessing to Violence: History and Ideology in the Circumcision Ritual of the Merina of Madagascar"
+  ],
+  "notes": ""
+}
