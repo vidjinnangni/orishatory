@@ -1,0 +1,25 @@
+{
+  "id": "gikuyu-et-mumbi",
+  "nom": "Gikuyu et Mumbi",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "recits",
+  "peuples": ["Kikuyu"],
+  "resume": "Récit fondateur kikuyu selon lequel Ngai conduisit le premier homme, Gikuyu, au sommet du mont Kenya et lui donna Mumbi pour épouse, leurs neuf filles devenant les ancêtres fondatrices des neuf principaux clans (mbari) du peuple kikuyu.",
+  "domaines": ["origine humaine", "fondation clanique", "montagne sacrée"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["ngai-kikuyu"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Kenyatta, J. (1938). Facing Mount Kenya",
+    "Leakey, L.S.B. (1977). The Southern Kikuyu before 1903"
+  ],
+  "notes": "La référence aux 'neuf filles' est parfois transmise comme dix dans certaines versions, le chiffre neuf étant traditionnellement considéré tabou à prononcer directement chez les Kikuyu, d'où la formule rituelle 'les filles complètes de Mumbi'."
+}

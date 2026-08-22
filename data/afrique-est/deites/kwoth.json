@@ -1,0 +1,25 @@
+{
+  "id": "kwoth",
+  "nom": "Kwoth",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "deites",
+  "peuples": ["Nuer"],
+  "resume": "Esprit suprême et invisible dans la cosmologie nuer (Soudan du Sud), présent en toute chose sans forme fixe, approché à travers une multitude de manifestations et d'esprits secondaires plutôt que par une représentation unique.",
+  "domaines": ["création", "présence universelle", "esprit"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Evans-Pritchard, E.E. (1956). Nuer Religion",
+    "Hutchinson, S.E. (1996). Nuer Dilemmas: Coping with Money, War, and the State"
+  ],
+  "notes": "La conception nuer de Kwoth, étudiée en détail par Evans-Pritchard, est souvent citée en anthropologie comme exemple d'une théologie de l'immanence plutôt que de la transcendance figée : Kwoth n'a pas de forme unique mais se manifeste diversement selon le contexte."
+}

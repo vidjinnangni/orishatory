@@ -1,0 +1,25 @@
+{
+  "id": "lukwata",
+  "nom": "Lukwata",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "creatures",
+  "peuples": ["Baganda"],
+  "resume": "Créature légendaire censée habiter les profondeurs du lac Victoria, décrite selon les récits comme un serpent géant ou un poisson monstrueux capable de faire chavirer des embarcations, invoquée traditionnellement pour expliquer des noyades inexpliquées.",
+  "domaines": ["lac", "danger", "profondeurs"],
+  "tags": ["eau"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Roscoe, J. (1911). The Baganda: An Account of Their Native Customs and Beliefs",
+    "Kitching, A.L. (1912). On the Backwaters of the Nile"
+  ],
+  "notes": ""
+}

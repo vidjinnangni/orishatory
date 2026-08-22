@@ -1,0 +1,25 @@
+{
+  "id": "irreecha",
+  "nom": "Irreecha",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "rites",
+  "peuples": ["Oromo"],
+  "resume": "Fête oromo d'action de grâce marquant la fin de la saison des pluies, au cours de laquelle des centaines de milliers de fidèles se rassemblent près de plans d'eau (notamment le lac Hora Harsadi à Bishoftu) pour remercier Waaq des bienfaits de l'année écoulée.",
+  "domaines": ["action de grâce", "cycle saisonnier", "rassemblement communautaire"],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["waaq", "gada"]
+  },
+  "attributs": ["herbe fraîche et fleurs portées en offrande", "rassemblement près de l'eau"],
+  "recits_associes": [],
+  "culte_contemporain": "Inscrite au patrimoine culturel immatériel de l'UNESCO en 2024 ; a connu une résurgence marquée depuis les années 1990 comme expression de l'identité culturelle oromo, non sans tensions politiques lors de grands rassemblements (dont une bousculade meurtrière en 2016).",
+  "sources": [
+    "UNESCO (2024). Irreecha, thanksgiving ceremony of the Oromo people",
+    "Gemechu Megersa (2005). Sourcing the Oromo self-knowledge"
+  ],
+  "notes": "Le rassemblement de 2016 à Bishoftu, marqué par une bousculade ayant causé de nombreux morts dans un contexte de tensions politiques avec le gouvernement fédéral éthiopien, illustre que cette fête religieuse est aussi devenue un espace d'expression politique majeur pour la communauté oromo."
+}

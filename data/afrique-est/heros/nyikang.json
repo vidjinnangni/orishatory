@@ -1,0 +1,25 @@
+{
+  "id": "nyikang",
+  "nom": "Nyikang",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "heros",
+  "peuples": ["Shilluk"],
+  "resume": "Fondateur divin légendaire du royaume shilluk sur les rives du Nil Blanc (Soudan du Sud), dont l'esprit est censé habiter chaque roi (reth) successif après une cérémonie d'investiture spécifique, incarnant la continuité de la royauté sacrée shilluk.",
+  "domaines": ["royauté sacrée", "fondation dynastique", "continuité spirituelle"],
+  "tags": ["royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Evans-Pritchard, E.E. (1948). The Divine Kingship of the Shilluk of the Nilotic Sudan",
+    "Lienhardt, G. (1954). The Shilluk of the Upper Nile"
+  ],
+  "notes": "Le système de royauté shilluk, où le roi vivant est censé être habité par l'esprit de Nyikang, a été l'un des cas fondateurs de la théorie anthropologique de la 'royauté divine' développée par Frazer puis nuancée par Evans-Pritchard."
+}

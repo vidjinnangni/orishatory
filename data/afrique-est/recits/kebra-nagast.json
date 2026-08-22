@@ -1,0 +1,25 @@
+{
+  "id": "kebra-nagast",
+  "nom": "Kebra Nagast (la Gloire des Rois)",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "recits",
+  "peuples": ["Éthiopiens (Amhara / Tigréens)"],
+  "resume": "Texte fondateur éthiopien du 14e siècle narrant la rencontre entre le roi Salomon et la reine de Saba, dont l'union aurait engendré Ménélik Ier, fondateur légendaire de la dynastie salomonide d'Éthiopie, qui aurait rapporté l'Arche d'alliance à Aksoum.",
+  "domaines": ["fondation dynastique", "légitimité royale", "transmission sacrée"],
+  "tags": ["royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["Arche d'alliance (selon la tradition, conservée à Aksoum)"],
+  "recits_associes": [],
+  "culte_contemporain": "Texte fondateur de la légitimité de la monarchie éthiopienne jusqu'à son abolition en 1974 ; toujours central à l'identité religieuse de l'Église orthodoxe éthiopienne contemporaine.",
+  "sources": [
+    "Budge, E.A.W. (trad.) (1922). The Queen of Sheba and Her Only Son Menyelek (traduction du Kebra Nagast)",
+    "Munro-Hay, S. (2005). The Quest for the Ark of the Covenant"
+  ],
+  "notes": "La véracité historique du récit (existence de la reine de Saba en tant que souveraine éthiopienne, présence effective de l'Arche à Aksoum) relève de la tradition religieuse et fait l'objet de scepticisme académique, sans que cela diminue son importance culturelle et théologique pour l'Éthiopie."
+}

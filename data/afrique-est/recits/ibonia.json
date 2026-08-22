@@ -1,0 +1,25 @@
+{
+  "id": "ibonia",
+  "nom": "Ibonia",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "recits",
+  "peuples": ["Malgaches"],
+  "resume": "Épopée orale malgache majeure narrant les exploits d'un héros aux pouvoirs surnaturels, capable de parler avant sa naissance et de choisir son propre destin, qui affronte des épreuves multiples pour épouser la femme qui lui est destinée.",
+  "domaines": ["héroïsme", "destin", "épreuves initiatiques"],
+  "tags": ["initiation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "Reconnue comme l'une des œuvres majeures de la littérature orale malgache, largement étudiée et traduite depuis sa première transcription au 19e siècle.",
+  "sources": [
+    "Haring, L. (1994). Ibonia: Epic of Madagascar",
+    "Dahle, L. (1877). Anganon' ny Ntaolo (première transcription en malgache)"
+  ],
+  "notes": "L'épopée existe en de nombreuses versions régionales à travers Madagascar, avec des variations significatives ; la version publiée par Lee Haring en 1994 constitue une synthèse comparative de plusieurs de ces variantes plutôt qu'un texte unique canonique."
+}
