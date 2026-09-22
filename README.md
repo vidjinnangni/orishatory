@@ -26,6 +26,7 @@ orishatory/
 │   └── entite.schema.json # schéma JSON pour la validation de chaque fiche
 ├── scripts/
 │   └── validate.py        # validation automatique des fiches
+├── web/                    # site de présentation du codex (Astro, statique)
 └── CONTRIBUTING.md
 ```
 

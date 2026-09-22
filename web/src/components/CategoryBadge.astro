@@ -1,0 +1,28 @@
+---
+import { CATEGORY_LABELS_SINGULAR, type Categorie } from "../lib/constants";
+
+interface Props {
+  categorie: Categorie;
+}
+
+const { categorie } = Astro.props;
+const label = CATEGORY_LABELS_SINGULAR[categorie];
+---
+
+<span class="badge">{label}</span>
+
+<style>
+  .badge {
+    display: inline-flex;
+    align-items: center;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    padding: 0.2em 0.65em;
+    border-radius: 999px;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    color: var(--fg-muted);
+    white-space: nowrap;
+  }
+</style>

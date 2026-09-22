@@ -1,0 +1,284 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Breadcrumb from "../../../components/Breadcrumb.astro";
+import CategoryBadge from "../../../components/CategoryBadge.astro";
+import Pill from "../../../components/Pill.astro";
+import {
+  CATEGORIES,
+  CATEGORY_LABELS,
+  REGIONS,
+  REGION_LABELS,
+  type Categorie,
+  type Region,
+} from "../../../lib/constants";
+import {
+  ALL_ENTITIES,
+  entityHref,
+  getEntitiesByRegionAndCategorie,
+  getEntityById,
+  getTagById,
+} from "../../../lib/data";
+
+export function getStaticPaths() {
+  return REGIONS.flatMap((region) =>
+    CATEGORIES.flatMap((categorie) =>
+      getEntitiesByRegionAndCategorie(region, categorie).map((entity) => ({
+        params: { region, categorie, id: entity.id },
+        props: { entity },
+      })),
+    ),
+  );
+}
+
+const { region, categorie } = Astro.params as { region: Region; categorie: Categorie };
+const { entity } = Astro.props as { entity: (typeof ALL_ENTITIES)[number] };
+
+function relatedLink(id: string) {
+  const target = getEntityById(id);
+  return target ? { label: target.nom, href: entityHref(target) } : { label: id, href: null };
+}
+
+const genealogieGroups = [
+  { label: "Parents", ids: entity.genealogie.parents },
+  { label: "Conjoint·es", ids: entity.genealogie.conjoints },
+  { label: "Enfants", ids: entity.genealogie.enfants },
+  { label: "Entités liées", ids: entity.genealogie.entites_liees },
+].filter((group) => group.ids.length > 0);
+
+const recitsAssocies = entity.recits_associes.map(relatedLink);
+const tags = entity.tags.map((id) => ({ id, label: getTagById(id)?.label ?? id }));
+---
+
+<BaseLayout title={entity.nom} description={entity.resume}>
+  <div class="container">
+    <Breadcrumb
+      items={[
+        { label: "Accueil", href: "/" },
+        { label: REGION_LABELS[region], href: `/${region}/` },
+        { label: CATEGORY_LABELS[categorie], href: `/${region}/${categorie}/` },
+        { label: entity.nom },
+      ]}
+    />
+  </div>
+
+  <article class="container entity">
+    <header class="entity-head">
+      <div class="title-row">
+        <h1>{entity.nom}</h1>
+        <CategoryBadge categorie={categorie} />
+      </div>
+      {entity.variantes.length > 0 && <p class="variantes">Aussi connu·e sous : {entity.variantes.join(", ")}</p>}
+      {entity.peuples.length > 0 && <p class="peuples">{entity.peuples.join(" · ")}</p>}
+    </header>
+
+    <p class="lede">{entity.resume}</p>
+
+    {
+      entity.domaines.length > 0 && (
+        <section aria-label="Domaines">
+          <ul class="pill-row">
+            {entity.domaines.map((d) => (
+              <li>
+                <Pill>{d}</Pill>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+
+    {
+      entity.attributs.length > 0 && (
+        <section>
+          <h2>Attributs</h2>
+          <ul class="prose plain-list">
+            {entity.attributs.map((a) => (
+              <li>{a}</li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+
+    {
+      genealogieGroups.length > 0 && (
+        <section>
+          <h2>Généalogie</h2>
+          <dl class="genealogie">
+            {genealogieGroups.map((group) => (
+              <>
+                <dt>{group.label}</dt>
+                <dd>
+                  {group.ids.map((id, i) => {
+                    const link = relatedLink(id);
+                    return (
+                      <>
+                        {link.href ? <a href={link.href}>{link.label}</a> : <span>{link.label}</span>}
+                        {i < group.ids.length - 1 && ", "}
+                      </>
+                    );
+                  })}
+                </dd>
+              </>
+            ))}
+          </dl>
+        </section>
+      )
+    }
+
+    {
+      recitsAssocies.length > 0 && (
+        <section>
+          <h2>Récits associés</h2>
+          <ul class="prose plain-list">
+            {recitsAssocies.map((link) =>
+              link.href ? (
+                <li>
+                  <a href={link.href}>{link.label}</a>
+                </li>
+              ) : (
+                <li>{link.label}</li>
+              ),
+            )}
+          </ul>
+        </section>
+      )
+    }
+
+    {
+      entity.culte_contemporain && (
+        <section>
+          <h2>Culte contemporain</h2>
+          <p class="prose">{entity.culte_contemporain}</p>
+        </section>
+      )
+    }
+
+    {
+      entity.notes && (
+        <section>
+          <h2>Notes</h2>
+          <p class="prose">{entity.notes}</p>
+        </section>
+      )
+    }
+
+    {
+      tags.length > 0 && (
+        <section aria-label="Tags">
+          <h2 class="visually-hidden">Tags</h2>
+          <ul class="pill-row">
+            {tags.map((tag) => (
+              <li>
+                <Pill href={`/tags/${tag.id}/`}>{tag.label}</Pill>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+
+    <section class="sources">
+      <h2>Sources</h2>
+      <ul class="plain-list">
+        {entity.sources.map((source) => (
+          <li>{source}</li>
+        ))}
+      </ul>
+    </section>
+  </article>
+</BaseLayout>
+
+<style>
+  .entity {
+    padding-block: 1.5rem 4rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .entity-head {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+
+  .title-row {
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+  }
+
+  .title-row h1 {
+    margin: 0;
+  }
+
+  .variantes,
+  .peuples {
+    margin: 0;
+    max-width: none;
+    font-size: 0.9rem;
+    color: var(--fg-muted);
+  }
+
+  .peuples {
+    color: var(--fg);
+    font-weight: 600;
+  }
+
+  .lede {
+    max-width: 65ch;
+    font-size: 1.1rem;
+    color: var(--fg);
+  }
+
+  h2 {
+    font-size: 1.1rem;
+    margin-bottom: 0.6rem;
+  }
+
+  .pill-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .plain-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+  }
+
+  .plain-list li {
+    max-width: var(--measure);
+    font-size: 0.95rem;
+    color: var(--fg-muted);
+  }
+
+  .sources .plain-list li {
+    font-size: 0.85rem;
+  }
+
+  .genealogie {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 0.4rem 1.5rem;
+    margin: 0;
+  }
+
+  .genealogie dt {
+    font-size: 0.85rem;
+    color: var(--fg-muted);
+  }
+
+  .genealogie dd {
+    margin: 0;
+    font-size: 0.95rem;
+  }
+
+  .genealogie a {
+    color: var(--accent);
+    text-decoration-thickness: from-font;
+  }
+</style>

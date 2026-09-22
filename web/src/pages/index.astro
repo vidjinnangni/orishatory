@@ -1,0 +1,96 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { REGIONS, REGION_LABELS, REGION_DESCRIPTIONS } from "../lib/constants";
+import { ALL_ENTITIES, getEntitiesByRegion } from "../lib/data";
+
+const regionCounts = REGIONS.map((region) => ({
+  region,
+  count: getEntitiesByRegion(region).length,
+}));
+---
+
+<BaseLayout title="Accueil">
+  <section class="hero container">
+    <!-- <p class="eyebrow">Codex ouvert</p> -->
+    <h1>Les mythologies du continent africain et de ses diasporas</h1>
+    <p class="lede">
+      {ALL_ENTITIES.length} fiches sourcées : divinités, héros, créatures, récits et rites
+      organisées par grande aire culturelle.
+    </p>
+  </section>
+
+  <section class="container regions" aria-label="Régions">
+    <ul class="region-grid">
+      {
+        regionCounts.map(({ region, count }) => (
+          <li>
+            <a class="region-card" href={`/${region}/`}>
+              <h2>{REGION_LABELS[region]}</h2>
+              <p>{REGION_DESCRIPTIONS[region]}</p>
+              <p class="count">{count} fiche{count > 1 ? "s" : ""}</p>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+</BaseLayout>
+
+<style>
+  .hero {
+    padding-block: clamp(2.5rem, 5vw, 4.5rem) 2rem;
+  }
+
+  .lede {
+    max-width: 52ch;
+    color: var(--fg-muted);
+    font-size: 1.05rem;
+  }
+
+  .regions {
+    padding-block: 1rem 4rem;
+  }
+
+  .region-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+    gap: 1.25rem;
+  }
+
+  .region-card {
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    height: 100%;
+    padding: 1.5rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--bg-elevated);
+    text-decoration: none;
+    color: var(--fg);
+    transition: border-color 0.15s ease;
+  }
+
+  .region-card:hover {
+    border-color: var(--accent);
+  }
+
+  .region-card h2 {
+    margin: 0;
+    font-size: 1.2rem;
+  }
+
+  .region-card p {
+    margin: 0;
+    max-width: none;
+    font-size: 0.9rem;
+    color: var(--fg-muted);
+  }
+
+  .region-card .count {
+    margin-top: auto;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--fg);
+  }
+</style>

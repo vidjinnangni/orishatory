@@ -1,0 +1,68 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Breadcrumb from "../components/Breadcrumb.astro";
+---
+
+<BaseLayout title="À propos">
+  <div class="container">
+    <Breadcrumb items={[{ label: "Accueil", href: "/" }, { label: "À propos" }]} />
+  </div>
+
+  <article class="container prose page">
+    <h1>À propos</h1>
+
+    <p>
+      Orishatory rassemble, de façon rigoureuse et sourcée, les figures divines, héros, créatures,
+      récits et rites des traditions mythologiques africaines ; en faisant attention à deux écueils
+      fréquents :
+    </p>
+    
+    <ul>
+    	<li>
+    		l'homogénéisation (« la » mythologie africaine, comme un bloc uniforme)
+    	</li>
+    	<li>
+    		et la survivance des lectures coloniales dans la façon de nommer et de décrire ces traditions.
+    	</li>
+    </ul>
+    
+
+    <h2>Pourquoi ce découpage régional ?</h2>
+    <p>
+      Les frontières nationales actuelles ne correspondent pas vraiment aux aires culturelles
+      précoloniales. Sur ce projet, nous avons opté pour un découpage par grande région (Ouest, Centrale, Est, Australe, Nord,
+      Diaspora). Cela permet de suivre les grandes zones de circulation historique des langues et des
+      cosmologies. C'est une simplification assumée qui donne une bonne base de départ. Beaucoup de
+      peuples et de traditions débordent ces catégories et les <a href="/tags/">tags transversaux</a> servent
+      à recoudre ce problème.
+    </p>
+
+    <h2>Exigence de sourçage</h2>
+    <p>
+      Toute fiche cite au moins une source académique ou ethnographique. L'objectif est d'avoir un codex de
+      référence.
+    </p>
+
+    <h2>Contribuer</h2>
+    <p>
+      Le codex est un projet ouvert. Le format des fiches, le schéma de validation et le guide de
+      contribution sont documentés dans le <a href="https://github.com/vidjinnangni/orishatory">dépôt GitHub</a>.
+    </p>
+
+    <h2>Licence</h2>
+    <p>
+      Ce projet est distribué sous licence <a href="https://creativecommons.org/licenses/by-sa/4.0/"
+        >CC BY-SA 4.0</a
+      > (Attribution – Partage dans les mêmes conditions) : réutilisation et adaptation libres, y
+      compris commerciales, à condition de créditer le projet et de partager toute œuvre dérivée
+      sous la même licence.
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .page {
+    padding-block: 1.5rem 4rem;
+    max-width: var(--measure);
+  }
+</style>

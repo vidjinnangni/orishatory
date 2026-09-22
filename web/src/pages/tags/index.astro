@@ -1,0 +1,82 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumb from "../../components/Breadcrumb.astro";
+import { ALL_TAGS, getTagCounts } from "../../lib/data";
+
+const counts = getTagCounts();
+const tags = ALL_TAGS.map((tag) => ({ ...tag, count: counts.get(tag.id) ?? 0 })).sort(
+  (a, b) => b.count - a.count,
+);
+---
+
+<BaseLayout title="Tags" description="Motifs mythologiques récurrents à travers les régions.">
+  <div class="container">
+    <Breadcrumb items={[{ label: "Accueil", href: "/" }, { label: "Tags" }]} />
+  </div>
+
+  <section class="container intro">
+    <h1>Tags transversaux</h1>
+    <p class="lede">
+      Tricksters, déluges, jumeaux, cultes des ancêtres.
+    </p>
+  </section>
+
+  <section class="container">
+    <ul class="tag-grid">
+      {
+        tags
+          .filter((tag) => tag.count > 0)
+          .map((tag) => (
+            <li>
+              <a class="tag-card" href={`/tags/${tag.id}/`}>
+                <span>{tag.label}</span>
+                <span class="count">{tag.count}</span>
+              </a>
+            </li>
+          ))
+      }
+    </ul>
+  </section>
+</BaseLayout>
+
+<style>
+  .intro {
+    padding-block: 1rem 2rem;
+  }
+
+  .lede {
+    max-width: 60ch;
+    color: var(--fg-muted);
+  }
+
+  .tag-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr));
+    gap: 1rem;
+    padding-bottom: 4rem;
+  }
+
+  .tag-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    padding: 1rem 1.25rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--bg-elevated);
+    text-decoration: none;
+    color: var(--fg);
+    transition: border-color 0.15s ease;
+  }
+
+  .tag-card:hover {
+    border-color: var(--accent);
+  }
+
+  .count {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--fg);
+  }
+</style>

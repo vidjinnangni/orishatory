@@ -1,0 +1,189 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Breadcrumb from "../components/Breadcrumb.astro";
+import { CATEGORY_LABELS_SINGULAR, REGION_LABELS } from "../lib/constants";
+import { ALL_ENTITIES } from "../lib/data";
+
+const regionLabelsJson = JSON.stringify(REGION_LABELS);
+const categoryLabelsJson = JSON.stringify(CATEGORY_LABELS_SINGULAR);
+---
+
+<BaseLayout title="Recherche" description="Rechercher une figure, un peuple ou un récit dans le codex.">
+  <div class="container">
+    <Breadcrumb items={[{ label: "Accueil", href: "/" }, { label: "Recherche" }]} />
+  </div>
+
+  <section class="container intro">
+    <h1>Recherche</h1>
+    <p class="lede">Cherchez par nom, peuple ou mot-clé parmi les {ALL_ENTITIES.length} fiches du codex.</p>
+    <input
+      id="search-input"
+      type="search"
+      placeholder="Ex. Anansi, Yoruba, trickster…"
+      autocomplete="off"
+      aria-label="Rechercher une fiche"
+    />
+  </section>
+
+  <section class="container">
+    <p id="search-status" class="status" aria-live="polite"></p>
+    <ul id="search-results" class="grid"></ul>
+  </section>
+</BaseLayout>
+
+<script define:vars={{ regionLabelsJson, categoryLabelsJson }}>
+  const regionLabels = JSON.parse(regionLabelsJson);
+  const categoryLabels = JSON.parse(categoryLabelsJson);
+
+  const input = document.getElementById("search-input");
+  const resultsEl = document.getElementById("search-results");
+  const statusEl = document.getElementById("search-status");
+
+  let index = [];
+
+  function render(entries, query) {
+    resultsEl.innerHTML = "";
+    if (query && entries.length === 0) {
+      statusEl.textContent = "Aucun résultat.";
+      return;
+    }
+    statusEl.textContent = query ? `${entries.length} résultat${entries.length > 1 ? "s" : ""}` : "";
+
+    const fragment = document.createDocumentFragment();
+    for (const entry of entries) {
+      const li = document.createElement("li");
+      const a = document.createElement("a");
+      a.className = "card";
+      a.href = entry.href;
+      a.innerHTML = `
+        <div class="card-head">
+          <h3>${entry.nom}</h3>
+          <span class="meta">${categoryLabels[entry.categorie]} · ${regionLabels[entry.region]}</span>
+        </div>
+        ${entry.peuples.length ? `<p class="peuples">${entry.peuples.join(", ")}</p>` : ""}
+        <p class="resume">${entry.resume}</p>
+      `;
+      li.appendChild(a);
+      fragment.appendChild(li);
+    }
+    resultsEl.appendChild(fragment);
+  }
+
+  function search(query) {
+    const q = query.trim().toLowerCase();
+    if (!q) return [];
+    return index.filter((entry) => {
+      const haystack = [entry.nom, ...entry.peuples, entry.resume].join(" ").toLowerCase();
+      return haystack.includes(q);
+    });
+  }
+
+  fetch("/search-index.json")
+    .then((res) => res.json())
+    .then((data) => {
+      index = data;
+      const initial = new URLSearchParams(location.search).get("q") ?? "";
+      if (initial) {
+        input.value = initial;
+        render(search(initial), initial);
+      }
+    });
+
+  input.addEventListener("input", () => {
+    render(search(input.value), input.value);
+  });
+</script>
+
+<style>
+  .intro {
+    padding-block: 1rem 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .lede {
+    max-width: 60ch;
+    color: var(--fg-muted);
+  }
+
+  #search-input {
+    max-width: 32rem;
+    font: inherit;
+    font-size: 1rem;
+    padding: 0.7rem 1rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--bg-elevated);
+    color: var(--fg);
+  }
+
+  #search-input:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 1px;
+  }
+
+  .status {
+    max-width: none;
+    font-size: 0.85rem;
+    color: var(--fg-muted);
+    min-height: 1.2em;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+    gap: 1.25rem;
+    padding-bottom: 4rem;
+  }
+
+  :global(.grid .card) {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding: 1.25rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--bg-elevated);
+    text-decoration: none;
+    color: var(--fg);
+    height: 100%;
+    transition: border-color 0.15s ease;
+  }
+
+  :global(.grid .card:hover) {
+    border-color: var(--accent);
+  }
+
+  :global(.grid .card-head) {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.75rem;
+  }
+
+  :global(.grid .card-head h3) {
+    margin: 0;
+    font-size: 1.05rem;
+  }
+
+  :global(.grid .meta) {
+    font-size: 0.75rem;
+    color: var(--fg-muted);
+    white-space: nowrap;
+  }
+
+  :global(.grid .peuples) {
+    margin: 0;
+    font-size: 0.8rem;
+    color: var(--fg-muted);
+    font-weight: 600;
+  }
+
+  :global(.grid .resume) {
+    margin: 0;
+    font-size: 0.9rem;
+    color: var(--fg-muted);
+    line-height: 1.5;
+  }
+</style>

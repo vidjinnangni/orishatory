@@ -1,0 +1,45 @@
+---
+const repoUrl = "https://github.com/vidjinnangni/orishatory";
+---
+
+<footer class="site-footer">
+  <div class="container bar">
+    <p>
+      Orishatory · Codex ouvert des mythologies africaines et diasporiques · <a
+        href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a
+      >
+    </p>
+    <a href={repoUrl}>Code source & contributions</a>
+  </div>
+</footer>
+
+<style>
+  .site-footer {
+    border-top: 1px solid var(--border);
+    margin-top: 4rem;
+  }
+
+  .bar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1.5rem;
+    justify-content: space-between;
+    padding-block: 1.5rem;
+    font-size: 0.85rem;
+    color: var(--fg-muted);
+  }
+
+  .bar p {
+    margin: 0;
+    max-width: none;
+  }
+
+  .bar a {
+    color: var(--fg-muted);
+    text-decoration-thickness: from-font;
+  }
+
+  .bar a:hover {
+    color: var(--fg);
+  }
+</style>
