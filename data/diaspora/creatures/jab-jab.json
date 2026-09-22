@@ -1,0 +1,25 @@
+{
+  "id": "jab-jab",
+  "nom": "Jab Jab (Jab Molassie)",
+  "variantes": [],
+  "region": "diaspora",
+  "categorie": "creatures",
+  "peuples": ["Trinidadiens"],
+  "resume": "Personnage de carnaval trinidadien incarnant un diable enchaîné couvert de mélasse ou de peinture noire, dont la performance mime une lutte symbolique contre l'esclavage et l'oppression, descendant de traditions de mascarade ouest-africaines recomposées dans le contexte post-esclavagiste caribéen.",
+  "domaines": ["carnaval", "résistance symbolique", "transgression"],
+  "tags": ["diaspora-survivance"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["corps enduit de mélasse, peinture ou huile noire", "chaînes", "fourche"],
+  "recits_associes": [],
+  "culte_contemporain": "Reste une figure majeure du carnaval trinidadien contemporain, sa performance étant de plus en plus lue comme une commémoration critique de l'esclavage plutôt qu'un simple divertissement.",
+  "sources": [
+    "Riggio, M.C. (2004). Carnival: Culture in Action - The Trinidad Experience",
+    "Ho, C.G.T. (2000). Popular Culture and the Aesthetics of Ambiguity: Jab Molassie and Carnival in Trinidad"
+  ],
+  "notes": "L'usage de mélasse (sous-produit historique direct de l'industrie sucrière esclavagiste) comme substance rituelle du personnage rend la référence à l'esclavage particulièrement directe et non métaphorique."
+}

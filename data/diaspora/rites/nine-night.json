@@ -1,0 +1,25 @@
+{
+  "id": "nine-night",
+  "nom": "Nine Night",
+  "variantes": [],
+  "region": "diaspora",
+  "categorie": "rites",
+  "peuples": ["Jamaïcains"],
+  "resume": "Veillée funéraire jamaïcaine traditionnelle se déroulant sur neuf nuits après un décès, combinant deuil, chants, jeux et repas collectifs, destinée à accompagner l'esprit du défunt dans son passage vers l'au-delà avant qu'il ne quitte définitivement le monde des vivants.",
+  "domaines": ["funérailles", "deuil communautaire", "passage vers l'au-delà"],
+  "tags": ["mort-au-dela", "ancetres"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "Reste largement pratiquée en Jamaïque contemporaine et dans sa diaspora (Royaume-Uni, Canada, États-Unis), bien que souvent raccourcie à une seule soirée dans les contextes urbains.",
+  "sources": [
+    "Sobo, E.J. (1993). One Blood: The Jamaican Body",
+    "Besson, J. (2016). Transformations of Freedom in the Land of the Zombies (contexte funéraire jamaïcain)"
+  ],
+  "notes": ""
+}

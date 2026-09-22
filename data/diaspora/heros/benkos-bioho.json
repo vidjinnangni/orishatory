@@ -1,0 +1,25 @@
+{
+  "id": "benkos-bioho",
+  "nom": "Benkos Biohó",
+  "variantes": [],
+  "region": "diaspora",
+  "categorie": "heros",
+  "peuples": ["Colombiens (Palenque de San Basilio)"],
+  "resume": "Chef marron d'origine ouest-africaine (probablement bissau-guinéenne) qui fonda au début du 17e siècle le palenque de San Basilio, en Colombie, premier établissement libre de personnes africaines dans les Amériques officiellement reconnu comme tel, avant d'être capturé et exécuté par les autorités espagnoles en 1621.",
+  "domaines": ["résistance", "liberté", "fondation communautaire"],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "San Basilio de Palenque reste une communauté vivante en Colombie, reconnue par l'UNESCO pour son patrimoine culturel oral (2005), et Benkos Biohó y est célébré comme héros fondateur.",
+  "sources": [
+    "Navarrete, M.C. (2008). San Basilio de Palenque: memoria y tradición",
+    "UNESCO (2005). Cultural Space of Palenque de San Basilio - inscription au patrimoine immatériel"
+  ],
+  "notes": "Le palenque de San Basilio a préservé jusqu'à aujourd'hui une langue créole propre (le palenquero), l'une des rares langues créoles à base lexicale espagnole et bantoue au monde."
+}

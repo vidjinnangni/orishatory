@@ -1,0 +1,25 @@
+{
+  "id": "palo-mayombe",
+  "nom": "Palo Mayombe",
+  "variantes": ["Las Reglas de Congo"],
+  "region": "diaspora",
+  "categorie": "rites",
+  "peuples": ["Cubains"],
+  "resume": "Tradition religieuse afro-cubaine d'origine kongo, centrée sur l'usage de chaudrons rituels (ngangas) contenant des matières organiques et symboliques censées abriter des esprits, utilisée pour la protection, la guérison ou l'influence sur autrui.",
+  "domaines": ["magie rituelle", "esprits ancestraux", "protection"],
+  "tags": ["ancetres", "divination"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["nkisi"]
+  },
+  "attributs": ["nganga (chaudron rituel)", "ossements", "terre de cimetière"],
+  "recits_associes": [],
+  "culte_contemporain": "Pratique vivante à Cuba et dans la diaspora cubaine, souvent en parallèle de la santería, bien que les deux traditions restent distinctes par leurs origines (bantoue-kongo pour le palo, yoruba pour la santería).",
+  "sources": [
+    "Cabrera, L. (1954). El Monte",
+    "Ochoa, T.R. (2010). Society of the Dead: Quita Manaquita and Palo Praise in Cuba"
+  ],
+  "notes": ""
+}

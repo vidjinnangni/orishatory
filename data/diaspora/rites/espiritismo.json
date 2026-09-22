@@ -1,0 +1,25 @@
+{
+  "id": "espiritismo",
+  "nom": "Espiritismo",
+  "variantes": [],
+  "region": "diaspora",
+  "categorie": "rites",
+  "peuples": ["Portoricains"],
+  "resume": "Pratique spirite populaire portoricaine mêlant le spiritisme kardéciste européen à des éléments religieux africains et indigènes taïnos, centrée sur la communication avec les esprits des morts via des médiums pour obtenir conseil, guérison ou protection.",
+  "domaines": ["communication avec les morts", "guérison", "médiumnité"],
+  "tags": ["divination", "mort-au-dela"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "Pratiqué couramment à Porto Rico et dans sa diaspora (notamment à New York), souvent en parallèle d'une pratique catholique ou évangélique déclarée, sans contradiction perçue par les praticiens eux-mêmes.",
+  "sources": [
+    "Romberg, R. (2003). Witchcraft and Welfare: Spiritual Capital and the Business of Magic in Modern Puerto Rico",
+    "Pérez y Mena, A.I. (1991). Speaking with the Dead: Development of Afro-Latin Religion among Puerto Ricans in the United States"
+  ],
+  "notes": "Bien que ses racines africaines soient moins immédiatement visibles que dans la santería ou le vodou (le cadre européen kardéciste étant plus apparent en surface), l'espiritismo intègre des éléments de possession et de communication ancestrale directement hérités des traditions religieuses africaines apportées par les personnes réduites en esclavage à Porto Rico."
+}

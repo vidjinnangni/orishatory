@@ -1,0 +1,25 @@
+{
+  "id": "myal",
+  "nom": "Myal",
+  "variantes": [],
+  "region": "diaspora",
+  "categorie": "rites",
+  "peuples": ["Jamaïcains"],
+  "resume": "Religion afro-chrétienne jamaïcaine ancienne, historiquement définie en opposition à l'obeah perçu comme une magie individuelle potentiellement malveillante, le myal se présentant comme une pratique communautaire de guérison et de protection contre la sorcellerie.",
+  "domaines": ["guérison communautaire", "protection contre la sorcellerie", "possession"],
+  "tags": ["divination", "diaspora-survivance"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["obeah"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "A largement fusionné avec des mouvements religieux afro-chrétiens ultérieurs comme le revivalisme jamaïcain (Zion Revival, Pukumina), rendant ses formes originelles difficiles à isoler aujourd'hui.",
+  "sources": [
+    "Schuler, M. (1980). Alas, Alas, Kongo",
+    "Chevannes, B. (1994). Rastafari: Roots and Ideology"
+  ],
+  "notes": "La distinction historique entre myal (bénéfique) et obeah (potentiellement malveillant) a souvent été instrumentalisée par les autorités coloniales britanniques, qui toléraient sélectivement l'un tout en réprimant l'autre selon leurs propres intérêts."
+}

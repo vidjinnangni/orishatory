@@ -1,0 +1,25 @@
+{
+  "id": "shango-baptist",
+  "nom": "Shango Baptist (Orisha de Trinidad)",
+  "variantes": [],
+  "region": "diaspora",
+  "categorie": "rites",
+  "peuples": ["Trinidadiens"],
+  "resume": "Religion afro-trinidadienne combinant le panthéon orisha yoruba, des éléments du christianisme baptiste et des pratiques spirites, développée dans les Caraïbes anglophones parallèlement à la santería cubaine et au candomblé brésilien mais selon une trajectoire syncrétique distincte.",
+  "domaines": ["possession orisha", "guérison", "syncrétisme religieux"],
+  "tags": ["divination", "diaspora-survivance"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["eshu-elegba", "ogun", "shango"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "Officiellement reconnue par l'État trinidadien depuis 1999 sous le nom d'Orisha, après des décennies de marginalisation légale et sociale héritées de la période coloniale britannique.",
+  "sources": [
+    "Houk, J.T. (1995). Spirits, Blood, and Drums: The Orisha Religion in Trinidad",
+    "Henry, F. (2003). Reclaiming African Religions in Trinidad"
+  ],
+  "notes": ""
+}

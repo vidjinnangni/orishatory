@@ -1,0 +1,25 @@
+{
+  "id": "baka",
+  "nom": "Baka",
+  "variantes": [],
+  "region": "diaspora",
+  "categorie": "creatures",
+  "peuples": ["Haïtiens (vodou)"],
+  "resume": "Esprit malveillant du vodou haïtien pouvant se métamorphoser en divers animaux (chien noir, chat, porc), envoyé par un bokor pour nuire à une victime désignée, distinct des loa qui sont vénérés plutôt que redoutés.",
+  "domaines": ["sorcellerie", "métamorphose", "malveillance"],
+  "tags": ["metamorphose"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["zombi"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Métraux, A. (1959). Le Vaudou haïtien",
+    "Deren, M. (1953). Divine Horsemen: The Living Gods of Haiti"
+  ],
+  "notes": ""
+}

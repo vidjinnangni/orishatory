@@ -1,0 +1,25 @@
+{
+  "id": "obeah",
+  "nom": "Obeah",
+  "variantes": [],
+  "region": "diaspora",
+  "categorie": "rites",
+  "peuples": ["Caribéens anglophones (Jamaïque et autres)"],
+  "resume": "Pratique de magie populaire et de guérison répandue dans les Caraïbes anglophones, mêlant héritages ouest-africains, kongo et savoirs botaniques locaux, historiquement criminalisée par les autorités coloniales britanniques qui y voyaient une menace à l'ordre esclavagiste.",
+  "domaines": ["magie populaire", "guérison", "protection"],
+  "tags": ["divination", "diaspora-survivance"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "Sa criminalisation légale, instaurée après la révolte de Tacky en Jamaïque (1760), n'a été formellement abrogée dans certains pays caribéens que très récemment (Jamaïque en 2013 par exemple).",
+  "sources": [
+    "Paton, D. (2015). The Cultural Politics of Obeah: Religion, Colonialism and Modernity in the Caribbean World",
+    "Bilby, K.M. & Handler, J.S. (2004). Obeah: Healing and Protection in West Indian Slave Life"
+  ],
+  "notes": "La répression légale de l'obeah durant des siècles illustre directement comment la spiritualité africaine diasporique a été traitée comme une menace politique par les pouvoirs coloniaux, plutôt qu'une simple curiosité religieuse marginale."
+}
