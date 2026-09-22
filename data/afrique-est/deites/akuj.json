@@ -1,0 +1,25 @@
+{
+  "id": "akuj",
+  "nom": "Akuj",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "deites",
+  "peuples": ["Turkana"],
+  "resume": "Dieu suprême du ciel chez les Turkana (nord du Kenya), associé à la pluie et au bétail, approché principalement lors de sécheresses ou de crises collectives par l'intermédiaire de devins (emuron).",
+  "domaines": ["ciel", "pluie", "bétail"],
+  "tags": ["eau", "divination"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Gulliver, P.H. (1955). The Family Herds: A Study of Two Pastoral Tribes",
+    "Lamphear, J. (1976). The Traditional History of the Jie of Uganda (contexte comparatif régional)"
+  ],
+  "notes": ""
+}

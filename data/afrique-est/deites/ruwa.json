@@ -1,0 +1,25 @@
+{
+  "id": "ruwa",
+  "nom": "Ruwa",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "deites",
+  "peuples": ["Chagga"],
+  "resume": "Dieu suprême chagga (région du Kilimandjaro, Tanzanie), associé au soleil et au ciel, source de la vie et de la fertilité, traditionnellement invoqué lors des rituels agricoles et des rites de passage.",
+  "domaines": ["soleil", "ciel", "fertilité"],
+  "tags": ["creation", "terre-fertilite"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": ["origine-kilimandjaro"],
+  "culte_contemporain": "",
+  "sources": [
+    "Dundas, C. (1924). Kilimanjaro and Its People",
+    "Gutmann, B. (1909). Dichten und Denken der Dschagganeger"
+  ],
+  "notes": ""
+}

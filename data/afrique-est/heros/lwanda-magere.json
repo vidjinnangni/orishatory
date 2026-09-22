@@ -1,0 +1,25 @@
+{
+  "id": "lwanda-magere",
+  "nom": "Lwanda Magere",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "heros",
+  "peuples": ["Luo"],
+  "resume": "Guerrier légendaire luo réputé invincible au combat, sa force résidant non dans son corps mais dans son ombre. Trahi, son secret révélé à l'ennemi permit sa défaite lorsqu'une lance transperça son ombre projetée au sol.",
+  "domaines": ["guerre", "invincibilité", "trahison"],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["ombre porteuse de sa force vitale"],
+  "recits_associes": [],
+  "culte_contemporain": "Un rocher près de Kisumu (Kenya), dit lui ressembler, reste associé à sa légende et attire encore des visiteurs locaux.",
+  "sources": [
+    "Ogot, B.A. (1967). History of the Southern Luo",
+    "Osogo, J. (1966). A History of the Baluyia (contexte comparatif régional)"
+  ],
+  "notes": "Le motif de la faiblesse localisée dans l'ombre plutôt que dans le corps rappelle structurellement d'autres récits de 'talon d'Achille' ailleurs dans le monde, sans qu'une filiation directe soit établie."
+}
