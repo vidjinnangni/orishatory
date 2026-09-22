@@ -1,4 +1,5 @@
 ---
+import CategoryIcon from "./CategoryIcon.astro";
 import { CATEGORY_LABELS_SINGULAR, type Categorie } from "../lib/constants";
 
 interface Props {
@@ -9,20 +10,30 @@ const { categorie } = Astro.props;
 const label = CATEGORY_LABELS_SINGULAR[categorie];
 ---
 
-<span class="badge">{label}</span>
+<span class="badge">
+  <CategoryIcon categorie={categorie} />
+  {label}
+</span>
 
 <style>
   .badge {
     display: inline-flex;
     align-items: center;
+    gap: 0.3em;
     font-size: 0.75rem;
     font-weight: 600;
     letter-spacing: 0.02em;
-    padding: 0.2em 0.65em;
+    padding: 0.2em 0.7em 0.2em 0.55em;
     border-radius: 999px;
     background: var(--bg-elevated);
     border: 1px solid var(--border);
     color: var(--fg-muted);
     white-space: nowrap;
+  }
+
+  .badge :global(svg) {
+    width: 0.95em;
+    height: 0.95em;
+    flex-shrink: 0;
   }
 </style>
