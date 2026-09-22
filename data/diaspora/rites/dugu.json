@@ -1,0 +1,25 @@
+{
+  "id": "dugu",
+  "nom": "Dügü",
+  "variantes": [],
+  "region": "diaspora",
+  "categorie": "rites",
+  "peuples": ["Garifuna"],
+  "resume": "Cérémonie ancestrale garifuna (peuple afro-indigène des Caraïbes et d'Amérique centrale) de plusieurs jours, destinée à honorer et apaiser les ancêtres afin de résoudre une maladie ou un malheur persistant frappant un membre de la famille, sous la conduite d'un chaman (buyei).",
+  "domaines": ["ancestralité", "guérison", "malheur familial"],
+  "tags": ["ancetres", "mort-au-dela"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["tambours garifuna", "offrandes alimentaires rituelles", "temple temporaire (dabuyaba)"],
+  "recits_associes": [],
+  "culte_contemporain": "Toujours pratiqué dans les communautés garifuna du Honduras, du Belize, du Guatemala et du Nicaragua, reconnu par l'UNESCO comme patrimoine culturel immatériel dans le cadre plus large de la culture garifuna (2008).",
+  "sources": [
+    "Kerns, V. (1983). Women and the Ancestors: Black Carib Kinship and Ritual",
+    "UNESCO (2008). Language, dance and music of the Garifuna - inscription au patrimoine immatériel"
+  ],
+  "notes": "Les Garifuna descendent de la rencontre entre Africains marrons et Amérindiens caraïbes/arawaks à Saint-Vincent au 17e siècle, faisant du dügü un exemple particulièrement riche de syncrétisme afro-indigène distinct des traditions afro-diasporiques d'origine uniquement africaine."
+}

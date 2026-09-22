@@ -1,0 +1,25 @@
+{
+  "id": "winti",
+  "nom": "Winti",
+  "variantes": [],
+  "region": "diaspora",
+  "categorie": "rites",
+  "peuples": ["Surinamiens"],
+  "resume": "Religion afro-surinamaise combinant des éléments ouest-africains et centre-africains, structurée autour de familles d'esprits (winti) invoqués par possession rituelle, chant et danse, pour la guérison et la résolution de conflits.",
+  "domaines": ["possession", "guérison", "esprits ancestraux"],
+  "tags": ["divination", "diaspora-survivance"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["tambours apinti", "offrandes rituelles"],
+  "recits_associes": [],
+  "culte_contemporain": "Officiellement reconnue et pratiquée ouvertement au Suriname depuis la fin du 20e siècle, après une longue période de répression coloniale néerlandaise.",
+  "sources": [
+    "Wooding, C.J. (1981). Evolving Culture: A Cross-Cultural Study of Suriname, West Africa and the Caribbean",
+    "van Wetering, W. (2013). Witchcraft, Sorcery and Winti in Surinamese Diaspora"
+  ],
+  "notes": ""
+}

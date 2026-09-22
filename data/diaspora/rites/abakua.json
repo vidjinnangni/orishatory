@@ -1,0 +1,25 @@
+{
+  "id": "abakua",
+  "nom": "Abakuá",
+  "variantes": [],
+  "region": "diaspora",
+  "categorie": "rites",
+  "peuples": ["Cubains"],
+  "resume": "Société secrète masculine afro-cubaine dérivée de la société léopard Ekpe/Ngbe du sud-est du Nigeria et du Cameroun (région du fleuve Cross), transmise à Cuba par des personnes réduites en esclavage originaires de cette région, structurée en loges (juegos) transmettant un savoir initiatique gradué.",
+  "domaines": ["initiation masculine", "savoir secret", "fraternité"],
+  "tags": ["initiation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "Reste active à Cuba contemporaine, avec une influence marquée sur la musique populaire cubaine (rumba notamment) et une reconnaissance culturelle croissante malgré une histoire de marginalisation sociale.",
+  "sources": [
+    "Miller, I. (2009). Voice of the Leopard: African Secret Societies and Cuba",
+    "Ortiz, F. (1954). Los bailes y el teatro de los negros en el folklore de Cuba"
+  ],
+  "notes": "L'existence de l'Abakuá cubain constitue l'un des cas les mieux documentés de transmission directe et continue d'une institution sociale ouest-africaine précise (l'Ekpe) vers les Amériques, plutôt qu'une simple survivance diffuse de motifs culturels."
+}

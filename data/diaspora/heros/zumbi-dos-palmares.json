@@ -1,0 +1,25 @@
+{
+  "id": "zumbi-dos-palmares",
+  "nom": "Zumbi dos Palmares",
+  "variantes": [],
+  "region": "diaspora",
+  "categorie": "heros",
+  "peuples": ["Brésiliens (quilombolas)"],
+  "resume": "Dernier chef du Quilombo dos Palmares, plus grand établissement de personnes africaines et afro-descendantes marronnes d'Amérique, qui résista pendant des décennies aux expéditions coloniales portugaises avant d'être tué en 1695. Devenu symbole majeur de la résistance noire brésilienne.",
+  "domaines": ["résistance", "liberté", "marronnage"],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "Le 20 novembre, date présumée de sa mort, est célébré au Brésil comme Journée de la Conscience Noire (Dia da Consciência Negra), fête officielle dans plusieurs États et municipalités.",
+  "sources": [
+    "Freitas, D. (1971). Palmares: A Guerra dos Escravos",
+    "Anderson, R.N. (1996). The Quilombo of Palmares: A New Overview of a Maroon State in Seventeenth-Century Brazil"
+  ],
+  "notes": "Palmares a fonctionné pendant près d'un siècle (vers 1605-1694) comme un État quilombola largement autonome, avec sa propre organisation politique et militaire, avant sa destruction finale par une expédition portugaise-pauliste."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "kumina",
+  "nom": "Kumina",
+  "variantes": [],
+  "region": "diaspora",
+  "categorie": "rites",
+  "peuples": ["Jamaïcains"],
+  "resume": "Religion de possession ancestrale jamaïcaine d'origine kongo, introduite par des travailleurs sous contrat venus d'Afrique centrale après l'abolition de l'esclavage au 19e siècle, centrée sur la communication avec les esprits des ancêtres par la danse et le tambour.",
+  "domaines": ["possession", "ancestralité", "guérison"],
+  "tags": ["ancetres", "divination"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["tambours kbandu et playing cast", "danse rituelle"],
+  "recits_associes": [],
+  "culte_contemporain": "Pratiquée surtout dans la paroisse de Saint Thomas en Jamaïque, a fortement influencé la musique et la culture rastafari ultérieures, notamment via le nyabinghi jamaïcain qui en emprunte certains éléments rythmiques.",
+  "sources": [
+    "Bilby, K.M. & Bunseki, F.K. (1983). Kumina: A Kongo-based Tradition in the New World",
+    "Schuler, M. (1980). Alas, Alas, Kongo: A Social History of Indentured African Immigration into Jamaica"
+  ],
+  "notes": "Le kumina jamaïcain, issu de migrations post-esclavagistes du 19e siècle plutôt que de la traite négrière elle-même, illustre que les apports africains aux Amériques ne se limitent pas à la période de l'esclavage."
+}

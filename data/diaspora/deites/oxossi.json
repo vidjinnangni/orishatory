@@ -1,0 +1,25 @@
+{
+  "id": "oxossi",
+  "nom": "Oxóssi",
+  "variantes": [],
+  "region": "diaspora",
+  "categorie": "deites",
+  "peuples": ["Brésiliens (candomblé)"],
+  "resume": "Orixá de la chasse et de la forêt dans le candomblé brésilien, associé à l'abondance et à la stratégie, descendant direct d'Ọ̀ṣọ́ọ̀sì du panthéon yoruba, particulièrement vénéré dans le candomblé kétu de Bahia.",
+  "domaines": ["chasse", "forêt", "abondance", "stratégie"],
+  "tags": ["diaspora-survivance"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["arc et flèches", "couleur bleu-vert", "plumes de paon"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Prandi, R. (2001). Mitologia dos orixás",
+    "Verger, P. (1957). Notes sur le culte des orisa et vodun"
+  ],
+  "notes": ""
+}
