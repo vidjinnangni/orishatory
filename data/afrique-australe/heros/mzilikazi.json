@@ -1,0 +1,25 @@
+{
+  "id": "mzilikazi",
+  "nom": "Mzilikazi",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "heros",
+  "peuples": ["Ndebele"],
+  "resume": "Ancien général zulu devenu fondateur du royaume ndebele après une rupture avec Shaka, menant son peuple à travers plusieurs migrations forcées avant de s'établir dans l'actuel Zimbabwe, où sa lignée continue d'être révérée.",
+  "domaines": ["migration", "fondation royale", "rupture dynastique"],
+  "tags": ["royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["shaka-zulu"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Rasmussen, R.K. (1978). Migrant Kingdom: Mzilikazi's Ndebele in South Africa",
+    "Bhebe, N. (1979). Christianity and Traditional Religion in Western Zimbabwe"
+  ],
+  "notes": "Comme pour d'autres figures associées à la période du Mfecane, le récit de ses migrations doit être lu en tenant compte des débats historiographiques contemporains sur l'interprétation coloniale de cette période."
+}

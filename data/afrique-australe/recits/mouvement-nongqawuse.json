@@ -1,0 +1,25 @@
+{
+  "id": "mouvement-nongqawuse",
+  "nom": "Le mouvement du sacrifice du bétail xhosa (1856-1857)",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "recits",
+  "peuples": ["Xhosa"],
+  "resume": "Épisode historique et prophétique au cours duquel des dizaines de milliers de Xhosa, suivant les visions de Nongqawuse, sacrifièrent leur bétail et détruisirent leurs récoltes dans l'attente d'une résurrection ancestrale promise qui ne survint jamais, provoquant une famine dévastatrice.",
+  "domaines": ["prophétie", "sacrifice collectif", "famine"],
+  "tags": ["divination", "mort-au-dela"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["nongqawuse"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Peires, J.B. (1989). The Dead Will Arise: Nongqawuse and the Great Xhosa Cattle-Killing Movement of 1856-7",
+    "Stapleton, T.J. (1991). Reluctant Slaughter, Refugee Nation"
+  ],
+  "notes": "Cet épisode reste l'un des événements les plus étudiés et les plus douloureux de l'histoire xhosa, souvent interprété a posteriori à la lumière de la pression coloniale croissante subie par le peuple xhosa à cette époque plutôt que comme un simple épisode de crédulité collective."
+}

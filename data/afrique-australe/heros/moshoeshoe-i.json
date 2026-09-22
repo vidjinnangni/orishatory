@@ -1,0 +1,25 @@
+{
+  "id": "moshoeshoe-i",
+  "nom": "Moshoeshoe Ier",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "heros",
+  "peuples": ["Basotho"],
+  "resume": "Fondateur du royaume basotho au 19e siècle, réputé pour sa diplomatie habile et sa stratégie défensive, ayant unifié des groupes disparates réfugiés des guerres du Mfecane autour de la forteresse naturelle de Thaba Bosiu.",
+  "domaines": ["fondation royale", "diplomatie", "refuge"],
+  "tags": ["royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["thaba-bosiu"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "Figure fondatrice de l'identité nationale du Lesotho contemporain, dont l'image apparaît sur la monnaie et les monuments nationaux.",
+  "sources": [
+    "Thompson, L. (1975). Survival in Two Worlds: Moshoeshoe of Lesotho, 1786-1870",
+    "Sanders, P. (1975). Moshoeshoe, Chief of the Sotho"
+  ],
+  "notes": "Le contexte plus large du Mfecane, période de bouleversements et migrations en Afrique australe au début du 19e siècle, fait l'objet d'un débat historiographique important, certains chercheurs contestant l'ampleur et l'interprétation de ces événements telles que rapportées par les premières sources coloniales."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "izibongo",
+  "nom": "Izibongo",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "rites",
+  "peuples": ["Zulu"],
+  "resume": "Tradition zulu de poésie de louange, récitée par des spécialistes (imbongi) pour célébrer les exploits des rois et des ancêtres, servant à la fois de mémoire orale historique, de légitimation politique et de forme littéraire élaborée.",
+  "domaines": ["mémoire orale", "légitimation royale", "art oratoire"],
+  "tags": ["royaute-sacree", "ancetres"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["shaka-zulu"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Cope, T. (1968). Izibongo: Zulu Praise-Poems",
+    "Gunner, L. & Gwala, M. (1991). Musho! Zulu Popular Praises"
+  ],
+  "notes": ""
+}

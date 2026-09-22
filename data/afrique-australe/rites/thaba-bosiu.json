@@ -1,0 +1,25 @@
+{
+  "id": "thaba-bosiu",
+  "nom": "Thaba Bosiu (la Montagne de la Nuit)",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "rites",
+  "peuples": ["Basotho"],
+  "resume": "Plateau fortifié naturel ayant servi de refuge imprenable à Moshoeshoe Ier et son peuple, dont la légende affirme qu'elle grandissait la nuit pour décourager les assaillants. Reste un site de vénération et de sépulture royale basotho.",
+  "domaines": ["refuge sacré", "légende topographique", "sépulture royale"],
+  "tags": ["royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["moshoeshoe-i"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "Les rois du Lesotho continuent d'y être enterrés ; le site reste un symbole national fort.",
+  "sources": [
+    "Thompson, L. (1975). Survival in Two Worlds: Moshoeshoe of Lesotho, 1786-1870",
+    "Sanders, P. (1975). Moshoeshoe, Chief of the Sotho"
+  ],
+  "notes": ""
+}

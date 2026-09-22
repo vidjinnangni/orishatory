@@ -1,0 +1,25 @@
+{
+  "id": "kalunga",
+  "nom": "Kalunga",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "deites",
+  "peuples": ["Ovambo"],
+  "resume": "Concept ovambo (nord de la Namibie, sud de l'Angola) désignant à la fois le dieu créateur suprême et la frontière cosmique séparant le monde des vivants de celui des morts, notion partagée sous des formes voisines par plusieurs peuples bantous d'Afrique australe et centrale.",
+  "domaines": ["création", "frontière entre vie et mort"],
+  "tags": ["creation", "mort-au-dela"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Loeb, E.M. (1962). In Feudal Africa (étude sur les Ovambo du Kwanyama)",
+    "Tuupainen, M. (1970). Marriage in a Matrilineal African Tribe"
+  ],
+  "notes": ""
+}

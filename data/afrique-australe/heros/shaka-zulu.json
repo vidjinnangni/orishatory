@@ -1,0 +1,25 @@
+{
+  "id": "shaka-zulu",
+  "nom": "Shaka",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "heros",
+  "peuples": ["Zulu"],
+  "resume": "Roi fondateur de l'État zulu au début du 19e siècle, réorganisateur militaire réputé avoir transformé les tactiques de guerre régionales, dont la vie a fait l'objet d'une intense mythification postérieure, tant dans la mémoire orale zulu (izibongo) que dans les récits coloniaux et la culture populaire mondiale ultérieure.",
+  "domaines": ["royauté", "réforme militaire", "fondation étatique"],
+  "tags": ["royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["izibongo"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Wright, J. (2006). Reflections on the Politics of Being 'Zulu'",
+    "Hamilton, C. (1998). Terrific Majesty: The Powers of Shaka Zulu and the Limits of Historical Invention"
+  ],
+  "notes": "La figure de Shaka a été considérablement déformée par les récits coloniaux du 19e siècle (le mythe du 'despote sanguinaire noir') puis par la culture populaire ultérieure ; les historiens contemporains distinguent avec soin les éléments attestés de son règne des couches successives de mythification qui s'y sont ajoutées."
+}

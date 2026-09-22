@@ -1,0 +1,25 @@
+{
+  "id": "mulungu",
+  "nom": "Mulungu",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "deites",
+  "peuples": ["Chewa", "Nyanja"],
+  "resume": "Concept de divinité suprême chez les Chewa et Nyanja (Malawi, Zambie, Mozambique), source lointaine de la création approchée surtout via les esprits ancestraux et les cultes territoriaux comme celui de Mbona.",
+  "domaines": ["création", "transcendance", "ordre cosmique"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["mbona"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Schoffeleers, J.M. (1978). Guardians of the Land: Essays on Central African Territorial Cults",
+    "Van Breugel, J.W.M. (2001). Chewa Traditional Religion"
+  ],
+  "notes": ""
+}

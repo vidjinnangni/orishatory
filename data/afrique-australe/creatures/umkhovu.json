@@ -1,0 +1,25 @@
+{
+  "id": "umkhovu",
+  "nom": "Umkhovu",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "creatures",
+  "peuples": ["Zulu"],
+  "resume": "Cadavre ranimé et asservi par un sorcier (umthakathi) dans la croyance zulu, réduit au silence par une incision à la langue, envoyé de nuit pour espionner ou nuire à des victimes désignées.",
+  "domaines": ["sorcellerie", "mort ranimée", "espionnage nocturne"],
+  "tags": ["mort-au-dela"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["tokoloshe"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Berglund, A-I. (1976). Zulu Thought-Patterns and Symbolism",
+    "Hammond-Tooke, W.D. (1989). Rituals and Medicines: Indigenous Healing in South Africa"
+  ],
+  "notes": "Comme pour d'autres croyances liées à la sorcellerie sur le continent, les accusations de fabrication d'umkhovu ont pu avoir des conséquences sociales réelles et parfois violentes envers des personnes soupçonnées de sorcellerie."
+}

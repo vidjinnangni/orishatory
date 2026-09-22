@@ -1,0 +1,25 @@
+{
+  "id": "ukwaluko",
+  "nom": "Ukwaluko",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "rites",
+  "peuples": ["Xhosa"],
+  "resume": "Rite traditionnel xhosa de passage à l'âge adulte pour les jeunes hommes, incluant la circoncision suivie d'une période d'isolement et d'enseignement dans la brousse, encadrée par des initiés plus âgés.",
+  "domaines": ["initiation masculine", "passage à l'âge adulte", "transmission du savoir"],
+  "tags": ["initiation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "Pratique toujours largement observée en Afrique du Sud contemporaine, mais ayant fait l'objet de controverses sanitaires importantes ces dernières décennies en raison de complications médicales graves survenues dans certains camps d'initiation mal encadrés, entraînant des réformes réglementaires.",
+  "sources": [
+    "Vincent, L. (2008). Cutting Tradition: The Political Regulation of Traditional Circumcision Rites in South Africa's Liberal Democratic Order",
+    "Mfecane, S. (2016). Ndiyindoda: Male Circumcision and Rural Manhood in South Africa"
+  ],
+  "notes": "Les incidents sanitaires graves associés à certains camps d'initiation informels ou mal encadrés ont conduit à des réformes légales en Afrique du Sud ; il s'agit d'un sujet sensible où tradition culturelle et santé publique continuent d'être mises en balance par les communautés elles-mêmes."
+}

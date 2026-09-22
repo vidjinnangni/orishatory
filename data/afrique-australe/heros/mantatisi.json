@@ -1,0 +1,25 @@
+{
+  "id": "mantatisi",
+  "nom": "MaNthatisi",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "heros",
+  "peuples": ["Tlokwa"],
+  "resume": "Régente et cheffe militaire tlokwa du début du 19e siècle, ayant dirigé son peuple lors de migrations et de conflits pendant les bouleversements du Mfecane, dont la réputation guerrière fut telle qu'elle inspira des récits en partie légendaires quant à son ampleur et à sa cruauté supposée.",
+  "domaines": ["régence", "stratégie militaire", "migration"],
+  "tags": ["royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Eldredge, E.A. (1992). Sources of Conflict in Southern Africa, c. 1800-1830 (réévaluation critique du Mfecane)",
+    "Lye, W.F. (1969). The Difaqane: The Mfecane in the Southern Sotho Area"
+  ],
+  "notes": "Comme pour d'autres figures féminines de pouvoir dans des contextes de bouleversement colonial, la réputation de cruauté attribuée à MaNthatisi par les sources orales et coloniales ultérieures est aujourd'hui réexaminée de façon critique par les historiens."
+}
