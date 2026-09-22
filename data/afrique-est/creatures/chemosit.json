@@ -1,0 +1,25 @@
+{
+  "id": "chemosit",
+  "nom": "Chemosit",
+  "variantes": ["Nandi Bear (nom anglais)"],
+  "region": "afrique-est",
+  "categorie": "creatures",
+  "peuples": ["Nandi", "Kalenjin"],
+  "resume": "Créature nocturne redoutée du folklore nandi, décrite de façon variable comme un animal massif à mi-chemin entre l'ours, la hyène et le babouin, réputée attaquer le bétail et parfois les humains isolés la nuit.",
+  "domaines": ["nuit", "prédation", "peur collective"],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["description physique variable selon les témoignages", "forme massive et velue"],
+  "recits_associes": [],
+  "culte_contemporain": "A suscité un intérêt cryptozoologique occidental durable depuis le début du 20e siècle sous le nom de 'Nandi Bear', sans identification zoologique confirmée.",
+  "sources": [
+    "Hollis, A.C. (1909). The Nandi: Their Language and Folklore",
+    "Heuvelmans, B. (1955). Sur la piste des bêtes ignorées (traitement cryptozoologique)"
+  ],
+  "notes": "Comme pour Mokele-mbembe ou l'Emela-ntouka, la récupération cryptozoologique occidentale du Chemosit doit être distinguée de sa fonction culturelle locale d'origine, liée à la peur bien réelle des prédateurs nocturnes."
+}

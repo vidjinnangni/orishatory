@@ -1,0 +1,25 @@
+{
+  "id": "nyasaye",
+  "nom": "Nyasaye",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "deites",
+  "peuples": ["Luo"],
+  "resume": "Concept de divinité suprême chez les Luo du Kenya, ainsi que dans plusieurs langues bantoues voisines (luhya, gusii), désignant une force créatrice universelle plutôt qu'une figure anthropomorphe précise.",
+  "domaines": ["création", "force universelle"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Ocholla-Ayayo, A.B.C. (1976). Traditional Ideology and Ethics among the Southern Luo",
+    "Mboya, P. (1938). Luo Kitgi gi Timbegi (ethnographie luo en langue luo)"
+  ],
+  "notes": ""
+}

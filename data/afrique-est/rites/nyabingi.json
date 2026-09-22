@@ -1,0 +1,25 @@
+{
+  "id": "nyabingi",
+  "nom": "Nyabingi",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "rites",
+  "peuples": ["peuples des Grands Lacs (Rwanda, Ouganda)"],
+  "resume": "Culte de possession spirituelle centré sur un esprit féminin protecteur, devenu au début du 20e siècle le noyau d'un mouvement de résistance anticoloniale majeur en Afrique des Grands Lacs, réprimé par les autorités coloniales britanniques et allemandes.",
+  "domaines": ["possession spirituelle", "résistance anticoloniale", "protection"],
+  "tags": ["divination"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "Le nom a été repris et réinterprété par le mouvement rastafari jamaïcain (sous la forme 'Nyabinghi'), qui l'a associé à un rythme de tambour et à une cérémonie rituelle spécifiques, largement déconnectés de la pratique est-africaine d'origine.",
+  "sources": [
+    "Hopkins, E. (1970). The Nyabingi Cult of Southwestern Uganda",
+    "Freedman, J. (1984). Nyabingi: The Social History of an African Divinity"
+  ],
+  "notes": "La reprise rastafari du terme constitue un exemple notable et largement méconnu de circulation transatlantique inversée (d'Afrique de l'Est vers la diaspora caribéenne) d'un concept religieux, distinct du sens de résistance anticoloniale qu'il avait à l'origine au Rwanda et en Ouganda."
+}

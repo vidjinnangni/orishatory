@@ -1,0 +1,25 @@
+{
+  "id": "tero-buru",
+  "nom": "Tero Buru",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "rites",
+  "peuples": ["Luo"],
+  "resume": "Rite funéraire luo traditionnel impliquant une simulation de combat ou de raid de bétail en l'honneur du défunt, destiné à honorer sa mémoire et à accompagner symboliquement son passage vers le monde des ancêtres.",
+  "domaines": ["funérailles", "honneur guerrier", "passage vers l'au-delà"],
+  "tags": ["mort-au-dela", "ancetres"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["simulation de raid de bétail", "danses guerrières"],
+  "recits_associes": [],
+  "culte_contemporain": "La pratique a considérablement décliné avec la christianisation et l'urbanisation, mais certains éléments symboliques subsistent dans des funérailles luo contemporaines réinterprétées.",
+  "sources": [
+    "Ocholla-Ayayo, A.B.C. (1976). Traditional Ideology and Ethics among the Southern Luo",
+    "Mboya, P. (1938). Luo Kitgi gi Timbegi"
+  ],
+  "notes": ""
+}

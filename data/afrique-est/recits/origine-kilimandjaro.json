@@ -1,0 +1,25 @@
+{
+  "id": "origine-kilimandjaro",
+  "nom": "L'origine du Kilimandjaro",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "recits",
+  "peuples": ["Chagga"],
+  "resume": "Récit chagga expliquant la formation du mont Kilimandjaro et de son sommet enneigé comme la demeure du dieu Ruwa, souvent associé à des épisodes où le froid et la neige du sommet punissent ceux qui manquent de respect à la montagne.",
+  "domaines": ["origine géologique", "montagne sacrée", "punition divine"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["ruwa"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Dundas, C. (1924). Kilimanjaro and Its People",
+    "Gutmann, B. (1909). Dichten und Denken der Dschagganeger"
+  ],
+  "notes": ""
+}

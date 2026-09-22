@@ -1,0 +1,25 @@
+{
+  "id": "ol-doinyo-lengai",
+  "nom": "Ol Doinyo Lengai (la Montagne de Dieu)",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "rites",
+  "peuples": ["Maasai"],
+  "resume": "Volcan actif de Tanzanie considéré par les Maasai comme la demeure terrestre d'Engai, objet de pèlerinages et de prières, en particulier lors de sécheresses ou de crises communautaires.",
+  "domaines": ["montagne sacrée", "pèlerinage", "demeure divine"],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["engai"]
+  },
+  "attributs": ["volcan actif unique au monde par sa lave carbonatitique naturellement froide et blanche"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Galaty, J.G. (1993). Maasai Expansion and the New East African Pastoralism",
+    "Sanders, T. (2008). Beyond Bodies: Rainmaking and Sense Making in Tanzania"
+  ],
+  "notes": "La documentation ethnographique académique dédiée spécifiquement au statut religieux de cette montagne reste plus mince que la littérature volcanologique qui la concerne ; à enrichir si des sources plus ciblées sont identifiées."
+}

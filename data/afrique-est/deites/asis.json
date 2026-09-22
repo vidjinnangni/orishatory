@@ -1,0 +1,25 @@
+{
+  "id": "asis",
+  "nom": "Asis",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "deites",
+  "peuples": ["Kalenjin", "Nandi"],
+  "resume": "Divinité solaire kalenjin et nandi (ouest du Kenya), associée à la lumière, à la chaleur et à la bénédiction agricole, invoquée dans les prières quotidiennes et les cérémonies de passage.",
+  "domaines": ["soleil", "lumière", "bénédiction"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Hollis, A.C. (1909). The Nandi: Their Language and Folklore",
+    "Huntingford, G.W.B. (1953). The Nandi of Kenya"
+  ],
+  "notes": ""
+}
