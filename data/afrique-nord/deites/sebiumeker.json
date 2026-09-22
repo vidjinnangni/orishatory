@@ -1,0 +1,25 @@
+{
+  "id": "sebiumeker",
+  "nom": "Sebiumeker",
+  "variantes": [],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Nubiens (royaume de Kouch)"],
+  "resume": "Dieu créateur et de la fertilité dans le panthéon méroïtique (royaume de Kouch), souvent représenté aux côtés du roi dans les temples de Naga et Musawwarat, l'une des rares divinités majeures nubiennes sans équivalent égyptien direct.",
+  "domaines": ["création", "fertilité", "protection royale"],
+  "tags": ["creation", "terre-fertilite"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Welsby, D.A. (1996). The Kingdom of Kush: The Napatan and Meroitic Empires",
+    "Rondot, V. (2012). La grande salle hypostyle du temple d'Amon à Naga"
+  ],
+  "notes": ""
+}

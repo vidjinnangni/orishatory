@@ -1,0 +1,25 @@
+{
+  "id": "eshmun",
+  "nom": "Eshmoun",
+  "variantes": ["Eshmun"],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Puniques (Carthage)"],
+  "resume": "Dieu punique de la guérison et de la médecine, vénéré à Carthage dans un important sanctuaire sur la colline de Byrsa, identifié par les Grecs et Romains à Asclépios/Esculape.",
+  "domaines": ["guérison", "médecine", "protection de la cité"],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Lipiński, E. (1995). Dieux et déesses de l'univers phénicien et punique",
+    "Xella, P. (2013). The Tophet in the Punic Mediterranean (contexte religieux carthaginois)"
+  ],
+  "notes": ""
+}

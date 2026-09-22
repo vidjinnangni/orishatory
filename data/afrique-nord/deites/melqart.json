@@ -1,0 +1,25 @@
+{
+  "id": "melqart",
+  "nom": "Melqart",
+  "variantes": [],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Puniques (Carthage)"],
+  "resume": "Dieu tutélaire de Tyr adopté par les colonies phéniciennes puis par Carthage, associé à la royauté, à la navigation et à la renaissance cyclique. Identifié par les Grecs à Héraclès en raison de récits de mort et résurrection annuelle.",
+  "domaines": ["royauté", "navigation", "renaissance cyclique"],
+  "tags": ["royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Lipiński, E. (1995). Dieux et déesses de l'univers phénicien et punique",
+    "Bonnet, C. (1988). Melqart: Cultes et mythes de l'Héraclès tyrien en Méditerranée"
+  ],
+  "notes": ""
+}

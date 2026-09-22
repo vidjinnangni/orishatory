@@ -1,0 +1,25 @@
+{
+  "id": "la-deesse-lointaine",
+  "nom": "Le mythe de la Déesse lointaine",
+  "variantes": [],
+  "region": "afrique-nord",
+  "categorie": "recits",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Récit où l'œil de Rê, incarné par une déesse (Tefnout, Hathor ou Sekhmet selon les versions), se retire en colère en Nubie, provoquant un déséquilibre cosmique jusqu'à ce que Thot ou Chou parvienne à l'apaiser et la ramener en Égypte, où sa colère se change en joie et fécondité.",
+  "domaines": ["colère divine", "réconciliation", "retour d'exil"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["tefnut", "sekhmet", "hathor", "thot"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Junker, H. (1911). Der Auszug der Hathor-Tefnut aus Nubien",
+    "Cauville, S. (trad.). Le Mythe de l'Œil du Soleil (papyrus démotique)"
+  ],
+  "notes": "Le fait que la déesse se retire précisément en Nubie avant de revenir reflète les liens religieux et diplomatiques anciens et complexes entre l'Égypte et ses voisins nubiens méridionaux."
+}

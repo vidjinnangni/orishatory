@@ -1,0 +1,25 @@
+{
+  "id": "tefnut",
+  "nom": "Tefnout",
+  "variantes": ["Tefnut"],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Déesse de l'humidité et de la pluie, sœur-épouse de Shou et mère de Nout et Geb, dont le départ en colère vers la Nubie puis le retour apaisé constitue le cœur du mythe de la Déesse lointaine.",
+  "domaines": ["humidité", "pluie", "colère divine apaisée"],
+  "tags": ["eau"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": ["shu"],
+    "enfants": [],
+    "entites_liees": ["shu"]
+  },
+  "attributs": [],
+  "recits_associes": ["la-deesse-lointaine"],
+  "culte_contemporain": "",
+  "sources": [
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "Junker, H. (1911). Der Auszug der Hathor-Tefnut aus Nubien"
+  ],
+  "notes": ""
+}
