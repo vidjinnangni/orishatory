@@ -2,6 +2,7 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import Breadcrumb from "../../components/Breadcrumb.astro";
 import CategoryIcon from "../../components/CategoryIcon.astro";
+import RegionIcon from "../../components/RegionIcon.astro";
 import {
   CATEGORIES,
   CATEGORY_DESCRIPTIONS,
@@ -31,7 +32,7 @@ const categoryCounts = CATEGORIES.map((categorie) => ({
   </div>
 
   <section class="container intro">
-    <h1>{REGION_LABELS[region]}</h1>
+    <h1><RegionIcon region={region} />{REGION_LABELS[region]}</h1>
     <p class="lede">{REGION_DESCRIPTIONS[region]}</p>
   </section>
 
@@ -60,6 +61,19 @@ const categoryCounts = CATEGORIES.map((categorie) => ({
 <style>
   .intro {
     padding-block: 1rem 2rem;
+  }
+
+  .intro h1 {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+  }
+
+  .intro h1 :global(svg) {
+    width: 1.6rem;
+    height: 1.6rem;
+    color: var(--fg-muted);
+    flex-shrink: 0;
   }
 
   .lede {

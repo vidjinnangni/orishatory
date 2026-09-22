@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
+import RegionIcon from "../components/RegionIcon.astro";
 import { REGIONS, REGION_LABELS, REGION_DESCRIPTIONS } from "../lib/constants";
 import { ALL_ENTITIES, getEntitiesByRegion } from "../lib/data";
 
@@ -25,6 +26,7 @@ const regionCounts = REGIONS.map((region) => ({
         regionCounts.map(({ region, count }) => (
           <li>
             <a class="region-card" href={`/${region}/`}>
+              <RegionIcon region={region} />
               <h2>{REGION_LABELS[region]}</h2>
               <p>{REGION_DESCRIPTIONS[region]}</p>
               <p class="count">{count} fiche{count > 1 ? "s" : ""}</p>
@@ -85,6 +87,12 @@ const regionCounts = REGIONS.map((region) => ({
 
   .region-card:hover {
     border-color: var(--accent);
+  }
+
+  .region-card :global(svg) {
+    width: 1.75rem;
+    height: 1.75rem;
+    color: var(--fg-muted);
   }
 
   .region-card h2 {
