@@ -1,0 +1,80 @@
+---
+import type { Region } from "../lib/constants";
+
+interface Props {
+  region: Region;
+}
+
+const { region } = Astro.props;
+---
+
+{
+  /*
+    Compass motif shared by the five continental regions — a ring with cardinal
+    ticks and a needle pointing the region's general direction on the
+    continent (centred for "centrale"). Diaspora breaks the pattern
+    deliberately: dispersion doesn't have a compass direction, so it gets a
+    one-origin/many-destinations network instead. Deliberately abstract and
+    non-figurative to avoid reducing any region to a single cultural symbol.
+  */
+}
+{
+  region === "afrique-ouest" && (
+    <svg viewBox="0 0 24 24" width="1em" height="1em" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <circle cx="12" cy="12" r="9" />
+      <path d="M12 3v2M21 12h-2M12 21v-2M3 12h2" />
+      <path d="M12 12H5" />
+      <path d="M7.2 9.5 5 12l2.2 2.5" />
+    </svg>
+  )
+}
+{
+  region === "afrique-est" && (
+    <svg viewBox="0 0 24 24" width="1em" height="1em" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <circle cx="12" cy="12" r="9" />
+      <path d="M12 3v2M21 12h-2M12 21v-2M3 12h2" />
+      <path d="M12 12h7" />
+      <path d="M16.8 9.5 19 12l-2.2 2.5" />
+    </svg>
+  )
+}
+{
+  region === "afrique-nord" && (
+    <svg viewBox="0 0 24 24" width="1em" height="1em" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <circle cx="12" cy="12" r="9" />
+      <path d="M12 3v2M21 12h-2M12 21v-2M3 12h2" />
+      <path d="M12 12V5" />
+      <path d="M9.5 7.2 12 5l2.5 2.2" />
+    </svg>
+  )
+}
+{
+  region === "afrique-australe" && (
+    <svg viewBox="0 0 24 24" width="1em" height="1em" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <circle cx="12" cy="12" r="9" />
+      <path d="M12 3v2M21 12h-2M12 21v-2M3 12h2" />
+      <path d="M12 12v7" />
+      <path d="M9.5 16.8 12 19l2.5-2.2" />
+    </svg>
+  )
+}
+{
+  region === "afrique-centrale" && (
+    <svg viewBox="0 0 24 24" width="1em" height="1em" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <circle cx="12" cy="12" r="9" />
+      <path d="M12 3v2M21 12h-2M12 21v-2M3 12h2" />
+      <circle cx="12" cy="12" r="2.2" fill="currentColor" stroke="none" />
+    </svg>
+  )
+}
+{
+  region === "diaspora" && (
+    <svg viewBox="0 0 24 24" width="1em" height="1em" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M12 6.5 6.3 16.3M12 6.5V18M12 6.5l5.7 9.8" />
+      <circle cx="12" cy="5" r="1.8" />
+      <circle cx="5" cy="18" r="1.8" />
+      <circle cx="12" cy="19.5" r="1.8" />
+      <circle cx="19" cy="18" r="1.8" />
+    </svg>
+  )
+}
