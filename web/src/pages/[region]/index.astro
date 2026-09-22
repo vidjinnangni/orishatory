@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import Breadcrumb from "../../components/Breadcrumb.astro";
+import CategoryIcon from "../../components/CategoryIcon.astro";
 import {
   CATEGORIES,
   CATEGORY_DESCRIPTIONS,
@@ -42,6 +43,7 @@ const categoryCounts = CATEGORIES.map((categorie) => ({
           .map(({ categorie, count }) => (
             <li>
               <a class="category-card" href={`/${region}/${categorie}/`}>
+                <CategoryIcon categorie={categorie} />
                 <h2>{CATEGORY_LABELS[categorie]}</h2>
                 <p>{CATEGORY_DESCRIPTIONS[categorie]}</p>
                 <p class="count">
@@ -91,6 +93,12 @@ const categoryCounts = CATEGORIES.map((categorie) => ({
 
   .category-card:hover {
     border-color: var(--accent);
+  }
+
+  .category-card :global(svg) {
+    width: 1.75rem;
+    height: 1.75rem;
+    color: var(--fg-muted);
   }
 
   .category-card h2 {
