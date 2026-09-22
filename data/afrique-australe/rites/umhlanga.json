@@ -1,0 +1,25 @@
+{
+  "id": "umhlanga",
+  "nom": "Umhlanga (la danse des roseaux)",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "rites",
+  "peuples": ["Zulu"],
+  "resume": "Cérémonie annuelle zulu où des dizaines de milliers de jeunes filles célibataires présentent des roseaux coupés au roi zulu dans le cadre d'un rite célébrant la chasteté, l'unité nationale et le respect de la royauté.",
+  "domaines": ["chasteté", "unité nationale", "royauté"],
+  "tags": ["royaute-sacree", "initiation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "Reste célébrée chaque année en Afrique du Sud contemporaine (kwaZulu-Natal) et dans une variante swazie (Umhlanga/Reed Dance), attirant un tourisme culturel important tout en faisant l'objet de débats contemporains sur le regard porté sur le corps des jeunes filles.",
+  "sources": [
+    "Golan, D. (1990). Inventing Shaka: Using History in the Construction of Zulu Nationalism",
+    "Kuper, H. (1947). An African Aristocracy (pour la variante swazie)"
+  ],
+  "notes": "La cérémonie, comme d'autres traditions royales sud-africaines, fait l'objet de débats contemporains contrastés entre valorisation culturelle et critiques portant sur l'exposition publique des jeunes participantes."
+}

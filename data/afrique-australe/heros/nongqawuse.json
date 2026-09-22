@@ -1,0 +1,25 @@
+{
+  "id": "nongqawuse",
+  "nom": "Nongqawuse",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "heros",
+  "peuples": ["Xhosa"],
+  "resume": "Jeune prophétesse xhosa dont les visions annoncèrent en 1856 qu'un sacrifice massif du bétail et des récoltes du peuple xhosa provoquerait la résurrection des ancêtres et l'expulsion des colons britanniques. Le mouvement qu'elle inspira eut des conséquences catastrophiques.",
+  "domaines": ["prophétie", "sacrifice", "catastrophe collective"],
+  "tags": ["divination"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": ["mouvement-nongqawuse"],
+  "culte_contemporain": "",
+  "sources": [
+    "Peires, J.B. (1989). The Dead Will Arise: Nongqawuse and the Great Xhosa Cattle-Killing Movement of 1856-7",
+    "Stapleton, T.J. (1991). Reluctant Slaughter, Refugee Nation"
+  ],
+  "notes": "Figure profondément tragique dont l'interprétation historique reste débattue (naïveté, manipulation par des tiers, ou réponse désespérée à la pression coloniale et à une épizootie bovine réelle) ; à traiter avec la gravité que requiert un événement ayant causé la mort par famine d'une large partie du peuple xhosa."
+}

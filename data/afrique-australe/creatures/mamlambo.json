@@ -1,0 +1,25 @@
+{
+  "id": "mamlambo",
+  "nom": "Mamlambo",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "creatures",
+  "peuples": ["Zulu", "Xhosa"],
+  "resume": "Être surnaturel aquatique associé aux rivières, décrit tantôt comme un serpent gigantesque tantôt comme une créature mi-femme mi-poisson, capable d'apporter richesse à qui parvient à établir un pacte avec elle mais aussi de noyer les imprudents.",
+  "domaines": ["eau", "richesse", "danger"],
+  "tags": ["eau"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Berglund, A-I. (1976). Zulu Thought-Patterns and Symbolism",
+    "Hammond-Tooke, W.D. (1989). Rituals and Medicines: Indigenous Healing in South Africa"
+  ],
+  "notes": "La figure connaît un regain de popularité contemporaine dans les récits urbains sud-africains, parfois comparée dans la presse populaire à un 'monstre du Loch Ness' local sans que cette comparaison rende justice à sa signification culturelle propre."
+}

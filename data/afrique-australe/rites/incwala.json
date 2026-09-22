@@ -1,0 +1,25 @@
+{
+  "id": "incwala",
+  "nom": "Incwala",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "rites",
+  "peuples": ["Swazi (eSwatini)"],
+  "resume": "Cérémonie annuelle swazie de renouvellement de la royauté et des prémices agricoles, impliquant le roi dans une série de rites de purification et de réaffirmation de son lien sacré avec la nation, culminant par la dégustation rituelle des premières récoltes.",
+  "domaines": ["royauté sacrée", "renouvellement", "prémices agricoles"],
+  "tags": ["royaute-sacree", "terre-fertilite"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Kuper, H. (1947). An African Aristocracy: Rank among the Swazi",
+    "Beidelman, T.O. (1966). Swazi Royal Ritual"
+  ],
+  "notes": ""
+}

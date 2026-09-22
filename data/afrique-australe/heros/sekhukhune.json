@@ -1,0 +1,24 @@
+{
+  "id": "sekhukhune",
+  "nom": "Sekhukhune Ier",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "heros",
+  "peuples": ["Pedi (Bapedi)"],
+  "resume": "Roi pedi du 19e siècle réputé pour sa résistance prolongée face aux incursions boers puis britanniques dans le nord-est de l'actuelle Afrique du Sud, capturé après un long siège en 1879, devenu depuis une figure de la mémoire de résistance sud-africaine.",
+  "domaines": ["résistance", "royauté", "défense territoriale"],
+  "tags": ["royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "Un district municipal sud-africain porte aujourd'hui son nom en hommage à sa résistance.",
+  "sources": [
+    "Delius, P. (1983). The Land Belongs to Us: The Pedi Polity, the Boers and the British in the Nineteenth-Century Transvaal"
+  ],
+  "notes": ""
+}

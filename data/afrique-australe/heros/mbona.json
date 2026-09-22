@@ -1,0 +1,25 @@
+{
+  "id": "mbona",
+  "nom": "Mbona",
+  "variantes": [],
+  "region": "afrique-australe",
+  "categorie": "heros",
+  "peuples": ["Chewa", "Mang'anja"],
+  "resume": "Héros pluvieux et martyr chewa/mang'anja (actuel Malawi), mis à mort selon la tradition par un chef jaloux de son pouvoir sur la pluie, dont l'esprit continue d'être invoqué au sanctuaire de Khulubvi lors de sécheresses graves.",
+  "domaines": ["pluie", "martyre", "médiation spirituelle"],
+  "tags": ["eau", "mort-au-dela"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "Le sanctuaire de Mbona à Khulubvi reste un site de pèlerinage actif au Malawi contemporain, consulté par des délégations officielles lors de sécheresses sévères.",
+  "sources": [
+    "Schoffeleers, J.M. (1992). River of Blood: The Genesis of a Martyr Cult in Southern Malawi",
+    "Schoffeleers, J.M. (1978). Guardians of the Land: Essays on Central African Territorial Cults"
+  ],
+  "notes": ""
+}
