@@ -53,8 +53,20 @@ const regionCounts = REGIONS.map((region) => ({
 
   .region-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+    grid-template-columns: 1fr;
     gap: 1.25rem;
+  }
+
+  @media (min-width: 640px) {
+    .region-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (min-width: 900px) {
+    .region-grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
   }
 
   .region-card {
