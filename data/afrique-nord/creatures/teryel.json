@@ -1,0 +1,25 @@
+{
+  "id": "teryel",
+  "nom": "Teryel",
+  "variantes": [],
+  "region": "afrique-nord",
+  "categorie": "creatures",
+  "peuples": ["Kabyles"],
+  "resume": "Figure d'ogresse cannibale dans les contes kabyles, dotée de pouvoirs de métamorphose, dévorant les imprudents mais parfois déjouée par la ruse des héros et héroïnes des récits, notamment dans le cycle de Loundja.",
+  "domaines": ["cannibalisme", "métamorphose", "menace domestique"],
+  "tags": ["metamorphose"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": ["loundja"],
+  "culte_contemporain": "",
+  "sources": [
+    "Amrouche, T. (1966). Le grain magique: contes, poèmes et proverbes berbères de Kabylie",
+    "Frobenius, L. & Fox, D.C. (1937). African Genesis (contexte comparatif du conte africain)"
+  ],
+  "notes": ""
+}

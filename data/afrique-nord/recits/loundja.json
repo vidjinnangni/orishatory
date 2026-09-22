@@ -1,0 +1,25 @@
+{
+  "id": "loundja",
+  "nom": "Loundja, fille de l'ogresse",
+  "variantes": [],
+  "region": "afrique-nord",
+  "categorie": "recits",
+  "peuples": ["Kabyles"],
+  "resume": "Conte kabyle célèbre narrant les épreuves de Loundja, jeune fille d'une beauté extraordinaire élevée par l'ogresse Teryel, et de son prétendant qui doit déjouer une série de ruses et de dangers pour la délivrer et l'épouser.",
+  "domaines": ["beauté", "épreuves", "délivrance"],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["teryel"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Amrouche, T. (1966). Le grain magique: contes, poèmes et proverbes berbères de Kabylie",
+    "Feraoun, M. (1994). Les Chemins qui montent (contexte littéraire kabyle plus large)"
+  ],
+  "notes": "Ce conte fait partie d'un cycle narratif largement diffusé oralement à travers la Kabylie, avec de nombreuses variantes locales quant aux détails des épreuves imposées au prétendant."
+}

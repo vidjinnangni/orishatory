@@ -1,0 +1,25 @@
+{
+  "id": "khonsu",
+  "nom": "Khonsou",
+  "variantes": ["Khonsu"],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Dieu lunaire égyptien, fils d'Amon et Mout formant avec eux la triade thébaine, associé au temps, à la guérison et au calcul du calendrier lunaire.",
+  "domaines": ["lune", "temps", "guérison"],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["disque et croissant lunaires sur la tête", "tresse de l'enfance (jeunesse)"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "Wilkinson, R.H. (2003). The Complete Gods and Goddesses of Ancient Egypt"
+  ],
+  "notes": ""
+}

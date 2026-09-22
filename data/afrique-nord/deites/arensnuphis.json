@@ -1,0 +1,25 @@
+{
+  "id": "arensnuphis",
+  "nom": "Arensnuphis",
+  "variantes": [],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Nubiens (royaume de Kouch)"],
+  "resume": "Dieu-lion nubien vénéré conjointement par les Égyptiens et les Méroïtiques au temple de Philae, illustrant la porosité religieuse entre les théologies égyptienne et nubienne aux confins méridionaux de l'Égypte antique.",
+  "domaines": ["guerre", "protection", "frontière méridionale"],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["apedemak"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Welsby, D.A. (1996). The Kingdom of Kush: The Napatan and Meroitic Empires",
+    "Žabkar, L.V. (1975). Apedemak, Lion God of Meroe (contexte comparatif des dieux-lions nubiens)"
+  ],
+  "notes": ""
+}

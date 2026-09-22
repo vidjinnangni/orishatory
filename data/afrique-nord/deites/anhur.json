@@ -1,0 +1,25 @@
+{
+  "id": "anhur",
+  "nom": "Anhour",
+  "variantes": ["Anhur", "Onouris (nom grec)"],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Dieu guerrier dont le nom signifie 'celui qui ramène la lointaine', directement associé au mythe de la Déesse lointaine qu'il est chargé de ramener d'exil en Nubie. Identifié par les Grecs à Arès.",
+  "domaines": ["guerre", "chasse", "ramener l'exilée"],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": ["la-deesse-lointaine", "tefnut"]
+  },
+  "attributs": [],
+  "recits_associes": ["la-deesse-lointaine"],
+  "culte_contemporain": "",
+  "sources": [
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "Junker, H. (1911). Der Auszug der Hathor-Tefnut aus Nubien"
+  ],
+  "notes": ""
+}

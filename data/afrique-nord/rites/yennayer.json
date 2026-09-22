@@ -1,0 +1,25 @@
+{
+  "id": "yennayer",
+  "nom": "Yennayer",
+  "variantes": [],
+  "region": "afrique-nord",
+  "categorie": "rites",
+  "peuples": ["Amazigh (Berbères)"],
+  "resume": "Nouvel an amazigh, célébré début janvier selon un calendrier agraire antérieur à l'islamisation du Maghreb, marqué par des repas familiaux copieux censés garantir l'abondance pour l'année à venir.",
+  "domaines": ["nouvel an", "cycle agricole", "abondance"],
+  "tags": ["terre-fertilite"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["plats traditionnels spécifiques (couscous aux sept légumes notamment)", "datation par référence à la victoire du pharaon libyen Sheshonq Ier"],
+  "recits_associes": [],
+  "culte_contemporain": "Officiellement reconnu comme jour férié en Algérie depuis 2018 ; célébré aussi au Maroc, en Tunisie et en Libye, avec un regain identitaire amazigh depuis les années 1990.",
+  "sources": [
+    "Camps, G. (1995). Yennayer, le jour de l'an berbère",
+    "Servier, J. (1985). Tradition et civilisation berbères"
+  ],
+  "notes": ""
+}

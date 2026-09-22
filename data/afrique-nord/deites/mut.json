@@ -1,0 +1,25 @@
+{
+  "id": "mut",
+  "nom": "Mout",
+  "variantes": ["Mut"],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Déesse mère du panthéon thébain, épouse d'Amon et mère de Khonsou avec qui elle forme la triade thébaine, associée à la royauté et à la protection maternelle du pharaon.",
+  "domaines": ["maternité", "royauté", "protection"],
+  "tags": ["royaute-sacree"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": ["khonsu"],
+    "entites_liees": ["khonsu"]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "Wilkinson, R.H. (2003). The Complete Gods and Goddesses of Ancient Egypt"
+  ],
+  "notes": ""
+}

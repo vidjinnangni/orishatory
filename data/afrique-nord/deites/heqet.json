@@ -1,0 +1,25 @@
+{
+  "id": "heqet",
+  "nom": "Héqet",
+  "variantes": ["Heqet"],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Déesse grenouille de la fertilité et de l'accouchement, associée à la crue du Nil et à la création de l'enfant dans le ventre maternel, invoquée par les sages-femmes égyptiennes.",
+  "domaines": ["fertilité", "accouchement", "crue du Nil"],
+  "tags": ["terre-fertilite", "eau"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["tête de grenouille"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "Wilkinson, R.H. (2003). The Complete Gods and Goddesses of Ancient Egypt"
+  ],
+  "notes": ""
+}

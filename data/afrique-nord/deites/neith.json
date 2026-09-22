@@ -1,0 +1,25 @@
+{
+  "id": "neith",
+  "nom": "Neith",
+  "variantes": [],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Déesse de la guerre, de la chasse et du tissage, patronne de la ville de Saïs dans le delta du Nil, parfois présentée comme une créatrice primordiale antérieure aux autres dieux.",
+  "domaines": ["guerre", "chasse", "tissage", "création"],
+  "tags": ["creation"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["arc et flèches", "bouclier", "navette de tisserand"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "El-Sayed, R. (1982). La déesse Neith de Saïs"
+  ],
+  "notes": ""
+}

@@ -1,0 +1,25 @@
+{
+  "id": "conte-de-sinouhe",
+  "nom": "Le conte de Sinouhé",
+  "variantes": [],
+  "region": "afrique-nord",
+  "categorie": "recits",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Récit littéraire du Moyen Empire relatant la fuite d'un dignitaire égyptien vers le Levant après la mort du pharaon Amenemhat Ier, sa nouvelle vie prospère en exil, puis son retour pardonné en Égypte pour y être enterré dignement. Considéré comme un chef-d'œuvre classique de la littérature égyptienne.",
+  "domaines": ["exil", "loyauté", "retour", "dignité funéraire"],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Parkinson, R.B. (1997). The Tale of Sinuhe and Other Ancient Egyptian Poems",
+    "Koch, R. (1990). Die Erzählung des Sinuhe"
+  ],
+  "notes": "Bien que centré sur des personnages historiques plausibles, le récit est une œuvre littéraire de fiction plutôt qu'un document historique factuel, étudiée pour sa valeur narrative et son rôle dans la formation du canon scolaire scribal égyptien antique."
+}

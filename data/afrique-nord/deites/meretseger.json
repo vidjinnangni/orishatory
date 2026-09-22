@@ -1,0 +1,25 @@
+{
+  "id": "meretseger",
+  "nom": "Meretseger",
+  "variantes": [],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": ["Égyptiens anciens"],
+  "resume": "Déesse cobra de la nécropole thébaine, dont le nom signifie 'celle qui aime le silence', gardienne redoutée de la Vallée des Rois punissant les profanateurs de tombes et les ouvriers malhonnêtes.",
+  "domaines": ["nécropole", "punition", "silence sacré"],
+  "tags": ["mort-au-dela"],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": ["forme de cobra ou de femme à tête de cobra"],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "Bruyère, B. (1930). Mert Seger à Deir el Médineh"
+  ],
+  "notes": ""
+}
