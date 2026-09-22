@@ -1,0 +1,50 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumb from "../../components/Breadcrumb.astro";
+import EntityCard from "../../components/EntityCard.astro";
+import { ALL_TAGS, getEntitiesByTag } from "../../lib/data";
+
+export function getStaticPaths() {
+  return ALL_TAGS.map((tag) => ({ params: { tag: tag.id }, props: { tag } }));
+}
+
+const { tag } = Astro.props as { tag: (typeof ALL_TAGS)[number] };
+const entities = getEntitiesByTag(tag.id);
+---
+
+<BaseLayout title={tag.label} description={`Fiches associées au tag ${tag.label}.`}>
+  <div class="container">
+    <Breadcrumb items={[{ label: "Accueil", href: "/" }, { label: "Tags", href: "/tags/" }, { label: tag.label }]} />
+  </div>
+
+  <section class="container intro">
+    <h1>{tag.label}</h1>
+    <p class="lede">
+      {entities.length} fiche{entities.length > 1 ? "s" : ""} à travers les régions.
+    </p>
+  </section>
+
+  <section class="container">
+    <ul class="grid">
+      {entities.map((entity) => <li><EntityCard entity={entity} /></li>)}
+    </ul>
+  </section>
+</BaseLayout>
+
+<style>
+  .intro {
+    padding-block: 1rem 2rem;
+  }
+
+  .lede {
+    max-width: 60ch;
+    color: var(--fg-muted);
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+    gap: 1.25rem;
+    padding-bottom: 4rem;
+  }
+</style>

@@ -1,0 +1,80 @@
+---
+const navItems = [
+  { href: "/", label: "Accueil" },
+  { href: "/tags/", label: "Tags" },
+  { href: "/recherche/", label: "Recherche" },
+  { href: "/a-propos/", label: "À propos" },
+];
+
+const currentPath = Astro.url.pathname;
+---
+
+<header class="site-header">
+  <div class="container bar">
+    <a class="wordmark" href="/">
+      Orishatory
+    </a>
+    <nav aria-label="Navigation principale">
+      <ul>
+        {
+          navItems.map((item) => {
+            const isActive = item.href === "/" ? currentPath === "/" : currentPath.startsWith(item.href);
+            return (
+              <li>
+                <a href={item.href} aria-current={isActive ? "page" : undefined}>
+                  {item.label}
+                </a>
+              </li>
+            );
+          })
+        }
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<style>
+  .site-header {
+    border-bottom: 1px solid var(--border);
+  }
+
+  .bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    row-gap: 0.5rem;
+    column-gap: 1.5rem;
+    padding-block: 1.1rem;
+  }
+
+  .wordmark {
+    font-size: 1.25rem;
+    font-weight: 700;
+    text-decoration: none;
+    letter-spacing: -0.02em;
+  }
+
+  nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem clamp(1rem, 4vw, 1.75rem);
+  }
+
+  nav a {
+    font-size: 0.9rem;
+    text-decoration: none;
+    color: var(--fg-muted);
+    padding-block: 0.25rem;
+    border-bottom: 1px solid transparent;
+  }
+
+  nav a:hover {
+    color: var(--fg);
+  }
+
+  nav a[aria-current="page"] {
+    color: var(--fg);
+    border-bottom-color: var(--accent);
+  }
+</style>

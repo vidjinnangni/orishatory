@@ -1,0 +1,72 @@
+---
+import CategoryBadge from "./CategoryBadge.astro";
+import { entityHref, type Entite } from "../lib/data";
+
+interface Props {
+  entity: Entite;
+  showCategory?: boolean;
+}
+
+const { entity, showCategory = true } = Astro.props;
+---
+
+<a class="card" href={entityHref(entity)}>
+  <div class="card-head">
+    <h3>{entity.nom}</h3>
+    {showCategory && <CategoryBadge categorie={entity.categorie} />}
+  </div>
+  {entity.peuples.length > 0 && <p class="peuples">{entity.peuples.join(", ")}</p>}
+  <p class="resume">{entity.resume}</p>
+</a>
+
+<style>
+  .card {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding: 1.25rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--bg-elevated);
+    text-decoration: none;
+    color: var(--fg);
+    height: 100%;
+    transition: border-color 0.15s ease;
+  }
+
+  .card:hover {
+    border-color: var(--accent);
+  }
+
+  .card-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.75rem;
+  }
+
+  .card-head h3 {
+    margin: 0;
+    font-size: 1.05rem;
+  }
+
+  .peuples {
+    margin: 0;
+    max-width: none;
+    font-size: 0.8rem;
+    color: var(--fg-muted);
+    font-weight: 600;
+  }
+
+  .resume {
+    margin: 0;
+    max-width: none;
+    font-size: 0.9rem;
+    color: var(--fg-muted);
+    line-height: 1.5;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+</style>

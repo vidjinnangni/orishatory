@@ -1,0 +1,72 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Breadcrumb from "../../../components/Breadcrumb.astro";
+import EntityCard from "../../../components/EntityCard.astro";
+import {
+  CATEGORIES,
+  CATEGORY_DESCRIPTIONS,
+  CATEGORY_LABELS,
+  REGIONS,
+  REGION_LABELS,
+  type Categorie,
+  type Region,
+} from "../../../lib/constants";
+import { getEntitiesByRegionAndCategorie } from "../../../lib/data";
+
+export function getStaticPaths() {
+  return REGIONS.flatMap((region) =>
+    CATEGORIES.filter((categorie) => getEntitiesByRegionAndCategorie(region, categorie).length > 0).map(
+      (categorie) => ({ params: { region, categorie } }),
+    ),
+  );
+}
+
+const { region, categorie } = Astro.params as { region: Region; categorie: Categorie };
+const entities = getEntitiesByRegionAndCategorie(region, categorie);
+---
+
+<BaseLayout
+  title={`${CATEGORY_LABELS[categorie]} · ${REGION_LABELS[region]}`}
+  description={CATEGORY_DESCRIPTIONS[categorie]}
+>
+  <div class="container">
+    <Breadcrumb
+      items={[
+        { label: "Accueil", href: "/" },
+        { label: REGION_LABELS[region], href: `/${region}/` },
+        { label: CATEGORY_LABELS[categorie] },
+      ]}
+    />
+  </div>
+
+  <section class="container intro">
+    <h1>{CATEGORY_LABELS[categorie]}</h1>
+    <p class="lede">
+      {CATEGORY_DESCRIPTIONS[categorie]} - {REGION_LABELS[region]}.
+    </p>
+  </section>
+
+  <section class="container">
+    <ul class="grid">
+      {entities.map((entity) => <li><EntityCard entity={entity} showCategory={false} /></li>)}
+    </ul>
+  </section>
+</BaseLayout>
+
+<style>
+  .intro {
+    padding-block: 1rem 2rem;
+  }
+
+  .lede {
+    max-width: 60ch;
+    color: var(--fg-muted);
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+    gap: 1.25rem;
+    padding-bottom: 4rem;
+  }
+</style>
