@@ -4,10 +4,19 @@
   "variantes": [],
   "region": "afrique-est",
   "categorie": "rites",
-  "peuples": ["peuples des Grands Lacs (Rwanda, Ouganda)"],
+  "peuples": [
+    "peuples des Grands Lacs (Rwanda, Ouganda)"
+  ],
   "resume": "Culte de possession spirituelle centré sur un esprit féminin protecteur, devenu au début du 20e siècle le noyau d'un mouvement de résistance anticoloniale majeur en Afrique des Grands Lacs, réprimé par les autorités coloniales britanniques et allemandes.",
-  "domaines": ["possession spirituelle", "résistance anticoloniale", "protection"],
-  "tags": ["divination"],
+  "description_detaillee": "Parmi les figures historiques ayant porté la résistance armée au nom de l'esprit Nyabingi, Muhumusa demeure la mieux documentée : cette femme, revendiquant l'autorité spirituelle de Nyabingi, dirigea au début du 20e siècle plusieurs soulèvements armés contre les forces coloniales allemandes puis britanniques dans la région des Grands Lacs, avant d'être capturée et exilée par les autorités coloniales britanniques, illustrant concrètement le rôle politique actif que pouvaient jouer les médiums de ce culte.",
+  "domaines": [
+    "possession spirituelle",
+    "résistance anticoloniale",
+    "protection"
+  ],
+  "tags": [
+    "divination"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

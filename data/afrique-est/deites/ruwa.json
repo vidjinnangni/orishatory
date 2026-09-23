@@ -4,10 +4,20 @@
   "variantes": [],
   "region": "afrique-est",
   "categorie": "deites",
-  "peuples": ["Chagga"],
+  "peuples": [
+    "Chagga"
+  ],
   "resume": "Dieu suprême chagga (région du Kilimandjaro, Tanzanie), associé au soleil et au ciel, source de la vie et de la fertilité, traditionnellement invoqué lors des rituels agricoles et des rites de passage.",
-  "domaines": ["soleil", "ciel", "fertilité"],
-  "tags": ["creation", "terre-fertilite"],
+  "description_detaillee": "Le sommet enneigé du Kilimandjaro, aujourd'hui connu sous le nom d'Uhuru Peak, est traditionnellement identifié dans la mythologie chagga comme le trône ou la demeure privilégiée de Ruwa ; certains récits rapportent que la fonte occasionnelle de la neige au sommet serait le signe d'une bienveillance particulière de Ruwa envers l'humanité, à l'inverse du froid et des chutes de neige plus abondantes interprétées comme des avertissements ou des punitions.",
+  "domaines": [
+    "soleil",
+    "ciel",
+    "fertilité"
+  ],
+  "tags": [
+    "creation",
+    "terre-fertilite"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
@@ -15,7 +25,9 @@
     "entites_liees": []
   },
   "attributs": [],
-  "recits_associes": ["origine-kilimandjaro"],
+  "recits_associes": [
+    "origine-kilimandjaro"
+  ],
   "culte_contemporain": "",
   "sources": [
     "Dundas, C. (1924). Kilimanjaro and Its People",

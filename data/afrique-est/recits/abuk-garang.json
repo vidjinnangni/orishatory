@@ -4,15 +4,26 @@
   "variantes": [],
   "region": "afrique-est",
   "categorie": "recits",
-  "peuples": ["Dinka"],
+  "peuples": [
+    "Dinka"
+  ],
   "resume": "Récit cosmogonique dinka narrant la création du premier homme (Garang) et de la première femme (Abuk), et la séparation originelle entre le ciel et la terre provoquée par une transgression, expliquant la condition mortelle de l'humanité.",
-  "domaines": ["création", "origine humaine", "séparation ciel-terre"],
-  "tags": ["creation"],
+  "description_detaillee": "Dans plusieurs versions du récit, la rupture entre ciel et terre serait survenue lorsqu'Abuk, en pilant le grain avec trop d'énergie, aurait frappé accidentellement Nhialic ou endommagé la corde ou l'échelle reliant jusque-là les deux mondes ; un oiseau ou une hyène aurait ensuite achevé de sectionner ce lien, rendant le passage entre ciel et terre définitivement impossible et contraignant désormais l'humanité au travail agricole pénible et à la mortalité.",
+  "domaines": [
+    "création",
+    "origine humaine",
+    "séparation ciel-terre"
+  ],
+  "tags": [
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["nhialic"]
+    "entites_liees": [
+      "nhialic"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

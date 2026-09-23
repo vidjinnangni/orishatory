@@ -1,18 +1,31 @@
 {
   "id": "gada",
   "nom": "Système gadaa",
-  "variantes": ["Gada"],
+  "variantes": [
+    "Gada"
+  ],
   "region": "afrique-est",
   "categorie": "rites",
-  "peuples": ["Oromo"],
+  "peuples": [
+    "Oromo"
+  ],
   "resume": "Système socio-politique et rituel oromo organisant la société en classes d'âge (luba) se succédant au pouvoir tous les huit ans, encadrant la transmission des rôles politiques, militaires et religieux.",
-  "domaines": ["organisation sociale", "passage rituel", "gouvernance"],
-  "tags": ["initiation"],
+  "description_detaillee": "Le parcours gadaa se décompose en plusieurs classes d'âge successives que chaque homme oromo traverse au cours de sa vie (dont dabballee, foollee, qondaala et raabaa doorii selon la terminologie relevée par l'anthropologue Asmarom Legesse), chacune correspondant à des responsabilités et des interdits spécifiques, avant l'accession à la classe gadaa proprement dite qui confère l'exercice effectif du pouvoir politique et militaire pour la période de huit ans.",
+  "domaines": [
+    "organisation sociale",
+    "passage rituel",
+    "gouvernance"
+  ],
+  "tags": [
+    "initiation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["waaq"]
+    "entites_liees": [
+      "waaq"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

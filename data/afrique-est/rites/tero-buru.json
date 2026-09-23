@@ -4,17 +4,30 @@
   "variantes": [],
   "region": "afrique-est",
   "categorie": "rites",
-  "peuples": ["Luo"],
+  "peuples": [
+    "Luo"
+  ],
   "resume": "Rite funéraire luo traditionnel impliquant une simulation de combat ou de raid de bétail en l'honneur du défunt, destiné à honorer sa mémoire et à accompagner symboliquement son passage vers le monde des ancêtres.",
-  "domaines": ["funérailles", "honneur guerrier", "passage vers l'au-delà"],
-  "tags": ["mort-au-dela", "ancetres"],
+  "description_detaillee": "La tenue effective du tero buru pouvait traditionnellement être différée de plusieurs mois, voire de plusieurs années après le décès, le temps que la famille du défunt rassemble les ressources et le bétail nécessaires à l'organisation d'une cérémonie digne de son rang social, en particulier pour les personnalités de premier plan au sein de la communauté ; l'achèvement du deuil funéraire luo pouvait ainsi constituer un processus social prolongé plutôt qu'un rite immédiatement consécutif au décès.",
+  "domaines": [
+    "funérailles",
+    "honneur guerrier",
+    "passage vers l'au-delà"
+  ],
+  "tags": [
+    "mort-au-dela",
+    "ancetres"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["simulation de raid de bétail", "danses guerrières"],
+  "attributs": [
+    "simulation de raid de bétail",
+    "danses guerrières"
+  ],
   "recits_associes": [],
   "culte_contemporain": "La pratique a considérablement décliné avec la christianisation et l'urbanisation, mais certains éléments symboliques subsistent dans des funérailles luo contemporaines réinterprétées.",
   "sources": [

@@ -4,10 +4,20 @@
   "variantes": [],
   "region": "afrique-est",
   "categorie": "deites",
-  "peuples": ["Kalenjin", "Nandi"],
+  "peuples": [
+    "Kalenjin",
+    "Nandi"
+  ],
   "resume": "Divinité solaire kalenjin et nandi (ouest du Kenya), associée à la lumière, à la chaleur et à la bénédiction agricole, invoquée dans les prières quotidiennes et les cérémonies de passage.",
-  "domaines": ["soleil", "lumière", "bénédiction"],
-  "tags": ["creation"],
+  "description_detaillee": "La prière quotidienne adressée à Asis s'accompagne traditionnellement d'une orientation physique vers l'est, direction du soleil levant, geste corporel qui matérialise concrètement la relation entre le fidèle et la divinité solaire. Comme d'autres divinités solaires africaines telles Rê en Égypte ancienne, Asis n'occupe pas nécessairement le sommet d'une hiérarchie divine rigide mais demeure une présence rituelle omniprésente dans la vie quotidienne, invoquée à chaque lever du jour plutôt que réservée aux seules grandes occasions collectives.",
+  "domaines": [
+    "soleil",
+    "lumière",
+    "bénédiction"
+  ],
+  "tags": [
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

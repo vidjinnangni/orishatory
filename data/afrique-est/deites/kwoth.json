@@ -4,10 +4,19 @@
   "variantes": [],
   "region": "afrique-est",
   "categorie": "deites",
-  "peuples": ["Nuer"],
+  "peuples": [
+    "Nuer"
+  ],
   "resume": "Esprit suprême et invisible dans la cosmologie nuer (Soudan du Sud), présent en toute chose sans forme fixe, approché à travers une multitude de manifestations et d'esprits secondaires plutôt que par une représentation unique.",
-  "domaines": ["création", "présence universelle", "esprit"],
-  "tags": ["creation"],
+  "description_detaillee": "Evans-Pritchard distingue dans son analyse de la religion nuer deux grandes catégories de manifestations de Kwoth : les 'esprits d'en haut' (kuoth nhial), généralement associés au ciel et à des phénomènes comme la foudre, et les 'esprits d'en bas' (kuoth piny), plus proches de la terre et souvent liés à des lignages ou des localités précises. Cette classification permet à la pensée nuer d'organiser la multiplicité déconcertante des manifestations de Kwoth sans jamais remettre en cause son unité fondamentale en tant qu'esprit suprême unique.",
+  "domaines": [
+    "création",
+    "présence universelle",
+    "esprit"
+  ],
+  "tags": [
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

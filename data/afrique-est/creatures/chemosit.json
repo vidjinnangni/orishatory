@@ -1,12 +1,22 @@
 {
   "id": "chemosit",
   "nom": "Chemosit",
-  "variantes": ["Nandi Bear (nom anglais)"],
+  "variantes": [
+    "Nandi Bear (nom anglais)"
+  ],
   "region": "afrique-est",
   "categorie": "creatures",
-  "peuples": ["Nandi", "Kalenjin"],
+  "peuples": [
+    "Nandi",
+    "Kalenjin"
+  ],
   "resume": "Créature nocturne redoutée du folklore nandi, décrite de façon variable comme un animal massif à mi-chemin entre l'ours, la hyène et le babouin, réputée attaquer le bétail et parfois les humains isolés la nuit.",
-  "domaines": ["nuit", "prédation", "peur collective"],
+  "description_detaillee": "Les récits occidentaux relatifs au Chemosit au début du 20e siècle s'inscrivent dans un climat intellectuel marqué par les récentes découvertes paléontologiques et un goût prononcé pour l'hypothèse de 'survivants préhistoriques', poussant plusieurs administrateurs coloniaux et chasseurs européens à interpréter les récits locaux à travers ce prisme spécifiquement occidental plutôt qu'à les comprendre dans leur contexte culturel nandi d'origine.",
+  "domaines": [
+    "nuit",
+    "prédation",
+    "peur collective"
+  ],
   "tags": [],
   "genealogie": {
     "parents": [],
@@ -14,7 +24,10 @@
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["description physique variable selon les témoignages", "forme massive et velue"],
+  "attributs": [
+    "description physique variable selon les témoignages",
+    "forme massive et velue"
+  ],
   "recits_associes": [],
   "culte_contemporain": "A suscité un intérêt cryptozoologique occidental durable depuis le début du 20e siècle sous le nom de 'Nandi Bear', sans identification zoologique confirmée.",
   "sources": [

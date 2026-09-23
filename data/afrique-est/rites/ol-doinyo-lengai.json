@@ -4,17 +4,28 @@
   "variantes": [],
   "region": "afrique-est",
   "categorie": "rites",
-  "peuples": ["Maasai"],
+  "peuples": [
+    "Maasai"
+  ],
   "resume": "Volcan actif de Tanzanie considéré par les Maasai comme la demeure terrestre d'Engai, objet de pèlerinages et de prières, en particulier lors de sécheresses ou de crises communautaires.",
-  "domaines": ["montagne sacrée", "pèlerinage", "demeure divine"],
+  "description_detaillee": "L'activité volcanique elle-même est traditionnellement interprétée par les Maasai à travers le prisme de la double nature d'Engai déjà observée ailleurs dans leur cosmologie : une éruption ou une coulée de lave pouvant être lue comme une manifestation de la colère de l'aspect Nanyokie (rouge), tandis qu'une phase calme de la montagne serait associée à la bienveillance de l'aspect Narok (noir), reliant directement le comportement géologique du volcan à l'humeur changeante de la divinité qui y réside.",
+  "domaines": [
+    "montagne sacrée",
+    "pèlerinage",
+    "demeure divine"
+  ],
   "tags": [],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["engai"]
+    "entites_liees": [
+      "engai"
+    ]
   },
-  "attributs": ["volcan actif unique au monde par sa lave carbonatitique naturellement froide et blanche"],
+  "attributs": [
+    "volcan actif unique au monde par sa lave carbonatitique naturellement froide et blanche"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

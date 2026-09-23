@@ -4,10 +4,19 @@
   "variantes": [],
   "region": "afrique-est",
   "categorie": "creatures",
-  "peuples": ["Baganda"],
+  "peuples": [
+    "Baganda"
+  ],
   "resume": "Créature légendaire censée habiter les profondeurs du lac Victoria, décrite selon les récits comme un serpent géant ou un poisson monstrueux capable de faire chavirer des embarcations, invoquée traditionnellement pour expliquer des noyades inexpliquées.",
-  "domaines": ["lac", "danger", "profondeurs"],
-  "tags": ["eau"],
+  "description_detaillee": "La figure du Lukwata s'inscrit dans un ensemble plus large de créatures aquatiques gardiennes redoutées dans les grands lacs et fleuves d'Afrique, aux côtés de Nyaminyami sur le Zambèze ou de l'Inkanyamba sud-africain, formant un motif largement répandu du serpent ou monstre des eaux profondes exigeant respect et prudence de la part des pêcheurs et voyageurs, sous des noms et des récits distincts selon les régions.",
+  "domaines": [
+    "lac",
+    "danger",
+    "profondeurs"
+  ],
+  "tags": [
+    "eau"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

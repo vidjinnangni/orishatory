@@ -1,13 +1,24 @@
 {
   "id": "waaq",
   "nom": "Waaq",
-  "variantes": ["Waaqa"],
+  "variantes": [
+    "Waaqa"
+  ],
   "region": "afrique-est",
   "categorie": "deites",
-  "peuples": ["Oromo"],
+  "peuples": [
+    "Oromo"
+  ],
   "resume": "Divinité suprême de la religion traditionnelle oromo (Waaqeffannaa), créateur unique et source de l'ordre moral (safuu). Central au système socio-religieux oromo, y compris dans l'organisation du système gadaa.",
-  "domaines": ["création", "ciel", "ordre moral"],
-  "tags": ["creation"],
+  "description_detaillee": "Le concept de safuu, principe d'ordre moral et cosmique central au Waaqeffannaa, ne se limite pas à une éthique interpersonnelle : sa transgression est traditionnellement crue capable de perturber l'équilibre écologique autant que social, reliant étroitement dans la pensée oromo le respect des normes morales au maintien de l'harmonie entre les humains et leur environnement naturel.",
+  "domaines": [
+    "création",
+    "ciel",
+    "ordre moral"
+  ],
+  "tags": [
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

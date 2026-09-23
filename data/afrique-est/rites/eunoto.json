@@ -4,17 +4,31 @@
   "variantes": [],
   "region": "afrique-est",
   "categorie": "rites",
-  "peuples": ["Maasai"],
+  "peuples": [
+    "Maasai"
+  ],
   "resume": "Cérémonie maasai marquant le passage des jeunes guerriers (moran) au statut d'ancien junior, impliquant plusieurs jours de rituels collectifs et la coupe rituelle des cheveux longs portés depuis l'initiation.",
-  "domaines": ["passage rituel", "guerre", "statut social"],
-  "tags": ["initiation"],
+  "description_detaillee": "Le rasage rituel des cheveux longs et ocrés du jeune guerrier, point culminant de la cérémonie, est traditionnellement effectué par sa propre mère, geste chargé d'une forte portée émotionnelle marquant symboliquement la fin de son autorité maternelle directe sur un fils désormais reconnu comme un adulte pleinement autonome. L'ensemble des festivités peut s'étendre sur plusieurs jours, réunissant l'ensemble de la classe d'âge des jeunes guerriers concernés dans un campement cérémoniel spécialement construit pour l'occasion.",
+  "domaines": [
+    "passage rituel",
+    "guerre",
+    "statut social"
+  ],
+  "tags": [
+    "initiation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["engai"]
+    "entites_liees": [
+      "engai"
+    ]
   },
-  "attributs": ["coupe rituelle des cheveux", "ornements de guerrier"],
+  "attributs": [
+    "coupe rituelle des cheveux",
+    "ornements de guerrier"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

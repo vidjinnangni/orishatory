@@ -1,20 +1,36 @@
 {
   "id": "engai",
   "nom": "Engai",
-  "variantes": ["Enkai", "Eng'ai"],
+  "variantes": [
+    "Enkai",
+    "Eng'ai"
+  ],
   "region": "afrique-est",
   "categorie": "deites",
-  "peuples": ["Maasai"],
+  "peuples": [
+    "Maasai"
+  ],
   "resume": "Divinité suprême maasai, associée au ciel, à la pluie et au bétail, considéré comme un don d'Engai à l'humanité. Se manifeste sous deux aspects opposés : Engai Narok (bienveillant, associé au noir et à la pluie) et Engai Nanyokie (colérique, associé au rouge).",
-  "domaines": ["ciel", "pluie", "bétail", "fertilité"],
-  "tags": ["eau", "terre-fertilite"],
+  "description_detaillee": "Les deux aspects d'Engai ne se conçoivent pas comme des divinités concurrentes ou véritablement opposées mais comme les deux faces d'une même puissance ambivalente : Engai Narok, associé aux nuages sombres annonciateurs de pluie bienfaisante, et Engai Nanyokie, associé à la sécheresse, à l'éclair et au danger. Les prières maasai invoquent fréquemment les deux aspects conjointement, cherchant moins à écarter définitivement la colère de la divinité qu'à obtenir un équilibre favorable entre ses deux natures.",
+  "domaines": [
+    "ciel",
+    "pluie",
+    "bétail",
+    "fertilité"
+  ],
+  "tags": [
+    "eau",
+    "terre-fertilite"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["dualité chromatique : noir bienveillant / rouge colérique"],
+  "attributs": [
+    "dualité chromatique : noir bienveillant / rouge colérique"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [
