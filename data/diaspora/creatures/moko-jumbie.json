@@ -4,17 +4,30 @@
   "variantes": [],
   "region": "diaspora",
   "categorie": "creatures",
-  "peuples": ["Caribéens (Trinidad-et-Tobago et autres)"],
+  "peuples": [
+    "Caribéens (Trinidad-et-Tobago et autres)"
+  ],
   "resume": "Personnage sur échasses figurant dans les carnavals caribéens, descendant des traditions ouest-africaines d'esprits protecteurs sur échasses (notamment chez les Ewe et les peuples du delta du Niger), interprété dans la diaspora comme un gardien surnaturel veillant sur la communauté depuis les airs.",
-  "domaines": ["protection", "carnaval", "hauteur surnaturelle"],
-  "tags": ["diaspora-survivance"],
+  "description_detaillee": "Le nom moko jumbie associerait un terme ouest-africain (mọ́kọ́ ou moko, parfois relié à une figure de guérisseur ou de devin dans certaines langues du golfe du Bénin) au mot créole caribéen 'jumbie', désignant un esprit ou un revenant. Au-delà de sa fonction spirituelle de protection, la stature du danseur sur échasses aurait eu, à l'époque de l'esclavage, une utilité pratique concrète : sa position en hauteur permettait de repérer à distance l'approche de surveillants ou de patrouilles, combinant vigilance communautaire réelle et symbolique de protection surnaturelle.",
+  "domaines": [
+    "protection",
+    "carnaval",
+    "hauteur surnaturelle"
+  ],
+  "tags": [
+    "diaspora-survivance"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["échasses hautes", "costume coloré", "danse acrobatique"],
+  "attributs": [
+    "échasses hautes",
+    "costume coloré",
+    "danse acrobatique"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Figure centrale du carnaval de Trinité-et-Tobago et d'autres carnavals caribéens contemporains, aujourd'hui autant artistique que spirituelle.",
   "sources": [

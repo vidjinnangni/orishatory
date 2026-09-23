@@ -4,10 +4,20 @@
   "variantes": [],
   "region": "diaspora",
   "categorie": "rites",
-  "peuples": ["Portoricains"],
+  "peuples": [
+    "Portoricains"
+  ],
   "resume": "Pratique spirite populaire portoricaine mêlant le spiritisme kardéciste européen à des éléments religieux africains et indigènes taïnos, centrée sur la communication avec les esprits des morts via des médiums pour obtenir conseil, guérison ou protection.",
-  "domaines": ["communication avec les morts", "guérison", "médiumnité"],
-  "tags": ["divination", "mort-au-dela"],
+  "description_detaillee": "La pratique de l'espiritismo à Porto Rico se répartit sur un spectre allant de l'espiritismo de mesa blanca ('table blanche'), proche des formes européennes kardécistes originelles et centré sur des séances de communication médiumnique relativement formelles, jusqu'à des formes plus fortement africanisées parfois désignées comme espiritismo cruzado ('croisé'), qui intègrent des éléments plus directement empruntés à la santería, comme l'invocation d'orishas aux côtés des esprits familiaux.\n\nCette diversité interne reflète la façon dont une même étiquette religieuse peut recouvrir des degrés très variables d'africanisation selon les praticiens et les régions, plutôt qu'une pratique unique et homogène.",
+  "domaines": [
+    "communication avec les morts",
+    "guérison",
+    "médiumnité"
+  ],
+  "tags": [
+    "divination",
+    "mort-au-dela"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

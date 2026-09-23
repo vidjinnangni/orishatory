@@ -4,9 +4,16 @@
   "variantes": [],
   "region": "diaspora",
   "categorie": "heros",
-  "peuples": ["Brésiliens (quilombolas)"],
+  "peuples": [
+    "Brésiliens (quilombolas)"
+  ],
   "resume": "Dernier chef du Quilombo dos Palmares, plus grand établissement de personnes africaines et afro-descendantes marronnes d'Amérique, qui résista pendant des décennies aux expéditions coloniales portugaises avant d'être tué en 1695. Devenu symbole majeur de la résistance noire brésilienne.",
-  "domaines": ["résistance", "liberté", "marronnage"],
+  "description_detaillee": "Le parcours de Zumbi doit être distingué de celui de son prédécesseur, Ganga Zumba, premier grand dirigeant de Palmares, qui négocia dans les années 1670 un traité de paix avec les autorités portugaises offrant la liberté aux marrons nés sur place en échange de leur soumission et du retour des esclaves fugitifs plus récents. Zumbi, neveu de Ganga Zumba, rejeta cet accord jugé trop coûteux pour la communauté et prit la tête d'une faction résolue à poursuivre la résistance armée, illustrant une division stratégique interne entre négociation et résistance totale que l'on retrouve dans d'autres mouvements de marronnage à travers les Amériques.",
+  "domaines": [
+    "résistance",
+    "liberté",
+    "marronnage"
+  ],
   "tags": [],
   "genealogie": {
     "parents": [],

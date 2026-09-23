@@ -4,15 +4,27 @@
   "variantes": [],
   "region": "diaspora",
   "categorie": "rites",
-  "peuples": ["Jamaïcains"],
+  "peuples": [
+    "Jamaïcains"
+  ],
   "resume": "Religion afro-chrétienne jamaïcaine ancienne, historiquement définie en opposition à l'obeah perçu comme une magie individuelle potentiellement malveillante, le myal se présentant comme une pratique communautaire de guérison et de protection contre la sorcellerie.",
-  "domaines": ["guérison communautaire", "protection contre la sorcellerie", "possession"],
-  "tags": ["divination", "diaspora-survivance"],
+  "description_detaillee": "L'épisode le mieux documenté d'activité myal collective, connu sous le nom de 'panique myal' de 1841-1842, vit des adeptes parcourir la Jamaïque pour détruire publiquement des objets attribués à des pratiques d'obeah, accompagnés de scènes de possession et de guérison collective spectaculaires, dans le contexte religieux effervescent qui suivit l'abolition de l'esclavage en 1838.\n\nCet épisode illustre la dimension proprement sociale et communautaire du myal par contraste avec l'obeah, généralement pratiqué de façon individuelle et discrète : le myal se conçoit comme une purification publique de la communauté plutôt que comme une intervention privée entre un praticien et un client.",
+  "domaines": [
+    "guérison communautaire",
+    "protection contre la sorcellerie",
+    "possession"
+  ],
+  "tags": [
+    "divination",
+    "diaspora-survivance"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["obeah"]
+    "entites_liees": [
+      "obeah"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

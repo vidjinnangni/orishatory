@@ -4,9 +4,16 @@
   "variantes": [],
   "region": "diaspora",
   "categorie": "heros",
-  "peuples": ["Colombiens (Palenque de San Basilio)"],
+  "peuples": [
+    "Colombiens (Palenque de San Basilio)"
+  ],
   "resume": "Chef marron d'origine ouest-africaine (probablement bissau-guinéenne) qui fonda au début du 17e siècle le palenque de San Basilio, en Colombie, premier établissement libre de personnes africaines dans les Amériques officiellement reconnu comme tel, avant d'être capturé et exécuté par les autorités espagnoles en 1621.",
-  "domaines": ["résistance", "liberté", "fondation communautaire"],
+  "description_detaillee": "Benkos Biohó organisa la résistance de San Basilio selon une stratégie de guérilla structurée, suffisamment efficace pour contraindre en 1605 les autorités espagnoles de Carthagène à négocier un traité de paix reconnaissant de facto l'autonomie du palenque — un cas rare de reconnaissance officielle, bien que temporaire, d'un établissement marron par une puissance coloniale. Cette paix fut rompue lorsque Benkos Biohó, se rendant à Carthagène en 1621 probablement pour renouveler ou renégocier les termes de l'accord, fut arrêté et exécuté par pendaison, son corps démembré étant exposé en avertissement à d'autres velléités d'autonomie marronne.\n\nLa survie de San Basilio de Palenque jusqu'à aujourd'hui, avec sa langue créole propre et ses traditions musicales et funéraires distinctes, en fait l'un des cas les mieux documentés de continuité directe entre un établissement marron du 17e siècle et une communauté afro-descendante contemporaine reconnue internationalement.",
+  "domaines": [
+    "résistance",
+    "liberté",
+    "fondation communautaire"
+  ],
   "tags": [],
   "genealogie": {
     "parents": [],

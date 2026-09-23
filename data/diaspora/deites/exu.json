@@ -4,15 +4,30 @@
   "variantes": [],
   "region": "diaspora",
   "categorie": "deites",
-  "peuples": ["Brésiliens (candomblé, umbanda)"],
+  "peuples": [
+    "Brésiliens (candomblé, umbanda)"
+  ],
   "resume": "Orixá des carrefours, de la communication et de la médiation entre les mondes dans le candomblé et l'umbanda brésiliens, descendant direct d'Èṣù yoruba mais recomposé dans une théologie brésilienne spécifique, notamment dans l'umbanda où il tient un rôle distinctif de protecteur combatif.",
-  "domaines": ["carrefours", "communication", "protection", "médiation"],
-  "tags": ["trickster", "divination", "diaspora-survivance"],
+  "description_detaillee": "Le candomblé et l'umbanda proposent en réalité deux théologies distinctes d'Exu : dans le candomblé, plus proche de la conception yoruba d'origine, Exu demeure un orixá unique et complexe ; dans l'umbanda, religion brésilienne plus récente et syncrétique, 'Exu' désigne toute une catégorie de nombreux esprits individualisés (Exu Tranca-Rua, Exu Caveira, et leur pendant féminin Pomba-Gira), souvent associés à des figures marginalisées de la société urbaine — prostituées, marginaux, esprits de la rue — récupérées comme guides spirituels efficaces précisément en raison de leur connaissance intime des marges sociales.\n\nCette multiplication umbandiste d'Exu en une population d'esprits urbains individualisés constitue une évolution théologique proprement brésilienne, sans équivalent direct dans la pratique yoruba ou même dans le candomblé plus conservateur.",
+  "domaines": [
+    "carrefours",
+    "communication",
+    "protection",
+    "médiation"
+  ],
+  "tags": [
+    "trickster",
+    "divination",
+    "diaspora-survivance"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["eshu-elegba", "papa-legba"]
+    "entites_liees": [
+      "eshu-elegba",
+      "papa-legba"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

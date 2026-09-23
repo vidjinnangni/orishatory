@@ -4,17 +4,28 @@
   "variantes": [],
   "region": "diaspora",
   "categorie": "heros",
-  "peuples": ["Louisianais (voodoo de La Nouvelle-Orléans)"],
+  "peuples": [
+    "Louisianais (voodoo de La Nouvelle-Orléans)"
+  ],
   "resume": "Figure historique devenue légendaire, réputée 'reine du voodoo' de La Nouvelle-Orléans au 19e siècle, guérisseuse et praticienne influente dont la vie réelle et les pouvoirs surnaturels qui lui sont attribués se sont largement mêlés dans la mémoire populaire.",
-  "domaines": ["guérison", "influence sociale", "magie populaire"],
-  "tags": ["diaspora-survivance"],
+  "description_detaillee": "Marie Laveau était une femme libre de couleur (gens de couleur libres) exerçant la profession de coiffeuse auprès de familles blanches aisées de La Nouvelle-Orléans, une position qui lui donnait accès à des informations et des réseaux sociaux étendus, souvent cités par les historiens comme explication au moins partielle de sa réputation de clairvoyance et d'influence, aux côtés de ses pratiques spirituelles proprement dites.\n\nLa confusion historique autour de sa figure est encore compliquée par l'existence d'une fille portant le même nom et ayant apparemment poursuivi une pratique similaire après la mort de sa mère : les récits populaires attribuent souvent indistinctement à 'Marie Laveau' des événements séparés par plusieurs décennies, rendant la reconstitution d'une biographie unique et cohérente particulièrement difficile pour les historiens.",
+  "domaines": [
+    "guérison",
+    "influence sociale",
+    "magie populaire"
+  ],
+  "tags": [
+    "diaspora-survivance"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["tombeau visité au cimetière Saint-Louis n°1, réputé exaucer les vœux"],
+  "attributs": [
+    "tombeau visité au cimetière Saint-Louis n°1, réputé exaucer les vœux"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Son tombeau reste un site de pèlerinage populaire à La Nouvelle-Orléans, où des visiteurs continuent de laisser des offrandes malgré les mesures de protection patrimoniale mises en place face au vandalisme.",
   "sources": [

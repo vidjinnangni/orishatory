@@ -4,17 +4,34 @@
   "variantes": [],
   "region": "diaspora",
   "categorie": "deites",
-  "peuples": ["Haïtiens (vodou)"],
+  "peuples": [
+    "Haïtiens (vodou)"
+  ],
   "resume": "Loa vodou haïtien des carrefours, de la communication et du seuil entre les mondes, invoqué en premier lors de toute cérémonie vodou pour ouvrir le passage vers les autres esprits. Descend directement d'Èṣù/Elegba yoruba et de Legba fon, recomposé dans le contexte haïtien.",
-  "domaines": ["carrefours", "communication", "seuils"],
-  "tags": ["trickster", "divination", "diaspora-survivance"],
+  "description_detaillee": "Une hypothèse discutée par certains musicologues, notamment Gerhard Kubik, relie la légende nord-américaine du bluesman ayant vendu son âme à un esprit du carrefour (popularisée autour de Robert Johnson) à une mémoire résiduelle, largement transformée et déconnectée de son théologie d'origine, de la fonction de Legba/Èṣù comme gardien des carrefours dans les religions ouest-africaines transmises aux États-Unis ; cette filiation reste hypothétique et ne fait pas consensus, mais illustre la façon dont des motifs religieux africains ont pu essaimer dans la culture populaire américaine par des voies indirectes et largement sécularisées.",
+  "domaines": [
+    "carrefours",
+    "communication",
+    "seuils"
+  ],
+  "tags": [
+    "trickster",
+    "divination",
+    "diaspora-survivance"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["eshu-elegba"]
+    "entites_liees": [
+      "eshu-elegba"
+    ]
   },
-  "attributs": ["bâton", "pipe", "chapeau de paille"],
+  "attributs": [
+    "bâton",
+    "pipe",
+    "chapeau de paille"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Toujours invoqué en ouverture de toute cérémonie vodou haïtienne contemporaine, en Haïti comme dans sa diaspora.",
   "sources": [

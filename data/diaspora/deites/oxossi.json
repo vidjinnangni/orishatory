@@ -4,17 +4,31 @@
   "variantes": [],
   "region": "diaspora",
   "categorie": "deites",
-  "peuples": ["Brésiliens (candomblé)"],
+  "peuples": [
+    "Brésiliens (candomblé)"
+  ],
   "resume": "Orixá de la chasse et de la forêt dans le candomblé brésilien, associé à l'abondance et à la stratégie, descendant direct d'Ọ̀ṣọ́ọ̀sì du panthéon yoruba, particulièrement vénéré dans le candomblé kétu de Bahia.",
-  "domaines": ["chasse", "forêt", "abondance", "stratégie"],
-  "tags": ["diaspora-survivance"],
+  "description_detaillee": "Dans la liturgie du candomblé, Oxóssi forme avec Exu et Ogum un trio rituel invoqué en ouverture des cérémonies, chacun ouvrant symboliquement une voie nécessaire à la suite du rite : Exu la communication, Ogum le passage par le fer, Oxóssi l'abondance de la forêt nourricière.\n\nDans certaines maisons de culte brésiliennes, Oxóssi se trouve également associé aux esprits caboclos, figures spirituelles d'origine indigène brésilienne intégrées au culte afro-brésilien aux côtés des orixás d'origine africaine — un syncrétisme spécifiquement brésilien qui mêle héritages africains et amérindiens plutôt que de se limiter à une seule source culturelle.",
+  "domaines": [
+    "chasse",
+    "forêt",
+    "abondance",
+    "stratégie"
+  ],
+  "tags": [
+    "diaspora-survivance"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["arc et flèches", "couleur bleu-vert", "plumes de paon"],
+  "attributs": [
+    "arc et flèches",
+    "couleur bleu-vert",
+    "plumes de paon"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

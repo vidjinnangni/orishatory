@@ -4,17 +4,30 @@
   "variantes": [],
   "region": "diaspora",
   "categorie": "creatures",
-  "peuples": ["Trinidadiens"],
+  "peuples": [
+    "Trinidadiens"
+  ],
   "resume": "Personnage de carnaval trinidadien incarnant un diable enchaîné couvert de mélasse ou de peinture noire, dont la performance mime une lutte symbolique contre l'esclavage et l'oppression, descendant de traditions de mascarade ouest-africaines recomposées dans le contexte post-esclavagiste caribéen.",
-  "domaines": ["carnaval", "résistance symbolique", "transgression"],
-  "tags": ["diaspora-survivance"],
+  "description_detaillee": "Certains spécialistes du carnaval trinidadien distinguent deux figures démoniaques historiquement proches mais désormais différenciées : le Jab Jab proprement dit, vêtu de costumes colorés et armé de fouets qu'il fait claquer lors de joutes simulées avec d'autres participants, et le Jab Molassie, à la peau noircie par la mélasse, l'huile ou la peinture, dont la gestuelle plus menaçante et l'esthétique sombre accentuent davantage la dimension de commémoration de l'esclavage.\n\nCette distinction, parfois estompée dans l'usage courant qui emploie les deux noms de façon interchangeable, reflète néanmoins deux traditions performatives distinctes issues d'un même fonds de mascarades diaboliques post-esclavagistes caribéennes.",
+  "domaines": [
+    "carnaval",
+    "résistance symbolique",
+    "transgression"
+  ],
+  "tags": [
+    "diaspora-survivance"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["corps enduit de mélasse, peinture ou huile noire", "chaînes", "fourche"],
+  "attributs": [
+    "corps enduit de mélasse, peinture ou huile noire",
+    "chaînes",
+    "fourche"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Reste une figure majeure du carnaval trinidadien contemporain, sa performance étant de plus en plus lue comme une commémoration critique de l'esclavage plutôt qu'un simple divertissement.",
   "sources": [

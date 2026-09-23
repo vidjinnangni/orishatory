@@ -1,18 +1,32 @@
 {
   "id": "brer-rabbit",
   "nom": "Br'er Rabbit",
-  "variantes": ["Brother Rabbit"],
+  "variantes": [
+    "Brother Rabbit"
+  ],
   "region": "diaspora",
   "categorie": "heros",
-  "peuples": ["Afro-Américains du Sud des États-Unis"],
+  "peuples": [
+    "Afro-Américains du Sud des États-Unis"
+  ],
   "resume": "Lapin rusé, figure de trickster afro-américaine descendant des contes ouest-africains du lièvre et convergeant avec des récits amérindiens locaux, popularisé par la transcription controversée de Joel Chandler Harris à la fin du 19e siècle.",
-  "domaines": ["ruse", "résistance", "narration"],
-  "tags": ["trickster", "diaspora-survivance"],
+  "description_detaillee": "Le conte le plus emblématique du cycle, dit du 'bébé de goudron' (Tar Baby), montre Br'er Fox fabriquer une poupée de goudron pour piéger Br'er Rabbit : ce dernier, provoqué par le silence de la poupée qu'il prend pour une insolence, la frappe et s'y trouve englué, avant de s'en sortir par une ultime ruse verbale plutôt que par la force. La leçon implicite de nombreux récits du cycle — que la survie face à un adversaire plus puissant dépend de l'intelligence et de la maîtrise de ses propres réactions plutôt que de la confrontation directe — prenait un relief particulier pour un public d'esclaves ne pouvant se permettre d'affronter ouvertement l'autorité blanche.\n\nLa transcription de Joel Chandler Harris, replacée dans un cadre narratif où un vieil homme noir (Oncle Remus) raconte ces histoires à un jeune garçon blanc, a longtemps façonné la réception blanche de ces contes à travers un prisme paternaliste ; les folkloristes afro-américains ultérieurs, notamment Zora Neale Hurston, ont travaillé à restituer ces récits dans leur contexte de transmission communautaire noire d'origine.",
+  "domaines": [
+    "ruse",
+    "résistance",
+    "narration"
+  ],
+  "tags": [
+    "trickster",
+    "diaspora-survivance"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["ijapa"]
+    "entites_liees": [
+      "ijapa"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

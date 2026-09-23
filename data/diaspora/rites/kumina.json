@@ -4,17 +4,30 @@
   "variantes": [],
   "region": "diaspora",
   "categorie": "rites",
-  "peuples": ["Jamaïcains"],
+  "peuples": [
+    "Jamaïcains"
+  ],
   "resume": "Religion de possession ancestrale jamaïcaine d'origine kongo, introduite par des travailleurs sous contrat venus d'Afrique centrale après l'abolition de l'esclavage au 19e siècle, centrée sur la communication avec les esprits des ancêtres par la danse et le tambour.",
-  "domaines": ["possession", "ancestralité", "guérison"],
-  "tags": ["ancetres", "divination"],
+  "description_detaillee": "La cosmologie kumina distingue traditionnellement deux grandes catégories d'esprits : les esprits 'célestes' (zandi), généralement bienveillants et associés au ciel, et les esprits 'terrestres', plus proches et parfois plus exigeants dans leurs demandes rituelles envers les vivants — une distinction qui reproduit, sous un vocabulaire jamaïcain, des catégories spirituelles kongo d'origine.\n\nLes tambours kbandu (grave) et kwat (aigu) utilisés lors des cérémonies kumina codifient des rythmes spécifiques permettant d'appeler des esprits particuliers, un langage percussif rituel dont l'influence se retrouve directement dans certains motifs du nyabinghi rastafari ultérieur.",
+  "domaines": [
+    "possession",
+    "ancestralité",
+    "guérison"
+  ],
+  "tags": [
+    "ancetres",
+    "divination"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["tambours kbandu et playing cast", "danse rituelle"],
+  "attributs": [
+    "tambours kbandu et playing cast",
+    "danse rituelle"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Pratiquée surtout dans la paroisse de Saint Thomas en Jamaïque, a fortement influencé la musique et la culture rastafari ultérieures, notamment via le nyabinghi jamaïcain qui en emprunte certains éléments rythmiques.",
   "sources": [

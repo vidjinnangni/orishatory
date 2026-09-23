@@ -4,17 +4,31 @@
   "variantes": [],
   "region": "diaspora",
   "categorie": "rites",
-  "peuples": ["Garifuna"],
+  "peuples": [
+    "Garifuna"
+  ],
   "resume": "Cérémonie ancestrale garifuna (peuple afro-indigène des Caraïbes et d'Amérique centrale) de plusieurs jours, destinée à honorer et apaiser les ancêtres afin de résoudre une maladie ou un malheur persistant frappant un membre de la famille, sous la conduite d'un chaman (buyei).",
-  "domaines": ["ancestralité", "guérison", "malheur familial"],
-  "tags": ["ancetres", "mort-au-dela"],
+  "description_detaillee": "Pendant la transe rituelle qui constitue le cœur du dügü, le buyei est censé être possédé par les esprits ancestraux (gubida) de la famille concernée, permettant une communication directe entre les vivants et leurs morts sur les causes du malheur qui les frappe. La préparation de la cérémonie exige des semaines de travail collectif, notamment la confection de grandes quantités de pain de manioc et d'autres mets rituels, mobilisant l'ensemble de la famille élargie bien au-delà du seul foyer touché par la maladie ou le malheur initial.\n\nCette dimension collective fait du dügü, au-delà de sa fonction thérapeutique et religieuse déclarée, un puissant mécanisme de cohésion sociale et familiale au sein des communautés garifuna, souvent dispersées entre plusieurs pays d'Amérique centrale.",
+  "domaines": [
+    "ancestralité",
+    "guérison",
+    "malheur familial"
+  ],
+  "tags": [
+    "ancetres",
+    "mort-au-dela"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["tambours garifuna", "offrandes alimentaires rituelles", "temple temporaire (dabuyaba)"],
+  "attributs": [
+    "tambours garifuna",
+    "offrandes alimentaires rituelles",
+    "temple temporaire (dabuyaba)"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Toujours pratiqué dans les communautés garifuna du Honduras, du Belize, du Guatemala et du Nicaragua, reconnu par l'UNESCO comme patrimoine culturel immatériel dans le cadre plus large de la culture garifuna (2008).",
   "sources": [

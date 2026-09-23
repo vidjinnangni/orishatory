@@ -1,20 +1,39 @@
 {
   "id": "yemaya",
   "nom": "Yemayá",
-  "variantes": ["Iemanjá", "Yemoja"],
+  "variantes": [
+    "Iemanjá",
+    "Yemoja"
+  ],
   "region": "diaspora",
   "categorie": "deites",
-  "peuples": ["Yoruba (origine)", "communautés afro-cubaines et afro-brésiliennes"],
+  "peuples": [
+    "Yoruba (origine)",
+    "communautés afro-cubaines et afro-brésiliennes"
+  ],
   "resume": "Orisha/orixá de la mer et de la maternité, l'une des figures féminines les plus vénérées de la santería cubaine et du candomblé brésilien, où de grandes fêtes populaires lui sont dédiées chaque année en bord de mer.",
-  "domaines": ["mer", "maternité", "protection", "abondance"],
-  "tags": ["eau", "diaspora-survivance"],
+  "description_detaillee": "Dans la santería cubaine, Yemayá est fréquemment désignée comme la mère universelle de tous les orishas, quel que soit l'orisha tutélaire propre à chaque pratiquant — un statut qui dépasse sa seule fonction de déesse de la mer pour en faire une figure de maternité cosmique généralisée. Sa fête, fixée au 7 septembre par syncrétisme avec la Vierge de Regla dans le catholicisme populaire cubain, rassemble chaque année de nombreux pèlerins sur les rives de la baie de La Havane.\n\nLe chiffre sept, associé à Yemayá dans plusieurs traditions diasporiques, structure une bonne part de ses offrandes rituelles (sept jupes de couleurs différentes, sept types de fleurs), un système numérologique que l'on retrouve, avec des correspondances différentes, chez d'autres orishas majeurs.",
+  "domaines": [
+    "mer",
+    "maternité",
+    "protection",
+    "abondance"
+  ],
+  "tags": [
+    "eau",
+    "diaspora-survivance"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["couleurs bleu et blanc", "coquillages", "éventail"],
+  "attributs": [
+    "couleurs bleu et blanc",
+    "coquillages",
+    "éventail"
+  ],
   "recits_associes": [],
   "culte_contemporain": "La fête du Réveillon dédiée à Iemanjá sur les plages de Rio de Janeiro et Salvador de Bahia (31 décembre) rassemble chaque année des millions de participants, croyants ou non.",
   "sources": [
