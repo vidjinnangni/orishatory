@@ -1,20 +1,34 @@
 {
   "id": "serqet",
   "nom": "Serket",
-  "variantes": ["Serqet", "Selket"],
+  "variantes": [
+    "Serqet",
+    "Selket"
+  ],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Déesse scorpion protectrice contre les piqûres et morsures venimeuses, l'une des quatre déesses gardiennes des vases canopes funéraires, invoquée aussi bien en médecine magique qu'en contexte funéraire.",
-  "domaines": ["protection contre le venin", "médecine magique", "protection funéraire"],
-  "tags": ["mort-au-dela"],
+  "description_detaillee": "Des stèles magiques dites 'cippes d'Horus', portant des formules invoquant Serket et d'autres divinités protectrices, étaient utilisées de façon très concrète dans la médecine populaire égyptienne : on versait de l'eau sur la stèle inscrite, censée s'imprégner du pouvoir des textes gravés, avant de la faire boire à la personne victime d'une piqûre de scorpion ou d'une morsure venimeuse, dans une pratique mêlant étroitement magie rituelle et soin médical pratique.",
+  "domaines": [
+    "protection contre le venin",
+    "médecine magique",
+    "protection funéraire"
+  ],
+  "tags": [
+    "mort-au-dela"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["scorpion sur la tête"],
+  "attributs": [
+    "scorpion sur la tête"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

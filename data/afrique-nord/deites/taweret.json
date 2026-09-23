@@ -1,20 +1,38 @@
 {
   "id": "taweret",
   "nom": "Taouret",
-  "variantes": ["Taweret", "Thoueris"],
+  "variantes": [
+    "Taweret",
+    "Thoueris"
+  ],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Déesse protectrice à corps d'hippopotame debout, associée à la grossesse et à l'accouchement, invoquée pour protéger les femmes et les enfants contre les forces malveillantes.",
-  "domaines": ["grossesse", "accouchement", "protection maternelle"],
-  "tags": ["terre-fertilite"],
+  "description_detaillee": "Malgré son apparence composite et intimidante, mêlant traits d'hippopotame, de crocodile et de lion, Taouret est systématiquement considérée dans la religion égyptienne comme une divinité entièrement bienveillante, sans aucune dimension menaçante à l'égard des humains qu'elle protège, contraste notable avec d'autres divinités égyptiennes à l'apparence hybride, plus généralement ambivalentes entre protection et danger.",
+  "domaines": [
+    "grossesse",
+    "accouchement",
+    "protection maternelle"
+  ],
+  "tags": [
+    "terre-fertilite"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["bes"]
+    "entites_liees": [
+      "bes"
+    ]
   },
-  "attributs": ["corps d'hippopotame debout", "pattes et queue de crocodile", "poitrine humaine"],
+  "attributs": [
+    "corps d'hippopotame debout",
+    "pattes et queue de crocodile",
+    "poitrine humaine"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

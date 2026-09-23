@@ -4,15 +4,29 @@
   "variantes": [],
   "region": "afrique-nord",
   "categorie": "recits",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Récit où l'œil de Rê, incarné par une déesse (Tefnout, Hathor ou Sekhmet selon les versions), se retire en colère en Nubie, provoquant un déséquilibre cosmique jusqu'à ce que Thot ou Chou parvienne à l'apaiser et la ramener en Égypte, où sa colère se change en joie et fécondité.",
-  "domaines": ["colère divine", "réconciliation", "retour d'exil"],
-  "tags": ["creation"],
+  "description_detaillee": "Le retour de la déesse apaisée donnait traditionnellement lieu à des célébrations festives mêlant musique, danse et consommation rituelle de bière ou de vin, dans un esprit similaire à la fête de l'ivresse (Tekh) associée à Hathor : la joie collective marquant la fin de la crise cosmique s'exprimait très concrètement par des réjouissances populaires plutôt que par la seule célébration liturgique restreinte au clergé.",
+  "domaines": [
+    "colère divine",
+    "réconciliation",
+    "retour d'exil"
+  ],
+  "tags": [
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["tefnut", "sekhmet", "hathor", "thot"]
+    "entites_liees": [
+      "tefnut",
+      "sekhmet",
+      "hathor",
+      "thot"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

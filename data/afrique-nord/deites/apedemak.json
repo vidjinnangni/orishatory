@@ -4,9 +4,16 @@
   "variantes": [],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Nubiens (royaume de Kouch)"],
+  "peuples": [
+    "Nubiens (royaume de Kouch)"
+  ],
   "resume": "Dieu guerrier à tête de lion du royaume de Kouch (Nubie antique, actuel Soudan), l'une des rares divinités majeures du panthéon nubien à ne pas être directement empruntée à l'Égypte, associée à la victoire militaire et à la fertilité.",
-  "domaines": ["guerre", "victoire", "fertilité"],
+  "description_detaillee": "Certains reliefs méroïtiques le représentent avec trois têtes de lion et plusieurs bras, un style iconographique nettement distinct des conventions artistiques égyptiennes standards, où la multiplication des têtes et des membres reste rare : cette originalité stylistique est aujourd'hui interprétée comme une preuve supplémentaire de l'autonomie créative de l'art religieux méroïtique par rapport à son voisin égyptien, plutôt que comme une simple imitation locale.",
+  "domaines": [
+    "guerre",
+    "victoire",
+    "fertilité"
+  ],
   "tags": [],
   "genealogie": {
     "parents": [],
@@ -14,7 +21,10 @@
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["tête de lion", "arc et flèches"],
+  "attributs": [
+    "tête de lion",
+    "arc et flèches"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Ses temples, notamment à Naga et Musawwarat es-Sufra (actuel Soudan), comptent parmi les rares témoignages archéologiques majeurs d'une théologie nubienne autonome de celle de l'Égypte.",
   "sources": [

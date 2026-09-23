@@ -4,17 +4,28 @@
   "variantes": [],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Déesse cobra de la nécropole thébaine, dont le nom signifie 'celle qui aime le silence', gardienne redoutée de la Vallée des Rois punissant les profanateurs de tombes et les ouvriers malhonnêtes.",
-  "domaines": ["nécropole", "punition", "silence sacré"],
-  "tags": ["mort-au-dela"],
+  "description_detaillee": "Le culte de Meretseger est particulièrement bien documenté par de nombreuses stèles votives retrouvées à Deir el-Médineh, le village où résidaient les artisans chargés de creuser et décorer les tombes royales de la Vallée des Rois : plusieurs de ces inscriptions, dédiées par des ouvriers nommément identifiés, implorent son pardon pour des fautes précises, offrant un aperçu rare et direct de la vie religieuse des gens du commun plutôt que de la seule perspective royale ou sacerdotale.",
+  "domaines": [
+    "nécropole",
+    "punition",
+    "silence sacré"
+  ],
+  "tags": [
+    "mort-au-dela"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["forme de cobra ou de femme à tête de cobra"],
+  "attributs": [
+    "forme de cobra ou de femme à tête de cobra"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

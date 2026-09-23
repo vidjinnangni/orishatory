@@ -4,9 +4,16 @@
   "variantes": [],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Amazigh (Berbères)"],
+  "peuples": [
+    "Amazigh (Berbères)"
+  ],
   "resume": "Dieu guerrier à tête de taureau vénéré par les peuples berbères de l'Antiquité, notamment les Garamantes et les Laguatan, mentionné par des sources byzantines comme divinité invoquée avant les batailles.",
-  "domaines": ["guerre", "force", "taureau sacré"],
+  "description_detaillee": "Selon le poète byzantin Corippus, principale source antique sur cette divinité, les Laguatan berbères considéraient Gurzil comme le fils du dieu Ammon, la divinité bélier vénérée à l'oasis de Siwa et largement diffusée dans l'Antiquité sous sa forme grecque de Zeus Ammon : cette filiation revendiquée témoigne de contacts religieux anciens et complexes entre traditions berbères, égyptiennes et gréco-romaines dans cette région du Maghreb antique.",
+  "domaines": [
+    "guerre",
+    "force",
+    "taureau sacré"
+  ],
   "tags": [],
   "genealogie": {
     "parents": [],
@@ -14,7 +21,9 @@
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["tête de taureau"],
+  "attributs": [
+    "tête de taureau"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

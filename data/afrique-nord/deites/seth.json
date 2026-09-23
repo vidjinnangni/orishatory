@@ -1,21 +1,41 @@
 {
   "id": "seth",
   "nom": "Seth",
-  "variantes": ["Set", "Sutekh"],
+  "variantes": [
+    "Set",
+    "Sutekh"
+  ],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Dieu du chaos, du désert, des tempêtes et des terres étrangères, meurtrier de son frère Osiris et rival de son neveu Horus pour le trône d'Égypte. Figure ambivalente, à la fois nécessaire et redoutée.",
-  "domaines": ["chaos", "désert", "tempête", "terres étrangères"],
+  "description_detaillee": "Durant la Seconde Période intermédiaire, les souverains étrangers hyksôs qui contrôlèrent une partie de l'Égypte identifièrent leur propre dieu de l'orage à Seth, renforçant ultérieurement dans la mémoire collective égyptienne l'association entre cette divinité et l'idée de domination étrangère illégitime, une connotation négative qui a pu contribuer à la dégradation progressive de son image au cours des périodes suivantes de l'histoire égyptienne.",
+  "domaines": [
+    "chaos",
+    "désert",
+    "tempête",
+    "terres étrangères"
+  ],
   "tags": [],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["osiris", "horus"]
+    "entites_liees": [
+      "osiris",
+      "horus"
+    ]
   },
-  "attributs": ["animal composite non identifié (l''animal de Seth')", "couleur rouge"],
-  "recits_associes": ["mythe-osiris", "combat-horus-seth"],
+  "attributs": [
+    "animal composite non identifié (l''animal de Seth')",
+    "couleur rouge"
+  ],
+  "recits_associes": [
+    "mythe-osiris",
+    "combat-horus-seth"
+  ],
   "culte_contemporain": "",
   "sources": [
     "te Velde, H. (1967). Seth, God of Confusion",

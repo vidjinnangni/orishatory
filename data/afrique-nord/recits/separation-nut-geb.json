@@ -4,15 +4,26 @@
   "variantes": [],
   "region": "afrique-nord",
   "categorie": "recits",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Récit mythologique où le dieu de l'air Shu sépare de force les amants Nout (le ciel) et Geb (la terre), unis dans un embrassement perpétuel, créant ainsi l'espace habitable entre ciel et terre où peuvent exister les humains.",
-  "domaines": ["séparation ciel-terre", "création de l'espace habitable"],
-  "tags": ["creation"],
+  "description_detaillee": "Un développement associé à ce récit veut qu'Atoum, jaloux ou inquiet de la progéniture à venir de Nout, lui ait interdit d'enfanter durant aucun des trois cent soixante jours du calendrier égyptien ; Thot aurait alors gagné au jeu de senet contre la lune cinq jours supplémentaires, dits épagomènes, ajoutés en marge du calendrier officiel, permettant à Nout d'y faire naître ses cinq enfants (Osiris, Horus l'Ancien, Seth, Isis et Nephtys) sans contrevenir techniquement à l'interdit originel.",
+  "domaines": [
+    "séparation ciel-terre",
+    "création de l'espace habitable"
+  ],
+  "tags": [
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["nut", "geb"]
+    "entites_liees": [
+      "nut",
+      "geb"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

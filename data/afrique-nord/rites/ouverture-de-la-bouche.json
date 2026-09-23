@@ -4,17 +4,29 @@
   "variantes": [],
   "region": "afrique-nord",
   "categorie": "rites",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Cérémonie funéraire égyptienne pratiquée sur la momie ou la statue du défunt, censée restaurer l'usage des sens (parole, vue, respiration) pour lui permettre de vivre pleinement dans l'au-delà.",
-  "domaines": ["funérailles", "au-delà", "restauration des sens"],
-  "tags": ["mort-au-dela"],
+  "description_detaillee": "Le rituel trouve son origine dans une pratique appliquée aux statues de culte des temples, destinée à les 'animer' rituellement afin qu'elles puissent recevoir et transmettre la présence divine ; son adaptation ultérieure au contexte funéraire, appliquée directement à la momie ou à une statue du défunt, transpose cette même logique d'animation rituelle du domaine strictement religieux vers celui, plus intime, de la survie individuelle après la mort.",
+  "domaines": [
+    "funérailles",
+    "au-delà",
+    "restauration des sens"
+  ],
+  "tags": [
+    "mort-au-dela"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["instrument en forme d'herminette (peseshkaf)", "encens"],
+  "attributs": [
+    "instrument en forme d'herminette (peseshkaf)",
+    "encens"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

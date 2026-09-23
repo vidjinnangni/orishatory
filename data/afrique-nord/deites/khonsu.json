@@ -1,12 +1,21 @@
 {
   "id": "khonsu",
   "nom": "Khonsou",
-  "variantes": ["Khonsu"],
+  "variantes": [
+    "Khonsu"
+  ],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Dieu lunaire égyptien, fils d'Amon et Mout formant avec eux la triade thébaine, associé au temps, à la guérison et au calcul du calendrier lunaire.",
-  "domaines": ["lune", "temps", "guérison"],
+  "description_detaillee": "Un texte plus tardif connu sous le nom de stèle de Bentresh, de composition largement légendaire, raconte comment une statue de Khonsou aurait été envoyée dans le lointain pays de Bakhtan pour guérir une princesse étrangère possédée par un esprit malin, illustrant la façon dont la réputation de Khonsou comme dieu guérisseur a pu, dans la littérature religieuse égyptienne tardive, être mise en scène jusque dans des récits à portée quasi diplomatique et internationale.",
+  "domaines": [
+    "lune",
+    "temps",
+    "guérison"
+  ],
   "tags": [],
   "genealogie": {
     "parents": [],
@@ -14,7 +23,10 @@
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["disque et croissant lunaires sur la tête", "tresse de l'enfance (jeunesse)"],
+  "attributs": [
+    "disque et croissant lunaires sur la tête",
+    "tresse de l'enfance (jeunesse)"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

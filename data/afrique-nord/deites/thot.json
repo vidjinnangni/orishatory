@@ -1,20 +1,37 @@
 {
   "id": "thot",
   "nom": "Thot",
-  "variantes": ["Djehuty", "Thoth"],
+  "variantes": [
+    "Djehuty",
+    "Thoth"
+  ],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Dieu de la sagesse, de l'écriture et de la lune, scribe des dieux et arbitre lors du jugement des morts, inventeur mythique des hiéroglyphes.",
-  "domaines": ["écriture", "sagesse", "lune", "arbitrage"],
-  "tags": ["divination"],
+  "description_detaillee": "Le grand centre de son culte, la ville d'Hermopolis (Khemenou en égyptien), était également le foyer d'une cosmogonie distincte de celles d'Héliopolis ou de Memphis, organisée autour de l'Ogdoade, un groupe de huit divinités primordiales représentant les qualités abstraites du chaos originel (l'obscurité, l'infini, l'invisible, les eaux primordiales) dont l'union aurait engendré l'œuf cosmique à l'origine du monde. Thot y était vénéré comme l'organisateur de cet ordre cosmique naissant, rôle cohérent avec sa fonction plus générale de scribe et d'arbitre du savoir divin.",
+  "domaines": [
+    "écriture",
+    "sagesse",
+    "lune",
+    "arbitrage"
+  ],
+  "tags": [
+    "divination"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["tête d'ibis", "palette de scribe", "forme alternative de babouin"],
+  "attributs": [
+    "tête d'ibis",
+    "palette de scribe",
+    "forme alternative de babouin"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Identifié par les Grecs à Hermès Trismégiste, influençant durablement la tradition hermétique occidentale ultérieure.",
   "sources": [

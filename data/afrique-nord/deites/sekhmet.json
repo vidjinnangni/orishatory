@@ -1,20 +1,35 @@
 {
   "id": "sekhmet",
   "nom": "Sekhmet",
-  "variantes": ["Sachmis"],
+  "variantes": [
+    "Sachmis"
+  ],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Déesse guerrière à tête de lionne, envoyée par Rê pour punir l'humanité rebelle, associée à la fois à la destruction et à la guérison, patronne redoutée des médecins égyptiens.",
-  "domaines": ["guerre", "destruction", "maladie et guérison"],
+  "description_detaillee": "Le pharaon Amenhotep III fit ériger plusieurs centaines de statues de Sekhmet, potentiellement une pour chaque jour de l'année, dans le cadre d'un vaste programme d'apaisement rituel de la déesse ; cet ensemble constitue aujourd'hui le corpus statuaire le plus abondant jamais retrouvé pour une seule divinité égyptienne, témoignant de l'ampleur des efforts déployés pour contenir sa fureur potentielle.",
+  "domaines": [
+    "guerre",
+    "destruction",
+    "maladie et guérison"
+  ],
   "tags": [],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["ra"]
+    "entites_liees": [
+      "ra"
+    ]
   },
-  "attributs": ["tête de lionne", "disque solaire", "couleur rouge (associée à la fureur)"],
+  "attributs": [
+    "tête de lionne",
+    "disque solaire",
+    "couleur rouge (associée à la fureur)"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

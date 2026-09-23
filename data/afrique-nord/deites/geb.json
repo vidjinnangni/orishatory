@@ -4,18 +4,33 @@
   "variantes": [],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Dieu de la terre, souvent représenté allongé sous le corps arqué de sa sœur-épouse Nout, associé aux tremblements de terre (interprétés comme son rire) et à la fertilité du sol.",
-  "domaines": ["terre", "fertilité", "tremblements de terre"],
-  "tags": ["terre-fertilite"],
+  "description_detaillee": "Dans le récit du conflit opposant Horus et Seth pour la succession d'Osiris, c'est Geb, en tant que dieu de la terre et ancien souverain divin, qui préside symboliquement le tribunal chargé de trancher le litige, avant de céder finalement son trône terrestre à son petit-fils Horus, incarnant la transmission légitime du pouvoir royal à travers les générations divines.",
+  "domaines": [
+    "terre",
+    "fertilité",
+    "tremblements de terre"
+  ],
+  "tags": [
+    "terre-fertilite"
+  ],
   "genealogie": {
     "parents": [],
-    "conjoints": ["nut"],
+    "conjoints": [
+      "nut"
+    ],
     "enfants": [],
-    "entites_liees": ["nut"]
+    "entites_liees": [
+      "nut"
+    ]
   },
   "attributs": [],
-  "recits_associes": ["separation-nut-geb"],
+  "recits_associes": [
+    "separation-nut-geb"
+  ],
   "culte_contemporain": "",
   "sources": [
     "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",

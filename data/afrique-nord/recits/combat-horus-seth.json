@@ -4,15 +4,27 @@
   "variantes": [],
   "region": "afrique-nord",
   "categorie": "recits",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Cycle narratif relatant le long conflit judiciaire et physique entre Horus et Seth pour la succession d'Osiris au trône d'Égypte, tranché finalement par le tribunal des dieux en faveur d'Horus.",
-  "domaines": ["succession royale", "justice divine", "conflit"],
-  "tags": ["royaute-sacree"],
+  "description_detaillee": "L'un des épisodes les plus caractéristiques du ton inhabituel de ce récit voit Seth tenter d'établir sa domination sur Horus par une agression qui se retourne contre lui grâce à une ruse d'Isis, la preuve de cette tentative ratée étant ensuite présentée comme argument décisif devant le tribunal divin pour discréditer Seth. Ce type d'épisode, mêlant grivoiserie et enjeux de légitimité politique, illustre combien la littérature religieuse égyptienne pouvait conjuguer humour cru et gravité théologique sans que les deux registres soient perçus comme contradictoires par son public antique.",
+  "domaines": [
+    "succession royale",
+    "justice divine",
+    "conflit"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["horus", "osiris"]
+    "entites_liees": [
+      "horus",
+      "osiris"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

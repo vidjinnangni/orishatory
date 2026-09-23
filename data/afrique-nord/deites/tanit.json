@@ -1,20 +1,35 @@
 {
   "id": "tanit",
   "nom": "Tanit",
-  "variantes": ["Tinnit"],
+  "variantes": [
+    "Tinnit"
+  ],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Puniques (Carthage)", "Amazigh (Berbères)"],
+  "peuples": [
+    "Puniques (Carthage)",
+    "Amazigh (Berbères)"
+  ],
   "resume": "Déesse majeure du monde punique (Carthage), associée à la fertilité, à la lune et à la protection de la cité. Son culte s'enracine en partie dans des traditions berbères antérieures à la colonisation phénicienne du Maghreb.",
-  "domaines": ["fertilité", "lune", "protection de la cité"],
-  "tags": ["terre-fertilite"],
+  "description_detaillee": "Le symbole graphique associé à Tanit, une silhouette trapézoïdale surmontée d'un disque et flanquée de deux bras levés, orne des milliers de stèles retrouvées notamment sur les sites de tophet ; son origine exacte reste débattue, certains y voyant la stylisation d'une figure humaine en prière, d'autres celle d'un autel ou d'un brûle-encens rituel.",
+  "domaines": [
+    "fertilité",
+    "lune",
+    "protection de la cité"
+  ],
+  "tags": [
+    "terre-fertilite"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["symbole de Tanit (figure trapézoïdale surmontée d'un disque)", "croissant de lune"],
+  "attributs": [
+    "symbole de Tanit (figure trapézoïdale surmontée d'un disque)",
+    "croissant de lune"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

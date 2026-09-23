@@ -1,20 +1,34 @@
 {
   "id": "wadjet",
   "nom": "Ouadjet",
-  "variantes": ["Wadjet"],
+  "variantes": [
+    "Wadjet"
+  ],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Déesse cobra protectrice de la Basse-Égypte, associée à l'uræus porté au front des pharaons pour repousser leurs ennemis, formant avec Nekhbet (déesse vautour de Haute-Égypte) le symbole de l'unité du royaume.",
-  "domaines": ["protection royale", "Basse-Égypte", "royauté"],
-  "tags": ["royaute-sacree"],
+  "description_detaillee": "Son principal centre de culte, la ville de Bouto (Per-Ouadjet) dans le delta du Nil, compte parmi les sites religieux égyptiens les plus anciens attestés, antérieur à l'unification dynastique du pays, ce qui a conduit plusieurs égyptologues à considérer que la forme du cobra dressé associée à Ouadjet pourrait être à l'origine même du symbole royal de l'uræus, plutôt qu'un simple emprunt tardif à sa théologie.",
+  "domaines": [
+    "protection royale",
+    "Basse-Égypte",
+    "royauté"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["uræus (cobra dressé)", "couleur verte"],
+  "attributs": [
+    "uræus (cobra dressé)",
+    "couleur verte"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

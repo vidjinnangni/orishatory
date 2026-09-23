@@ -1,12 +1,21 @@
 {
   "id": "eshmun",
   "nom": "Eshmoun",
-  "variantes": ["Eshmun"],
+  "variantes": [
+    "Eshmun"
+  ],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Puniques (Carthage)"],
+  "peuples": [
+    "Puniques (Carthage)"
+  ],
   "resume": "Dieu punique de la guérison et de la médecine, vénéré à Carthage dans un important sanctuaire sur la colline de Byrsa, identifié par les Grecs et Romains à Asclépios/Esculape.",
-  "domaines": ["guérison", "médecine", "protection de la cité"],
+  "description_detaillee": "Une tradition rapportée par l'auteur tardif Damascius relate qu'Eshmoun aurait été à l'origine un jeune chasseur d'une beauté remarquable, poursuivi par les avances de la déesse Astarté ; désespéré par cette insistance, il se serait mutilé et laissé mourir, avant d'être ramené à la vie et élevé au rang de dieu par la déesse elle-même, un mythe fondateur de mort et de résurrection cohérent avec sa fonction ultérieure de dieu guérisseur.",
+  "domaines": [
+    "guérison",
+    "médecine",
+    "protection de la cité"
+  ],
   "tags": [],
   "genealogie": {
     "parents": [],

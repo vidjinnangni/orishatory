@@ -1,20 +1,36 @@
 {
   "id": "bes",
   "nom": "Bès",
-  "variantes": ["Bes"],
+  "variantes": [
+    "Bes"
+  ],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Dieu protecteur nain à l'apparence difforme et grimaçante, censée effrayer les esprits malveillants. Protecteur du foyer, des femmes en couches et des jeunes enfants.",
-  "domaines": ["protection domestique", "accouchement", "joie", "danse"],
+  "description_detaillee": "Contrairement à de nombreuses divinités égyptiennes majeures dont le culte restait largement circonscrit aux grands temples officiels et à leur clergé, Bès était vénéré directement au sein des foyers par l'ensemble de la population, indépendamment du rang social, ce qui en fait l'une des figures les mieux documentées de ce que les égyptologues distinguent comme la 'religion populaire' égyptienne, par contraste avec le culte officiel réservé aux élites sacerdotales.",
+  "domaines": [
+    "protection domestique",
+    "accouchement",
+    "joie",
+    "danse"
+  ],
   "tags": [],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["taweret"]
+    "entites_liees": [
+      "taweret"
+    ]
   },
-  "attributs": ["apparence naine et grimaçante", "langue tirée", "plumes sur la tête"],
+  "attributs": [
+    "apparence naine et grimaçante",
+    "langue tirée",
+    "plumes sur la tête"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

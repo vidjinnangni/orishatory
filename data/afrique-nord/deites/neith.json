@@ -4,17 +4,31 @@
   "variantes": [],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Déesse de la guerre, de la chasse et du tissage, patronne de la ville de Saïs dans le delta du Nil, parfois présentée comme une créatrice primordiale antérieure aux autres dieux.",
-  "domaines": ["guerre", "chasse", "tissage", "création"],
-  "tags": ["creation"],
+  "description_detaillee": "Dans le récit du tribunal divin tranchant le conflit entre Horus et Seth, Neith figure parmi les autorités consultées pour rendre un jugement équitable, un rôle d'arbitre cohérent avec son statut de divinité à la fois guerrière et sage. Son association simultanée avec les couronnes rouge et blanche, symboles respectifs de la Basse et de la Haute-Égypte réunies, suggère une origine remontant à une période antérieure à l'unification dynastique du pays.",
+  "domaines": [
+    "guerre",
+    "chasse",
+    "tissage",
+    "création"
+  ],
+  "tags": [
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["arc et flèches", "bouclier", "navette de tisserand"],
+  "attributs": [
+    "arc et flèches",
+    "bouclier",
+    "navette de tisserand"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [
