@@ -4,15 +4,29 @@
   "variantes": [],
   "region": "afrique-est",
   "categorie": "deites",
-  "peuples": ["Dinka"],
+  "peuples": [
+    "Dinka"
+  ],
   "resume": "Divinité dinka du tonnerre et de la pluie, fils de Nhialic, souvent invoqué directement dans les prières agricoles et lors des orages. Figure centrale du culte des esprits (jok) dinka, plus accessible que le dieu suprême distant.",
-  "domaines": ["tonnerre", "pluie", "fertilité agricole"],
-  "tags": ["foudre-orage", "terre-fertilite"],
+  "description_detaillee": "Le culte de Deng est traditionnellement administré par des clans sacerdotaux héréditaires, les 'maîtres de la lance à pêcher' (bany bith), dont la fonction rituelle consiste à servir d'intermédiaires privilégiés entre la société dinka et les divinités, Deng en particulier lors des cérémonies liées à la pluie et à la fertilité agricole. Cette prêtrise héréditaire, distincte des devins consultés ponctuellement, structure une autorité religieuse durable au sein des communautés dinka, transmise de génération en génération au sein de lignages spécifiques.",
+  "domaines": [
+    "tonnerre",
+    "pluie",
+    "fertilité agricole"
+  ],
+  "tags": [
+    "foudre-orage",
+    "terre-fertilite"
+  ],
   "genealogie": {
-    "parents": ["nhialic"],
+    "parents": [
+      "nhialic"
+    ],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["nhialic"]
+    "entites_liees": [
+      "nhialic"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

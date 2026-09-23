@@ -4,15 +4,26 @@
   "variantes": [],
   "region": "afrique-est",
   "categorie": "recits",
-  "peuples": ["Kikuyu"],
+  "peuples": [
+    "Kikuyu"
+  ],
   "resume": "Récit fondateur kikuyu selon lequel Ngai conduisit le premier homme, Gikuyu, au sommet du mont Kenya et lui donna Mumbi pour épouse, leurs neuf filles devenant les ancêtres fondatrices des neuf principaux clans (mbari) du peuple kikuyu.",
-  "domaines": ["origine humaine", "fondation clanique", "montagne sacrée"],
-  "tags": ["creation"],
+  "description_detaillee": "Les neuf clans issus des filles de Gikuyu et Mumbi continuent de structurer informellement l'identité sociale kikuyu contemporaine, certains d'entre eux étant traditionnellement associés à des savoir-faire ou des rôles spécifiques (forge, art de la guérison, conseil politique). Jomo Kenyatta, premier président du Kenya indépendant et auteur de la principale source ethnographique sur ce récit, appartenait lui-même à l'un de ces clans, conférant à sa description académique une dimension d'appartenance personnelle rare dans la littérature anthropologique de l'époque coloniale.",
+  "domaines": [
+    "origine humaine",
+    "fondation clanique",
+    "montagne sacrée"
+  ],
+  "tags": [
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["ngai-kikuyu"]
+    "entites_liees": [
+      "ngai-kikuyu"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

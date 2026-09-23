@@ -4,10 +4,18 @@
   "variantes": [],
   "region": "afrique-est",
   "categorie": "deites",
-  "peuples": ["Luo"],
+  "peuples": [
+    "Luo"
+  ],
   "resume": "Concept de divinité suprême chez les Luo du Kenya, ainsi que dans plusieurs langues bantoues voisines (luhya, gusii), désignant une force créatrice universelle plutôt qu'une figure anthropomorphe précise.",
-  "domaines": ["création", "force universelle"],
-  "tags": ["creation"],
+  "description_detaillee": "La circulation du terme Nyasaye au-delà des frontières linguistiques nilotiques, jusque dans des langues bantoues sans parenté directe comme le luhya ou le gusii parlées dans la même région du Kenya occidental, illustre un cas notable de diffusion d'un concept religieux par contact culturel prolongé entre populations voisines plutôt que par héritage linguistique commun, les familles nilotique et bantoue étant par ailleurs distinctes.",
+  "domaines": [
+    "création",
+    "force universelle"
+  ],
+  "tags": [
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

@@ -4,10 +4,19 @@
   "variantes": [],
   "region": "afrique-est",
   "categorie": "heros",
-  "peuples": ["Shilluk"],
+  "peuples": [
+    "Shilluk"
+  ],
   "resume": "Fondateur divin légendaire du royaume shilluk sur les rives du Nil Blanc (Soudan du Sud), dont l'esprit est censé habiter chaque roi (reth) successif après une cérémonie d'investiture spécifique, incarnant la continuité de la royauté sacrée shilluk.",
-  "domaines": ["royauté sacrée", "fondation dynastique", "continuité spirituelle"],
-  "tags": ["royaute-sacree"],
+  "description_detaillee": "La cérémonie d'investiture d'un nouveau reth shilluk comporte traditionnellement une mise en scène rituelle où les partisans du nouveau roi affrontent symboliquement une effigie ou une représentation de Nyikang, la 'défaite' rituelle de cette dernière signifiant l'absorption de sa puissance spirituelle par le nouveau souverain plutôt qu'une réelle opposition entre les deux figures.",
+  "domaines": [
+    "royauté sacrée",
+    "fondation dynastique",
+    "continuité spirituelle"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

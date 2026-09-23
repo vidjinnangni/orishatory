@@ -4,15 +4,26 @@
   "variantes": [],
   "region": "afrique-est",
   "categorie": "deites",
-  "peuples": ["Malgaches"],
+  "peuples": [
+    "Malgaches"
+  ],
   "resume": "Dieu créateur suprême dans la cosmologie malgache, associé au ciel et à l'origine de la vie, souvent envisagé en complémentarité avec Ratovoantany, la divinité de la terre, selon un schéma dualiste ciel-terre présent dans plusieurs traditions régionales de Madagascar.",
-  "domaines": ["création", "ciel", "origine de la vie"],
-  "tags": ["creation"],
+  "description_detaillee": "La cosmologie résumée ici, centrée sur le couple Zanahary/Ratovoantany, correspond principalement aux traditions documentées chez les Merina et d'autres populations des hautes terres malgaches ; Madagascar comptant une vingtaine de groupes ethniques aux origines et aux influences culturelles diverses (bantoues, austronésiennes, arabes), les conceptions religieuses locales varient sensiblement d'une région côtière ou intérieure à l'autre, la présentation retenue ici constituant donc une synthèse plutôt qu'une doctrine unique et uniforme à l'ensemble de l'île.",
+  "domaines": [
+    "création",
+    "ciel",
+    "origine de la vie"
+  ],
+  "tags": [
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["ratovoantany"]
+    "entites_liees": [
+      "ratovoantany"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

@@ -4,9 +4,16 @@
   "variantes": [],
   "region": "afrique-est",
   "categorie": "heros",
-  "peuples": ["Luo"],
+  "peuples": [
+    "Luo"
+  ],
   "resume": "Guerrier légendaire luo réputé invincible au combat, sa force résidant non dans son corps mais dans son ombre. Trahi, son secret révélé à l'ennemi permit sa défaite lorsqu'une lance transperça son ombre projetée au sol.",
-  "domaines": ["guerre", "invincibilité", "trahison"],
+  "description_detaillee": "Certaines versions du récit précisent que c'est une femme de son propre camp, parfois identifiée comme une épouse rivale ou une captive, qui aurait révélé aux ennemis de Lwanda Magere le secret de sa vulnérabilité liée à son ombre, introduisant un motif de trahison intime qui accentue la dimension tragique du récit plutôt qu'une simple défaite militaire.",
+  "domaines": [
+    "guerre",
+    "invincibilité",
+    "trahison"
+  ],
   "tags": [],
   "genealogie": {
     "parents": [],
@@ -14,7 +21,9 @@
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["ombre porteuse de sa force vitale"],
+  "attributs": [
+    "ombre porteuse de sa force vitale"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Un rocher près de Kisumu (Kenya), dit lui ressembler, reste associé à sa légende et attire encore des visiteurs locaux.",
   "sources": [

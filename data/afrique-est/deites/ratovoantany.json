@@ -4,15 +4,26 @@
   "variantes": [],
   "region": "afrique-est",
   "categorie": "deites",
-  "peuples": ["Malgaches"],
+  "peuples": [
+    "Malgaches"
+  ],
   "resume": "Divinité de la terre dans certaines traditions malgaches, complément de Zanahary (le ciel) dans un schéma cosmogonique dualiste, associée à la fertilité du sol et aux forces telluriques.",
-  "domaines": ["terre", "fertilité", "forces telluriques"],
-  "tags": ["terre-fertilite"],
+  "description_detaillee": "Le schéma dualiste associant Zanahary (ciel) et Ratovoantany (terre) rejoint structurellement d'autres couples divins ciel-terre déjà attestés sur le continent, tels Nyame et Asase Yaa chez les Akan d'Afrique de l'Ouest ou Geb et Nout dans l'Égypte ancienne, sans qu'aucune filiation historique entre ces traditions géographiquement éloignées ne puisse être établie : il s'agit vraisemblablement de résolutions indépendantes d'une même intuition cosmologique répandue.",
+  "domaines": [
+    "terre",
+    "fertilité",
+    "forces telluriques"
+  ],
+  "tags": [
+    "terre-fertilite"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["zanahary"]
+    "entites_liees": [
+      "zanahary"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

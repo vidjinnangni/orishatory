@@ -4,13 +4,25 @@
   "variantes": [],
   "region": "afrique-est",
   "categorie": "heros",
-  "peuples": ["Baganda"],
+  "peuples": [
+    "Baganda"
+  ],
   "resume": "Premier homme et ancêtre fondateur mythique du royaume du Buganda, dont le mariage avec Nnambi, fille du dieu du ciel Ggulu, est à l'origine de la lignée royale baganda et, selon le récit, de l'arrivée de la mort sur terre.",
-  "domaines": ["origine humaine", "royauté", "fondation dynastique"],
-  "tags": ["royaute-sacree", "creation"],
+  "description_detaillee": "Le récit précise traditionnellement que Ggulu, le dieu du ciel, ne consentit au mariage de sa fille Nnambi avec Kintu qu'après lui avoir imposé une série d'épreuves difficiles, comme reconnaître sa propre vache parmi un troupeau en tous points identique. Le frère de Nnambi, Walumbe (dont le nom signifie 'la mort'), insista pour accompagner le couple sur terre malgré les mises en garde de Ggulu ; une fois installé parmi les humains, Walumbe refusa toute tentative ultérieure de le faire remonter au ciel, expliquant ainsi l'entrée définitive et irréversible de la mort dans la condition humaine.",
+  "domaines": [
+    "origine humaine",
+    "royauté",
+    "fondation dynastique"
+  ],
+  "tags": [
+    "royaute-sacree",
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
-    "conjoints": ["Nnambi"],
+    "conjoints": [
+      "Nnambi"
+    ],
     "enfants": [],
     "entites_liees": []
   },

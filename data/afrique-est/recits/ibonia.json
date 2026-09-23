@@ -4,10 +4,19 @@
   "variantes": [],
   "region": "afrique-est",
   "categorie": "recits",
-  "peuples": ["Malgaches"],
+  "peuples": [
+    "Malgaches"
+  ],
   "resume": "Épopée orale malgache majeure narrant les exploits d'un héros aux pouvoirs surnaturels, capable de parler avant sa naissance et de choisir son propre destin, qui affronte des épreuves multiples pour épouser la femme qui lui est destinée.",
-  "domaines": ["héroïsme", "destin", "épreuves initiatiques"],
-  "tags": ["initiation"],
+  "description_detaillee": "L'épopée s'organise autour d'une naissance déjà extraordinaire : le héros parlerait depuis le ventre de sa mère pour négocier lui-même les modalités de sa venue au monde et choisir son propre nom, affirmation d'autonomie qui préfigure les épreuves ultérieures où il déjoue systématiquement les pièges tendus par des prétendants rivaux ou des figures parentales hostiles à son union avec la femme qui lui est destinée. Traditionnellement chantée par des conteurs spécialisés lors de cérémonies marquant les grandes étapes de la vie communautaire, l'épopée conjugue ainsi divertissement, transmission de valeurs et affirmation d'une identité individuelle forte face aux contraintes sociales.",
+  "domaines": [
+    "héroïsme",
+    "destin",
+    "épreuves initiatiques"
+  ],
+  "tags": [
+    "initiation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

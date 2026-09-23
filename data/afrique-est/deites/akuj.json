@@ -4,10 +4,20 @@
   "variantes": [],
   "region": "afrique-est",
   "categorie": "deites",
-  "peuples": ["Turkana"],
+  "peuples": [
+    "Turkana"
+  ],
   "resume": "Dieu suprême du ciel chez les Turkana (nord du Kenya), associé à la pluie et au bétail, approché principalement lors de sécheresses ou de crises collectives par l'intermédiaire de devins (emuron).",
-  "domaines": ["ciel", "pluie", "bétail"],
-  "tags": ["eau", "divination"],
+  "description_detaillee": "La cosmologie turkana s'inscrit dans un ensemble plus large de peuples nilotiques orientaux (Karamojong, Jie) partageant des racines linguistiques et culturelles communes, chacun reconnaissant sous un nom voisin un principe céleste suprême comparable, ce qui témoigne d'un fonds religieux ancien commun à cette aire couloir sahélo-est-africaine plutôt que d'emprunts tardifs entre groupes. Les devins emuron, au-delà de leur rôle strictement religieux d'interprétation de la volonté d'Akuj par la lecture des entrailles d'animaux sacrifiés, exerçaient traditionnellement aussi une fonction politique et judiciaire d'arbitrage au sein de la société turkana.",
+  "domaines": [
+    "ciel",
+    "pluie",
+    "bétail"
+  ],
+  "tags": [
+    "eau",
+    "divination"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

@@ -4,18 +4,33 @@
   "variantes": [],
   "region": "afrique-est",
   "categorie": "deites",
-  "peuples": ["Kikuyu"],
+  "peuples": [
+    "Kikuyu"
+  ],
   "resume": "Dieu suprême kikuyu, créateur associé au mont Kenya (Kirinyaga, sa demeure terrestre), à l'origine des ancêtres fondateurs Gikuyu et Mumbi. Concept apparenté à l'Engai maasai voisin, reflétant des contacts culturels anciens entre les deux peuples.",
-  "domaines": ["création", "montagne sacrée", "fondation ancestrale"],
-  "tags": ["creation"],
+  "description_detaillee": "Le figuier sacré (mugumo) constitue traditionnellement le site rituel privilégié pour les sacrifices et les prières adressés à Ngai, son emplacement étant systématiquement choisi en orientation visuelle vers le mont Kenya. Ce même symbole du figuier a par la suite été investi d'une charge politique supplémentaire au 20e siècle, certains récits historiques rapportant son usage lors de cérémonies de serment du mouvement Mau Mau pendant la résistance anticoloniale kényane, signe de la persistance de motifs religieux traditionnels dans des contextes de mobilisation politique bien postérieurs à leur origine cosmologique.",
+  "domaines": [
+    "création",
+    "montagne sacrée",
+    "fondation ancestrale"
+  ],
+  "tags": [
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["engai"]
+    "entites_liees": [
+      "engai"
+    ]
   },
-  "attributs": ["mont Kenya (Kirinyaga)"],
-  "recits_associes": ["gikuyu-et-mumbi"],
+  "attributs": [
+    "mont Kenya (Kirinyaga)"
+  ],
+  "recits_associes": [
+    "gikuyu-et-mumbi"
+  ],
   "culte_contemporain": "",
   "sources": [
     "Kenyatta, J. (1938). Facing Mount Kenya",
