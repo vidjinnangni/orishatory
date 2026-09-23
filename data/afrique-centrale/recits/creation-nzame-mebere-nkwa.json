@@ -7,8 +7,8 @@
   "peuples": [
     "Fang"
   ],
-  "resume": "Récit cosmogonique fang où trois aspects divins, Nzame, Mebere et Nkwa, créent conjointement le monde, les animaux puis l'humanité, façonnant Fam le premier homme à leur image après plusieurs tentatives.",
-  "description_detaillee": "Dans certaines versions du récit, les trois divinités auraient averti Fam, une fois créé, de ne jamais céder à l'orgueil sous peine de perdre son statut privilégié parmi les créatures ; Fam aurait néanmoins fini par revendiquer une égalité avec ses créateurs, provoquant leur colère et l'instauration de la souffrance, du travail pénible et de la mortalité comme conséquences directes de cette transgression originelle. Ce motif d'une déchéance humaine causée par l'orgueil face au créateur rejoint, sous une forme distincte, la chaîne de créations correctives attribuée à Doondari chez les Peuls d'Afrique de l'Ouest.",
+  "resume": "Récit cosmogonique fang narrant deux tentatives successives de création humaine : un premier homme immortel et orgueilleux, Fam, dont la rébellion provoque la destruction du monde par la foudre, puis un second homme mortel, Sekume, ancêtre des Fang, dont l'épouse Mbongwe est façonnée à partir du bois d'un arbre.",
+  "description_detaillee": "Nzame façonne seul l'univers (ciel, terre, astres, végétaux, animaux) avant d'inviter Mebere, associé à l'autorité et à la direction, et Nkwa, associée à la beauté, à se joindre à lui pour créer un premier homme, Fam ('la puissance'), à qui chacun transmet un don : la force de Nzame, l'autorité de Mebere, la beauté de Nkwa. Devenu orgueilleux, Fam cesse de vénérer ses créateurs ; Nzame déchaîne alors la foudre et le tonnerre (Nzalang), qui anéantissent toute vie sur terre à l'exception de Fam, rendu immortel par une promesse antérieure. Réfugié sous terre, il continuerait depuis à nuire occasionnellement aux humains.\n\nAprès avoir régénéré la terre, les trois créateurs façonnent un second homme, Sekume (parfois nommé Zambe), rendu mortel cette fois pour éviter une nouvelle rébellion. Sekume façonne à son tour une épouse, Mbongwe, à partir du bois d'un arbre ; leur union serait à l'origine de la lignée fang. Les humains ainsi créés posséderaient une double nature, un corps périssable (gnoul) et une âme ou ombre durable (nsissim) qui subsisterait après la mort du corps, fondement mythologique du culte des ancêtres fang.",
   "domaines": [
     "création",
     "trinité divine",
@@ -29,8 +29,10 @@
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [
-    "Tessmann, G. (1913). Die Pangwe",
+    "Tessmann, G. (1913). Die Pangwe: Völkerkundliche Monographie eines west-afrikanischen Negerstammes",
+    "Trilles, R.H. (1905). Proverbes, légendes et contes Fang. Bulletin de la Société Neuchâteloise de Géographie, 16, 49-295 (source missionnaire primaire du récit)",
+    "Samorini, G. (2024). Studies on the iboga cults. II. Missionary and colonial mystifications. Antrocom Journal of Anthropology, 20(1), 115-136 (analyse critique de la source Trilles)",
     "Fernandez, J.W. (1982). Bwiti: An Ethnography of the Religious Imagination in Africa"
   ],
-  "notes": ""
+  "notes": "La source principale de ce récit remonte au missionnaire catholique Raphaël-Henri Trilles, qui l'aurait recueilli en 1905 auprès d'un Fang converti au christianisme nommé Ndoume. L'anthropologue Giorgio Samorini a depuis mis en doute l'authenticité ethnographique de la présentation de Nzame, Mebere et Nkwa comme 'un seul Dieu en trois personnes' : ce concept trinitaire ne correspond, selon lui, à aucune autre tradition religieuse fang ou bantoue attestée par ailleurs, et pourrait refléter soit l'influence d'un catéchisme chrétien sur l'informateur, soit une reformulation du missionnaire lui-même — dont les travaux ultérieurs sur les pygmées ont par ailleurs été qualifiés de véritables falsifications ethnographiques par d'autres chercheurs. Dans le déroulement même du récit, les trois figures agissent comme des divinités distinctes plutôt que comme les aspects d'une seule entité, la formule du 'Dieu unique et triple' n'apparaissant que dans l'introduction du texte de Trilles, ce qui accrédite l'hypothèse d'un ajout postérieur au récit traditionnel plutôt que d'un élément originel de la cosmologie fang."
 }
