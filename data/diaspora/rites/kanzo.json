@@ -4,17 +4,30 @@
   "variantes": [],
   "region": "diaspora",
   "categorie": "rites",
-  "peuples": ["Haïtiens (vodou)"],
+  "peuples": [
+    "Haïtiens (vodou)"
+  ],
   "resume": "Cérémonie d'initiation centrale du vodou haïtien, marquant l'engagement formel d'un pratiquant envers les loa et sa communauté religieuse, impliquant une période de retraite et une épreuve rituelle par le feu.",
-  "domaines": ["initiation", "engagement religieux", "communauté"],
-  "tags": ["initiation", "diaspora-survivance"],
+  "description_detaillee": "Le kanzo ne constitue que la première étape d'un parcours initiatique vodou qui peut se poursuivre par des degrés supplémentaires (si pwen, puis le rang le plus élevé d'asogwe) pour les pratiquants destinés à devenir prêtres (houngan) ou prêtresses (mambo) à part entière, chaque palier impliquant de nouvelles épreuves et de nouveaux engagements envers la communauté religieuse et les loa.\n\nL'épreuve du feu qui marque le kanzo proprement dit — le passage rapide des mains ou des pieds sur des braises ou une marmite chauffée — est traditionnellement interprétée non comme un simple test de courage mais comme la preuve tangible que l'initié a été rendu invulnérable par la protection des loa qu'il vient d'embrasser.",
+  "domaines": [
+    "initiation",
+    "engagement religieux",
+    "communauté"
+  ],
+  "tags": [
+    "initiation",
+    "diaspora-survivance"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["épreuve du feu", "retraite collective (kay)"],
+  "attributs": [
+    "épreuve du feu",
+    "retraite collective (kay)"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

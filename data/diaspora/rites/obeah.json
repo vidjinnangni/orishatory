@@ -4,10 +4,20 @@
   "variantes": [],
   "region": "diaspora",
   "categorie": "rites",
-  "peuples": ["Caribéens anglophones (Jamaïque et autres)"],
+  "peuples": [
+    "Caribéens anglophones (Jamaïque et autres)"
+  ],
   "resume": "Pratique de magie populaire et de guérison répandue dans les Caraïbes anglophones, mêlant héritages ouest-africains, kongo et savoirs botaniques locaux, historiquement criminalisée par les autorités coloniales britanniques qui y voyaient une menace à l'ordre esclavagiste.",
-  "domaines": ["magie populaire", "guérison", "protection"],
-  "tags": ["divination", "diaspora-survivance"],
+  "description_detaillee": "La révolte de Tacky en Jamaïque en 1760, l'un des soulèvements d'esclaves les plus importants de l'histoire coloniale britannique, aurait été en partie préparée par un praticien d'obeah ayant fourni aux rebelles des charmes protecteurs censés les rendre invulnérables aux balles ; les autorités coloniales, alarmées par ce rôle attribué à l'obeah dans la mobilisation de la révolte, promulguèrent dans la foulée la première législation criminalisant spécifiquement cette pratique, établissant un lien juridique direct entre résistance servile et répression religieuse qui allait perdurer pendant plus de deux siècles.",
+  "domaines": [
+    "magie populaire",
+    "guérison",
+    "protection"
+  ],
+  "tags": [
+    "divination",
+    "diaspora-survivance"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

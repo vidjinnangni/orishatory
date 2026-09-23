@@ -1,20 +1,41 @@
 {
   "id": "mami-wata",
   "nom": "Mami Wata",
-  "variantes": ["Maman de l'eau", "Watermama"],
+  "variantes": [
+    "Maman de l'eau",
+    "Watermama"
+  ],
   "region": "diaspora",
   "categorie": "deites",
-  "peuples": ["panafricain (Afrique de l'Ouest et Centrale)", "diasporas afro-américaines et afro-caribéennes"],
+  "peuples": [
+    "panafricain (Afrique de l'Ouest et Centrale)",
+    "diasporas afro-américaines et afro-caribéennes"
+  ],
   "resume": "Esprit ou panthéon d'esprits aquatiques associé à la beauté, la richesse et le danger. Culte largement répandu le long des côtes ouest et centre-africaines, exporté ensuite vers les Amériques.",
-  "domaines": ["eau", "fertilité", "richesse", "séduction"],
-  "tags": ["eau", "diaspora-survivance", "metamorphose"],
+  "description_detaillee": "Dans le contexte spécifiquement diasporique, Mami Wata a été absorbée par des pratiques afro-américaines et afro-caribéennes qui n'en avaient pas hérité directement par la traite, mais l'ont adoptée plus tardivement par contact culturel continu avec l'Afrique de l'Ouest, illustrant que les échanges religieux entre le continent et sa diaspora se sont poursuivis bien après la période de l'esclavage et ne relèvent pas d'un unique moment fondateur.\n\nSon iconographie très sexualisée, où la beauté et le danger sont indissociables, a fait l'objet d'analyses critiques en études de genre, certaines chercheuses y voyant une figure ambivalente qui reflète autant qu'elle questionne les normes de désirabilité féminine dans les sociétés où elle est vénérée.",
+  "domaines": [
+    "eau",
+    "fertilité",
+    "richesse",
+    "séduction"
+  ],
+  "tags": [
+    "eau",
+    "diaspora-survivance",
+    "metamorphose"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["miroir", "peigne", "serpent", "queue de poisson dans certaines représentations"],
+  "attributs": [
+    "miroir",
+    "peigne",
+    "serpent",
+    "queue de poisson dans certaines représentations"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Culte vivant au Bénin, Togo, Nigeria, RDC ; retrouvé sous des formes syncrétiques dans le vaudou haïtien (La Sirène) et certaines traditions afro-brésiliennes.",
   "sources": [

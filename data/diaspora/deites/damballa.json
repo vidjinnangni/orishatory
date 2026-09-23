@@ -1,20 +1,43 @@
 {
   "id": "damballa",
   "nom": "Damballa",
-  "variantes": ["Danbala", "Damballah Wedo"],
+  "variantes": [
+    "Danbala",
+    "Damballah Wedo"
+  ],
   "region": "diaspora",
   "categorie": "deites",
-  "peuples": ["Haïtiens (vodou)"],
+  "peuples": [
+    "Haïtiens (vodou)"
+  ],
   "resume": "Loa vodou haïtien serpent, associé à la création, à la sagesse et à la pureté primordiale, souvent représenté avec sa parèdre Ayida-Wédo (l'arc-en-ciel). Hérité de traditions ouest-africaines et kongo du serpent créateur.",
-  "domaines": ["création", "sagesse", "eau", "fertilité"],
-  "tags": ["creation", "eau", "diaspora-survivance"],
+  "description_detaillee": "Lorsqu'un pratiquant est 'chevauché' (possédé) par Damballa, les conventions rituelles veulent qu'il perde l'usage de la parole humaine, ne communiquant plus que par sifflements, et qu'il se déplace au sol à la manière d'un serpent — une incarnation physique complète de la nature du loa plutôt qu'une simple représentation symbolique.\n\nDamballa appartient au rite Rada du vodou haïtien, associé aux esprits 'frais' et bienveillants d'origine principalement ouest-africaine (Fon, Yoruba), par opposition au rite Petro, plus tardif et plus âpre dans son tempérament, où dominent des esprits nés sur le sol haïtien pendant la période de l'esclavage. Cette division entre 'nations' (nanchons) de loa structure l'ensemble du panthéon vodou et distingue Damballa de loa plus combatifs comme certains aspects d'Ezili ou d'Ogou.",
+  "domaines": [
+    "création",
+    "sagesse",
+    "eau",
+    "fertilité"
+  ],
+  "tags": [
+    "creation",
+    "eau",
+    "diaspora-survivance"
+  ],
   "genealogie": {
     "parents": [],
-    "conjoints": ["Ayida-Wédo"],
+    "conjoints": [
+      "Ayida-Wédo"
+    ],
     "enfants": [],
-    "entites_liees": ["mbumba-luangu"]
+    "entites_liees": [
+      "mbumba-luangu"
+    ]
   },
-  "attributs": ["serpent blanc", "œuf", "arc-en-ciel"],
+  "attributs": [
+    "serpent blanc",
+    "œuf",
+    "arc-en-ciel"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

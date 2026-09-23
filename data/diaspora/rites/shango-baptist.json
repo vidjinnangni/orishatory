@@ -4,15 +4,29 @@
   "variantes": [],
   "region": "diaspora",
   "categorie": "rites",
-  "peuples": ["Trinidadiens"],
+  "peuples": [
+    "Trinidadiens"
+  ],
   "resume": "Religion afro-trinidadienne combinant le panthéon orisha yoruba, des éléments du christianisme baptiste et des pratiques spirites, développée dans les Caraïbes anglophones parallèlement à la santería cubaine et au candomblé brésilien mais selon une trajectoire syncrétique distincte.",
-  "domaines": ["possession orisha", "guérison", "syncrétisme religieux"],
-  "tags": ["divination", "diaspora-survivance"],
+  "description_detaillee": "La religion orisha trinidadienne s'est historiquement développée en étroite proximité avec le mouvement baptiste spirituel ('Shouter Baptist'), une tradition protestante afro-trinidadienne elle-même interdite par la loi coloniale britannique de 1917 à 1951 (Shouter Prohibition Ordinance) en raison de ses pratiques jugées trop expressives et 'primitives' par les autorités ; les deux traditions, orisha et baptiste spirituel, ont ainsi partagé une histoire commune de marginalisation légale avant leur reconnaissance officielle tardive.",
+  "domaines": [
+    "possession orisha",
+    "guérison",
+    "syncrétisme religieux"
+  ],
+  "tags": [
+    "divination",
+    "diaspora-survivance"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["eshu-elegba", "ogun", "shango"]
+    "entites_liees": [
+      "eshu-elegba",
+      "ogun",
+      "shango"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

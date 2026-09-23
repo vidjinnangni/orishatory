@@ -4,15 +4,29 @@
   "variantes": [],
   "region": "diaspora",
   "categorie": "deites",
-  "peuples": ["Haïtiens (vodou)"],
+  "peuples": [
+    "Haïtiens (vodou)"
+  ],
   "resume": "Famille de loa vodou haïtiens du fer, de la guerre et de la force, descendant direct d'Ogun yoruba, se déclinant en plusieurs figures spécialisées (Ogou Feray pour la guerre, Ogou Badagri pour la diplomatie, entre autres).",
-  "domaines": ["fer", "guerre", "force", "protection"],
-  "tags": ["forge-artisanat", "diaspora-survivance"],
+  "description_detaillee": "Chaque avatar d'Ogou correspond à un registre distinct de la force martiale et sociale : Ogou Feray incarne la guerre et l'agressivité pure, Ogou Balendjo penche vers la guérison malgré son tempérament guerrier, Ogou Badagri vers la diplomatie et la négociation — une spécialisation qui permet aux pratiquants de solliciter précisément l'aspect de la force nécessaire à leur situation plutôt qu'une puissance martiale indifférenciée.\n\nDans l'imaginaire populaire haïtien, certains avatars d'Ogou en sont venus à être associés, de façon informelle mais culturellement significative, à des figures historiques de la révolution haïtienne comme Jean-Jacques Dessalines, mêlant ainsi mémoire spirituelle et mémoire politique de la lutte pour l'indépendance.",
+  "domaines": [
+    "fer",
+    "guerre",
+    "force",
+    "protection"
+  ],
+  "tags": [
+    "forge-artisanat",
+    "diaspora-survivance"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["ogun", "gu"]
+    "entites_liees": [
+      "ogun",
+      "gu"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

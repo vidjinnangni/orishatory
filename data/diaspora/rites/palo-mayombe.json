@@ -1,20 +1,38 @@
 {
   "id": "palo-mayombe",
   "nom": "Palo Mayombe",
-  "variantes": ["Las Reglas de Congo"],
+  "variantes": [
+    "Las Reglas de Congo"
+  ],
   "region": "diaspora",
   "categorie": "rites",
-  "peuples": ["Cubains"],
+  "peuples": [
+    "Cubains"
+  ],
   "resume": "Tradition religieuse afro-cubaine d'origine kongo, centrée sur l'usage de chaudrons rituels (ngangas) contenant des matières organiques et symboliques censées abriter des esprits, utilisée pour la protection, la guérison ou l'influence sur autrui.",
-  "domaines": ["magie rituelle", "esprits ancestraux", "protection"],
-  "tags": ["ancetres", "divination"],
+  "description_detaillee": "La pratique du palo mayombe se subdivise traditionnellement en plusieurs branches ou 'règles' (mayombe, briyumba, kimbisa), chacune associée à des orientations rituelles et morales légèrement différentes, certaines étant perçues par les pratiquants eux-mêmes comme davantage tournées vers des interventions agressives ou offensives que d'autres — une diversité interne souvent aplatie dans les représentations populaires occidentales qui tendent à traiter le palo comme un bloc unique et uniformément menaçant.",
+  "domaines": [
+    "magie rituelle",
+    "esprits ancestraux",
+    "protection"
+  ],
+  "tags": [
+    "ancetres",
+    "divination"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["nkisi"]
+    "entites_liees": [
+      "nkisi"
+    ]
   },
-  "attributs": ["nganga (chaudron rituel)", "ossements", "terre de cimetière"],
+  "attributs": [
+    "nganga (chaudron rituel)",
+    "ossements",
+    "terre de cimetière"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Pratique vivante à Cuba et dans la diaspora cubaine, souvent en parallèle de la santería, bien que les deux traditions restent distinctes par leurs origines (bantoue-kongo pour le palo, yoruba pour la santería).",
   "sources": [

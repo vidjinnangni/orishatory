@@ -1,13 +1,26 @@
 {
   "id": "les-africains-qui-volent",
   "nom": "Les Africains qui volent",
-  "variantes": ["The Flying Africans", "légende d'Ibo Landing"],
+  "variantes": [
+    "The Flying Africans",
+    "légende d'Ibo Landing"
+  ],
   "region": "diaspora",
   "categorie": "recits",
-  "peuples": ["Afro-Américains des Sea Islands (Géorgie, Caroline du Sud)"],
+  "peuples": [
+    "Afro-Américains des Sea Islands (Géorgie, Caroline du Sud)"
+  ],
   "resume": "Récit folklorique afro-américain selon lequel un groupe d'Africains réduits en esclavage, ayant conservé le pouvoir de voler ou prononçant un mot magique, se seraient envolés collectivement pour échapper à l'esclavage et retourner en Afrique plutôt que de se soumettre.",
-  "domaines": ["résistance", "liberté", "mémoire de l'esclavage"],
-  "tags": ["diaspora-survivance", "metamorphose"],
+  "description_detaillee": "Au-delà de son ancrage dans le folklore gullah geechee et sa transcription par Virginia Hamilton, le motif des Africains qui s'envolent a irrigué la littérature afro-américaine contemporaine bien au-delà du genre du conte pour enfants : le roman 'Song of Solomon' (1977) de Toni Morrison en fait une métaphore centrale de la quête d'identité et de liberté de son protagoniste, prolongeant la portée symbolique du récit folklorique originel dans le champ de la littérature adulte consacrée.",
+  "domaines": [
+    "résistance",
+    "liberté",
+    "mémoire de l'esclavage"
+  ],
+  "tags": [
+    "diaspora-survivance",
+    "metamorphose"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

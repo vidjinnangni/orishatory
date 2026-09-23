@@ -4,10 +4,19 @@
   "variantes": [],
   "region": "diaspora",
   "categorie": "rites",
-  "peuples": ["Cubains"],
+  "peuples": [
+    "Cubains"
+  ],
   "resume": "Société secrète masculine afro-cubaine dérivée de la société léopard Ekpe/Ngbe du sud-est du Nigeria et du Cameroun (région du fleuve Cross), transmise à Cuba par des personnes réduites en esclavage originaires de cette région, structurée en loges (juegos) transmettant un savoir initiatique gradué.",
-  "domaines": ["initiation masculine", "savoir secret", "fraternité"],
-  "tags": ["initiation"],
+  "description_detaillee": "Chaque loge abakuá (juego ou potencia) reproduit une hiérarchie de titres directement empruntée à la société Ekpe d'origine (Iyamba, Mokongo, Isué, entre autres), chaque fonction correspondant à un rôle rituel et administratif précis au sein de la loge. Historiquement implantée parmi les dockers et ouvriers portuaires de La Havane et Matanzas, l'Abakuá a longtemps joué un rôle de solidarité économique et syndicale de fait, au-delà de sa seule dimension religieuse et initiatique.\n\nBien que l'institution soit restée majoritairement noire tout au long de son histoire, l'historien Ivor Miller a documenté l'existence, dès la fin du 19e siècle, de quelques cas d'initiation de Cubains blancs au sein de certaines loges, une porosité raciale limitée mais significative dans un contexte social cubain par ailleurs fortement ségrégué.",
+  "domaines": [
+    "initiation masculine",
+    "savoir secret",
+    "fraternité"
+  ],
+  "tags": [
+    "initiation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

@@ -4,17 +4,33 @@
   "variantes": [],
   "region": "diaspora",
   "categorie": "rites",
-  "peuples": ["Afro-Américains du Sud des États-Unis"],
+  "peuples": [
+    "Afro-Américains du Sud des États-Unis"
+  ],
   "resume": "Tradition de magie populaire afro-américaine, distincte des religions organisées, mêlant héritages ouest-africains, kongo, amérindiens et éléments chrétiens, centrée sur l'usage de racines, d'objets rituels et de formules pour la protection, la chance ou l'influence.",
-  "domaines": ["magie populaire", "protection", "guérison"],
-  "tags": ["divination", "diaspora-survivance"],
+  "description_detaillee": "La transmission traditionnellement orale et familiale du hoodoo a été profondément transformée au 20e siècle par l'essor d'un commerce spécialisé de vente par correspondance de racines, poudres et almanachs magiques (tels les catalogues de la maison Curio ou les 'dream books' utilisés pour interpréter les rêves à des fins de loterie clandestine), qui a élargi la diffusion de la pratique bien au-delà des cercles afro-américains d'origine tout en la commercialisant de façon croissante.\n\nCette double évolution, entre transmission communautaire ancienne et industrie contemporaine du occultisme populaire américain, complique la définition d'une pratique hoodoo 'authentique', une tension que partagent d'ailleurs plusieurs traditions afro-diasporiques face à leur exposition croissante au marché.",
+  "domaines": [
+    "magie populaire",
+    "protection",
+    "guérison"
+  ],
+  "tags": [
+    "divination",
+    "diaspora-survivance"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["high-john-the-conqueror"]
+    "entites_liees": [
+      "high-john-the-conqueror"
+    ]
   },
-  "attributs": ["racines et herbes rituelles", "mojo bags (sachets porte-bonheur)", "poudre de brique rouge"],
+  "attributs": [
+    "racines et herbes rituelles",
+    "mojo bags (sachets porte-bonheur)",
+    "poudre de brique rouge"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Pratique toujours vivante dans certaines régions du Sud des États-Unis, avec une diffusion commerciale croissante (boutiques spécialisées, contenus en ligne) qui a partiellement transformé sa transmission traditionnelle orale et familiale.",
   "sources": [

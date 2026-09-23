@@ -4,15 +4,26 @@
   "variantes": [],
   "region": "diaspora",
   "categorie": "creatures",
-  "peuples": ["Haïtiens (vodou)"],
+  "peuples": [
+    "Haïtiens (vodou)"
+  ],
   "resume": "Esprit malveillant du vodou haïtien pouvant se métamorphoser en divers animaux (chien noir, chat, porc), envoyé par un bokor pour nuire à une victime désignée, distinct des loa qui sont vénérés plutôt que redoutés.",
-  "domaines": ["sorcellerie", "métamorphose", "malveillance"],
-  "tags": ["metamorphose"],
+  "description_detaillee": "La croyance au baka s'accompagne traditionnellement d'une explication sociale précise : un enrichissement soudain et inexpliqué d'un voisin est parfois attribué au service d'un baka obtenu par un pacte avec un bokor, offrant un cadre culturel pour exprimer et gérer les tensions et les jalousies économiques au sein d'une communauté rurale.\n\nLa présence historique de récits européens de loups-garous dans la Saint-Domingue coloniale française a pu contribuer, selon certains folkloristes, à façonner certains traits du baka contemporain par contact culturel, sans que cette figure perde pour autant son ancrage principal dans les cosmologies religieuses ouest et centre-africaines transmises par le vodou.",
+  "domaines": [
+    "sorcellerie",
+    "métamorphose",
+    "malveillance"
+  ],
+  "tags": [
+    "metamorphose"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["zombi"]
+    "entites_liees": [
+      "zombi"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

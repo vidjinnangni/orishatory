@@ -4,17 +4,30 @@
   "variantes": [],
   "region": "diaspora",
   "categorie": "rites",
-  "peuples": ["Surinamiens"],
+  "peuples": [
+    "Surinamiens"
+  ],
   "resume": "Religion afro-surinamaise combinant des éléments ouest-africains et centre-africains, structurée autour de familles d'esprits (winti) invoqués par possession rituelle, chant et danse, pour la guérison et la résolution de conflits.",
-  "domaines": ["possession", "guérison", "esprits ancestraux"],
-  "tags": ["divination", "diaspora-survivance"],
+  "description_detaillee": "Le panthéon winti organise ses esprits en catégories fonctionnelles héritées de plusieurs traditions religieuses ouest et centre-africaines : les esprits kromanti, guerriers et protecteurs, les esprits ampuku, associés à la forêt, les esprits watramama, esprits aquatiques directement apparentés à Mami Wata, et les esprits leba, gardiens des carrefours et de la communication rituelle, dans une filiation directe avec Legba/Èṣù. Cette organisation en familles fonctionnelles distinctes, plutôt qu'un panthéon unifié sous une théologie centrale, reflète la diversité des origines régionales des personnes africaines réduites en esclavage au Suriname.",
+  "domaines": [
+    "possession",
+    "guérison",
+    "esprits ancestraux"
+  ],
+  "tags": [
+    "divination",
+    "diaspora-survivance"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["tambours apinti", "offrandes rituelles"],
+  "attributs": [
+    "tambours apinti",
+    "offrandes rituelles"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Officiellement reconnue et pratiquée ouvertement au Suriname depuis la fin du 20e siècle, après une longue période de répression coloniale néerlandaise.",
   "sources": [

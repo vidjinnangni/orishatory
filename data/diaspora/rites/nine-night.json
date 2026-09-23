@@ -4,10 +4,20 @@
   "variantes": [],
   "region": "diaspora",
   "categorie": "rites",
-  "peuples": ["Jamaïcains"],
+  "peuples": [
+    "Jamaïcains"
+  ],
   "resume": "Veillée funéraire jamaïcaine traditionnelle se déroulant sur neuf nuits après un décès, combinant deuil, chants, jeux et repas collectifs, destinée à accompagner l'esprit du défunt dans son passage vers l'au-delà avant qu'il ne quitte définitivement le monde des vivants.",
-  "domaines": ["funérailles", "deuil communautaire", "passage vers l'au-delà"],
-  "tags": ["mort-au-dela", "ancetres"],
+  "description_detaillee": "La durée de neuf nuits repose sur la croyance selon laquelle l'esprit du défunt (duppy) demeure à proximité du foyer pendant cette période avant de quitter définitivement le monde des vivants ; l'ambiance de la veillée, faite de chants, de jeux et de rires plutôt que de deuil silencieux, viserait à s'assurer que ce départ se fasse dans de bonnes dispositions, un duppy mécontent étant réputé susceptible de revenir troubler sa famille.\n\nCette approche du deuil par la célébration collective et le rire, plutôt que par le seul recueillement, distingue nettement le nine night des formes de deuil chrétien plus austères introduites par la colonisation, tout en coexistant souvent avec elles dans la pratique funéraire jamaïcaine contemporaine.",
+  "domaines": [
+    "funérailles",
+    "deuil communautaire",
+    "passage vers l'au-delà"
+  ],
+  "tags": [
+    "mort-au-dela",
+    "ancetres"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
