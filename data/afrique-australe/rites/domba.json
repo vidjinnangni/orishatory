@@ -1,20 +1,35 @@
 {
   "id": "domba",
   "nom": "Domba",
-  "variantes": ["Danse du python"],
+  "variantes": [
+    "Danse du python"
+  ],
   "region": "afrique-australe",
   "categorie": "rites",
-  "peuples": ["Venda"],
+  "peuples": [
+    "Venda"
+  ],
   "resume": "Cérémonie d'initiation venda pour les jeunes filles nubiles, marquée par une danse collective en ligne ondulante évoquant le mouvement d'un python, symbolisant la fertilité et le passage à l'âge adulte.",
-  "domaines": ["initiation", "fertilité", "passage à l'âge adulte"],
-  "tags": ["initiation", "terre-fertilite"],
+  "description_detaillee": "La danse domba proprement dite exige des participantes qu'elles avancent en file continue, chacune tenant la personne qui la précède, formant une chaîne humaine ondulante censée évoquer le mouvement d'un python géant. Au-delà de la seule reconnaissance du passage à l'âge adulte, l'accomplissement du domba constitue une annonce publique et socialement reconnue de l'éligibilité au mariage de la jeune fille concernée.",
+  "domaines": [
+    "initiation",
+    "fertilité",
+    "passage à l'âge adulte"
+  ],
+  "tags": [
+    "initiation",
+    "terre-fertilite"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["danse en ligne ondulante", "tambours domba"],
+  "attributs": [
+    "danse en ligne ondulante",
+    "tambours domba"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Pratiqué encore dans certaines communautés venda d'Afrique du Sud contemporaine, bien que sous des formes parfois raccourcies par rapport à sa durée traditionnelle de plusieurs mois.",
   "sources": [

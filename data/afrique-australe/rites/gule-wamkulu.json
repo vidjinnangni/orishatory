@@ -4,17 +4,31 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "rites",
-  "peuples": ["Chewa"],
+  "peuples": [
+    "Chewa"
+  ],
   "resume": "Société secrète masquée chewa (Nyau) organisant des danses rituelles lors de funérailles, initiations et cérémonies communautaires, où des masques représentant esprits, animaux et figures satiriques incarnent la médiation entre les vivants et les morts.",
-  "domaines": ["mascarade", "funérailles", "médiation avec les morts"],
-  "tags": ["ancetres", "mort-au-dela", "initiation"],
+  "description_detaillee": "Le répertoire des masques nyau a évolué au fil du temps pour intégrer des figures satiriques inspirées de l'histoire coloniale et contemporaine, comme des représentations caricaturales d'administrateurs européens, d'automobiles ou d'avions, démontrant la capacité de cette tradition à absorber et commenter les bouleversements historiques plutôt qu'à demeurer figée dans un répertoire strictement ancestral. Les techniques de fabrication des masques restent traditionnellement transmises dans le plus grand secret aux seuls hommes initiés à la société.",
+  "domaines": [
+    "mascarade",
+    "funérailles",
+    "médiation avec les morts"
+  ],
+  "tags": [
+    "ancetres",
+    "mort-au-dela",
+    "initiation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["masques sculptés (nyau) et costumes de fibres", "danse acrobatique"],
+  "attributs": [
+    "masques sculptés (nyau) et costumes de fibres",
+    "danse acrobatique"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Inscrit au patrimoine culturel immatériel de l'UNESCO en 2005 ; pratiqué au Malawi, en Zambie et au Mozambique.",
   "sources": [

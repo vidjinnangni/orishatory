@@ -4,15 +4,26 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "heros",
-  "peuples": ["Shona"],
+  "peuples": [
+    "Shona"
+  ],
   "resume": "Esprit-médium shona et titre porté par plusieurs prêtresses successives, dont la plus connue historiquement, Charwe Nyakasikana, dirigea une résistance armée contre la colonisation britannique lors de la première guerre Chimurenga (1896-1897) avant d'être exécutée par les autorités coloniales.",
-  "domaines": ["résistance anticoloniale", "prophétie", "esprit-médium"],
-  "tags": ["divination"],
+  "description_detaillee": "Selon plusieurs témoignages rapportés, les derniers mots attribués à Charwe Nyakasikana avant son exécution en 1898 auraient annoncé que ses os se relèveraient un jour pour continuer la lutte ('mapfihwa angu achamuka'), une formule reprise près d'un siècle plus tard comme cri de ralliement par les combattants de la guerre de libération du Zimbabwe des années 1970, offrant un exemple frappant de la façon dont une parole attribuée à une figure historique peut acquérir une seconde vie politique bien après sa mort.",
+  "domaines": [
+    "résistance anticoloniale",
+    "prophétie",
+    "esprit-médium"
+  ],
+  "tags": [
+    "divination"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["chaminuka"]
+    "entites_liees": [
+      "chaminuka"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

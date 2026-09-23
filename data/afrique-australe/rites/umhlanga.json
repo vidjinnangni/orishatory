@@ -4,10 +4,20 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "rites",
-  "peuples": ["Zulu"],
+  "peuples": [
+    "Zulu"
+  ],
   "resume": "Cérémonie annuelle zulu où des dizaines de milliers de jeunes filles célibataires présentent des roseaux coupés au roi zulu dans le cadre d'un rite célébrant la chasteté, l'unité nationale et le respect de la royauté.",
-  "domaines": ["chasteté", "unité nationale", "royauté"],
-  "tags": ["royaute-sacree", "initiation"],
+  "description_detaillee": "L'historienne Daphna Golan a montré que la forme actuelle et l'ampleur spectaculaire de l'umhlanga contemporain résultent largement d'une relance délibérée de la cérémonie en 1984 sous l'impulsion du roi zulu Goodwill Zwelithini, après une période de déclin relatif de la pratique : un exemple documenté de la manière dont une tradition présentée comme immémoriale peut en réalité avoir été activement reconstruite et amplifiée au 20e siècle plutôt que transmise sans interruption depuis les temps précoloniaux.",
+  "domaines": [
+    "chasteté",
+    "unité nationale",
+    "royauté"
+  ],
+  "tags": [
+    "royaute-sacree",
+    "initiation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

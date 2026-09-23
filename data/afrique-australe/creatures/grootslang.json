@@ -4,9 +4,16 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "creatures",
-  "peuples": ["folklore afrikaner et khoikhoi du Cap"],
+  "peuples": [
+    "folklore afrikaner et khoikhoi du Cap"
+  ],
   "resume": "Créature légendaire hybride, mi-éléphant mi-serpent, censée habiter une grotte près de Richtersveld (Afrique du Sud) et amasser un trésor de pierres précieuses. Syncrétise des motifs khoikhoi et des récits coloniaux afrikaners ultérieurs.",
-  "domaines": ["trésor", "grotte", "hybridation"],
+  "description_detaillee": "Une variante plus tardive du récit, teintée d'influences chrétiennes coloniales, affirme que Dieu, jugeant la créature originelle trop puissante et dangereuse à la fois par la force de l'éléphant et le venin du serpent réunis en un seul être, l'aurait scindée en deux espèces distinctes, l'éléphant conservant la mémoire et l'intelligence, le serpent le venin ; seul un unique grootslang aurait échappé à cette division et continuerait de hanter sa grotte du Richtersveld, expliquant à la fois l'origine des deux animaux modernes et la survivance isolée du monstre originel.",
+  "domaines": [
+    "trésor",
+    "grotte",
+    "hybridation"
+  ],
   "tags": [],
   "genealogie": {
     "parents": [],
@@ -14,7 +21,10 @@
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["corps de serpent", "tête et défenses d'éléphant"],
+  "attributs": [
+    "corps de serpent",
+    "tête et défenses d'éléphant"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

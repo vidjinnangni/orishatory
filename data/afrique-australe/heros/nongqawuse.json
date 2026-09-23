@@ -4,10 +4,19 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "heros",
-  "peuples": ["Xhosa"],
+  "peuples": [
+    "Xhosa"
+  ],
   "resume": "Jeune prophétesse xhosa dont les visions annoncèrent en 1856 qu'un sacrifice massif du bétail et des récoltes du peuple xhosa provoquerait la résurrection des ancêtres et l'expulsion des colons britanniques. Le mouvement qu'elle inspira eut des conséquences catastrophiques.",
-  "domaines": ["prophétie", "sacrifice", "catastrophe collective"],
-  "tags": ["divination"],
+  "description_detaillee": "Nongqawuse n'était encore qu'une adolescente au moment de ses visions initiales en 1856. Après l'échec catastrophique du mouvement qu'elle avait involontairement déclenché, elle vécut le reste de son existence dans un relatif anonymat, sa vie ultérieure demeurant peu documentée par les sources historiques disponibles, contraste frappant avec l'ampleur des conséquences historiques attribuées à ses prophéties de jeunesse.",
+  "domaines": [
+    "prophétie",
+    "sacrifice",
+    "catastrophe collective"
+  ],
+  "tags": [
+    "divination"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
@@ -15,7 +24,9 @@
     "entites_liees": []
   },
   "attributs": [],
-  "recits_associes": ["mouvement-nongqawuse"],
+  "recits_associes": [
+    "mouvement-nongqawuse"
+  ],
   "culte_contemporain": "",
   "sources": [
     "Peires, J.B. (1989). The Dead Will Arise: Nongqawuse and the Great Xhosa Cattle-Killing Movement of 1856-7",

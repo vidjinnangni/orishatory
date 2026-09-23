@@ -4,15 +4,27 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "deites",
-  "peuples": ["Chewa", "Nyanja"],
+  "peuples": [
+    "Chewa",
+    "Nyanja"
+  ],
   "resume": "Concept de divinité suprême chez les Chewa et Nyanja (Malawi, Zambie, Mozambique), source lointaine de la création approchée surtout via les esprits ancestraux et les cultes territoriaux comme celui de Mbona.",
-  "domaines": ["création", "transcendance", "ordre cosmique"],
-  "tags": ["creation"],
+  "description_detaillee": "Le terme Mulungu, ou des variantes phonétiquement proches, se retrouve dans un ensemble remarquablement étendu de langues bantoues d'Afrique orientale et australe, des Chewa et Nyanja du Malawi aux Yao de Tanzanie et à certaines variantes swahilies, ce qui en fait l'un des termes désignant une divinité suprême les plus largement partagés sur le continent, bien au-delà des frontières ethniques et politiques contemporaines.",
+  "domaines": [
+    "création",
+    "transcendance",
+    "ordre cosmique"
+  ],
+  "tags": [
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["mbona"]
+    "entites_liees": [
+      "mbona"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

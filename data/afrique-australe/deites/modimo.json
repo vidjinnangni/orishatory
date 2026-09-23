@@ -4,10 +4,21 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "deites",
-  "peuples": ["Sotho", "Tswana"],
+  "peuples": [
+    "Sotho",
+    "Tswana"
+  ],
   "resume": "Concept de divinité suprême dans la pensée sotho-tswana, entité abstraite et lointaine associée à la création et à l'ordre moral, rarement représentée sous une forme anthropomorphe et approchée surtout via les esprits ancestraux (badimo).",
-  "domaines": ["création", "ordre moral", "transcendance"],
-  "tags": ["creation", "ancetres"],
+  "description_detaillee": "La tradition sotho-tswana distingue Modimo, entité lointaine et abstraite, des badimo, esprits ancestraux beaucoup plus directement sollicités dans la vie religieuse quotidienne. Les spécialistes rituels de la pluie (parfois traduits par 'docteurs de la pluie'), consultés en cas de sécheresse, s'inscrivent dans cette même tradition religieuse sotho-tswana élargie ; la dynastie des reines de la pluie lobedu (Modjadji), déjà présente dans le codex, en constitue l'expression dynastique et royale la plus documentée.",
+  "domaines": [
+    "création",
+    "ordre moral",
+    "transcendance"
+  ],
+  "tags": [
+    "creation",
+    "ancetres"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

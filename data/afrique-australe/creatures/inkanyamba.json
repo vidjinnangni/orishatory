@@ -4,10 +4,20 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "creatures",
-  "peuples": ["Zulu"],
+  "peuples": [
+    "Zulu"
+  ],
   "resume": "Serpent géant associé aux tornades et aux chutes d'eau dans la croyance zulu contemporaine, réputé habiter des bassins profonds comme celui des chutes Howick, et responsable des tourbillons destructeurs observés en Afrique du Sud.",
-  "domaines": ["tornade", "chutes d'eau", "destruction"],
-  "tags": ["eau", "foudre-orage"],
+  "description_detaillee": "L'association entre un serpent gigantesque et des phénomènes météorologiques violents comme les tornades trouve des échos structurels, sans qu'un lien historique direct soit établi, dans d'autres traditions à travers le monde associant des créatures serpentiformes aux forces destructrices de l'eau et du vent, comme le serpent arc-en-ciel de certaines cosmologies aborigènes australiennes.",
+  "domaines": [
+    "tornade",
+    "chutes d'eau",
+    "destruction"
+  ],
+  "tags": [
+    "eau",
+    "foudre-orage"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

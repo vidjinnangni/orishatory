@@ -1,20 +1,35 @@
 {
   "id": "rain-bull",
   "nom": "Le taureau de pluie",
-  "variantes": ["!Khwa"],
+  "variantes": [
+    "!Khwa"
+  ],
   "region": "afrique-australe",
   "categorie": "creatures",
-  "peuples": ["San"],
+  "peuples": [
+    "San"
+  ],
   "resume": "Créature mythique san associée à l'origine de la pluie, souvent représentée dans l'art rupestre san, capturée et 'menée' symboliquement par les chamanes en transe pour provoquer les précipitations lors de rituels de danse.",
-  "domaines": ["pluie", "transe chamanique", "art rupestre"],
-  "tags": ["eau"],
+  "description_detaillee": "Selon l'interprétation chamanique proposée par David Lewis-Williams, plusieurs panneaux rupestres représentant des personnages humains tenant une corde reliée à un animal à cornes illustreraient précisément cette capture symbolique du taureau de pluie par des chamanes en transe, sa sueur ou son sang, une fois versé, se transformant alors en précipitations bienfaisantes pour la communauté.",
+  "domaines": [
+    "pluie",
+    "transe chamanique",
+    "art rupestre"
+  ],
+  "tags": [
+    "eau"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["kaggen"]
+    "entites_liees": [
+      "kaggen"
+    ]
   },
-  "attributs": ["forme bovine ou hybride selon les représentations rupestres"],
+  "attributs": [
+    "forme bovine ou hybride selon les représentations rupestres"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Motif central de l'art rupestre san (peintures rupestres du Drakensberg notamment), aujourd'hui étudié comme témoignage majeur de la cosmologie chamanique san précoloniale.",
   "sources": [

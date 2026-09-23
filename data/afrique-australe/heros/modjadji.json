@@ -4,17 +4,30 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "heros",
-  "peuples": ["Lobedu (Balobedu)"],
+  "peuples": [
+    "Lobedu (Balobedu)"
+  ],
   "resume": "Titre porté par une lignée ininterrompue de reines lobedu réputées capables de contrôler la pluie, en Afrique du Sud. La dynastie, toujours active aujourd'hui, aurait pour origine légendaire une princesse ayant fui le royaume karanga avec des secrets rituels de fabrication de la pluie.",
-  "domaines": ["pluie", "royauté féminine", "secret rituel"],
-  "tags": ["eau", "royaute-sacree"],
+  "description_detaillee": "Particularité notable de son statut, la reine de la pluie ne se marie traditionnellement pas selon les termes ordinaires d'une union politique : ses partenaires, choisis parmi des hommes de sa parenté ou des candidats spécialement désignés, ne deviennent jamais formellement rois ou consorts égaux en rang, ce qui préserve son statut singulier de souveraine sans partage du pouvoir dynastique avec un époux.",
+  "domaines": [
+    "pluie",
+    "royauté féminine",
+    "secret rituel"
+  ],
+  "tags": [
+    "eau",
+    "royaute-sacree"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["secrets rituels de fabrication de la pluie", "transmission matrilinéaire du titre"],
+  "attributs": [
+    "secrets rituels de fabrication de la pluie",
+    "transmission matrilinéaire du titre"
+  ],
   "recits_associes": [],
   "culte_contemporain": "La dynastie Modjadji reste active en Afrique du Sud contemporaine, ayant inspiré (de façon largement romancée) le personnage d'Ayesha dans le roman 'She' de H. Rider Haggard.",
   "sources": [

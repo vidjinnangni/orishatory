@@ -1,18 +1,31 @@
 {
   "id": "nomkhubulwana",
   "nom": "Nomkhubulwana",
-  "variantes": ["Inkosazana"],
+  "variantes": [
+    "Inkosazana"
+  ],
   "region": "afrique-australe",
   "categorie": "deites",
-  "peuples": ["Zulu"],
+  "peuples": [
+    "Zulu"
+  ],
   "resume": "Déesse zulu de l'arc-en-ciel, de l'agriculture et de la protection des jeunes filles non mariées, distincte de Mbaba Mwana Waresa bien que partageant certains domaines. Des rites agricoles annuels menés exclusivement par des femmes lui étaient traditionnellement dédiés.",
-  "domaines": ["arc-en-ciel", "agriculture", "protection des jeunes filles"],
-  "tags": ["terre-fertilite"],
+  "description_detaillee": "Les rites agricoles annuels dédiés à Nomkhubulwana, documentés notamment par l'ethnographe Axel-Ivar Berglund, impliquaient traditionnellement la préparation d'un champ rituel entièrement pris en charge par des femmes et des jeunes filles, à l'exclusion de toute présence masculine, dans le cadre d'une cérémonie destinée à s'assurer sa bienveillance pour la fertilité des récoltes de l'année à venir.",
+  "domaines": [
+    "arc-en-ciel",
+    "agriculture",
+    "protection des jeunes filles"
+  ],
+  "tags": [
+    "terre-fertilite"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["mbaba-mwana-waresa"]
+    "entites_liees": [
+      "mbaba-mwana-waresa"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

@@ -4,15 +4,26 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "heros",
-  "peuples": ["Ndebele"],
+  "peuples": [
+    "Ndebele"
+  ],
   "resume": "Ancien général zulu devenu fondateur du royaume ndebele après une rupture avec Shaka, menant son peuple à travers plusieurs migrations forcées avant de s'établir dans l'actuel Zimbabwe, où sa lignée continue d'être révérée.",
-  "domaines": ["migration", "fondation royale", "rupture dynastique"],
-  "tags": ["royaute-sacree"],
+  "description_detaillee": "Le royaume fondé par Mzilikazi, qui deviendra le Matabeleland, s'est constitué en intégrant progressivement un grand nombre de captifs et de réfugiés d'origine sotho-tswana et shona au sein même de la noblesse d'origine zulu, donnant naissance à une identité ndebele composite plutôt qu'à la simple transplantation d'une population zulu homogène sur un nouveau territoire.",
+  "domaines": [
+    "migration",
+    "fondation royale",
+    "rupture dynastique"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["shaka-zulu"]
+    "entites_liees": [
+      "shaka-zulu"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

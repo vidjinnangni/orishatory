@@ -4,10 +4,20 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "creatures",
-  "peuples": ["Zulu", "Xhosa"],
+  "peuples": [
+    "Zulu",
+    "Xhosa"
+  ],
   "resume": "Être surnaturel aquatique associé aux rivières, décrit tantôt comme un serpent gigantesque tantôt comme une créature mi-femme mi-poisson, capable d'apporter richesse à qui parvient à établir un pacte avec elle mais aussi de noyer les imprudents.",
-  "domaines": ["eau", "richesse", "danger"],
-  "tags": ["eau"],
+  "description_detaillee": "L'un des épisodes contemporains les plus médiatisés concernant Mamlambo remonte à 1997, dans la province du Cap-Oriental, où la mort d'un jeune homme retrouvé dans une rivière fut largement attribuée par la presse et la population locale à une rencontre avec la créature, donnant lieu à une intense couverture médiatique qui illustre la persistance de cette croyance dans l'Afrique du Sud contemporaine, bien au-delà des seuls récits ruraux traditionnels.",
+  "domaines": [
+    "eau",
+    "richesse",
+    "danger"
+  ],
+  "tags": [
+    "eau"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

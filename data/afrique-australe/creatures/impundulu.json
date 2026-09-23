@@ -1,20 +1,36 @@
 {
   "id": "impundulu",
   "nom": "Impundulu",
-  "variantes": ["Oiseau-tonnerre", "Ihlolo (variante xhosa)"],
+  "variantes": [
+    "Oiseau-tonnerre",
+    "Ihlolo (variante xhosa)"
+  ],
   "region": "afrique-australe",
   "categorie": "creatures",
-  "peuples": ["Xhosa", "Zulu"],
+  "peuples": [
+    "Xhosa",
+    "Zulu"
+  ],
   "resume": "Créature surnaturelle en forme d'oiseau associée à la foudre, censée servir de familier à des sorcières et se nourrir de sang humain. Sa présence est traditionnellement invoquée pour expliquer des morts soudaines ou des maladies inexpliquées.",
-  "domaines": ["foudre", "sorcellerie", "maladie"],
-  "tags": ["foudre-orage"],
+  "description_detaillee": "Selon les récits traditionnels, l'impundulu ne surgirait pas spontanément mais serait transmis, souvent au sein d'une même lignée féminine, d'une femme âgée accusée de sorcellerie à une parente plus jeune, un mécanisme qui a historiquement alimenté des accusations de sorcellerie inscrites dans la durée au sein des familles elles-mêmes plutôt que dirigées uniquement contre des étrangers à la communauté.",
+  "domaines": [
+    "foudre",
+    "sorcellerie",
+    "maladie"
+  ],
+  "tags": [
+    "foudre-orage"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["plumage noir et blanc", "capacité de métamorphose en humain"],
+  "attributs": [
+    "plumage noir et blanc",
+    "capacité de métamorphose en humain"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Les accusations liées à l'impundulu ont historiquement contribué à des violences réelles contre des femmes accusées de sorcellerie en Afrique australe, un phénomène qui persiste par endroits.",
   "sources": [

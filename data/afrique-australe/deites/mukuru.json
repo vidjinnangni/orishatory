@@ -4,15 +4,27 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "deites",
-  "peuples": ["Herero"],
+  "peuples": [
+    "Herero"
+  ],
   "resume": "Dieu suprême herero (Namibie), associé aux ancêtres fondateurs et au feu sacré, dont la présence est maintenue au sein de chaque communauté par le foyer rituel okuruwo, entretenu en continu par un gardien désigné.",
-  "domaines": ["création", "ancestralité", "feu sacré"],
-  "tags": ["creation", "ancetres"],
+  "description_detaillee": "La centralité du foyer sacré okuruwo dans le culte de Mukuru a pris une résonance particulière après le génocide perpétré par les autorités coloniales allemandes contre les Herero et les Nama entre 1904 et 1908, l'un des événements les plus meurtriers de l'histoire coloniale africaine : la transmission continue du feu rituel et de la mémoire ancestrale qui lui est associée a représenté, pour les survivants et leurs descendants, un acte de continuité culturelle face à une tentative d'anéantissement quasi total du peuple herero.",
+  "domaines": [
+    "création",
+    "ancestralité",
+    "feu sacré"
+  ],
+  "tags": [
+    "creation",
+    "ancetres"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["okuruwo"]
+    "entites_liees": [
+      "okuruwo"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

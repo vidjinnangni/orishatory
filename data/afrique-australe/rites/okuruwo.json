@@ -4,17 +4,31 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "rites",
-  "peuples": ["Herero"],
+  "peuples": [
+    "Herero"
+  ],
   "resume": "Foyer sacré entretenu en continu au sein de chaque homestead herero, symbolisant le lien ininterrompu avec les ancêtres et Mukuru, sous la responsabilité d'un gardien du feu désigné au sein de la famille.",
-  "domaines": ["feu sacré", "ancestralité", "continuité familiale"],
-  "tags": ["ancetres"],
+  "description_detaillee": "L'emplacement du foyer okuruwo entre l'habitation familiale et l'enclos à bétail n'est pas anodin : il relie symboliquement la vénération des ancêtres à la prospérité du troupeau, élément central de la vie économique et culturelle herero. La règle veut traditionnellement que ce feu ne s'éteigne jamais, exigence qui a représenté un défi particulier lors des périodes de déplacement forcé qu'a connues le peuple herero au cours de son histoire.",
+  "domaines": [
+    "feu sacré",
+    "ancestralité",
+    "continuité familiale"
+  ],
+  "tags": [
+    "ancetres"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["mukuru"]
+    "entites_liees": [
+      "mukuru"
+    ]
   },
-  "attributs": ["feu perpétuel", "emplacement fixe entre l'habitation et l'enclos à bétail"],
+  "attributs": [
+    "feu perpétuel",
+    "emplacement fixe entre l'habitation et l'enclos à bétail"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

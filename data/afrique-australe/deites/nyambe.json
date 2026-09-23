@@ -4,10 +4,19 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "deites",
-  "peuples": ["Lozi"],
+  "peuples": [
+    "Lozi"
+  ],
   "resume": "Dieu créateur lozi (plaine inondable du Zambèze, Zambie), à l'origine du monde et des premiers hommes, ayant fui vers le ciel après que les humains eurent découvert le secret de fabriquer des armes capables de le menacer.",
-  "domaines": ["création", "ciel", "retrait divin"],
-  "tags": ["creation"],
+  "description_detaillee": "Le récit lozi précise généralement que ce sont les humains eux-mêmes, par leur ingéniosité technique croissante (la fabrication d'armes capables d'atteindre les hauteurs où résidait Nyambe), qui contraignirent le dieu à se retirer définitivement au ciel, structurant un récit où le progrès technique humain apparaît directement comme la cause de la rupture avec le divin plutôt que comme un simple développement neutre.",
+  "domaines": [
+    "création",
+    "ciel",
+    "retrait divin"
+  ],
+  "tags": [
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

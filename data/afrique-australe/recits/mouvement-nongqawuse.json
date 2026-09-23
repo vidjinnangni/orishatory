@@ -4,15 +4,27 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "recits",
-  "peuples": ["Xhosa"],
+  "peuples": [
+    "Xhosa"
+  ],
   "resume": "Épisode historique et prophétique au cours duquel des dizaines de milliers de Xhosa, suivant les visions de Nongqawuse, sacrifièrent leur bétail et détruisirent leurs récoltes dans l'attente d'une résurrection ancestrale promise qui ne survint jamais, provoquant une famine dévastatrice.",
-  "domaines": ["prophétie", "sacrifice collectif", "famine"],
-  "tags": ["divination", "mort-au-dela"],
+  "description_detaillee": "Les estimations historiques, notamment celles établies par l'historien Jeff Peires dans son étude de référence, évaluent à plusieurs dizaines de milliers le nombre de Xhosa morts de faim dans les mois suivant le sacrifice massif du bétail, soit approximativement un tiers de la population xhosa de l'époque, entraînant par ailleurs un exode massif de survivants vers l'économie coloniale du Cap en quête de travail salarié, transformation économique et sociale profonde et durable dont les effets ont dépassé de loin le seul épisode religieux initial.",
+  "domaines": [
+    "prophétie",
+    "sacrifice collectif",
+    "famine"
+  ],
+  "tags": [
+    "divination",
+    "mort-au-dela"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["nongqawuse"]
+    "entites_liees": [
+      "nongqawuse"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

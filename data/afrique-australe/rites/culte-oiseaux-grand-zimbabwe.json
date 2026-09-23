@@ -4,17 +4,31 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "rites",
-  "peuples": ["Shona"],
+  "peuples": [
+    "Shona"
+  ],
   "resume": "Pratique spirituelle associée aux huit sculptures d'oiseaux en stéatite retrouvées sur le site du Grand Zimbabwe (11e-15e siècle), interprétées comme représentant des esprits ancestraux royaux ou des messagers entre Mwari et les rois, jouant un rôle central dans la légitimation du pouvoir royal shona.",
-  "domaines": ["royauté", "ancestralité", "légitimité politique"],
-  "tags": ["royaute-sacree", "ancetres"],
+  "description_detaillee": "Les huit oiseaux de stéatite retrouvés sur le site présentent chacun des variations stylistiques distinctes, ce qui laisse penser aux archéologues qu'ils étaient individuellement commandités pour des dirigeants ou des lignages royaux précis plutôt que produits de façon uniforme. L'un d'eux, retiré du site à l'époque coloniale et longtemps conservé dans la propriété de Cecil Rhodes en Afrique du Sud, ne fut restitué au Zimbabwe qu'en 1981, soit après l'indépendance du pays, épisode emblématique des débats sur la restitution du patrimoine colonial africain.",
+  "domaines": [
+    "royauté",
+    "ancestralité",
+    "légitimité politique"
+  ],
+  "tags": [
+    "royaute-sacree",
+    "ancetres"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["mwari"]
+    "entites_liees": [
+      "mwari"
+    ]
   },
-  "attributs": ["sculptures d'oiseaux en stéatite (soapstone birds)"],
+  "attributs": [
+    "sculptures d'oiseaux en stéatite (soapstone birds)"
+  ],
   "recits_associes": [],
   "culte_contemporain": "L'un de ces oiseaux figure sur le drapeau et les armoiries du Zimbabwe contemporain, symbole national fort. La plupart des sculptures originales, pillées à l'époque coloniale, ont fait l'objet de demandes de restitution, plusieurs ayant été rendues au pays depuis les années 1980.",
   "sources": [

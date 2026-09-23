@@ -4,10 +4,19 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "heros",
-  "peuples": ["Pedi (Bapedi)"],
+  "peuples": [
+    "Pedi (Bapedi)"
+  ],
   "resume": "Roi pedi du 19e siècle réputé pour sa résistance prolongée face aux incursions boers puis britanniques dans le nord-est de l'actuelle Afrique du Sud, capturé après un long siège en 1879, devenu depuis une figure de la mémoire de résistance sud-africaine.",
-  "domaines": ["résistance", "royauté", "défense territoriale"],
-  "tags": ["royaute-sacree"],
+  "description_detaillee": "La résistance de Sekhukhune s'appuyait notamment sur l'acquisition d'armes à feu obtenues par le commerce, et son bastion fortifié de Tsate, niché dans un relief montagneux difficile d'accès, ne put finalement être investi qu'au prix d'une coalition militaire combinant forces britanniques et alliés africains locaux en 1879, témoignant d'une résistance dotée d'une réelle sophistication stratégique plutôt que d'une simple opposition vouée d'avance à l'échec.",
+  "domaines": [
+    "résistance",
+    "royauté",
+    "défense territoriale"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

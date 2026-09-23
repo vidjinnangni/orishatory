@@ -4,15 +4,26 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "creatures",
-  "peuples": ["Zulu"],
+  "peuples": [
+    "Zulu"
+  ],
   "resume": "Cadavre ranimé et asservi par un sorcier (umthakathi) dans la croyance zulu, réduit au silence par une incision à la langue, envoyé de nuit pour espionner ou nuire à des victimes désignées.",
-  "domaines": ["sorcellerie", "mort ranimée", "espionnage nocturne"],
-  "tags": ["mort-au-dela"],
+  "description_detaillee": "Contrairement au tokoloshe, esprit de petite taille sans origine humaine précise, l'umkhovu est spécifiquement défini comme le corps ranimé d'une personne autrefois vivante, ce qui en fait une figure plus proche, dans sa logique interne, d'une forme de mort-vivant asservi que d'un esprit malicieux autonome, bien que les deux créations relèvent d'un même registre de sorcellerie zulu et soient parfois confondues dans les récits populaires contemporains.",
+  "domaines": [
+    "sorcellerie",
+    "mort ranimée",
+    "espionnage nocturne"
+  ],
+  "tags": [
+    "mort-au-dela"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["tokoloshe"]
+    "entites_liees": [
+      "tokoloshe"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

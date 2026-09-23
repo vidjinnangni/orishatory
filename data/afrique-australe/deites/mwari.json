@@ -1,20 +1,36 @@
 {
   "id": "mwari",
   "nom": "Mwari",
-  "variantes": ["Mwali"],
+  "variantes": [
+    "Mwali"
+  ],
   "region": "afrique-australe",
   "categorie": "deites",
-  "peuples": ["Shona"],
+  "peuples": [
+    "Shona"
+  ],
   "resume": "Divinité suprême shona (Zimbabwe), source de la pluie, de la fertilité et de l'ordre moral, consultée traditionnellement via un oracle vivant au sanctuaire de Njelele dans les collines de Matobo.",
-  "domaines": ["pluie", "fertilité", "ordre moral", "oracle"],
-  "tags": ["creation", "terre-fertilite", "divination"],
+  "description_detaillee": "L'oracle de Njelele repose sur un dispositif acoustique particulier : des prêtres rapportent traditionnellement entendre la voix de Mwari émaner directement d'une formation rocheuse ou d'une grotte du site, sans intervention humaine visible, une expérience documentée par plusieurs chercheurs sans qu'aucune explication naturelle n'en ait jamais été établie avec certitude. L'oracle aurait par ailleurs joué un rôle politique majeur lors du soulèvement shona et ndebele de 1896-1897 (première Chimurenga) contre la colonisation britannique, certains récits affirmant que Mwari en aurait sanctionné le déclenchement par l'intermédiaire de ses prêtres.",
+  "domaines": [
+    "pluie",
+    "fertilité",
+    "ordre moral",
+    "oracle"
+  ],
+  "tags": [
+    "creation",
+    "terre-fertilite",
+    "divination"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["sanctuaire-oracle de Njelele (collines de Matobo)"],
+  "attributs": [
+    "sanctuaire-oracle de Njelele (collines de Matobo)"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Le sanctuaire de Njelele demeure un site de pèlerinage actif au Zimbabwe contemporain, consulté notamment lors de sécheresses.",
   "sources": [
