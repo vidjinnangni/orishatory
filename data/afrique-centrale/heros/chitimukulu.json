@@ -4,10 +4,19 @@
   "variantes": [],
   "region": "afrique-centrale",
   "categorie": "heros",
-  "peuples": ["Bemba"],
+  "peuples": [
+    "Bemba"
+  ],
   "resume": "Titre et figure fondatrice légendaire de la royauté bemba (actuelle Zambie), désignant le premier chef ayant conduit la migration du peuple depuis le cœur de l'ancien empire luba jusqu'à leur territoire actuel. Fonction toujours portée par le chef suprême bemba contemporain.",
-  "domaines": ["migration", "fondation royale", "autorité suprême"],
-  "tags": ["royaute-sacree"],
+  "description_detaillee": "La succession au titre de Chitimukulu suit traditionnellement un principe matrilinéaire au sein d'un clan royal précis (le clan du Crocodile, Bena Ng'andu), les candidats éligibles étant puisés parmi un ensemble de parents masculins liés par la lignée maternelle plutôt que par filiation directe père-fils. Ce mode de transmission, qui favorise la compétition entre plusieurs prétendants légitimes au sein d'un même clan plutôt qu'une succession linéaire automatique, a structuré l'histoire politique bemba de rivalités dynastiques récurrentes tout en garantissant la continuité du pouvoir dans une même lignée sacrée.",
+  "domaines": [
+    "migration",
+    "fondation royale",
+    "autorité suprême"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
@@ -15,7 +24,9 @@
     "entites_liees": []
   },
   "attributs": [],
-  "recits_associes": ["migration-bemba"],
+  "recits_associes": [
+    "migration-bemba"
+  ],
   "culte_contemporain": "",
   "sources": [
     "Roberts, A. (1973). A History of the Bemba: Political Growth and Change in North-Eastern Zambia",

@@ -4,17 +4,30 @@
   "variantes": [],
   "region": "afrique-centrale",
   "categorie": "deites",
-  "peuples": ["Kongo"],
+  "peuples": [
+    "Kongo"
+  ],
   "resume": "Esprit-serpent de l'arc-en-ciel et des eaux dans la cosmologie kongo, associé aux sources et rivières, gardien de la fertilité et parfois redouté pour sa capacité à provoquer des inondations.",
-  "domaines": ["eau", "arc-en-ciel", "fertilité"],
-  "tags": ["eau", "terre-fertilite"],
+  "description_detaillee": "Les souverains de certains royaumes kongo historiques auraient traditionnellement cherché à s'assurer une alliance rituelle avec Mbumba Luangu et d'autres esprits des eaux, la légitimité et la prospérité du règne étant en partie subordonnées à la bienveillance de ces forces considérées comme antérieures à toute autorité humaine sur le territoire. Cette subordination du pouvoir politique à la reconnaissance d'esprits territoriaux préexistants constitue un motif récurrent des royautés sacrées d'Afrique centrale, que l'on retrouve sous une forme comparable chez les Teke voisins avec les nkira.",
+  "domaines": [
+    "eau",
+    "arc-en-ciel",
+    "fertilité"
+  ],
+  "tags": [
+    "eau",
+    "terre-fertilite"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["forme de serpent", "arc-en-ciel"],
+  "attributs": [
+    "forme de serpent",
+    "arc-en-ciel"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Des sites associés aux sources et rivières considérées comme sa demeure restent parfois traités avec un respect rituel particulier dans certaines communautés kongo.",
   "sources": [

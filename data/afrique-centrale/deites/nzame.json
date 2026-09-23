@@ -4,10 +4,19 @@
   "variantes": [],
   "region": "afrique-centrale",
   "categorie": "deites",
-  "peuples": ["Fang"],
+  "peuples": [
+    "Fang"
+  ],
   "resume": "Dieu créateur suprême dans la cosmogonie fang (Gabon, Guinée équatoriale, Cameroun), l'un des trois aspects divins (avec Mebere et Nkwa) ayant participé à la création du monde et de l'humanité.",
-  "domaines": ["création", "ciel", "ordre cosmique"],
-  "tags": ["creation"],
+  "description_detaillee": "Le processus créateur attribué à Nzame, Mebere et Nkwa n'aurait pas été immédiat : selon le récit fang, plusieurs tentatives de façonner l'être humain auraient échoué, produisant des créatures trop faibles ou trop proches de l'animalité, avant que Fam, le premier homme véritablement réussi, ne voie le jour. Cette idée d'une création humaine progressive et perfectible, plutôt qu'un acte divin immédiatement abouti, distingue le récit fang de cosmogonies où l'humanité surgit achevée dès le premier geste créateur.",
+  "domaines": [
+    "création",
+    "ciel",
+    "ordre cosmique"
+  ],
+  "tags": [
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
@@ -15,7 +24,9 @@
     "entites_liees": []
   },
   "attributs": [],
-  "recits_associes": ["creation-nzame-mebere-nkwa"],
+  "recits_associes": [
+    "creation-nzame-mebere-nkwa"
+  ],
   "culte_contemporain": "",
   "sources": [
     "Tessmann, G. (1913). Die Pangwe (étude ethnographique fang)",

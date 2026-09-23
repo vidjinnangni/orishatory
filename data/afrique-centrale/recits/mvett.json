@@ -4,9 +4,17 @@
   "variantes": [],
   "region": "afrique-centrale",
   "categorie": "recits",
-  "peuples": ["Fang", "Beti"],
+  "peuples": [
+    "Fang",
+    "Beti"
+  ],
   "resume": "Tradition épique orale fang et beti, mêlant récit chanté et instrument de musique du même nom, narrant les exploits des Immortels (Beketan) dans leur lutte contre les Mortels (Elat Osamu), transmise par des maîtres-conteurs spécialisés (mvett obiang).",
-  "domaines": ["épopée", "immortalité", "conflit héroïque"],
+  "description_detaillee": "Une performance de mvett peut s'étendre sur plusieurs heures, voire se poursuivre sur plusieurs nuits consécutives lors des grandes occasions, le maître-conteur incarnant seul, par des changements de registre vocal, la totalité des personnages de l'épopée. Si la trame générale du conflit entre Immortels et Mortels demeure reconnaissable d'une performance à l'autre, chaque récitation comporte une part d'improvisation propre au conteur, faisant de chaque exécution une œuvre à la fois traditionnelle et unique.",
+  "domaines": [
+    "épopée",
+    "immortalité",
+    "conflit héroïque"
+  ],
   "tags": [],
   "genealogie": {
     "parents": [],
@@ -14,7 +22,9 @@
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["instrument de musique à cordes (également nommé mvett)"],
+  "attributs": [
+    "instrument de musique à cordes (également nommé mvett)"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Reconnu comme patrimoine culturel majeur au Gabon et au Cameroun, avec des efforts de transmission scolaire et de documentation face au déclin du nombre de maîtres-conteurs.",
   "sources": [

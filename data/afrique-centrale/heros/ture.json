@@ -4,17 +4,28 @@
   "variantes": [],
   "region": "afrique-centrale",
   "categorie": "heros",
-  "peuples": ["Azande"],
+  "peuples": [
+    "Azande"
+  ],
   "resume": "Araignée rusée et figure de trickster centrale des contes azande (Soudan du Sud, RDC, République centrafricaine), triomphant des autres animaux et parfois des humains par la ruse, souvent au prix de conséquences imprévues pour lui-même.",
-  "domaines": ["ruse", "narration", "imprévisibilité"],
-  "tags": ["trickster"],
+  "description_detaillee": "L'anthropologue E.E. Evans-Pritchard, principal collecteur des récits de Ture, a noté que ses aventures se concluent très souvent par une humiliation ou une souffrance physique infligée au trickster lui-même en punition de sa ruse, contrairement à d'autres figures de trickster qui échappent plus systématiquement aux conséquences de leurs actes. Il a également relevé que les contes de Ture semblent avant tout destinés au plaisir de la narration chez les Azande, avec une charge moralisatrice explicite globalement moins marquée que dans d'autres traditions de trickster africaines comme celle d'Anansi.",
+  "domaines": [
+    "ruse",
+    "narration",
+    "imprévisibilité"
+  ],
+  "tags": [
+    "trickster"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["forme d'araignée"],
+  "attributs": [
+    "forme d'araignée"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

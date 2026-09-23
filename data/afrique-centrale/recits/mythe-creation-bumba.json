@@ -4,15 +4,26 @@
   "variantes": [],
   "region": "afrique-centrale",
   "categorie": "recits",
-  "peuples": ["Kuba"],
+  "peuples": [
+    "Kuba"
+  ],
   "resume": "Récit cosmogonique kuba où le dieu Bumba, seul dans les ténèbres et souffrant de maux d'estomac, vomit successivement le soleil, la lune et les étoiles, puis neuf animaux qui deviennent les ancêtres de toutes les espèces, dont l'humanité.",
-  "domaines": ["création", "cosmos", "origine des espèces"],
-  "tags": ["creation"],
+  "description_detaillee": "Le premier ethnographe occidental à avoir recueilli ce récit dans des conditions approfondies, le Britannique Emil Torday, fut aussi l'un des rares Européens de son époque admis à la cour royale kuba au début du 20e siècle, circonstance qui explique en partie la qualité et la précision inhabituelles de sa documentation par rapport à d'autres cosmogonies centre-africaines recueillies plus superficiellement à la même période. Le motif des ténèbres primordiales précédant l'acte de création, partagé avec le récit fang de Nzame, Mebere et Nkwa, illustre un trait cosmogonique répandu dans plusieurs traditions d'Afrique centrale sans qu'il faille nécessairement y voir une origine commune directe.",
+  "domaines": [
+    "création",
+    "cosmos",
+    "origine des espèces"
+  ],
+  "tags": [
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["bumba"]
+    "entites_liees": [
+      "bumba"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

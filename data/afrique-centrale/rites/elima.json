@@ -4,17 +4,29 @@
   "variantes": [],
   "region": "afrique-centrale",
   "categorie": "rites",
-  "peuples": ["Mbuti"],
+  "peuples": [
+    "Mbuti"
+  ],
   "resume": "Cérémonie mbuti célébrant les premières règles d'une jeune fille, réunissant les filles nubiles du camp dans une hutte spéciale pendant plusieurs semaines pour un apprentissage collectif encadré par les femmes plus âgées, ponctué de chants distinctifs.",
-  "domaines": ["passage à l'âge adulte", "féminité", "apprentissage collectif"],
-  "tags": ["initiation"],
+  "description_detaillee": "La cérémonie elima comporte traditionnellement un aspect ludique où les jeunes hommes du camp tentent, dans un cadre ritualisé et bon enfant, de 's'introduire' dans la hutte occupée par les filles, lesquelles se défendent collectivement par des jeux simulés et des chants moqueurs ; cette dynamique fait de l'elima non seulement un rite de passage féminin mais aussi une occasion socialement admise de rapprochement entre jeunes gens du camp, en vue de futures unions.",
+  "domaines": [
+    "passage à l'âge adulte",
+    "féminité",
+    "apprentissage collectif"
+  ],
+  "tags": [
+    "initiation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["hutte elima", "chants elima spécifiques"],
+  "attributs": [
+    "hutte elima",
+    "chants elima spécifiques"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

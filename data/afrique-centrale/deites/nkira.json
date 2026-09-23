@@ -4,10 +4,21 @@
   "variantes": [],
   "region": "afrique-centrale",
   "categorie": "deites",
-  "peuples": ["Teke"],
+  "peuples": [
+    "Teke"
+  ],
   "resume": "Catégorie d'esprits de la terre et de l'eau dans la cosmologie teke, intimement liés à la légitimité du souverain Makoko du royaume teke, dont l'investiture royale nécessitait traditionnellement leur reconnaissance rituelle.",
-  "domaines": ["terre", "eau", "légitimité royale"],
-  "tags": ["eau", "terre-fertilite", "royaute-sacree"],
+  "description_detaillee": "Certains sites naturels précis du territoire teke traditionnel, notamment des bassins et rochers associés au fleuve, étaient identifiés comme demeures particulières de nkira spécifiques, chacun lié à une portion du royaume et consulté séparément lors des cérémonies d'investiture du souverain Makoko. Cette fragmentation territoriale du sacré, où l'autorité royale doit composer avec une mosaïque d'esprits locaux plutôt qu'avec une divinité unique et centralisée, structure une bonne part de l'organisation politico-religieuse historique du royaume teke.",
+  "domaines": [
+    "terre",
+    "eau",
+    "légitimité royale"
+  ],
+  "tags": [
+    "eau",
+    "terre-fertilite",
+    "royaute-sacree"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

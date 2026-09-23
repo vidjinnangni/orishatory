@@ -1,20 +1,37 @@
 {
   "id": "chibinda-ilunga",
   "nom": "Chibinda Ilunga",
-  "variantes": ["Cibinda Ilunga"],
+  "variantes": [
+    "Cibinda Ilunga"
+  ],
   "region": "afrique-centrale",
   "categorie": "heros",
-  "peuples": ["Luba", "Lunda"],
+  "peuples": [
+    "Luba",
+    "Lunda"
+  ],
   "resume": "Prince chasseur luba légendaire qui, selon la tradition orale, épouse la reine lunda Lueji et fonde la dynastie à l'origine de l'empire lunda, incarnant la fusion entre la légitimité par la chasse et le pouvoir royal transmis par alliance.",
-  "domaines": ["royauté", "chasse", "fondation dynastique"],
-  "tags": ["royaute-sacree"],
+  "description_detaillee": "Selon la tradition, les frères de Lueji, mécontents qu'elle ait transmis le pouvoir royal à son époux étranger plutôt qu'à l'un d'eux, auraient quitté le royaume pour fonder leurs propres États, essaimant ainsi le modèle de royauté sacrée lunda sur un vaste territoire d'Afrique centrale et australe, notamment le royaume kazembe en Zambie orientale. Le bracelet royal lukano, transmis de Lueji à Chibinda Ilunga puis à leurs descendants, demeure le symbole matériel central de légitimité dans l'ensemble de cette 'diaspora' politique lunda, chaque lignage royal qui s'en réclame retraçant sa légitimité jusqu'à cet objet fondateur.",
+  "domaines": [
+    "royauté",
+    "chasse",
+    "fondation dynastique"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
   "genealogie": {
     "parents": [],
-    "conjoints": ["Lueji"],
+    "conjoints": [
+      "Lueji"
+    ],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["arc et flèches de chasse", "bracelet royal (lukano) transmis par Lueji"],
+  "attributs": [
+    "arc et flèches de chasse",
+    "bracelet royal (lukano) transmis par Lueji"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Le récit de Chibinda Ilunga et Lueji continue de structurer la légitimité de plusieurs lignages royaux en Angola, en Zambie et en RDC se réclamant de l'héritage lunda.",
   "sources": [
