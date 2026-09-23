@@ -29,6 +29,15 @@ Cette même validation tourne automatiquement via GitHub Actions à chaque pull 
 - **Signaler l'incertitude** : quand une information est contestée ou varie selon les sources, l'indiquer dans le champ `notes` plutôt que de trancher arbitrairement.
 - **Peuples précis** : indiquer le(s) peuple(s) exact(s) associé(s) à une entité plutôt qu'une généralisation nationale ou continentale, sauf pour les entrées `diaspora` qui sont par nature syncrétiques.
 
+## Le champ `description_detaillee`
+
+Ce champ optionnel accueille un développement plus riche que le resume : 2 à 4 paragraphes qui vise à couvrir, selon ce qui est pertinent pour l'entité, son origine et son contexte culturel, son rôle mythologique ou rituel, ses variantes régionales ou selon les sources, ainsi que ses liens avec d'autres figures déjà présentes dans le codex.
+
+Sa rédaction est recommandée, mais reste optionnelle si les sources disponibles ne permettent pas un développement substantiel.
+
+> [!NOTE]
+> Il ne s'agit pas d'une reformulation étendue du resumé. La description doit apporter une information nouvelle (contexte historique, nuances entre sources, éléments de comparaison).
+
 ## Ajouter un nouveau tag transversal
 
 Modifier `data/tags.json` en ajoutant un objet `{ "id": "...", "label": "..." }`, puis référencer cet id dans les fiches concernées.
