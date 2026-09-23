@@ -4,17 +4,31 @@
   "variantes": [],
   "region": "afrique-centrale",
   "categorie": "deites",
-  "peuples": ["Chokwe"],
+  "peuples": [
+    "Chokwe"
+  ],
   "resume": "Esprit protecteur chokwe de la chasse et de la circoncision, incarné par un masque conique caractéristique porté lors des cérémonies d'initiation masculine (mukanda), garant de la réussite à la chasse et de la fertilité du gibier.",
-  "domaines": ["chasse", "initiation masculine", "fertilité animale"],
-  "tags": ["initiation"],
+  "description_detaillee": "L'origine du culte de Cikunza est parfois rattachée à la légende d'un premier chasseur ayant reçu l'aide surnaturelle d'un esprit rencontré en pleine brousse, aide qui se serait ensuite formalisée en une cérémonie transmissible. Au sein de l'école d'initiation mukanda, Cikunza intervient généralement lors des étapes finales du parcours des jeunes initiés, son apparition marquant leur passage réussi au statut de chasseur et d'homme adulte, par contraste avec des figures masquées intervenant plus tôt dans le processus.",
+  "domaines": [
+    "chasse",
+    "initiation masculine",
+    "fertilité animale"
+  ],
+  "tags": [
+    "initiation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["mwana-pwo"]
+    "entites_liees": [
+      "mwana-pwo"
+    ]
   },
-  "attributs": ["masque conique élevé (cikunza)", "fibres végétales"],
+  "attributs": [
+    "masque conique élevé (cikunza)",
+    "fibres végétales"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

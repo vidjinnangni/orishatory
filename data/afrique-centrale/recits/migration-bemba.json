@@ -4,15 +4,26 @@
   "variantes": [],
   "region": "afrique-centrale",
   "categorie": "recits",
-  "peuples": ["Bemba"],
+  "peuples": [
+    "Bemba"
+  ],
   "resume": "Récit fondateur bemba narrant l'exode d'un groupe dirigé par les ancêtres de Chitimukulu depuis le royaume luba, à la suite d'un conflit de succession, jusqu'à leur installation sur le plateau du nord-est de l'actuelle Zambie où ils fondent le royaume bemba.",
-  "domaines": ["migration", "conflit de succession", "fondation territoriale"],
-  "tags": ["royaute-sacree"],
+  "description_detaillee": "La migration relatée dans ce récit se serait accompagnée du transport de reliques sacrées (babenye), objets rituels considérés comme la preuve tangible et la source du pouvoir spirituel du lignage royal bemba ; leur conservation et leur transmission d'un Chitimukulu à l'autre auraient constitué, au fil des générations suivantes, la garantie matérielle de la légitimité dynastique face à d'éventuelles contestations internes.",
+  "domaines": [
+    "migration",
+    "conflit de succession",
+    "fondation territoriale"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["chitimukulu"]
+    "entites_liees": [
+      "chitimukulu"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

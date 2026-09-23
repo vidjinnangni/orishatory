@@ -4,9 +4,16 @@
   "variantes": [],
   "region": "afrique-centrale",
   "categorie": "rites",
-  "peuples": ["peuples bantous d'Afrique centrale"],
+  "peuples": [
+    "peuples bantous d'Afrique centrale"
+  ],
   "resume": "Pratique rituelle de guérison par la possession spirituelle, la danse et le tambour, répandue sous des formes variées à travers l'Afrique bantoue centrale et australe.",
-  "domaines": ["guérison", "possession", "musique rituelle"],
+  "description_detaillee": "Dans de nombreuses variantes de la pratique ngoma, la maladie initiale qui conduit une personne à consulter est réinterprétée non comme une simple pathologie à éliminer mais comme un appel vocationnel : une fois guéri, le patient devient fréquemment lui-même praticien ngoma, intégrant son expérience de la souffrance à un rôle social et thérapeutique positif plutôt que de la considérer comme un épisode purement négatif à oublier.",
+  "domaines": [
+    "guérison",
+    "possession",
+    "musique rituelle"
+  ],
   "tags": [],
   "genealogie": {
     "parents": [],
@@ -14,7 +21,11 @@
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["tambour", "danse", "transe"],
+  "attributs": [
+    "tambour",
+    "danse",
+    "transe"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Le terme 'ngoma' (littéralement 'tambour') a donné son nom à un vaste ensemble de pratiques de guérison encore actives dans plusieurs pays d'Afrique centrale et australe, y compris en contexte urbain contemporain.",
   "sources": [

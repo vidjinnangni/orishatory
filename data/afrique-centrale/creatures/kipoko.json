@@ -1,20 +1,35 @@
 {
   "id": "kipoko",
   "nom": "Kipoko",
-  "variantes": ["Giphogo"],
+  "variantes": [
+    "Giphogo"
+  ],
   "region": "afrique-centrale",
   "categorie": "creatures",
-  "peuples": ["Pende"],
+  "peuples": [
+    "Pende"
+  ],
   "resume": "Esprit-masque pende associé au pouvoir royal et divinatoire, porté lors de cérémonies liées à l'investiture des chefs et à la résolution de crises communautaires, réputé capable de révéler des vérités cachées.",
-  "domaines": ["pouvoir royal", "divination", "résolution de crise"],
-  "tags": ["divination", "royaute-sacree"],
+  "description_detaillee": "La cérémonie giphogo au cours de laquelle le masque kipoko apparaît est traditionnellement réservée aux moments politiques les plus graves : investiture d'un nouveau chef, ou crise communautaire nécessitant l'identification publique d'un responsable, souvent soupçonné de sorcellerie. Cette gravité distingue le kipoko des masques pende plus festifs (mbuya) portés lors de réjouissances ordinaires, situant son intervention au croisement du politique, du judiciaire et du spirituel plutôt que dans le seul registre du divertissement rituel.",
+  "domaines": [
+    "pouvoir royal",
+    "divination",
+    "résolution de crise"
+  ],
+  "tags": [
+    "divination",
+    "royaute-sacree"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["masque à traits stylisés", "coiffe conique"],
+  "attributs": [
+    "masque à traits stylisés",
+    "coiffe conique"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

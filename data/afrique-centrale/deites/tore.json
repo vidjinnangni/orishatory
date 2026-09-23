@@ -4,10 +4,19 @@
   "variantes": [],
   "region": "afrique-centrale",
   "categorie": "deites",
-  "peuples": ["Mbuti"],
+  "peuples": [
+    "Mbuti"
+  ],
   "resume": "Figure divine et esprit de la forêt dans la cosmologie mbuti (pygmées de la forêt d'Ituri), associé à l'origine de la mort et parfois envisagé comme complémentaire à la forêt elle-même, vénérée comme source de vie ultime.",
-  "domaines": ["forêt", "mort", "origine du monde"],
-  "tags": ["mort-au-dela"],
+  "description_detaillee": "Colin Turnbull, dont les travaux constituent la principale source occidentale sur la religion mbuti, a souligné combien les Mbuti eux-mêmes montrent peu d'intérêt pour la spéculation théologique abstraite autour de Tore, préférant concentrer leur attention religieuse sur la forêt elle-même, source concrète et quotidienne de subsistance, plutôt que sur une figure divine personnifiée et lointaine. Cette sobriété théologique, hors norme par rapport à l'élaboration cosmologique souvent développée chez les peuples bantous voisins, a été interprétée comme le reflet d'un mode de vie de chasseurs-cueilleurs privilégiant la relation pragmatique à l'environnement immédiat sur la construction d'un panthéon complexe.",
+  "domaines": [
+    "forêt",
+    "mort",
+    "origine du monde"
+  ],
+  "tags": [
+    "mort-au-dela"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

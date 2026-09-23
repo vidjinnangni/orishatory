@@ -1,13 +1,23 @@
 {
   "id": "kalulu",
   "nom": "Kalulu",
-  "variantes": ["Le Lièvre"],
+  "variantes": [
+    "Le Lièvre"
+  ],
   "region": "afrique-centrale",
   "categorie": "heros",
-  "peuples": ["peuples bantous d'Afrique centrale et australe"],
+  "peuples": [
+    "peuples bantous d'Afrique centrale et australe"
+  ],
   "resume": "Lièvre rusé, figure de trickster récurrente dans les contes bantous d'Afrique centrale, triomphant des animaux plus grands et plus forts (éléphant, hippopotame, hyène) par la ruse plutôt que par la force.",
-  "domaines": ["ruse", "narration"],
-  "tags": ["trickster"],
+  "description_detaillee": "L'un des tours les plus caractéristiques attribués à Kalulu consiste à convaincre deux animaux beaucoup plus puissants que lui, tels l'éléphant et l'hippopotame, de participer séparément à un concours de tir à la corde contre lui-même, sans qu'aucun des deux ne voie son adversaire réel : chacun croyant tirer contre le seul lièvre, les deux géants s'épuisent en réalité l'un contre l'autre, laissant Kalulu triompher sans effort. Ce motif du faible opposant secrètement deux forts l'un à l'autre se retrouve, sous des formes indépendantes, dans les traditions orales de plusieurs continents, illustrant une convergence narrative plutôt qu'une transmission directe entre traditions éloignées.",
+  "domaines": [
+    "ruse",
+    "narration"
+  ],
+  "tags": [
+    "trickster"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

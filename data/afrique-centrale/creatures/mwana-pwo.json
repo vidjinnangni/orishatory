@@ -1,20 +1,38 @@
 {
   "id": "mwana-pwo",
   "nom": "Mwana Pwo",
-  "variantes": ["Pwo"],
+  "variantes": [
+    "Pwo"
+  ],
   "region": "afrique-centrale",
   "categorie": "creatures",
-  "peuples": ["Chokwe"],
+  "peuples": [
+    "Chokwe"
+  ],
   "resume": "Masque féminin idéalisé chokwe représentant une ancêtre exemplaire, incarnant la beauté, la fécondité et les vertus féminines transmises aux jeunes initiées, dansé traditionnellement par un homme lors des cérémonies publiques liées au mukanda.",
-  "domaines": ["féminité idéale", "ancestralité", "fécondité"],
-  "tags": ["ancetres", "terre-fertilite"],
+  "description_detaillee": "Certaines variantes contemporaines du masque, parfois désignées sous le nom de Pwevo, intègrent des éléments esthétiques plus récents (coiffures ou parures inspirées de modes actuelles), signe que la tradition du masque féminin chokwe demeure une pratique vivante et évolutive plutôt qu'une forme figée transmise à l'identique depuis des siècles. Lors de certaines performances, la danseuse ou le danseur incarnant Mwana Pwo mime des gestes associés à la fécondité et parfois à l'accouchement, adressant directement aux femmes mariées présentes un message rituel lié à la fertilité, au-delà de la seule fonction pédagogique envers les jeunes initiées.",
+  "domaines": [
+    "féminité idéale",
+    "ancestralité",
+    "fécondité"
+  ],
+  "tags": [
+    "ancetres",
+    "terre-fertilite"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["cikunza"]
+    "entites_liees": [
+      "cikunza"
+    ]
   },
-  "attributs": ["masque au visage scarifié", "coiffe élaborée", "costume moulant en fibres"],
+  "attributs": [
+    "masque au visage scarifié",
+    "coiffe élaborée",
+    "costume moulant en fibres"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

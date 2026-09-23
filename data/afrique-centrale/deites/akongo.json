@@ -4,10 +4,19 @@
   "variantes": [],
   "region": "afrique-centrale",
   "categorie": "deites",
-  "peuples": ["Mongo"],
+  "peuples": [
+    "Mongo"
+  ],
   "resume": "Dieu créateur suprême dans la cosmologie mongo (bassin du fleuve Congo), retiré du monde après la création et devenu largement indifférent aux affaires humaines, laissant la gestion du quotidien aux esprits ancestraux et à la sorcellerie.",
-  "domaines": ["création", "retrait divin", "destin"],
-  "tags": ["creation"],
+  "description_detaillee": "Le retrait d'Akongo après la création laisse un vide religieux que la pensée mongo comble non par un culte de substitution centralisé, mais par une attention intense portée aux esprits ancestraux (bokali) et aux accusations de sorcellerie (elima), considérés comme les véritables agents des malheurs et des bienfaits du quotidien. Cette structure théologique, où le créateur suprême devient largement une figure d'arrière-plan sans temple ni prêtrise dédiée, rejoint un schéma que l'on retrouve chez plusieurs peuples voisins d'Afrique centrale et occidentale (Nzambi a Mpungu chez les Kongo, Nyame chez les Akan), suggérant une convergence structurelle plutôt qu'une origine commune entre ces cosmologies bantoues distantes.",
+  "domaines": [
+    "création",
+    "retrait divin",
+    "destin"
+  ],
+  "tags": [
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

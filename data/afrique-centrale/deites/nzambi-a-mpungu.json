@@ -1,13 +1,25 @@
 {
   "id": "nzambi-a-mpungu",
   "nom": "Nzambi a Mpungu",
-  "variantes": ["Nzambi", "Nzambi Mpungu"],
+  "variantes": [
+    "Nzambi",
+    "Nzambi Mpungu"
+  ],
   "region": "afrique-centrale",
   "categorie": "deites",
-  "peuples": ["Kongo"],
+  "peuples": [
+    "Kongo"
+  ],
   "resume": "Dieu créateur suprême dans la cosmologie kongo, à l'origine de l'univers et garant de l'ordre moral. Figure lointaine, rarement représentée directement, agissant surtout via des esprits intermédiaires (bakisi).",
-  "domaines": ["création", "ordre moral", "ciel"],
-  "tags": ["creation"],
+  "description_detaillee": "Le terme 'Nzambi' n'est pas propre au seul kikongo : des variantes phonétiquement proches désignant une puissance divine ou créatrice se retrouvent dans un grand nombre de langues bantoues à travers l'Afrique centrale et australe, témoignant d'une continuité linguistique et conceptuelle profonde entre des peuples aujourd'hui séparés par de vastes distances géographiques et plusieurs siècles de différenciation culturelle.",
+  "domaines": [
+    "création",
+    "ordre moral",
+    "ciel"
+  ],
+  "tags": [
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

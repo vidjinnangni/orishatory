@@ -1,20 +1,36 @@
 {
   "id": "dikenga",
   "nom": "Dikenga (cosmogramme kongo)",
-  "variantes": ["Yowa", "Croix kongo"],
+  "variantes": [
+    "Yowa",
+    "Croix kongo"
+  ],
   "region": "afrique-centrale",
   "categorie": "rites",
-  "peuples": ["Kongo"],
+  "peuples": [
+    "Kongo"
+  ],
   "resume": "Symbole cosmologique kongo en forme de croix inscrite dans un cercle, représentant le cycle de vie, mort et renaissance ainsi que le passage entre le monde des vivants et celui des ancêtres. Utilisé dans les rituels et l'art rituel.",
-  "domaines": ["cosmologie", "cycle de vie", "ancestralité"],
-  "tags": ["ancetres", "mort-au-dela"],
+  "description_detaillee": "Les quatre moments du cosmogramme correspondent traditionnellement aux étapes du cycle solaire mises en correspondance avec celles de l'existence humaine : l'aube pour la naissance, le midi pour la maturité et l'apogée de la vie, le crépuscule pour la mort, et minuit pour le séjour parmi les ancêtres avant une possible renaissance, bouclant ainsi le cycle. Cette mise en parallèle explicite entre le mouvement du soleil et le parcours d'une existence humaine confère au dikenga une fonction de calendrier moral autant que de symbole cosmologique.",
+  "domaines": [
+    "cosmologie",
+    "cycle de vie",
+    "ancestralité"
+  ],
+  "tags": [
+    "ancetres",
+    "mort-au-dela"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["croix inscrite dans un cercle", "quatre points cardinaux associés aux étapes de l'existence"],
+  "attributs": [
+    "croix inscrite dans un cercle",
+    "quatre points cardinaux associés aux étapes de l'existence"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Le symbole a influencé l'iconographie afro-diasporique, notamment certaines traditions afro-américaines et afro-caribéennes, bien que ses usages contemporains varient largement par rapport à son sens rituel kongo d'origine.",
   "sources": [

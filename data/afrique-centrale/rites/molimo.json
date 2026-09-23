@@ -4,17 +4,29 @@
   "variantes": [],
   "region": "afrique-centrale",
   "categorie": "rites",
-  "peuples": ["Mbuti"],
+  "peuples": [
+    "Mbuti"
+  ],
   "resume": "Cérémonie nocturne mbuti organisée en réponse à un événement grave (mort, maladie, malheur collectif), au cours de laquelle les hommes font résonner une longue trompette en bois à travers la forêt pour 'réveiller' celle-ci et restaurer l'harmonie.",
-  "domaines": ["crise collective", "harmonie avec la forêt", "musique rituelle"],
+  "description_detaillee": "Selon les observations de Colin Turnbull, la 'saison molimo' suit généralement une période de malchance collective à la chasse ou un deuil marquant, et peut s'étendre sur plusieurs semaines d'intensité croissante, culminant lors d'une nuit où la trompette molimo est introduite jusqu'au cœur du campement, accompagnée de danses autour du feu, avant que la cérémonie ne s'achève et que l'harmonie avec la forêt ne soit considérée comme restaurée.",
+  "domaines": [
+    "crise collective",
+    "harmonie avec la forêt",
+    "musique rituelle"
+  ],
   "tags": [],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["tore"]
+    "entites_liees": [
+      "tore"
+    ]
   },
-  "attributs": ["trompette molimo en bois ou en écorce", "chants nocturnes"],
+  "attributs": [
+    "trompette molimo en bois ou en écorce",
+    "chants nocturnes"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

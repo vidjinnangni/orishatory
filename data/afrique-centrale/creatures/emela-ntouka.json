@@ -4,17 +4,31 @@
   "variantes": [],
   "region": "afrique-centrale",
   "categorie": "creatures",
-  "peuples": ["peuples du bassin du Congo"],
+  "peuples": [
+    "peuples du bassin du Congo"
+  ],
   "resume": "Créature légendaire semi-aquatique à corne unique décrite dans le folklore du bassin du Congo, réputée redoutable et capable de tuer des éléphants qui s'aventureraient sur son territoire. Objet, comme Mokele-mbembe, d'un intérêt cryptozoologique occidental.",
-  "domaines": ["rivières", "danger", "territoire"],
-  "tags": ["eau"],
+  "description_detaillee": "Certains récits attribuent également à l'Emela-ntouka la capacité de tuer des hippopotames s'aventurant sur son territoire, renforçant sa réputation de créature intolérante à toute présence animale massive dans son domaine aquatique. Les zones fluviales auxquelles la légende est associée correspondent souvent à des méandres ou des courants réellement dangereux pour la navigation ou la pêche, ce qui a conduit certains observateurs à y voir une codification narrative de connaissances écologiques locales (dangers de courant, présence d'hippopotames territoriaux) plutôt qu'un simple récit fantastique gratuit.",
+  "domaines": [
+    "rivières",
+    "danger",
+    "territoire"
+  ],
+  "tags": [
+    "eau"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["mokele-mbembe"]
+    "entites_liees": [
+      "mokele-mbembe"
+    ]
   },
-  "attributs": ["corne unique", "taille massive"],
+  "attributs": [
+    "corne unique",
+    "taille massive"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

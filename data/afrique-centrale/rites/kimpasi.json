@@ -4,10 +4,20 @@
   "variantes": [],
   "region": "afrique-centrale",
   "categorie": "rites",
-  "peuples": ["Kongo"],
+  "peuples": [
+    "Kongo"
+  ],
   "resume": "Société d'initiation kongo historiquement destinée aux adolescents traversant une crise ou une maladie grave, impliquant une retraite en forêt, une 'mort' et 'renaissance' symbolique encadrée par des spécialistes rituels, restaurant l'équilibre spirituel du néophyte et de la communauté.",
-  "domaines": ["initiation", "guérison", "mort et renaissance symbolique"],
-  "tags": ["initiation", "mort-au-dela"],
+  "description_detaillee": "Les initiés du kimpasi partageaient traditionnellement un répertoire de chants et un langage rituel propre à la société, incompréhensibles pour les non-initiés, renforçant le caractère exclusif et sacré du pacte scellé lors de la cérémonie. Cette dimension de langage secret rapproche structurellement le kimpasi d'autres sociétés d'initiation ouest et centre-africaines fonctionnant sur un principe comparable de connaissance réservée, comme le Poro et le Sande de Sierra Leone et du Liberia.",
+  "domaines": [
+    "initiation",
+    "guérison",
+    "mort et renaissance symbolique"
+  ],
+  "tags": [
+    "initiation",
+    "mort-au-dela"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

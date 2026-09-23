@@ -4,15 +4,27 @@
   "variantes": [],
   "region": "afrique-centrale",
   "categorie": "rites",
-  "peuples": ["Luba"],
+  "peuples": [
+    "Luba"
+  ],
   "resume": "Principe de royauté sacrée luba selon lequel le pouvoir politique procède d'une force spirituelle transmise par le sang royal, incarnée par le souverain (mulopwe) et matérialisée par des objets de régalia consacrés.",
-  "domaines": ["royauté sacrée", "légitimité politique", "transmission spirituelle"],
-  "tags": ["royaute-sacree", "ancetres"],
+  "description_detaillee": "L'accession légitime au bulopwe suppose non seulement une ascendance royale reconnue mais aussi une investiture rituelle complexe, impliquant la remise d'emblèmes sacrés (sièges, lances, autres regalia consacrés) sans lesquels l'autorité politique resterait incomplète aux yeux de la société luba. La société des Mbudye, gardienne du savoir historique dynastique via des dispositifs comme le lukasa, joue un rôle de vérification et de validation de cette légitimité, faisant d'elle une sorte d'autorité constitutionnelle non écrite au service de la royauté sacrée.",
+  "domaines": [
+    "royauté sacrée",
+    "légitimité politique",
+    "transmission spirituelle"
+  ],
+  "tags": [
+    "royaute-sacree",
+    "ancetres"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["lukasa"]
+    "entites_liees": [
+      "lukasa"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

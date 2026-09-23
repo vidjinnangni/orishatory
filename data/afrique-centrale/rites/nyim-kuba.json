@@ -4,15 +4,26 @@
   "variantes": [],
   "region": "afrique-centrale",
   "categorie": "rites",
-  "peuples": ["Kuba"],
+  "peuples": [
+    "Kuba"
+  ],
   "resume": "Institution de royauté sacrée kuba selon laquelle le souverain (nyim) est considéré comme un intermédiaire quasi-divin, soumis à un ensemble strict de tabous et de rituels de cour destinés à préserver la prospérité et l'ordre cosmique du royaume.",
-  "domaines": ["royauté sacrée", "tabous royaux", "ordre cosmique"],
-  "tags": ["royaute-sacree"],
+  "description_detaillee": "Les tabous entourant traditionnellement la personne du nyim incluaient l'interdiction d'être vu en train de manger ou de boire en public, et parfois celle de toucher directement le sol hors de l'enceinte palatiale, des restrictions destinées à marquer visuellement sa séparation d'avec l'humanité ordinaire et à préserver le caractère quasi sacré de sa personne aux yeux de la cour et du royaume.",
+  "domaines": [
+    "royauté sacrée",
+    "tabous royaux",
+    "ordre cosmique"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["bumba"]
+    "entites_liees": [
+      "bumba"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

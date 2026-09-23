@@ -4,15 +4,26 @@
   "variantes": [],
   "region": "afrique-centrale",
   "categorie": "recits",
-  "peuples": ["Fang"],
+  "peuples": [
+    "Fang"
+  ],
   "resume": "Récit cosmogonique fang où trois aspects divins, Nzame, Mebere et Nkwa, créent conjointement le monde, les animaux puis l'humanité, façonnant Fam le premier homme à leur image après plusieurs tentatives.",
-  "domaines": ["création", "trinité divine", "origine humaine"],
-  "tags": ["creation"],
+  "description_detaillee": "Dans certaines versions du récit, les trois divinités auraient averti Fam, une fois créé, de ne jamais céder à l'orgueil sous peine de perdre son statut privilégié parmi les créatures ; Fam aurait néanmoins fini par revendiquer une égalité avec ses créateurs, provoquant leur colère et l'instauration de la souffrance, du travail pénible et de la mortalité comme conséquences directes de cette transgression originelle. Ce motif d'une déchéance humaine causée par l'orgueil face au créateur rejoint, sous une forme distincte, la chaîne de créations correctives attribuée à Doondari chez les Peuls d'Afrique de l'Ouest.",
+  "domaines": [
+    "création",
+    "trinité divine",
+    "origine humaine"
+  ],
+  "tags": [
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["nzame"]
+    "entites_liees": [
+      "nzame"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

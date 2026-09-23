@@ -4,17 +4,31 @@
   "variantes": [],
   "region": "afrique-centrale",
   "categorie": "rites",
-  "peuples": ["Luba"],
+  "peuples": [
+    "Luba"
+  ],
   "resume": "Planchette de mémoire luba couverte de perles et de motifs sculptés en relief, utilisée par les membres de la société Mbudye comme support mnémotechnique pour réciter l'histoire dynastique, la généalogie royale et la géographie sacrée du royaume lors de performances rituelles.",
-  "domaines": ["mémoire dynastique", "histoire orale", "légitimité politique"],
-  "tags": ["royaute-sacree", "ancetres"],
+  "description_detaillee": "La lecture d'un lukasa repose sur un code de couleurs et de motifs dont la signification est transmise oralement aux seuls initiés de la société Mbudye : les perles blanches renvoient généralement à la pureté et aux ancêtres, les perles rouges à la force vitale ou au danger, tandis que la disposition spatiale des motifs sur la planchette correspond à une géographie à la fois réelle (sites historiques du royaume) et symbolique (étapes de la légitimité dynastique), faisant de cet objet un authentique système d'écriture mnémonique plutôt qu'une simple décoration.",
+  "domaines": [
+    "mémoire dynastique",
+    "histoire orale",
+    "légitimité politique"
+  ],
+  "tags": [
+    "royaute-sacree",
+    "ancetres"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["bulopwe"]
+    "entites_liees": [
+      "bulopwe"
+    ]
   },
-  "attributs": ["planchette en bois couverte de perles, coquillages et motifs sculptés"],
+  "attributs": [
+    "planchette en bois couverte de perles, coquillages et motifs sculptés"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [
