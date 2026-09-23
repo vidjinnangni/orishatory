@@ -2,8 +2,15 @@
   "$schema": "https://json-schema.org/draft-07/schema",
   "$id": "https://orishatory.org/schema/entite.schema.json",
   "title": "Entité du Codex de mythologie africaine",
-  "type": "object",
-  "required": ["id", "nom", "region", "categorie", "peuples", "resume"],
+ "type": "object",
+  "required": [
+    "id",
+    "nom",
+    "region",
+    "categorie",
+    "peuples",
+    "resume"
+  ],
   "properties": {
     "id": {
       "type": "string",
@@ -17,7 +24,9 @@
     "variantes": {
       "type": "array",
       "description": "Autres orthographes ou noms régionaux",
-      "items": { "type": "string" }
+      "items": {
+        "type": "string"
+      }
     },
     "region": {
       "type": "string",
@@ -32,46 +41,86 @@
     },
     "categorie": {
       "type": "string",
-      "enum": ["deites", "heros", "creatures", "recits", "rites"]
+      "enum": [
+        "deites",
+        "heros",
+        "creatures",
+        "recits",
+        "rites"
+      ]
     },
     "peuples": {
       "type": "array",
       "description": "Peuple(s) ou culture(s) d'origine",
-      "items": { "type": "string" },
+      "items": {
+        "type": "string"
+      },
       "minItems": 1
     },
     "resume": {
       "type": "string",
       "description": "Résumé court (2-4 phrases) en langage neutre et informatif"
     },
+    "description_detaillee": {
+      "type": "string",
+      "description": "Développement approfondi, distinct du résumé : 2-4 paragraphes couvrant selon pertinence l'origine et le contexte culturel, le rôle mythologique ou rituel, les variantes régionales ou selon les sources, et les liens avec d'autres figures ou traditions. Champ optionnel : absent sur les fiches créées avant son introduction, à compléter progressivement ; recommandé pour toute nouvelle fiche."
+    },
     "domaines": {
       "type": "array",
       "description": "Domaines d'influence (ex: fertilité, guerre, eau, commerce...)",
-      "items": { "type": "string" }
+      "items": {
+        "type": "string"
+      }
     },
     "tags": {
       "type": "array",
       "description": "Tags transversaux, voir tags.json à la racine",
-      "items": { "type": "string" }
+      "items": {
+        "type": "string"
+      }
     },
     "genealogie": {
       "type": "object",
       "properties": {
-        "parents": { "type": "array", "items": { "type": "string" } },
-        "conjoints": { "type": "array", "items": { "type": "string" } },
-        "enfants": { "type": "array", "items": { "type": "string" } },
-        "entites_liees": { "type": "array", "items": { "type": "string" } }
+        "parents": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "conjoints": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "enfants": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "entites_liees": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
       }
     },
     "attributs": {
       "type": "array",
       "description": "Symboles, couleurs, objets, animaux associés",
-      "items": { "type": "string" }
+      "items": {
+        "type": "string"
+      }
     },
     "recits_associes": {
       "type": "array",
       "description": "IDs d'autres fiches (catégorie recits) liées à cette entité",
-      "items": { "type": "string" }
+      "items": {
+        "type": "string"
+      }
     },
     "culte_contemporain": {
       "type": "string",
@@ -80,7 +129,9 @@
     "sources": {
       "type": "array",
       "description": "Références bibliographiques ou académiques",
-      "items": { "type": "string" },
+      "items": {
+        "type": "string"
+      },
       "minItems": 1
     },
     "notes": {

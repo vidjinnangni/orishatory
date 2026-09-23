@@ -48,7 +48,9 @@ Champs clés :
 
 - `id`, `nom`, `variantes` : identification
 - `region`, `categorie`, `peuples` : classement
-- `resume`, `domaines`, `attributs` : contenu descriptif
+- `resume` : 2 à 4 phrases pour offrir un aperçu
+- `description_detaillee` : développement optionnel (2-4 paragraphes : origine/contexte, rôle mythologique ou rituel, variantes régionales, liens avec d'autres traditions).
+- `domaines`, `attributs` : contenu descriptif
 - `tags` : motifs transversaux (voir `data/tags.json`)
 - `genealogie`, `recits_associes` : liens vers d'autres fiches
 - `sources` : références (**obligatoire**, pas d'entrée sans source)
