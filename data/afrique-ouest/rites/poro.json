@@ -4,17 +4,32 @@
   "variantes": [],
   "region": "afrique-ouest",
   "categorie": "rites",
-  "peuples": ["Mende", "Temne"],
+  "peuples": [
+    "Mende",
+    "Temne"
+  ],
   "resume": "Société d'initiation masculine influente en Sierra Leone et au Liberia, encadrant l'éducation traditionnelle, le passage à l'âge adulte et certaines fonctions judiciaires et politiques communautaires, à travers un savoir gradué tenu secret des non-initiés.",
-  "domaines": ["initiation", "éducation traditionnelle", "autorité communautaire"],
-  "tags": ["initiation"],
+  "description_detaillee": "Au-delà de son rôle éducatif et rituel, le Poro a longtemps exercé une fonction judiciaire reconnue dans les sociétés mende et temne, ses responsables tranchant des litiges communautaires et faisant respecter des normes sociales avec une autorité que les administrations coloniales, puis les États indépendants, ont dû composer avec plutôt qu'ignorer.\n\nCette influence politique durable a valu au Poro d'être occasionnellement mobilisé, ou du moins évoqué, dans le contexte des conflits armés qu'a connus la région à la fin du 20e siècle, ses réseaux traditionnels d'autorité et de solidarité masculine ayant représenté un enjeu pour différents acteurs politiques et militaires — un rappel que les institutions rituelles étudiées ici ne sont pas de simples reliques figées mais des structures sociales vivantes, prises dans l'histoire contemporaine de leurs régions.",
+  "domaines": [
+    "initiation",
+    "éducation traditionnelle",
+    "autorité communautaire"
+  ],
+  "tags": [
+    "initiation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["sande"]
+    "entites_liees": [
+      "sande"
+    ]
   },
-  "attributs": ["masques et costumes rituels spécifiques", "camp de brousse (bush school)"],
+  "attributs": [
+    "masques et costumes rituels spécifiques",
+    "camp de brousse (bush school)"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Continue de jouer un rôle social et parfois politique en Sierra Leone et au Liberia contemporains, bien que son influence sur la vie politique nationale ait fluctué au fil des régimes.",
   "sources": [

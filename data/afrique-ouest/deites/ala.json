@@ -1,20 +1,37 @@
 {
   "id": "ala",
   "nom": "Ala",
-  "variantes": ["Ani", "Anị"],
+  "variantes": [
+    "Ani",
+    "Anị"
+  ],
   "region": "afrique-ouest",
   "categorie": "deites",
-  "peuples": ["Igbo"],
+  "peuples": [
+    "Igbo"
+  ],
   "resume": "Déesse de la terre chez les Igbo, gardienne de la fertilité, de la moralité publique et de la loi coutumière. Les violations graves de la morale sociale sont traditionnellement dites 'souiller la terre d'Ala'.",
-  "domaines": ["terre", "fertilité", "moralité", "loi coutumière"],
-  "tags": ["terre-fertilite", "ancetres"],
+  "description_detaillee": "Bien que Chukwu occupe formellement le sommet du panthéon igbo, Ala est souvent décrite par les ethnographes comme la divinité la plus immédiatement présente dans la vie religieuse quotidienne : chaque communauté villageoise entretient son propre sanctuaire, et aucune décision judiciaire coutumière majeure ne se prenait traditionnellement sans invoquer son autorité morale. Ses sanctuaires mbari, constitués de sculptures d'argile crue représentant divinités, ancêtres et scènes de la vie communautaire, étaient conçus pour se dégrader progressivement et retourner à la terre — un cycle de création et de dissolution jugé plus important que la préservation matérielle de l'œuvre elle-même.\n\nSon autorité sur la fertilité agricole et sur la moralité publique procède d'une même logique : la terre qui nourrit les vivants est aussi celle qui reçoit les morts, faisant d'Ala la gardienne d'une continuité entre les générations que toute transgression grave (inceste, meurtre, certains vols) était censée directement souiller.\n\nCette centralité d'une divinité de la terre aux côtés d'un créateur céleste plus distant reproduit une structure que l'on retrouve, sous des formes distinctes, chez les Akan voisins (Nyame et Asase Yaa) : le sacré immédiatement accessible se loge dans le sol plutôt que dans le ciel.",
+  "domaines": [
+    "terre",
+    "fertilité",
+    "moralité",
+    "loi coutumière"
+  ],
+  "tags": [
+    "terre-fertilite",
+    "ancetres"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["sanctuaires de terre (mbari)", "association aux ancêtres enterrés dans le sol"],
+  "attributs": [
+    "sanctuaires de terre (mbari)",
+    "association aux ancêtres enterrés dans le sol"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

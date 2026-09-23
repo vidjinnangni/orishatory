@@ -4,17 +4,33 @@
   "variantes": [],
   "region": "afrique-ouest",
   "categorie": "deites",
-  "peuples": ["Dogon"],
+  "peuples": [
+    "Dogon"
+  ],
   "resume": "Dieu créateur unique de la cosmogonie dogon, à l'origine de l'univers, de la terre et des premiers êtres vivants, dont les Nommo. Central dans le système cosmologique dogon documenté au 20e siècle par les ethnologues français.",
-  "domaines": ["création", "cosmos", "ordre du monde"],
-  "tags": ["creation"],
+  "description_detaillee": "Le récit cosmogonique dogon associé à Amma, tel que documenté par Marcel Griaule, décrit la création du monde à partir d'un œuf cosmique primordial contenant les germes de toute chose. À l'intérieur, deux paires de jumeaux devaient naître en parfaite symétrie, mais l'un des jumeaux mâles, Yurugu (le renard pâle), rompit prématurément son placenta pour s'emparer d'un fragment du monde avant sa sœur jumelle, introduisant le désordre, l'imperfection et l'incomplétude dans la création — un mythe qui structure une bonne part de la pensée dogon sur l'origine du mal et de l'imperfection humaine.\n\nAmma dut ensuite réorganiser le monde en sacrifiant l'autre jumeau, Nommo, dont le corps démembré et dispersé donna naissance à l'ordre cosmique définitif et aux structures sociales dogon (les castes, les techniques, la parole articulée). Cette trame mythologique complexe, dont les grandes lignes sont résumées ici de façon nécessairement simplifiée, a été présentée par Griaule comme receleant un savoir ésotérique dogon comparable en sophistication à une cosmologie astronomique complète.\n\nComme le signale le champ notes, la représentativité de ce récit tel que rapporté par Griaule (notamment ses éléments relatifs au système de Sirius) a fait l'objet d'un débat anthropologique majeur depuis les années 1990, certains chercheurs y voyant la vision de quelques informateurs particuliers plutôt qu'une croyance dogon largement partagée.",
+  "domaines": [
+    "création",
+    "cosmos",
+    "ordre du monde"
+  ],
+  "tags": [
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
-    "conjoints": ["terre (dans certaines versions du mythe)"],
+    "conjoints": [
+      "terre (dans certaines versions du mythe)"
+    ],
     "enfants": [],
-    "entites_liees": ["nommo"]
+    "entites_liees": [
+      "nommo"
+    ]
   },
-  "attributs": ["œuf cosmique", "graine de fonio"],
+  "attributs": [
+    "œuf cosmique",
+    "graine de fonio"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Le système cosmologique dogon reste vivant dans les pratiques rituelles au Mali (falaises de Bandiagara), bien que la portée exacte des interprétations ethnographiques du 20e siècle (Griaule) fasse débat académique.",
   "sources": [

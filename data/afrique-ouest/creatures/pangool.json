@@ -1,20 +1,36 @@
 {
   "id": "pangool",
   "nom": "Pangool",
-  "variantes": ["Fangool (singulier)"],
+  "variantes": [
+    "Fangool (singulier)"
+  ],
   "region": "afrique-ouest",
   "categorie": "creatures",
-  "peuples": ["Serer"],
+  "peuples": [
+    "Serer"
+  ],
   "resume": "Esprits ancestraux intermédiaires de la religion serer, servant de lien entre Roog et les vivants. Invoqués pour la protection, la guérison et le maintien de l'ordre social, ils occupent des sites naturels sacrés (arbres, rivières, rochers).",
-  "domaines": ["ancestralité", "protection", "médiation spirituelle"],
-  "tags": ["ancetres", "divination"],
+  "description_detaillee": "Les pangool ne forment pas une catégorie homogène : certains sont associés à des lignages masculins, d'autres à des lignées féminines, avec des sanctuaires et des rites d'accès distincts selon le genre du pangool concerné et celui du suppliant. Cette diversité reflète l'organisation sociale serer elle-même, structurée en lignages dont chacun entretient un rapport privilégié avec ses propres esprits protecteurs.\n\nDans les anciens royaumes serer du Sine et du Saloum, la légitimité politique des souverains (bour) dépendait en partie de leur capacité à obtenir la reconnaissance rituelle des pangool royaux, faisant de ces esprits ancestraux un rouage aussi bien religieux que politique de l'organisation précoloniale serer.",
+  "domaines": [
+    "ancestralité",
+    "protection",
+    "médiation spirituelle"
+  ],
+  "tags": [
+    "ancetres",
+    "divination"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["roog"]
+    "entites_liees": [
+      "roog"
+    ]
   },
-  "attributs": ["sanctuaires naturels (arbres, rivières, rochers sacrés)"],
+  "attributs": [
+    "sanctuaires naturels (arbres, rivières, rochers sacrés)"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Le culte des pangool reste pratiqué au Sénégal contemporain, y compris de façon syncrétique par certains Serer se déclarant par ailleurs musulmans ou chrétiens.",
   "sources": [

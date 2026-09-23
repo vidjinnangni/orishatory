@@ -1,18 +1,33 @@
 {
   "id": "gu",
   "nom": "Gu",
-  "variantes": ["Gou"],
+  "variantes": [
+    "Gou"
+  ],
   "region": "afrique-ouest",
   "categorie": "deites",
-  "peuples": ["Fon (Dahomey)"],
+  "peuples": [
+    "Fon (Dahomey)"
+  ],
   "resume": "Dieu fon du fer, de la guerre et du travail des métaux, envoyé par Mawu-Lisa pour ouvrir la voie aux humains en défrichant la terre à l'aide d'outils de fer qu'il leur enseigne ensuite à fabriquer.",
-  "domaines": ["fer", "guerre", "outils", "défrichement"],
-  "tags": ["forge-artisanat"],
+  "description_detaillee": "Contrairement à Ogun chez les Yoruba, souvent représenté sous des traits humains ou hybrides, l'iconographie fon donne fréquemment à Gu la forme d'un objet lui-même : une lame, une épée ou un autel de fer (asen), une manière de souligner que le dieu et l'outil qu'il incarne ne font théologiquement qu'un.\n\nAlors que plusieurs grandes divinités fon se seraient retirées du monde après la création, laissant les humains se débrouiller seuls, Gu est traditionnellement considéré comme resté activement présent aux côtés de l'humanité, continuant de l'assister dans la maîtrise de nouvelles technologies bien au-delà du simple défrichement initial — une extension de son rôle qui, dans les interprétations contemporaines, s'étend jusqu'aux armes à feu et aux véhicules motorisés.",
+  "domaines": [
+    "fer",
+    "guerre",
+    "outils",
+    "défrichement"
+  ],
+  "tags": [
+    "forge-artisanat"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["mawu-lisa", "ogun"]
+    "entites_liees": [
+      "mawu-lisa",
+      "ogun"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

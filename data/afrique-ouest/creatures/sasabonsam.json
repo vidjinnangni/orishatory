@@ -4,9 +4,17 @@
   "variantes": [],
   "region": "afrique-ouest",
   "categorie": "creatures",
-  "peuples": ["Akan", "Ashanti"],
+  "peuples": [
+    "Akan",
+    "Ashanti"
+  ],
   "resume": "Créature monstrueuse habitant les forêts profondes, décrite avec de longues jambes, des pieds tournés vers l'arrière et parfois des ailes. Figure d'avertissement associée aux dangers de la forêt et à la sorcellerie (obayifo).",
-  "domaines": ["forêt", "danger", "sorcellerie"],
+  "description_detaillee": "Le Sasabonsam occupe une place particulière dans une hiérarchie plus large d'esprits de la forêt akan, aux côtés des mmoatia, petits esprits espiègles à trois orteils censés habiter les mêmes territoires boisés et parfois lui être subordonnés. Contrairement aux mmoatia, généralement ambivalents voire utiles à qui sait négocier avec eux, le Sasabonsam est presque systématiquement présenté comme une menace pure, sans contrepartie bénéfique à sa rencontre.\n\nSes pieds tournés vers l'arrière, motif récurrent des descriptions, sont traditionnellement interprétés comme un piège narratif : quiconque tente de suivre ses traces pour le localiser ou le fuir se dirige en réalité dans la direction opposée à celle qu'il croit prendre.\n\nDans certains courants chrétiens évangéliques contemporains au Ghana, la figure du Sasabonsam a été partiellement réinterprétée à travers une iconographie chrétienne du démon, illustrant la façon dont les figures de la forêt traditionnelle peuvent être recomposées au contact de nouveaux cadres religieux plutôt que simplement effacées.",
+  "domaines": [
+    "forêt",
+    "danger",
+    "sorcellerie"
+  ],
   "tags": [],
   "genealogie": {
     "parents": [],
@@ -14,7 +22,11 @@
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["longues jambes", "pieds inversés", "poils rouges dans certaines versions"],
+  "attributs": [
+    "longues jambes",
+    "pieds inversés",
+    "poils rouges dans certaines versions"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Toujours présent dans le folklore populaire ghanéen contemporain comme figure d'histoire effrayante et de mise en garde pour les enfants s'aventurant seuls en forêt.",
   "sources": [

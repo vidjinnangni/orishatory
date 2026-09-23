@@ -4,15 +4,26 @@
   "variantes": [],
   "region": "afrique-ouest",
   "categorie": "heros",
-  "peuples": ["Wolof"],
+  "peuples": [
+    "Wolof"
+  ],
   "resume": "Lièvre rusé des contes wolof sénégalais, popularisé en français par le recueil de Léopold Sédar Senghor et Abdoulaye Sadji, 'Les Contes de Leuk-le-Lièvre' (1953), variante régionale du motif panafricain du petit animal triomphant par la ruse.",
-  "domaines": ["ruse", "narration"],
-  "tags": ["trickster"],
+  "description_detaillee": "Le recueil de Senghor et Sadji ne se contente pas de juxtaposer des contes traditionnels : il les inscrit dans un cadre narratif original, celui d'un vieux griot nommé Samba racontant les aventures de Leuk à un jeune auditeur, N'Diongane, dispositif pédagogique qui recrée en français écrit l'expérience orale de la veillée de contes sénégalaise pour un public scolaire.\n\nCette médiation littéraire, conçue à l'origine dans un contexte éducatif colonial puis reprise après l'indépendance comme patrimoine national, illustre une tension plus large propre à la circulation écrite des contes oraux africains : la fixation par l'écrit garantit leur transmission à large échelle mais fige nécessairement une version parmi les nombreuses variantes orales existantes, ici filtrée par le choix esthétique et pédagogique de ses transcripteurs.",
+  "domaines": [
+    "ruse",
+    "narration"
+  ],
+  "tags": [
+    "trickster"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["kalulu", "ijapa"]
+    "entites_liees": [
+      "kalulu",
+      "ijapa"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

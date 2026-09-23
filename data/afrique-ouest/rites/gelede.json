@@ -4,17 +4,31 @@
   "variantes": [],
   "region": "afrique-ouest",
   "categorie": "rites",
-  "peuples": ["Yoruba"],
+  "peuples": [
+    "Yoruba"
+  ],
   "resume": "Spectacle rituel de mascarade yoruba honorant le pouvoir spirituel des femmes, en particulier des mères âgées et des 'mères mystiques' (aje), censées pouvoir user de leur pouvoir pour le bien ou pour nuire. Le rite vise à les honorer et à apaiser ce pouvoir.",
-  "domaines": ["pouvoir féminin", "fertilité", "équilibre social"],
-  "tags": ["terre-fertilite", "ancetres"],
+  "description_detaillee": "Le rite gelede répond à un principe central de la pensée yoruba, celui des 'awon iya wa' ('nos mères'), catégorie englobant à la fois les mères et grand-mères bienveillantes de la communauté et les femmes dotées d'un pouvoir spirituel redouté (aje), parfois traduit à tort par 'sorcières'. Plutôt que d'affronter ce pouvoir, la cérémonie cherche à l'honorer publiquement pour s'assurer qu'il s'exerce au bénéfice de la communauté.\n\nLa performance se déroule généralement en deux temps : une veillée nocturne (efe), faite de chants souvent satiriques commentant librement les tensions et travers de la communauté sous couvert d'humour, suivie le lendemain par le spectacle gelede proprement dit, où des danseurs portent des coiffes sculptées dont l'iconographie a évolué au fil du temps pour intégrer des figures contemporaines (fonctionnaires coloniaux, automobiles, puis motifs plus récents).\n\nBien que le rite célèbre spécifiquement le pouvoir féminin, les masques sont traditionnellement dansés par des hommes, une inversion de genre que l'on retrouve, sous une forme comparable, dans le masque Mwana Pwo des Chokwe d'Afrique centrale.",
+  "domaines": [
+    "pouvoir féminin",
+    "fertilité",
+    "équilibre social"
+  ],
+  "tags": [
+    "terre-fertilite",
+    "ancetres"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["masques sculptés portés sur la tête", "costumes colorés", "danse et chant collectifs"],
+  "attributs": [
+    "masques sculptés portés sur la tête",
+    "costumes colorés",
+    "danse et chant collectifs"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Inscrit au patrimoine culturel immatériel de l'UNESCO en 2008. Pratiqué au Nigeria, au Bénin et au Togo.",
   "sources": [

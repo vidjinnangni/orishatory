@@ -4,17 +4,29 @@
   "variantes": [],
   "region": "afrique-ouest",
   "categorie": "creatures",
-  "peuples": ["Igbo"],
+  "peuples": [
+    "Igbo"
+  ],
   "resume": "Dans la croyance igbo, esprit d'enfant qui meurt en bas âge de façon répétée au sein d'une même famille pour y retourner et mourir à nouveau, dans un cycle destiné à tourmenter ses parents. Des rituels spécifiques visaient traditionnellement à briser ce cycle.",
-  "domaines": ["mort infantile", "cycle de renaissance", "affliction familiale"],
-  "tags": ["mort-au-dela", "metamorphose"],
+  "description_detaillee": "La croyance traditionnelle veut que l'ogbanje ait conclu, avant sa naissance, un pacte secret avec des compagnons du monde des esprits, leur promettant de les rejoindre après une brève existence terrestre ; l'objet enterré (iyi-uwa) constituerait le lien matériel scellant cette promesse, et sa découverte puis sa destruction rituelle par un devin (dibia) était censée briser le cycle et permettre à l'enfant de vivre normalement.\n\nUn concept structurellement très proche existe chez les Yoruba voisins sous le nom d'abiku ('né pour mourir'), preuve que cette tentative culturelle de donner sens à une mortalité infantile élevée traverse les frontières ethniques de la région sans que les deux traditions soient identiques dans leurs détails rituels.\n\nLa reprise contemporaine du concept dans la littérature nigériane, du 'Famished Road' de Ben Okri (inspiré de l'abiku yoruba) au roman 'Freshwater' d'Akwaeke Emezi, a permis une relecture de la figure ogbanje comme métaphore de l'identité fluide et de la santé mentale, déplaçant son sens traditionnel vers des préoccupations contemporaines sans nécessairement s'y substituer.",
+  "domaines": [
+    "mort infantile",
+    "cycle de renaissance",
+    "affliction familiale"
+  ],
+  "tags": [
+    "mort-au-dela",
+    "metamorphose"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["objet enterré (iyi-uwa) censé le lier au monde des esprits"],
+  "attributs": [
+    "objet enterré (iyi-uwa) censé le lier au monde des esprits"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Le concept reste culturellement présent au Nigeria contemporain, notamment popularisé littérairement par des romans comme 'Freshwater' d'Akwaeke Emezi (2018).",
   "sources": [

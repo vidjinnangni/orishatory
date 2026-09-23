@@ -1,20 +1,44 @@
 {
   "id": "shango",
   "nom": "Ṣàngó",
-  "variantes": ["Shango", "Chango", "Xangô"],
+  "variantes": [
+    "Shango",
+    "Chango",
+    "Xangô"
+  ],
   "region": "afrique-ouest",
   "categorie": "deites",
-  "peuples": ["Yoruba"],
+  "peuples": [
+    "Yoruba"
+  ],
   "resume": "Orisha du tonnerre et de la foudre, ancien roi historique du royaume d'Oyo déifié après sa mort. Figure de puissance, de justice implacable et de virilité royale.",
-  "domaines": ["foudre", "tonnerre", "royauté", "justice", "danse"],
-  "tags": ["foudre-orage", "royaute-sacree"],
+  "description_detaillee": "Le récit traditionnel de la fin terrestre de Shango raconte qu'après avoir accidentellement provoqué la destruction de son propre palais par la foudre lors d'une démonstration de pouvoir magique, humilié, il se retira dans la forêt et se pendit à un arbre plutôt que de subir la déchéance. Ses partisans refusèrent cette version honteuse et proclamèrent qu'il n'était pas mort mais monté au ciel comme divinité du tonnerre — d'où son nom rituel Oba Koso, \"le roi ne s'est pas pendu\", toujours scandé dans son culte.\n\nLes haches de pierre néolithiques que l'on trouve parfois enfouies dans le sol après un impact de foudre sont traditionnellement identifiées comme les \"pierres de tonnerre\" (edun ara) de Shango, projetées depuis le ciel lors de ses manifestations ; elles sont recueillies et intégrées aux autels qui lui sont dédiés.\n\nSa diffusion dans les Amériques en a fait l'un des orisha les plus reconnaissables du monde diasporique, où son syncrétisme avec Sainte Barbe s'explique en partie par l'iconographie chrétienne de la sainte, traditionnellement associée à la foudre et représentée avec une tour crénelée rappelant le palais détruit de Shango.",
+  "domaines": [
+    "foudre",
+    "tonnerre",
+    "royauté",
+    "justice",
+    "danse"
+  ],
+  "tags": [
+    "foudre-orage",
+    "royaute-sacree"
+  ],
   "genealogie": {
     "parents": [],
-    "conjoints": ["oshun"],
+    "conjoints": [
+      "oshun"
+    ],
     "enfants": [],
-    "entites_liees": ["oshun"]
+    "entites_liees": [
+      "oshun"
+    ]
   },
-  "attributs": ["hache double (oshe)", "couleurs rouge et blanc", "bélier"],
+  "attributs": [
+    "hache double (oshe)",
+    "couleurs rouge et blanc",
+    "bélier"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Un des orishas les plus diffusés dans les Amériques (Chango à Cuba, Xangô au Brésil) via la traite atlantique, souvent syncrétisé avec Sainte Barbe dans le catholicisme populaire.",
   "sources": [

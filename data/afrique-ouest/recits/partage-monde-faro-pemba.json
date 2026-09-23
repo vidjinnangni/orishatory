@@ -4,15 +4,27 @@
   "variantes": [],
   "region": "afrique-ouest",
   "categorie": "recits",
-  "peuples": ["Bambara"],
+  "peuples": [
+    "Bambara"
+  ],
   "resume": "Récit cosmogonique bambara narrant comment Pemba, agissant seul et dans le désordre, façonne prématurément la terre, provoquant un chaos que la divinité Faro doit ensuite réparer en instaurant l'ordre, la parole et les règles sociales fondatrices.",
-  "domaines": ["création", "ordre et désordre", "fondation sociale"],
-  "tags": ["creation"],
+  "description_detaillee": "Ce mythe fournit traditionnellement la justification cosmologique des rites de circoncision et d'excision pratiqués par les sociétés d'initiation bambara N'domo et Komo : l'impureté originelle laissée par le geste désordonné de Pemba serait résiduellement présente en chaque être humain à la naissance, et ces interventions rituelles viseraient à achever symboliquement la purification entamée par Faro, complétant ainsi sur le corps individuel l'œuvre cosmologique de la divinité de l'eau.\n\nCette lecture mythologique, documentée par les travaux ethnographiques de Dieterlen et Zahan au milieu du 20e siècle, doit être comprise comme une justification religieuse historique de pratiques aujourd'hui également examinées sous l'angle de la santé publique et des droits humains, une tension déjà signalée à propos d'autres rites initiatiques ouest-africains comme le sande.",
+  "domaines": [
+    "création",
+    "ordre et désordre",
+    "fondation sociale"
+  ],
+  "tags": [
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["faro", "pemba"]
+    "entites_liees": [
+      "faro",
+      "pemba"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

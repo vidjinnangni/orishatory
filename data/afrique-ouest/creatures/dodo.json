@@ -4,9 +4,16 @@
   "variantes": [],
   "region": "afrique-ouest",
   "categorie": "creatures",
-  "peuples": ["Hausa"],
+  "peuples": [
+    "Hausa"
+  ],
   "resume": "Figure de croquemitaine du folklore haoussa, utilisée traditionnellement pour dissuader les enfants de s'aventurer seuls hors du village ou de désobéir, sans apparence fixe précise, laissée à l'imagination de chaque conteur.",
-  "domaines": ["peur enfantine", "discipline", "avertissement"],
+  "description_detaillee": "L'absence de forme fixe attribuée au Dodo constitue elle-même une donnée culturelle significative : contrairement à des figures plus codifiées comme le Sasabonsam akan, la force du Dodo tient précisément à son indétermination, chaque conteur ou chaque parent étant libre d'adapter sa description à l'âge et aux craintes propres de l'enfant à discipliner.\n\nDans certains contextes contemporains marqués par l'islam, la figure du Dodo se trouve parfois rapprochée ou fusionnée avec celle des djinns (esprits reconnus par la cosmologie islamique), illustrant la capacité de ces figures d'avertissement populaire à absorber de nouveaux vocabulaires religieux sans perdre leur fonction sociale essentielle de mise en garde enfantine.",
+  "domaines": [
+    "peur enfantine",
+    "discipline",
+    "avertissement"
+  ],
   "tags": [],
   "genealogie": {
     "parents": [],
@@ -14,7 +21,9 @@
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["apparence variable selon les récits"],
+  "attributs": [
+    "apparence variable selon les récits"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

@@ -1,20 +1,37 @@
 {
   "id": "ifa",
   "nom": "Ifá",
-  "variantes": ["Ọ̀rúnmìlà (l'orisha associé au système)"],
+  "variantes": [
+    "Ọ̀rúnmìlà (l'orisha associé au système)"
+  ],
   "region": "afrique-ouest",
   "categorie": "rites",
-  "peuples": ["Yoruba"],
+  "peuples": [
+    "Yoruba"
+  ],
   "resume": "Système de divination complexe reposant sur 256 figures (odù), interprétées par un prêtre-devin (babalawo) à l'aide d'une chaîne divinatoire (opele) ou de noix de palme. Sert à guider les décisions individuelles et collectives.",
-  "domaines": ["divination", "sagesse", "destin"],
-  "tags": ["divination"],
+  "description_detaillee": "Techniquement, la divination Ifá repose sur un système binaire : chaque lancer de la chaîne opele ou chaque manipulation des noix de palme produit une combinaison de signes ouverts ou fermés, générant l'un des 256 signes possibles (odù), eux-mêmes subdivisés en de multiples versets (ese Ifá) que le babalawo doit avoir mémorisés et sait interpréter selon la question posée. Ce principe de génération binaire de figures divinatoires invite à des comparaisons, purement structurelles, avec d'autres systèmes divinatoires binaires dans le monde comme le Yi-King chinois, sans qu'aucune filiation historique entre les deux ne soit établie.\n\nLa formation d'un babalawo s'étend traditionnellement sur plusieurs années et repose sur la mémorisation d'un corpus oral considérable : bien au-delà d'un simple outil prédictif, ce corpus constitue une véritable encyclopédie orale yoruba, mêlant mythologie, pharmacopée, droit coutumier et philosophie morale, transmise de maître à disciple.",
+  "domaines": [
+    "divination",
+    "sagesse",
+    "destin"
+  ],
+  "tags": [
+    "divination"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["eshu-elegba"]
+    "entites_liees": [
+      "eshu-elegba"
+    ]
   },
-  "attributs": ["opele (chaîne divinatoire)", "noix de palme (ikin)", "plateau de divination (opon Ifá)"],
+  "attributs": [
+    "opele (chaîne divinatoire)",
+    "noix de palme (ikin)",
+    "plateau de divination (opon Ifá)"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Le corpus Ifá est inscrit au patrimoine culturel immatériel de l'UNESCO. La pratique reste vivante au Nigeria, au Bénin, à Cuba (Ifá/Santería) et au Brésil.",
   "sources": [

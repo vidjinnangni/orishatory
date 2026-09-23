@@ -4,18 +4,33 @@
   "variantes": [],
   "region": "afrique-ouest",
   "categorie": "rites",
-  "peuples": ["Bambara", "Mandingue"],
+  "peuples": [
+    "Bambara",
+    "Mandingue"
+  ],
   "resume": "Société d'initiation masculine bambara transmettant un savoir ésotérique gradué sur la cosmologie, la nature et l'ordre social, marquée par l'usage de masques redoutés et de savoirs tenus secrets vis-à-vis des non-initiés.",
-  "domaines": ["initiation", "savoir ésotérique", "masculinité rituelle"],
-  "tags": ["initiation"],
+  "description_detaillee": "Le komo repose sur un système de grades initiatiques successifs, chacun donnant accès à un niveau supplémentaire de connaissance ésotérique sur la cosmologie bambara, la pharmacopée rituelle et l'histoire des lignages ; les objets de pouvoir (boliw) associés à chaque niveau sont soigneusement gardés et rarement montrés aux non-initiés, y compris au sein même de la communauté.\n\nLe masque komo emprunte fréquemment des traits associés à l'hyène et à d'autres animaux redoutés de la brousse, une iconographie qui traduirait la nécessité pour l'initié de maîtriser symboliquement les forces sauvages et incontrôlées de la nature avant d'accéder au statut d'adulte pleinement intégré à l'ordre social.",
+  "domaines": [
+    "initiation",
+    "savoir ésotérique",
+    "masculinité rituelle"
+  ],
+  "tags": [
+    "initiation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["masque komo (bois, cornes, matières organiques)", "hiérarchie de grades initiatiques"],
-  "recits_associes": ["partage-monde-faro-pemba"],
+  "attributs": [
+    "masque komo (bois, cornes, matières organiques)",
+    "hiérarchie de grades initiatiques"
+  ],
+  "recits_associes": [
+    "partage-monde-faro-pemba"
+  ],
   "culte_contemporain": "Pratique en net déclin depuis le 20e siècle sous la pression de l'islamisation et des transformations sociales, mais des formes subsistent dans certaines régions rurales du Mali et de Guinée.",
   "sources": [
     "Zahan, D. (1960). Sociétés d'initiation bambara: le N'domo, le Korè",

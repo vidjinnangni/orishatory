@@ -1,13 +1,25 @@
 {
   "id": "mawu-lisa",
   "nom": "Mawu-Lisa",
-  "variantes": ["Mawu", "Lisa"],
+  "variantes": [
+    "Mawu",
+    "Lisa"
+  ],
   "region": "afrique-ouest",
   "categorie": "deites",
-  "peuples": ["Fon (Dahomey)"],
+  "peuples": [
+    "Fon (Dahomey)"
+  ],
   "resume": "Divinité créatrice duelle du panthéon fon, associant Mawu (principe féminin, lune, fraîcheur, sagesse) et Lisa (principe masculin, soleil, force, chaleur), souvent envisagés comme les deux moitiés complémentaires d'un même principe créateur.",
-  "domaines": ["création", "dualité", "lune et soleil"],
-  "tags": ["creation"],
+  "description_detaillee": "Dans la cosmogonie fon, Mawu-Lisa n'est pas seulement le principe créateur du monde matériel : le couple aurait aussi engendré l'ensemble des vodun, les divinités subalternes qui gouvernent chacune un domaine particulier de l'existence (la terre, la mer, la maladie, la forge), organisant ainsi le panthéon fon comme une famille divine structurée plutôt que comme une collection de figures indépendantes.\n\nCertaines traditions fon présentent en réalité Mawu-Lisa comme une seule divinité androgyne plutôt que comme un couple à proprement parler, la séparation en deux principes complémentaires (lune féminine et fraîcheur, soleil masculin et chaleur) étant une façon de rendre intelligible une unité divine qui précède la distinction des genres.\n\nLe couple est étroitement associé au serpent cosmique Dan Aïdo-Hwedo, créé pour porter et soutenir la terre nouvellement façonnée : cette figure serpentine constitue l'un des liens mythologiques les plus directement traçables entre l'Afrique de l'Ouest et les Amériques, puisqu'elle est à l'origine du Damballa du vodou haïtien.",
+  "domaines": [
+    "création",
+    "dualité",
+    "lune et soleil"
+  ],
+  "tags": [
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

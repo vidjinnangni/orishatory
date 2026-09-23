@@ -4,10 +4,19 @@
   "variantes": [],
   "region": "afrique-ouest",
   "categorie": "recits",
-  "peuples": ["Fulani (Peul)"],
+  "peuples": [
+    "Fulani (Peul)"
+  ],
   "resume": "Conte initiatique peul relatant le voyage de trois jeunes hommes à la recherche de Kaydara, génie souterrain incarnant la connaissance suprême, dont la quête révèle progressivement leurs caractères respectifs (sagesse, richesse, pouvoir) et enseigne une hiérarchie de valeurs spirituelles.",
-  "domaines": ["initiation", "sagesse", "quête spirituelle"],
-  "tags": ["initiation"],
+  "description_detaillee": "La structure du conte repose sur l'épreuve différenciée que subissent les trois compagnons au terme de leur voyage souterrain : face aux mêmes obstacles et aux mêmes rencontres, chacun réagit selon son tempérament profond, révélant qui recherchait sincèrement la sagesse et qui poursuivait en réalité la richesse ou le pouvoir sous couvert de quête spirituelle. Le jugement final de Kaydara ne récompense pas l'effort ou le courage en tant que tels, mais la nature véritable de l'intention initiale de chacun.\n\nCette structure ternaire, où trois postulants aux qualités contrastées affrontent une même épreuve avec des issues différenciées, est un procédé narratif que l'on retrouve dans de nombreuses traditions orales à travers le monde, sans qu'il faille y voir un emprunt direct plutôt qu'une convergence propre au genre du conte initiatique.",
+  "domaines": [
+    "initiation",
+    "sagesse",
+    "quête spirituelle"
+  ],
+  "tags": [
+    "initiation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

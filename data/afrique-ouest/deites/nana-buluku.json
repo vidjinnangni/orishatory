@@ -4,15 +4,25 @@
   "variantes": [],
   "region": "afrique-ouest",
   "categorie": "deites",
-  "peuples": ["Fon (Dahomey)"],
+  "peuples": [
+    "Fon (Dahomey)"
+  ],
   "resume": "Divinité primordiale et androgyne dans certaines traditions fon, antérieure et mère de Mawu-Lisa, associée à la création originelle du monde avant même la répartition des principes masculin et féminin.",
-  "domaines": ["création primordiale", "androgynie divine"],
-  "tags": ["creation"],
+  "description_detaillee": "L'historien et anthropologue Melville Herskovits, l'un des premiers à documenter systématiquement la religion fon dans les années 1930, a suggéré que le nom et certains traits de Nana Buluku pourraient provenir d'échanges anciens avec des populations haoussa islamisées, le vocable 'buluku' évoquant possiblement une adaptation du terme arabe désignant Dieu — hypothèse qui, si elle se confirme, ferait de Nana Buluku un exemple de recomposition religieuse issue de contacts commerciaux et culturels transrégionaux plutôt que d'une théologie fon isolée.\n\nCette incertitude sur son origine exacte s'ajoute à celle, déjà signalée, sur sa place précise dans la généalogie divine : figure à la fois antérieure et complémentaire de Mawu-Lisa, Nana Buluku illustre la difficulté à figer en un schéma unique une cosmogonie transmise oralement et sujette à variation régionale.",
+  "domaines": [
+    "création primordiale",
+    "androgynie divine"
+  ],
+  "tags": [
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["mawu-lisa"]
+    "entites_liees": [
+      "mawu-lisa"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

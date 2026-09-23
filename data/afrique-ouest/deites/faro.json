@@ -4,18 +4,34 @@
   "variantes": [],
   "region": "afrique-ouest",
   "categorie": "deites",
-  "peuples": ["Bambara", "Mandingue"],
+  "peuples": [
+    "Bambara",
+    "Mandingue"
+  ],
   "resume": "Divinité de l'eau et organisatrice du monde dans la cosmogonie bambara (Mali), envoyée pour restaurer l'ordre après le désordre provoqué par Pemba. Associée à la parole, à la gémellité et à la purification.",
-  "domaines": ["eau", "ordre du monde", "parole", "purification"],
-  "tags": ["eau", "creation"],
+  "description_detaillee": "La cosmogonie bambara telle que documentée par Germaine Dieterlen présente Faro comme une entité de nature gémellaire, associée à la parole articulée et à la purification du désordre originel introduit par Pemba. Certains récits la présentent sacrifiée ou démembrée dans le cours de son intervention organisatrice, un motif qui rappelle structurellement le sort du Nommo dogon voisin, sacrifié par Amma pour parachever l'ordre du monde.\n\nLes sociétés d'initiation bambara, notamment le Komo, réactualisent rituellement le conflit entre Faro et Pemba lors des cérémonies de passage : l'ordre que Faro impose au chaos de Pemba devient ainsi le modèle mythologique sur lequel se règle le passage de l'enfance à l'âge adulte, l'individu non initié étant symboliquement assimilé au désordre originel que le rite doit corriger.",
+  "domaines": [
+    "eau",
+    "ordre du monde",
+    "parole",
+    "purification"
+  ],
+  "tags": [
+    "eau",
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["pemba"]
+    "entites_liees": [
+      "pemba"
+    ]
   },
   "attributs": [],
-  "recits_associes": ["partage-monde-faro-pemba"],
+  "recits_associes": [
+    "partage-monde-faro-pemba"
+  ],
   "culte_contemporain": "",
   "sources": [
     "Dieterlen, G. (1951). Essai sur la religion bambara",

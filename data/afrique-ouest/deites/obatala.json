@@ -1,20 +1,37 @@
 {
   "id": "obatala",
   "nom": "Ọbàtálá",
-  "variantes": ["Obatala", "Orisanla"],
+  "variantes": [
+    "Obatala",
+    "Orisanla"
+  ],
   "region": "afrique-ouest",
   "categorie": "deites",
-  "peuples": ["Yoruba"],
+  "peuples": [
+    "Yoruba"
+  ],
   "resume": "Orisha de la création et de la pureté, chargé par Olodumare de façonner les corps humains dans l'argile avant que le souffle de vie ne leur soit insufflé. Associé à la sagesse, à la patience et à la couleur blanche.",
-  "domaines": ["création", "pureté", "sagesse", "artisanat (poterie/sculpture)"],
-  "tags": ["creation"],
+  "description_detaillee": "Comme Èṣù, Obatala ne se limite pas à une figure unique : il se manifeste selon de multiples 'chemins' ou avatars régionaux (Orisanla, Orishagiyan, Alaguema, entre autres), chacun rattaché à une cité ou une lignée de culte particulière, avec ses propres interdits et objets rituels.\n\nL'interdiction rituelle de consommer du vin de palme chez ses dévots découle directement du mythe où son ivresse aurait causé des malformations chez certains humains qu'il façonnait : loin d'être une simple anecdote, cet épisode fonde une éthique de la sobriété et de la retenue que ses initiés (souvent vêtus exclusivement de blanc) sont censés incarner au quotidien.\n\nCertaines traditions font état d'une rivalité fondatrice entre Obatala et Oduduwa, souvent présenté comme le premier roi d'Ile-Ife et ancêtre des dynasties yoruba : selon certaines versions, Oduduwa se serait emparé du pouvoir politique de la création du monde pendant qu'Obatala était incapable d'agir sous l'effet du vin de palme, introduisant une tension durable entre l'autorité spirituelle du second et l'autorité royale du premier dans plusieurs récits de fondation.",
+  "domaines": [
+    "création",
+    "pureté",
+    "sagesse",
+    "artisanat (poterie/sculpture)"
+  ],
+  "tags": [
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["couleur blanche", "argile", "étain"],
+  "attributs": [
+    "couleur blanche",
+    "argile",
+    "étain"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [
