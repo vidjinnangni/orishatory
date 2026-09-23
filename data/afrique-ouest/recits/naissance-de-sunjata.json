@@ -4,15 +4,27 @@
   "variantes": [],
   "region": "afrique-ouest",
   "categorie": "recits",
-  "peuples": ["Mandingue", "Malinké"],
+  "peuples": [
+    "Mandingue",
+    "Malinké"
+  ],
   "resume": "Épisode d'ouverture de l'épopée mandingue : la mère de Sunjata, Sogolon, femme au double physique bosselé (associée au totem-buffle), est prise pour épouse par prophétie. Sunjata naît infirme, incapable de marcher jusqu'à l'adolescence, méprisé par la cour, avant de se redresser miraculeusement à l'aide d'un bâton de fer.",
-  "domaines": ["destinée", "humiliation surmontée", "prophétie"],
-  "tags": ["royaute-sacree"],
+  "description_detaillee": "L'épisode s'ouvre traditionnellement par une prophétie faite au père de Sunjata, le roi Naré Maghann Konaté, selon laquelle il devait épouser une femme laide et bossue, présentée par des chasseurs étrangers, car de leur union naîtrait un fils destiné à une grandeur exceptionnelle. Ce motif du destin caché sous une apparence disgracieuse ou une naissance humiliante — que l'on retrouve ailleurs sous des formes comparables — sert à souligner que la grandeur de Sunjata procède d'abord d'un accomplissement contre toute attente plutôt que d'un privilège de naissance évident.\n\nL'humiliation initiale de Sunjata à la cour, moqué pour son infirmité par les épouses rivales de son père, fonctionne narrativement comme l'épreuve nécessaire que le héros doit surmonter avant de pouvoir accéder à son destin de fondateur d'empire, structure classique de l'épopée qui trouve des échos dans plusieurs récits fondateurs ouest-africains (Bayajidda, Chibinda Ilunga).",
+  "domaines": [
+    "destinée",
+    "humiliation surmontée",
+    "prophétie"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["sunjata-keita"]
+    "entites_liees": [
+      "sunjata-keita"
+    ]
   },
   "attributs": [],
   "recits_associes": [],
@@ -21,5 +33,5 @@
     "Niane, D.T. (1960). Soundjata ou l'épopée mandingue",
     "Conrad, D.C. (2004). Sunjata: A West African Epic of the Mande Peoples"
   ],
-  "notes": "Il existe de nombreuses variantes de cet épisode selon le lignage de griot qui la transmet ; la version de Niane (1960), basée sur le récit du griot Mamadou Kouyaté, est la plus diffusée en français, mais n'est pas la seule autorité sur le texte."
+  "notes": "Il existe de nombreuses variantes de cet épisode selon le lignage de griot qui la transmet ; la version de Niane (1960), basée sur le récit du griot Mamadou Kouyaté, est la plus diffusée en français mais n'est pas la seule autorité sur le texte."
 }

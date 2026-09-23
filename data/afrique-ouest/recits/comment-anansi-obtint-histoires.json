@@ -4,15 +4,27 @@
   "variantes": [],
   "region": "afrique-ouest",
   "categorie": "recits",
-  "peuples": ["Akan"],
+  "peuples": [
+    "Akan"
+  ],
   "resume": "Conte fondateur expliquant pourquoi les contes populaires sont appelés 'histoires d'Anansi' chez les Akan : Anansi négocie avec le dieu du ciel Nyame l'achat de toutes les histoires du monde, en échange de la capture de créatures redoutées jugées impossibles à attraper (un frelon, un python géant, un léopard).",
-  "domaines": ["ruse", "narration", "négociation"],
-  "tags": ["trickster"],
+  "description_detaillee": "Le conte détaille les trois épreuves qu'Anansi doit réussir pour obtenir les histoires détenues par Nyame : capturer le python Onini en le mettant au défi de vérifier s'il est vraiment aussi long qu'une perche de bambou, pour mieux l'attacher pendant l'opération de mesure ; piéger le léopard Osebo dans une fosse creusée sur son propre chemin, puis lui proposer son aide pour en sortir à condition de se laisser d'abord ligoter ; et enfin capturer l'essaim de frelons redoutés Mmoboro en les persuadant qu'une pluie menace et qu'ils doivent s'abriter dans une calebasse, qu'Anansi scelle aussitôt.\n\nDans certaines versions plus complètes du récit, c'est Aso, l'épouse d'Anansi, qui lui souffle l'idée du piège à léopard, lui conférant un rôle de co-créatrice de la ruse souvent effacé dans les versions abrégées destinées aux jeunes publics.\n\nCe conte constitue le récit étiologique par excellence de la tradition akan, puisqu'il explique directement l'origine du terme anansesem ('affaires d'Anansi') utilisé pour désigner l'ensemble du répertoire de contes populaires, quelle que soit l'histoire concrètement racontée par la suite.",
+  "domaines": [
+    "ruse",
+    "narration",
+    "négociation"
+  ],
+  "tags": [
+    "trickster"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["anansi", "nyame"]
+    "entites_liees": [
+      "anansi",
+      "nyame"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

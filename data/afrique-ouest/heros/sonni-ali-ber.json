@@ -4,17 +4,28 @@
   "variantes": [],
   "region": "afrique-ouest",
   "categorie": "heros",
-  "peuples": ["Songhaï"],
+  "peuples": [
+    "Songhaï"
+  ],
   "resume": "Empereur du 15e siècle qui étendit considérablement l'empire Songhaï, devenu dans la tradition orale une figure à la fois historique et légendaire, réputée posséder des pouvoirs magiques puissants (métamorphose, invisibilité) qui lui auraient permis ses victoires militaires.",
-  "domaines": ["royauté", "conquête", "magie"],
-  "tags": ["royaute-sacree"],
+  "description_detaillee": "Les principales sources écrites sur le règne de Sonni Ali Ber, notamment le Tarikh al-Sudan, ont été rédigées plusieurs décennies après sa mort, sous la dynastie askia qui lui succéda après avoir renversé son fils — un contexte qui invite à la prudence historiographique, ces chroniques ayant un intérêt évident à dépeindre Sonni Ali comme un souverain insuffisamment pieux et excessivement porté sur la magie, par contraste avec la légitimité religieuse revendiquée par ses successeurs.\n\nSes tensions documentées avec les érudits musulmans de Tombouctou, notamment ceux associés à la mosquée-université de Sankoré, s'inscrivent dans ce même contexte de rivalité entre pouvoir politique et autorité religieuse, que la légende postérieure a largement amplifiée en la traduisant dans le registre de la sorcellerie et de la métamorphose plutôt que dans celui, plus prosaïque, du conflit d'autorité.",
+  "domaines": [
+    "royauté",
+    "conquête",
+    "magie"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["réputation de sorcellerie et de métamorphose"],
+  "attributs": [
+    "réputation de sorcellerie et de métamorphose"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Figure encore centrale de l'identité historique songhaï contemporaine au Mali et au Niger, bien que son règne soit aussi documenté par des sources écrites (chroniques de Tombouctou) qui nuancent l'image légendaire.",
   "sources": [

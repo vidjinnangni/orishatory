@@ -4,17 +4,31 @@
   "variantes": [],
   "region": "afrique-ouest",
   "categorie": "rites",
-  "peuples": ["Hausa"],
+  "peuples": [
+    "Hausa"
+  ],
   "resume": "Religion de possession spirituelle hausa antérieure à l'islamisation, organisée autour d'un panthéon d'esprits (iskoki) incarnés par des adeptes en transe lors de cérémonies rythmées par le tambour, encore pratiquée aujourd'hui en marge de l'islam dominant.",
-  "domaines": ["possession spirituelle", "guérison", "transe"],
-  "tags": ["divination", "initiation"],
+  "description_detaillee": "Le panthéon des esprits bori (iskoki) comprend des figures hiérarchisées et nommées, dont certaines sont désignées par des titres de cour reflétant une organisation calquée sur celle des anciens émirats haoussa (Sarkin Rafi, 'chef de la rivière', par exemple), tandis que d'autres incarnent des figures étrangères ou historiques absorbées au fil du temps dans le panthéon, illustrant sa capacité d'adaptation continue.\n\nLa pratique du bori offre traditionnellement aux femmes haoussa, dans une société par ailleurs fortement patriarcale et islamisée, un espace d'autorité sociale et spirituelle rare : les cheffes de maisonnées bori (magajiya) y exercent un pouvoir religieux et parfois économique largement fermé aux femmes dans les structures islamiques dominantes, ce qui explique en partie la position ambivalente mais durable de cette pratique en marge de l'orthodoxie religieuse.",
+  "domaines": [
+    "possession spirituelle",
+    "guérison",
+    "transe"
+  ],
+  "tags": [
+    "divination",
+    "initiation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["tambours", "danse de transe", "costumes spécifiques à chaque esprit incarné"],
+  "attributs": [
+    "tambours",
+    "danse de transe",
+    "costumes spécifiques à chaque esprit incarné"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Pratiqué au Niger et au nord du Nigeria, souvent par des femmes et des personnes marginalisées, en dehors ou en marge des structures islamiques dominantes ; a également voyagé via la diaspora haoussa jusqu'en Afrique du Nord et en Libye.",
   "sources": [

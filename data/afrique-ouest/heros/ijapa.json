@@ -1,25 +1,38 @@
 {
   "id": "ijapa",
   "nom": "Ijapa",
-  "variantes": ["Ajapa"],
+  "variantes": [
+    "Ajapa"
+  ],
   "region": "afrique-ouest",
   "categorie": "heros",
-  "peuples": ["Yoruba"],
-  "resume": "Tortue rusée, figure du trickster dans le corpus de contes yoruba (àlọ́). Triomphe habituellement par la ruse, mais finit souvent puni par sa propre cupidité, servant de leçon morale.",
-  "domaines": ["ruse", "morale", "narration"],
-  "tags": ["trickster"],
+  "peuples": [
+    "Yoruba"
+  ],
+  "resume": "Tortue rusée, figure du trickster dans le corpus de contes yoruba (àlọ́). Triomphe habituellement par la ruse mais finit souvent puni par sa propre cupidité, servant de leçon morale.",
+  "description_detaillee": "L'un des contes les plus emblématiques mettant en scène Ijapa raconte comment elle entreprit de rassembler toute la sagesse du monde dans une calebasse fermée, comptant devenir ainsi la seule créature intelligente et s'assurer une supériorité définitive sur tous les autres animaux. Grimpant à un arbre pour cacher son trésor au sommet, elle attacha maladroitement la calebasse devant elle plutôt que dans son dos, ce qui l'empêchait d'avancer ; un enfant qui l'observait lui suggéra la solution évidente, provoquant chez Ijapa un tel dépit de voir son plan d'accaparement déjoué par un simple enfant qu'elle laissa tomber la calebasse, dispersant la sagesse à travers le monde entier — expliquant pourquoi nul ne détient l'intégralité du savoir.\n\nCe schéma narratif, où la cupidité d'Ijapa se retourne systématiquement contre elle au moment même de la réussite apparente, distingue structurellement ses aventures de celles d'Anansi : là où le trickster akan conserve généralement le bénéfice de sa ruse, la tortue yoruba sert avant tout d'exemple négatif dans la pédagogie morale des contes pour enfants.",
+  "domaines": [
+    "ruse",
+    "morale",
+    "narration"
+  ],
+  "tags": [
+    "trickster"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["carapace fêlée (motif récurrent expliquant son origine dans plusieurs contes)"],
+  "attributs": [
+    "carapace fêlée (motif récurrent expliquant son origine dans plusieurs contes)"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Personnage encore central dans les contes racontés aux enfants au Nigeria et au Bénin ; comparable structurellement à Anansi chez les Akan ou au lièvre dans d'autres traditions ouest-africaines.",
   "sources": [
     "Bascom, W. (1969). Ifa Divination (contexte du corpus narratif yoruba)",
     "Owomoyela, O. (1997). Yoruba Trickster Tales"
   ],
-  "notes": "Contrairement à Anansi, souvent présenté positivement, Ijapa incarne plus fréquemment une ruse punie. Les contes s'en servent pour illustrer les excès de la cupidité et de la vanité."
+  "notes": "Contrairement à Anansi, souvent présenté positivement, Ijapa incarne plus fréquemment une ruse punie — les contes s'en servent pour illustrer les excès de la cupidité et de la vanité."
 }

@@ -1,20 +1,38 @@
 {
   "id": "sowei",
   "nom": "Sowei",
-  "variantes": ["Ndoli Jowei"],
+  "variantes": [
+    "Ndoli Jowei"
+  ],
   "region": "afrique-ouest",
   "categorie": "creatures",
-  "peuples": ["Mende"],
+  "peuples": [
+    "Mende"
+  ],
   "resume": "Esprit féminin de l'eau incarné par le masque du même nom porté lors des cérémonies de la société Sande, seul exemple bien documenté au monde de masque rituel africain traditionnellement porté exclusivement par des femmes.",
-  "domaines": ["eau", "beauté idéale", "autorité féminine rituelle"],
-  "tags": ["eau", "initiation"],
+  "description_detaillee": "Les traits sculptés du masque sowei ne relèvent pas d'un simple choix esthétique : petite bouche fermée, yeux baissés, front haut et coiffure élaborée traduisent visuellement un idéal mende de la féminité accomplie, associant retenue, sagesse et prospérité matérielle (les anneaux du cou évoquant l'embonpoint valorisé comme signe de richesse et de bonne santé).\n\nLe caractère quasi unique du sowei dans le paysage des arts rituels africains — une performance masquée en costume intégral et masque de bois, portée par des femmes et pour des femmes — en fait un cas fréquemment cité dans les études de genre consacrées à l'art africain, où la règle presque générale veut que le port du masque en bois soit une prérogative strictement masculine, y compris pour représenter des esprits féminins.",
+  "domaines": [
+    "eau",
+    "beauté idéale",
+    "autorité féminine rituelle"
+  ],
+  "tags": [
+    "eau",
+    "initiation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["sande"]
+    "entites_liees": [
+      "sande"
+    ]
   },
-  "attributs": ["masque noir laqué", "cou annelé", "coiffure élaborée sculptée"],
+  "attributs": [
+    "masque noir laqué",
+    "cou annelé",
+    "coiffure élaborée sculptée"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

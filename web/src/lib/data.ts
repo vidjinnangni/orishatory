@@ -22,6 +22,7 @@ export interface Entite {
   categorie: Categorie;
   peuples: string[];
   resume: string;
+  description_detaillee?: string;
   domaines: string[];
   tags: string[];
   genealogie: Genealogie;

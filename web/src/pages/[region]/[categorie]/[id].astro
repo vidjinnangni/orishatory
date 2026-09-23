@@ -45,6 +45,8 @@ const genealogieGroups = [
   { label: "Entités liées", ids: entity.genealogie.entites_liees },
 ].filter((group) => group.ids.length > 0);
 
+const descriptionParagraphs = entity.description_detaillee?.split(/\n{2,}/).filter(Boolean) ?? [];
+
 const recitsAssocies = entity.recits_associes.map(relatedLink);
 const tags = entity.tags.map((id) => ({ id, label: getTagById(id)?.label ?? id }));
 ---
@@ -83,6 +85,19 @@ const tags = entity.tags.map((id) => ({ id, label: getTagById(id)?.label ?? id }
               </li>
             ))}
           </ul>
+        </section>
+      )
+    }
+
+    {
+      descriptionParagraphs.length > 0 && (
+        <section>
+          <h2>En détail</h2>
+          <div class="prose">
+            {descriptionParagraphs.map((paragraph) => (
+              <p>{paragraph}</p>
+            ))}
+          </div>
         </section>
       )
     }

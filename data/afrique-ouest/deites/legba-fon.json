@@ -4,17 +4,33 @@
   "variantes": [],
   "region": "afrique-ouest",
   "categorie": "deites",
-  "peuples": ["Fon (Dahomey)"],
+  "peuples": [
+    "Fon (Dahomey)"
+  ],
   "resume": "Vodun fon des carrefours, messager entre les humains et les autres vodun, gardien des portes et interprète des oracles Fa. Fonctionnellement proche d'Èṣù chez les Yoruba, il constitue la source directe du Papa Legba du vodou haïtien.",
-  "domaines": ["carrefours", "communication", "seuils", "divination"],
-  "tags": ["trickster", "divination"],
+  "description_detaillee": "Dans la hiérarchie des vodun fon, Legba occupe une place paradoxale : souvent décrit comme le plus jeune enfant de Mawu-Lisa, il n'en reçoit pas moins la charge de gardien du langage divin, sans le concours duquel aucun autre vodun ne peut être sollicité par les humains. Cette centralité malgré une position généalogique subalterne reflète une logique récurrente dans les théologies ouest-africaines du carrefour, où proximité avec les humains compte davantage que rang hiérarchique.\n\nSon emplacement rituel systématique à l'entrée des concessions familiales et des villages traduit concrètement sa fonction théologique de seuil : lieu de passage obligé entre l'espace domestique protégé et le monde extérieur, entre le visible et l'invisible.",
+  "domaines": [
+    "carrefours",
+    "communication",
+    "seuils",
+    "divination"
+  ],
+  "tags": [
+    "trickster",
+    "divination"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["eshu-elegba", "papa-legba"]
+    "entites_liees": [
+      "eshu-elegba",
+      "papa-legba"
+    ]
   },
-  "attributs": ["statuette phallique en argile souvent placée à l'entrée des villages et des maisons"],
+  "attributs": [
+    "statuette phallique en argile souvent placée à l'entrée des villages et des maisons"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

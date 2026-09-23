@@ -1,20 +1,39 @@
 {
   "id": "dan-aido-hwedo",
   "nom": "Dan Aïdo-Hwedo",
-  "variantes": ["Aido-Hwedo", "Dan"],
+  "variantes": [
+    "Aido-Hwedo",
+    "Dan"
+  ],
   "region": "afrique-ouest",
   "categorie": "deites",
-  "peuples": ["Fon (Dahomey)"],
+  "peuples": [
+    "Fon (Dahomey)"
+  ],
   "resume": "Serpent cosmique fon soutenant et entourant le monde tel un anneau, créé par Mawu-Lisa pour porter la terre lors de sa création. Se mordant la queue, il maintient la cohésion de l'univers et provoquerait des tremblements de terre en se déplaçant.",
-  "domaines": ["cosmos", "stabilité du monde", "mouvement tellurique"],
-  "tags": ["creation", "eau"],
+  "description_detaillee": "Selon le récit fon le plus complet, Dan Aïdo-Hwedo aurait transporté Mawu dans sa gueule lors de la création du monde, lui permettant de parcourir et façonner la terre encore informe avant de s'enrouler dessous pour la soutenir. Sa présence expliquerait aussi bien l'arc-en-ciel (son reflet visible dans le ciel et dans l'eau) que les tremblements de terre, causés par ses mouvements lorsqu'il change de position pour se soulager du poids du monde.\n\nUn motif eschatologique moins souvent rapporté veut que Dan Aïdo-Hwedo se nourrisse de tiges de fer forgées spécialement à son intention et jetées dans l'océan ; si les humains cessaient un jour de lui fournir cette nourriture, il n'aurait d'autre choix que de se mordre lui-même la queue jusqu'à épuisement, provoquant l'effondrement de la terre dans les eaux primordiales — un rare exemple de mythe de fin du monde conditionnel dans les cosmogonies ouest-africaines.\n\nSa transmission directe vers Haïti sous les traits de Damballa et Ayida-Wédo, sans intermédiaire yoruba comme pour Èṣù/Legba, en fait l'un des cas de continuité mythologique transatlantique les mieux établis entre l'Afrique de l'Ouest et le vodou.",
+  "domaines": [
+    "cosmos",
+    "stabilité du monde",
+    "mouvement tellurique"
+  ],
+  "tags": [
+    "creation",
+    "eau"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["mawu-lisa", "damballa"]
+    "entites_liees": [
+      "mawu-lisa",
+      "damballa"
+    ]
   },
-  "attributs": ["forme d'ouroboros (serpent se mordant la queue)", "arc-en-ciel"],
+  "attributs": [
+    "forme d'ouroboros (serpent se mordant la queue)",
+    "arc-en-ciel"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

@@ -1,20 +1,42 @@
 {
   "id": "oya",
   "nom": "Ọya",
-  "variantes": ["Oya", "Yansan"],
+  "variantes": [
+    "Oya",
+    "Yansan"
+  ],
   "region": "afrique-ouest",
   "categorie": "deites",
-  "peuples": ["Yoruba"],
+  "peuples": [
+    "Yoruba"
+  ],
   "resume": "Orisha des vents violents, des tempêtes et de la transformation, associée au fleuve Niger (qui porte son nom en yoruba) et aux portes de la mort. Épouse de Shango, guerrière redoutée capable de commander la foudre en son absence.",
-  "domaines": ["vent", "tempête", "transformation", "passage vers la mort"],
-  "tags": ["foudre-orage", "mort-au-dela"],
+  "description_detaillee": "Un récit couramment associé à Oya raconte qu'elle se déplace habituellement sous la forme d'un buffle, se dépouillant de sa peau pour prendre apparence humaine ; cette peau, conservée avec précaution, serait à l'origine du tissu utilisé dans certaines mascarades ancestrales, reliant Oya à la tradition egungun dont plusieurs récits lui attribuent l'introduction auprès des humains.\n\nSa fonction de patronne des marchés et du commerce dans certaines régions yoruba complète son image guerrière : la transformation rapide et parfois violente qu'elle incarne s'applique aussi bien aux tempêtes atmosphériques qu'aux fluctuations économiques ou aux bouleversements sociaux brusques.\n\nSur le plan cosmologique, sa relation avec Shango illustre une complémentarité élémentaire familière à plusieurs mythologies : le feu et la foudre de son époux ont besoin du vent qu'elle commande pour se propager, une dépendance mutuelle que les récits traditionnels formulent parfois en disant qu'Oya prête sa force à Shango pour que la foudre puisse frapper.",
+  "domaines": [
+    "vent",
+    "tempête",
+    "transformation",
+    "passage vers la mort"
+  ],
+  "tags": [
+    "foudre-orage",
+    "mort-au-dela"
+  ],
   "genealogie": {
     "parents": [],
-    "conjoints": ["shango"],
+    "conjoints": [
+      "shango"
+    ],
     "enfants": [],
-    "entites_liees": ["shango"]
+    "entites_liees": [
+      "shango"
+    ]
   },
-  "attributs": ["neuf couleurs (associées à ses neuf enfants)", "buffle (forme alternative)", "sabre"],
+  "attributs": [
+    "neuf couleurs (associées à ses neuf enfants)",
+    "buffle (forme alternative)",
+    "sabre"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

@@ -1,20 +1,42 @@
 {
   "id": "anansi",
   "nom": "Anansi",
-  "variantes": ["Kwaku Ananse", "Ananse"],
+  "variantes": [
+    "Kwaku Ananse",
+    "Ananse"
+  ],
   "region": "afrique-ouest",
   "categorie": "heros",
-  "peuples": ["Akan", "Ashanti"],
+  "peuples": [
+    "Akan",
+    "Ashanti"
+  ],
   "resume": "Araignée rusée et conteuse, figure centrale des récits akan. Anansi triomphe par l'intelligence plutôt que par la force et est crédité d'avoir apporté les histoires au monde.",
-  "domaines": ["ruse", "narration", "savoir"],
-  "tags": ["trickster", "metamorphose", "diaspora-survivance"],
+  "description_detaillee": "Dans la cosmologie akan, Anansi n'est pas seulement un personnage de conte : il est le dépositaire du savoir narratif lui-même. Le terme akan désignant les contes populaires, anansesem (\"affaires d'Anansi\"), témoigne de cette fusion entre le personnage et le genre qu'il incarne, quelle que soit l'intrigue effectivement racontée.\n\nSes récits suivent un schéma récurrent : Anansi convoite un bien, un statut ou une connaissance détenus par un plus puissant que lui (souvent Nyame lui-même, ou des animaux redoutés comme le python ou le léopard), et l'obtient par la ruse plutôt que par la force. Cette structure sert une fonction pédagogique explicite dans la transmission orale akan : elle valorise l'intelligence face à la puissance brute, tout en réservant souvent à Anansi lui-même une punition ou un retournement de situation qui nuance l'admiration qu'il inspire.\n\nLa transmission de ces récits vers les Caraïbes pendant la traite transatlantique en a fait l'un des corpus narratifs africains les mieux documentés dans le monde diasporique : les \"Anansi stories\" jamaïcaines conservent une bonne part de la structure narrative originelle tout en intégrant des éléments locaux, illustrant une continuité culturelle rare sur une aussi longue distance historique.",
+  "domaines": [
+    "ruse",
+    "narration",
+    "savoir"
+  ],
+  "tags": [
+    "trickster",
+    "metamorphose",
+    "diaspora-survivance"
+  ],
   "genealogie": {
-    "parents": ["Nyame (dieu du ciel)"],
+    "parents": [
+      "Nyame (dieu du ciel)"
+    ],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["nyame"]
+    "entites_liees": [
+      "nyame"
+    ]
   },
-  "attributs": ["toile d'araignée", "forme d'araignée ou d'homme"],
+  "attributs": [
+    "toile d'araignée",
+    "forme d'araignée ou d'homme"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Personnage central des contes oraux, largement transmis dans les Caraïbes (Anansi stories) via la traite transatlantique, notamment en Jamaïque.",
   "sources": [

@@ -4,18 +4,35 @@
   "variantes": [],
   "region": "afrique-ouest",
   "categorie": "deites",
-  "peuples": ["Bambara", "Mandingue"],
+  "peuples": [
+    "Bambara",
+    "Mandingue"
+  ],
   "resume": "Principe créateur primordial dans la cosmogonie bambara, associé à la terre et à un désordre originel qu'il provoque en agissant seul avant l'intervention organisatrice de Faro. Sa graine primordiale (le 'pembele') est un motif central du récit de création.",
-  "domaines": ["terre", "création", "désordre primordial"],
-  "tags": ["terre-fertilite", "creation"],
+  "description_detaillee": "Le récit bambara associe la graine primordiale de Pemba, le pembele, à un arbre mythique dont la germination prématurée et désordonnée aurait donné naissance à une terre encore instable et impure, nécessitant l'intervention correctrice de Faro pour devenir habitable. Cette impureté originelle du geste de Pemba, agissant seul et sans concertation, sert de fondement mythologique à l'idée bambara selon laquelle toute création individuelle et précipitée engendre le désordre, par opposition à l'action organisée et collective incarnée par Faro.\n\nLe motif du désordre initial suivi d'une réorganisation par une seconde entité divine constitue une structure narrative que l'on retrouve, sous des formes distinctes, dans plusieurs cosmogonies ouest-africaines voisines, sans qu'il faille y voir une origine commune plutôt qu'une convergence thématique indépendante.",
+  "domaines": [
+    "terre",
+    "création",
+    "désordre primordial"
+  ],
+  "tags": [
+    "terre-fertilite",
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["faro"]
+    "entites_liees": [
+      "faro"
+    ]
   },
-  "attributs": ["graine primordiale (pembele)"],
-  "recits_associes": ["partage-monde-faro-pemba"],
+  "attributs": [
+    "graine primordiale (pembele)"
+  ],
+  "recits_associes": [
+    "partage-monde-faro-pemba"
+  ],
   "culte_contemporain": "",
   "sources": [
     "Dieterlen, G. (1951). Essai sur la religion bambara",

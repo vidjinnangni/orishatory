@@ -1,20 +1,41 @@
 {
   "id": "ogun",
   "nom": "Ògún",
-  "variantes": ["Ogun", "Ogoun"],
+  "variantes": [
+    "Ogun",
+    "Ogoun"
+  ],
   "region": "afrique-ouest",
   "categorie": "deites",
-  "peuples": ["Yoruba"],
+  "peuples": [
+    "Yoruba"
+  ],
   "resume": "Orisha du fer, de la forge, de la guerre et de la technologie. Défricheur des chemins, patron des forgerons, chasseurs et de tous ceux qui travaillent le métal.",
-  "domaines": ["fer", "guerre", "chasse", "technologie", "justice par le serment"],
-  "tags": ["forge-artisanat"],
+  "description_detaillee": "Le culte d'Ogun s'organise autour de centres historiques précis, notamment Ile-Ife et Ondo, mais son domaine d'action s'est étendu avec les technologies elles-mêmes : au Nigeria contemporain, chauffeurs de taxi, mécaniciens et chirurgiens comptent parmi ses dévots, aux côtés des forgerons et chasseurs plus traditionnellement associés à son culte — une extension cohérente avec sa définition théologique comme maître de tout objet en fer ou en métal, ancien ou moderne.\n\nLe serment prêté sur une lame ou un objet de fer d'Ogun conserve une valeur coutumière dans certains tribunaux communautaires yoruba : le parjure y est censé attirer sa colère, considérée comme plus sûre et plus rapide que la justice ordinaire. Les accidents de la route sont parfois interprétés dans une lecture traditionnelle comme des manifestations de sa présence sur les axes de circulation modernes, prolongement de son rôle ancien de défricheur de chemins.\n\nSa relation avec Èṣù, qu'il croise dans plusieurs récits, illustre une tension récurrente dans le panthéon yoruba entre force brute et ruse : les deux orisha sont alliés autant que rivaux, chacun incarnant une voie distincte vers l'accomplissement des désirs humains.",
+  "domaines": [
+    "fer",
+    "guerre",
+    "chasse",
+    "technologie",
+    "justice par le serment"
+  ],
+  "tags": [
+    "forge-artisanat"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["eshu-elegba"]
+    "entites_liees": [
+      "eshu-elegba"
+    ]
   },
-  "attributs": ["machette", "fer", "chien", "palme"],
+  "attributs": [
+    "machette",
+    "fer",
+    "chien",
+    "palme"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Toujours vénéré au Nigeria et au Bénin ; les serments prêtés sur le fer d'Ogun ont une valeur juridique coutumière dans certaines communautés yoruba. Diffusé dans les Amériques sous le nom d'Ogou (vaudou haïtien) ou Ogún (santería).",
   "sources": [

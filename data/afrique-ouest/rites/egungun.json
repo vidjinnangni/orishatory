@@ -4,17 +4,30 @@
   "variantes": [],
   "region": "afrique-ouest",
   "categorie": "rites",
-  "peuples": ["Yoruba"],
+  "peuples": [
+    "Yoruba"
+  ],
   "resume": "Tradition de mascarade rituelle yoruba honorant les ancêtres collectifs du lignage, où des initiés masqués et costumés incarnent temporairement les esprits des morts lors de cérémonies publiques et de festivals annuels.",
-  "domaines": ["ancestralité", "mascarade", "mémoire collective"],
-  "tags": ["ancetres", "mort-au-dela"],
+  "description_detaillee": "La pratique egungun distingue traditionnellement plusieurs catégories de masques selon leur fonction : les egungun apidan, costumes acrobatiques et souvent comiques destinés au divertissement public lors des festivals, et des formes plus anciennes et secrètes réservées aux initiés, associées à un pouvoir ancestral jugé plus dangereux et moins spectaculaire.\n\nLe principe rituel central veut que le porteur du masque ne soit plus considéré comme un simple humain déguisé mais comme le véhicule temporaire d'un ancêtre revenu parmi les vivants : toucher physiquement le costume est traditionnellement proscrit, un tel contact étant censé exposer la personne à un danger spirituel réel plutôt que symbolique. Des chefs de culte spécialisés (alagbaa) encadrent ces représentations et en garantissent le bon déroulement rituel.\n\nEgungun et Gelede fonctionnent souvent comme des institutions complémentaires au sein d'une même aire culturelle yoruba : la première organisant la vénération ancestrale à dominante masculine, la seconde honorant spécifiquement le pouvoir spirituel féminin.",
+  "domaines": [
+    "ancestralité",
+    "mascarade",
+    "mémoire collective"
+  ],
+  "tags": [
+    "ancetres",
+    "mort-au-dela"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["costume élaboré recouvrant intégralement le corps", "danse rituelle"],
+  "attributs": [
+    "costume élaboré recouvrant intégralement le corps",
+    "danse rituelle"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Pratiqué au Nigeria, au Bénin et au Togo ; certaines formes ont voyagé dans la diaspora, notamment à Cuba et au Brésil (Egungun/Babá Egum).",
   "sources": [

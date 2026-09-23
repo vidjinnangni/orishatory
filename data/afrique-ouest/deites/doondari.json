@@ -4,10 +4,18 @@
   "variantes": [],
   "region": "afrique-ouest",
   "categorie": "deites",
-  "peuples": ["Fulani (Peul)"],
+  "peuples": [
+    "Fulani (Peul)"
+  ],
   "resume": "Dieu créateur dans certaines traditions cosmogoniques peules, censé avoir créé le monde en quatre étapes successives (la pierre, le fer, le feu, l'eau), chacune engendrant la suivante jusqu'à la création de l'homme.",
-  "domaines": ["création", "éléments primordiaux"],
-  "tags": ["creation"],
+  "description_detaillee": "La suite du récit cosmogonique attribué à Doondari, moins souvent rapportée que l'épisode de la création en quatre étapes, prend une tournure moralisatrice : l'homme, une fois créé, aurait développé un orgueil si démesuré que Doondari dut créer l'aveuglement pour l'humilier ; l'homme demeurant fier malgré sa cécité, Doondari créa ensuite la lèpre ; celle-ci se révélant encore insuffisante, il créa enfin la mort, seule capable de mettre un terme définitif à la prétention humaine. Cette chaîne de créations correctives, comprise comme une leçon sur l'humilité, distingue le récit peul de la plupart des cosmogonies voisines centrées sur un acte créateur unique et achevé.\n\nLa multiplicité des noms divins associés à ce rôle créateur (Doondari, Geno, Gueno) reflète moins des traditions concurrentes qu'une aire culturelle peule extrêmement étendue, du Sénégal au Cameroun, où chaque région a conservé sa propre terminologie religieuse sans jamais se doter d'un corpus théologique centralisé et écrit.",
+  "domaines": [
+    "création",
+    "éléments primordiaux"
+  ],
+  "tags": [
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

@@ -1,13 +1,24 @@
 {
   "id": "chukwu",
   "nom": "Chukwu",
-  "variantes": ["Chineke"],
+  "variantes": [
+    "Chineke"
+  ],
   "region": "afrique-ouest",
   "categorie": "deites",
-  "peuples": ["Igbo"],
+  "peuples": [
+    "Igbo"
+  ],
   "resume": "Dieu créateur suprême dans la cosmologie igbo, source de toute vie et de la destinée individuelle. Généralement approché indirectement via des divinités intermédiaires et des oracles plutôt que par un culte direct.",
-  "domaines": ["création", "destin", "ordre cosmique"],
-  "tags": ["creation"],
+  "description_detaillee": "Le nom Chukwu se décompose en 'Chi Ukwu', le 'grand chi' ou grand esprit, ce qui le relie directement au concept igbo de chi : chaque individu possède son propre chi personnel, sorte de double spirituel ou de gardien du destin, dont Chukwu serait la source ultime et collective. Cette articulation entre un principe divin universel et une multitude de destins individuels distincts est l'un des traits les plus étudiés de la pensée religieuse igbo.\n\nL'oracle d'Arochukwu, dit 'Long Juju', constitua pendant plusieurs siècles avant la colonisation un centre religieux et politique majeur dans le sud-est du Nigeria, consulté pour trancher des litiges intercommunautaires au nom de Chukwu ; son influence s'étendait bien au-delà du seul territoire aro, jusqu'à ce que les autorités coloniales britanniques le détruisent militairement en 1901-1902, y voyant un obstacle à leur autorité.\n\nLa distance théologique de Chukwu, éloigné du culte direct, a également facilité sa traduction ultérieure par les missionnaires chrétiens comme équivalent du Dieu biblique — une évolution sémantique qui, comme pour Nyame ou uNkulunkulu ailleurs sur le continent, complique la reconstitution exacte de sa signification précoloniale.",
+  "domaines": [
+    "création",
+    "destin",
+    "ordre cosmique"
+  ],
+  "tags": [
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

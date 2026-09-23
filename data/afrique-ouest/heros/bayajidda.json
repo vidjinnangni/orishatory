@@ -4,17 +4,31 @@
   "variantes": [],
   "region": "afrique-ouest",
   "categorie": "heros",
-  "peuples": ["Hausa"],
+  "peuples": [
+    "Hausa"
+  ],
   "resume": "Héros fondateur légendaire des États haoussa, venu d'Orient selon le récit, qui aurait tué le serpent Sarki bloquant l'accès au puits de la ville de Daura, épousant ensuite la reine locale. Leurs descendants auraient fondé les sept États haoussa historiques (Hausa Bakwai).",
-  "domaines": ["fondation dynastique", "héroïsme", "migration"],
-  "tags": ["royaute-sacree"],
+  "description_detaillee": "La tradition distingue les sept États fondés par les fils légitimes de Bayajidda et de la reine Daurama, dits Hausa Bakwai ('les sept Haoussa' : Daura, Kano, Zazzau, Gobir, Katsina, Rano et Biram), des sept États dits Banza Bakwai ('les sept illégitimes'), fondés par les fils qu'il aurait eus avec une concubine, établissant ainsi une hiérarchie politique et symbolique entre cités haoussa qui a longtemps structuré les rapports de préséance régionaux.\n\nCertaines versions du récit accordent un rôle spécifique à un forgeron local qui aurait fabriqué l'épée utilisée par Bayajidda pour vaincre le serpent Sarki, associant symboliquement la légitimité politique naissante à la maîtrise technique du fer — un motif que l'on retrouve, sous d'autres formes, dans plusieurs récits fondateurs ouest-africains liant royauté et forge.",
+  "domaines": [
+    "fondation dynastique",
+    "héroïsme",
+    "migration"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
   "genealogie": {
     "parents": [],
-    "conjoints": ["Reine Daurama"],
+    "conjoints": [
+      "Reine Daurama"
+    ],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["épée", "serpent Sarki vaincu"],
+  "attributs": [
+    "épée",
+    "serpent Sarki vaincu"
+  ],
   "recits_associes": [],
   "culte_contemporain": "La légende reste centrale à l'identité politique et culturelle haoussa contemporaine au Nigeria et au Niger, invoquée dans la légitimation de plusieurs lignages émiraux.",
   "sources": [

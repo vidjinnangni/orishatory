@@ -1,20 +1,37 @@
 {
   "id": "sande",
   "nom": "Sande",
-  "variantes": ["Bundu"],
+  "variantes": [
+    "Bundu"
+  ],
   "region": "afrique-ouest",
   "categorie": "rites",
-  "peuples": ["Mende", "Temne"],
+  "peuples": [
+    "Mende",
+    "Temne"
+  ],
   "resume": "Société d'initiation féminine, pendant du Poro masculin en Sierra Leone et au Liberia, encadrant l'éducation des jeunes filles, les rites de passage à l'âge adulte et la transmission des savoirs féminins traditionnels sous l'autorité de la société.",
-  "domaines": ["initiation féminine", "éducation traditionnelle", "féminité rituelle"],
-  "tags": ["initiation"],
+  "description_detaillee": "Au-delà des rites de passage à proprement parler, la période d'initiation sande sert traditionnellement de cadre à un apprentissage pratique complet : les jeunes filles y reçoivent une formation en obstétrique traditionnelle, pharmacopée, tissage et gestion du foyer, faisant de la société sande une institution de transmission de savoirs concrets autant qu'un cadre rituel, comparable en cela aux corporations de métiers dans d'autres contextes culturels.\n\nCertaines traditions orales font remonter les origines du Poro et du Sande à un même pacte fondateur ancestral, présentant les deux sociétés comme les deux moitiés complémentaires d'un même système d'éducation communautaire genré plutôt que comme deux institutions indépendantes ayant simplement fini par coexister.",
+  "domaines": [
+    "initiation féminine",
+    "éducation traditionnelle",
+    "féminité rituelle"
+  ],
+  "tags": [
+    "initiation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["poro", "sowei"]
+    "entites_liees": [
+      "poro",
+      "sowei"
+    ]
   },
-  "attributs": ["masque sowei (unique exemple documenté de masque africain traditionnel porté exclusivement par des femmes)"],
+  "attributs": [
+    "masque sowei (unique exemple documenté de masque africain traditionnel porté exclusivement par des femmes)"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Reste active en Sierra Leone et au Liberia contemporains ; ses pratiques historiquement liées à l'excision ont fait l'objet de débats internationaux importants sur la santé et les droits des femmes, entraînant des réformes dans certaines communautés.",
   "sources": [
