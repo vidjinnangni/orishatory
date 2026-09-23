@@ -1,21 +1,43 @@
 {
   "id": "ra",
   "nom": "Rê",
-  "variantes": ["Ra", "Amon-Rê (forme syncrétique)"],
+  "variantes": [
+    "Ra",
+    "Amon-Rê (forme syncrétique)"
+  ],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Dieu solaire suprême de la religion égyptienne, souverain des dieux, traversant le ciel le jour sur sa barque solaire puis affrontant chaque nuit le serpent du chaos Apophis dans le monde souterrain.",
-  "domaines": ["soleil", "royauté divine", "création", "cycle jour-nuit"],
-  "tags": ["creation", "royaute-sacree"],
+  "description_detaillee": "L'un des récits majeurs concernant Rê, parfois désigné comme le mythe de la Destruction de l'humanité, raconte comment le dieu solaire vieillissant, informé d'un complot humain contre son autorité, envoya son œil sous la forme de Sekhmet punir l'humanité rebelle avec une telle violence qu'il dut lui-même intervenir pour l'arrêter avant l'anéantissement complet de l'espèce humaine, en la faisant boire de la bière teintée de rouge qu'elle prit pour du sang.",
+  "domaines": [
+    "soleil",
+    "royauté divine",
+    "création",
+    "cycle jour-nuit"
+  ],
+  "tags": [
+    "creation",
+    "royaute-sacree"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["apophis"]
+    "entites_liees": [
+      "apophis"
+    ]
   },
-  "attributs": ["disque solaire", "tête de faucon", "barque solaire"],
-  "recits_associes": ["voyage-nocturne-de-ra"],
+  "attributs": [
+    "disque solaire",
+    "tête de faucon",
+    "barque solaire"
+  ],
+  "recits_associes": [
+    "voyage-nocturne-de-ra"
+  ],
   "culte_contemporain": "",
   "sources": [
     "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",

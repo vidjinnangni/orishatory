@@ -4,9 +4,16 @@
   "variantes": [],
   "region": "afrique-nord",
   "categorie": "heros",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Architecte, vizir et médecin de la IIIe dynastie, concepteur de la pyramide à degrés de Saqqarah, progressivement déifié après sa mort comme patron de la médecine et de la sagesse.",
-  "domaines": ["architecture", "médecine", "sagesse"],
+  "description_detaillee": "Une inscription tardive connue sous le nom de stèle de la Famine, gravée à l'époque ptolémaïque soit près de deux mille cinq cents ans après la mort réelle d'Imhotep, prétend rapporter les conseils qu'il aurait prodigués au pharaon Djoser pour mettre fin à une famine causée par une crue insuffisante du Nil : ce texte tardif illustre comment sa réputation de sagesse a continué de s'enrichir et de s'élaborer légendairement bien après sa disparition historique, brouillant davantage la frontière entre mémoire attestée et amplification mythologique.",
+  "domaines": [
+    "architecture",
+    "médecine",
+    "sagesse"
+  ],
   "tags": [],
   "genealogie": {
     "parents": [],
@@ -14,7 +21,10 @@
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["rouleau de papyrus", "statuette assise de scribe"],
+  "attributs": [
+    "rouleau de papyrus",
+    "statuette assise de scribe"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Son culte tardif, associé à celui d'Asclépios sous l'influence grecque, illustre le passage d'une figure historique attestée au statut de divinité, comme pour Shango en Afrique de l'Ouest ou Chibinda Ilunga en Afrique centrale.",
   "sources": [

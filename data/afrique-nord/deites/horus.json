@@ -1,21 +1,44 @@
 {
   "id": "horus",
   "nom": "Horus",
-  "variantes": ["Heru"],
+  "variantes": [
+    "Heru"
+  ],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Dieu-faucon du ciel et de la royauté, fils d'Isis et Osiris, vengeur de son père face à Seth. Les pharaons vivants étaient considérés comme son incarnation terrestre.",
-  "domaines": ["royauté", "ciel", "guerre", "protection"],
-  "tags": ["royaute-sacree"],
+  "description_detaillee": "Le dieu se décline en plusieurs figures distinctes selon les contextes théologiques : Horus l'Ancien, associé au ciel et antérieur au cycle osirien, et Horus l'Enfant (Harpocrate pour les Grecs), représenté comme un nourrisson tétant Isis, popularisé plus tard dans le monde gréco-romain sous une forme largement diffusée. L'œil oudjat qui lui est associé servait par ailleurs de base à un système de fractions utilisé par les scribes égyptiens pour les mesures de grain, chaque partie stylisée de l'œil correspondant à une valeur fractionnaire précise, fusion notable entre symbolisme religieux et notation mathématique pratique.",
+  "domaines": [
+    "royauté",
+    "ciel",
+    "guerre",
+    "protection"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
   "genealogie": {
-    "parents": ["isis", "osiris"],
+    "parents": [
+      "isis",
+      "osiris"
+    ],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["seth"]
+    "entites_liees": [
+      "seth"
+    ]
   },
-  "attributs": ["tête de faucon", "œil d'Horus (oudjat)", "double couronne d'Égypte"],
-  "recits_associes": ["combat-horus-seth"],
+  "attributs": [
+    "tête de faucon",
+    "œil d'Horus (oudjat)",
+    "double couronne d'Égypte"
+  ],
+  "recits_associes": [
+    "combat-horus-seth"
+  ],
   "culte_contemporain": "L'œil d'Horus reste un motif iconographique largement diffusé aujourd'hui, y compris hors de tout contexte religieux (bijouterie, symboles de protection populaire).",
   "sources": [
     "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",

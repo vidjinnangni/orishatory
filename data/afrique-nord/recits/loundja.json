@@ -4,15 +4,24 @@
   "variantes": [],
   "region": "afrique-nord",
   "categorie": "recits",
-  "peuples": ["Kabyles"],
+  "peuples": [
+    "Kabyles"
+  ],
   "resume": "Conte kabyle célèbre narrant les épreuves de Loundja, jeune fille d'une beauté extraordinaire élevée par l'ogresse Teryel, et de son prétendant qui doit déjouer une série de ruses et de dangers pour la délivrer et l'épouser.",
-  "domaines": ["beauté", "épreuves", "délivrance"],
+  "description_detaillee": "Sur le plan comparatif, ce conte partage une structure narrative reconnaissable dans la classification internationale des contes populaires (jeune femme recluse élevée ou gardée par une figure surnaturelle, délivrée après des épreuves par un prétendant), rapprochant Loundja de récits mieux connus en Occident comme Raiponce, tout en conservant des éléments et un cadre culturel propres à la tradition orale kabyle.",
+  "domaines": [
+    "beauté",
+    "épreuves",
+    "délivrance"
+  ],
   "tags": [],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["teryel"]
+    "entites_liees": [
+      "teryel"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

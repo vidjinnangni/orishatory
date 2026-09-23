@@ -1,20 +1,37 @@
 {
   "id": "hathor",
   "nom": "Hathor",
-  "variantes": ["Het-Heru"],
+  "variantes": [
+    "Het-Heru"
+  ],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Déesse de l'amour, de la joie, de la musique et de la maternité, l'une des divinités les plus largement vénérées d'Égypte ancienne, associée à la fertilité, à la danse et à l'accueil des défunts dans l'au-delà.",
-  "domaines": ["amour", "joie", "musique", "maternité", "au-delà"],
-  "tags": ["terre-fertilite"],
+  "description_detaillee": "En tant que 'Maîtresse de l'Occident', Hathor était traditionnellement chargée d'accueillir les âmes des défunts à leur entrée dans l'au-delà. Une fête annuelle dite de l'ivresse (Tekh) était célébrée en son honneur, rejouant rituellement l'épisode où Rê apaisa la fureur meurtrière de Sekhmet en l'enivrant de bière teintée de rouge : les participants y consommaient de l'alcool en abondance dans un cadre religieux sanctionné, l'ivresse collective étant ici investie d'une signification rituelle plutôt que simplement festive.",
+  "domaines": [
+    "amour",
+    "joie",
+    "musique",
+    "maternité",
+    "au-delà"
+  ],
+  "tags": [
+    "terre-fertilite"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["tête ou cornes de vache", "disque solaire", "sistre (instrument de musique)"],
+  "attributs": [
+    "tête ou cornes de vache",
+    "disque solaire",
+    "sistre (instrument de musique)"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

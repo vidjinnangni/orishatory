@@ -4,15 +4,29 @@
   "variantes": [],
   "region": "afrique-nord",
   "categorie": "recits",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Récit mythologique décrivant la traversée nocturne du dieu solaire Rê à bord de sa barque à travers les douze heures du monde souterrain (Douat), où il doit vaincre chaque nuit le serpent du chaos Apophis pour renaître à l'aube.",
-  "domaines": ["cycle solaire", "renaissance", "combat contre le chaos"],
-  "tags": ["mort-au-dela", "creation"],
+  "description_detaillee": "Le Livre des Portes, l'un des principaux textes funéraires décrivant ce voyage, détaille les douze heures de la nuit comme autant de portes gardées par des divinités composites exigeant du défunt la connaissance de formules et de noms secrets précis pour être autorisé à poursuivre son chemin, faisant de ces textes de véritables guides pratiques destinés à équiper symboliquement le mort face aux épreuves de l'au-delà plutôt que de simples récits contemplatifs.",
+  "domaines": [
+    "cycle solaire",
+    "renaissance",
+    "combat contre le chaos"
+  ],
+  "tags": [
+    "mort-au-dela",
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["ra", "apophis", "seth"]
+    "entites_liees": [
+      "ra",
+      "apophis",
+      "seth"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

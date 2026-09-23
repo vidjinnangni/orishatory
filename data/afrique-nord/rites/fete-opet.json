@@ -4,17 +4,29 @@
   "variantes": [],
   "region": "afrique-nord",
   "categorie": "rites",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Grande fête religieuse thébaine annuelle célébrant le renouvellement du pouvoir divin du pharaon, au cours de laquelle la statue du dieu Amon était processionnellement transportée de Karnak au temple de Louxor.",
-  "domaines": ["royauté", "renouvellement divin", "procession publique"],
-  "tags": ["royaute-sacree"],
+  "description_detaillee": "L'ampleur de la fête d'Opet a considérablement varié selon les époques : d'une célébration initialement limitée à quelques jours, elle s'est progressivement étendue jusqu'à dépasser trois semaines sous le règne de Ramsès III au Nouvel Empire, signe de l'importance croissante accordée par certains pharaons à cette manifestation publique et spectaculaire de leur légitimité religieuse.",
+  "domaines": [
+    "royauté",
+    "renouvellement divin",
+    "procession publique"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["barque processionnelle sacrée", "statue cultuelle d'Amon"],
+  "attributs": [
+    "barque processionnelle sacrée",
+    "statue cultuelle d'Amon"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

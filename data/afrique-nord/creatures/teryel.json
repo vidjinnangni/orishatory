@@ -4,10 +4,19 @@
   "variantes": [],
   "region": "afrique-nord",
   "categorie": "creatures",
-  "peuples": ["Kabyles"],
+  "peuples": [
+    "Kabyles"
+  ],
   "resume": "Figure d'ogresse cannibale dans les contes kabyles, dotée de pouvoirs de métamorphose, dévorant les imprudents mais parfois déjouée par la ruse des héros et héroïnes des récits, notamment dans le cycle de Loundja.",
-  "domaines": ["cannibalisme", "métamorphose", "menace domestique"],
-  "tags": ["metamorphose"],
+  "description_detaillee": "La figure de l'ogresse dévoreuse d'enfants ou de voyageurs imprudents, incarnant les dangers du monde extérieur au foyer, trouve des équivalents structurels dans de nombreuses traditions orales à travers le monde, où ce type de personnage sert fréquemment à mettre en scène et à contenir symboliquement des angoisses parentales ou domestiques liées à la protection des plus jeunes membres de la communauté.",
+  "domaines": [
+    "cannibalisme",
+    "métamorphose",
+    "menace domestique"
+  ],
+  "tags": [
+    "metamorphose"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
@@ -15,7 +24,9 @@
     "entites_liees": []
   },
   "attributs": [],
-  "recits_associes": ["loundja"],
+  "recits_associes": [
+    "loundja"
+  ],
   "culte_contemporain": "",
   "sources": [
     "Amrouche, T. (1966). Le grain magique: contes, poèmes et proverbes berbères de Kabylie",

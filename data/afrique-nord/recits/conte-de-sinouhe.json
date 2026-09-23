@@ -4,9 +4,17 @@
   "variantes": [],
   "region": "afrique-nord",
   "categorie": "recits",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Récit littéraire du Moyen Empire relatant la fuite d'un dignitaire égyptien vers le Levant après la mort du pharaon Amenemhat Ier, sa nouvelle vie prospère en exil, puis son retour pardonné en Égypte pour y être enterré dignement. Considéré comme un chef-d'œuvre classique de la littérature égyptienne.",
-  "domaines": ["exil", "loyauté", "retour", "dignité funéraire"],
+  "description_detaillee": "Le texte est considéré par les égyptologues comme l'un des premiers exemples aboutis d'une prose égyptienne à la première personne mêlant récit d'aventure et méditation intérieure du narrateur sur l'exil, la loyauté et la peur de mourir loin de sa terre natale, une sophistication psychologique et littéraire rare dans le corpus égyptien antérieur, ce qui explique en partie son statut d'œuvre classique étudiée par les scribes en formation pendant des siècles après sa composition.",
+  "domaines": [
+    "exil",
+    "loyauté",
+    "retour",
+    "dignité funéraire"
+  ],
   "tags": [],
   "genealogie": {
     "parents": [],

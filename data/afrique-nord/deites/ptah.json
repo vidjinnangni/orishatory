@@ -4,17 +4,31 @@
   "variantes": [],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Dieu créateur de Memphis, façonnant le monde par la pensée et la parole plutôt que par l'action physique, patron des artisans, sculpteurs et bâtisseurs.",
-  "domaines": ["création par la parole", "artisanat", "architecture"],
-  "tags": ["creation", "forge-artisanat"],
+  "description_detaillee": "La théologie memphite associée à Ptah nous est principalement connue par un texte gravé sur la pierre de Shabaka, du nom du pharaon kouchite qui la fit inscrire au 8e siècle avant notre ère en affirmant la recopier d'un papyrus ancien rongé par les vers ; l'authenticité et l'ancienneté réelle de cette source, ainsi que la part de reconstruction théologique tardive qu'elle pourrait comporter, continuent de faire débat parmi les égyptologues.",
+  "domaines": [
+    "création par la parole",
+    "artisanat",
+    "architecture"
+  ],
+  "tags": [
+    "creation",
+    "forge-artisanat"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["sceptre triple (was-djed-ankh)", "momie stylisée", "calotte serrée"],
+  "attributs": [
+    "sceptre triple (was-djed-ankh)",
+    "momie stylisée",
+    "calotte serrée"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

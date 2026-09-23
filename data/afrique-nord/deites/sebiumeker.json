@@ -4,10 +4,20 @@
   "variantes": [],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Nubiens (royaume de Kouch)"],
+  "peuples": [
+    "Nubiens (royaume de Kouch)"
+  ],
   "resume": "Dieu créateur et de la fertilité dans le panthéon méroïtique (royaume de Kouch), souvent représenté aux côtés du roi dans les temples de Naga et Musawwarat, l'une des rares divinités majeures nubiennes sans équivalent égyptien direct.",
-  "domaines": ["création", "fertilité", "protection royale"],
-  "tags": ["creation", "terre-fertilite"],
+  "description_detaillee": "Comme pour Apedemak, la vénération de Sebiumeker au sein du panthéon méroïtique s'inscrit dans un mouvement plus large d'affirmation religieuse autonome du royaume de Kouch à mesure que son indépendance politique et culturelle vis-à-vis de l'Égypte s'affirmait au cours du premier millénaire avant notre ère.",
+  "domaines": [
+    "création",
+    "fertilité",
+    "protection royale"
+  ],
+  "tags": [
+    "creation",
+    "terre-fertilite"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

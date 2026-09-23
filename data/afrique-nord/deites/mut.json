@@ -1,18 +1,33 @@
 {
   "id": "mut",
   "nom": "Mout",
-  "variantes": ["Mut"],
+  "variantes": [
+    "Mut"
+  ],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Déesse mère du panthéon thébain, épouse d'Amon et mère de Khonsou avec qui elle forme la triade thébaine, associée à la royauté et à la protection maternelle du pharaon.",
-  "domaines": ["maternité", "royauté", "protection"],
-  "tags": ["royaute-sacree"],
+  "description_detaillee": "Le grand complexe religieux dédié à Mout à Karnak comprenait un lac sacré en forme de croissant, l'Isherou, élément architectural distinctif de son culte. Bien que principalement représentée sous une forme maternelle bienveillante coiffée d'un vautour protecteur, Mout pouvait également revêtir un aspect guerrier assimilé à celui d'une lionne, la rapprochant iconographiquement de Sekhmet dans certaines de ses manifestations les plus redoutables.",
+  "domaines": [
+    "maternité",
+    "royauté",
+    "protection"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
-    "enfants": ["khonsu"],
-    "entites_liees": ["khonsu"]
+    "enfants": [
+      "khonsu"
+    ],
+    "entites_liees": [
+      "khonsu"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

@@ -4,15 +4,24 @@
   "variantes": [],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Nubiens (royaume de Kouch)"],
+  "peuples": [
+    "Nubiens (royaume de Kouch)"
+  ],
   "resume": "Dieu-lion nubien vénéré conjointement par les Égyptiens et les Méroïtiques au temple de Philae, illustrant la porosité religieuse entre les théologies égyptienne et nubienne aux confins méridionaux de l'Égypte antique.",
-  "domaines": ["guerre", "protection", "frontière méridionale"],
+  "description_detaillee": "Les sources grecques le désignent sous le nom d'Arsnouphis, littéralement 'le bon compagnon', et son temple fut édifié à Philae sous le patronage des rois ptolémaïques, dans une période de diplomatie active entre l'Égypte hellénistique et le royaume méroïtique voisin : la construction d'un sanctuaire dédié à une divinité nubienne sur le sol égyptien traduit une volonté politique délibérée de ménager les sensibilités religieuses du royaume voisin.",
+  "domaines": [
+    "guerre",
+    "protection",
+    "frontière méridionale"
+  ],
   "tags": [],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["apedemak"]
+    "entites_liees": [
+      "apedemak"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

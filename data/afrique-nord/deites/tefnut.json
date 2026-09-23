@@ -1,21 +1,38 @@
 {
   "id": "tefnut",
   "nom": "Tefnout",
-  "variantes": ["Tefnut"],
+  "variantes": [
+    "Tefnut"
+  ],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Déesse de l'humidité et de la pluie, sœur-épouse de Shou et mère de Nout et Geb, dont le départ en colère vers la Nubie puis le retour apaisé constitue le cœur du mythe de la Déesse lointaine.",
-  "domaines": ["humidité", "pluie", "colère divine apaisée"],
-  "tags": ["eau"],
+  "description_detaillee": "Dans certaines représentations, Tefnout adopte une forme léonine plutôt que purement anthropomorphe, rejoignant ainsi Sekhmet et Hathor dans la famille plus large des déesses-lionnes égyptiennes assimilées à l'œil ardent et vengeur du soleil, capable aussi bien de protection que de destruction selon les circonstances.",
+  "domaines": [
+    "humidité",
+    "pluie",
+    "colère divine apaisée"
+  ],
+  "tags": [
+    "eau"
+  ],
   "genealogie": {
     "parents": [],
-    "conjoints": ["shu"],
+    "conjoints": [
+      "shu"
+    ],
     "enfants": [],
-    "entites_liees": ["shu"]
+    "entites_liees": [
+      "shu"
+    ]
   },
   "attributs": [],
-  "recits_associes": ["la-deesse-lointaine"],
+  "recits_associes": [
+    "la-deesse-lointaine"
+  ],
   "culte_contemporain": "",
   "sources": [
     "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",

@@ -4,15 +4,28 @@
   "variantes": [],
   "region": "afrique-nord",
   "categorie": "recits",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Récit du meurtre d'Osiris par son frère Seth, du deuil et de la magie d'Isis qui reconstitue son corps, et de la résurrection partielle d'Osiris qui devient souverain du royaume des morts. Leur fils Horus venge ensuite son père en affrontant Seth pour le trône d'Égypte.",
-  "domaines": ["mort", "résurrection", "succession royale", "vengeance"],
-  "tags": ["mort-au-dela"],
+  "description_detaillee": "Le récit précise qu'Isis, après avoir retrouvé et rassemblé les morceaux du corps d'Osiris dispersés par Seth à travers l'Égypte, ne put récupérer une seule partie, son phallus, avalé par un poisson du Nil ; elle en façonna alors une réplique magique qui lui permit de concevoir Horus malgré la mort de son époux, un élément central expliquant la naissance posthume du dieu vengeur et sa légitimité à réclamer le trône de son père.",
+  "domaines": [
+    "mort",
+    "résurrection",
+    "succession royale",
+    "vengeance"
+  ],
+  "tags": [
+    "mort-au-dela"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["isis", "osiris"]
+    "entites_liees": [
+      "isis",
+      "osiris"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

@@ -4,17 +4,29 @@
   "variantes": [],
   "region": "afrique-nord",
   "categorie": "heros",
-  "peuples": ["Touareg"],
+  "peuples": [
+    "Touareg"
+  ],
   "resume": "Reine et ancêtre fondatrice légendaire du peuple touareg, dont la tombe monumentale découverte à Abalessa (Algérie) en 1925 a alimenté un mythe fondateur de migration depuis le Maroc jusqu'au Hoggar, où elle aurait fondé la lignée des chefs touareg.",
-  "domaines": ["migration", "fondation matriarcale", "royauté"],
-  "tags": ["royaute-sacree"],
+  "description_detaillee": "Le mobilier funéraire retrouvé dans la tombe d'Abalessa comprenait des objets en or et en argent d'influence ou de fabrication romaine, preuve matérielle que le Sahara, loin d'être une barrière infranchissable coupant les populations touareg du reste du monde antique, était traversé par des réseaux d'échanges commerciaux reliant le Hoggar aux rives méditerranéennes dès les premiers siècles de notre ère.",
+  "domaines": [
+    "migration",
+    "fondation matriarcale",
+    "royauté"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["tombeau monumental d'Abalessa", "bijoux et objets funéraires retrouvés en 1925"],
+  "attributs": [
+    "tombeau monumental d'Abalessa",
+    "bijoux et objets funéraires retrouvés en 1925"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Figure toujours centrale à l'identité culturelle touareg contemporaine, notamment dans les récits de filiation matrilinéaire de plusieurs confédérations touareg.",
   "sources": [

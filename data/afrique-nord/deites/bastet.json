@@ -1,20 +1,38 @@
 {
   "id": "bastet",
   "nom": "Bastet",
-  "variantes": ["Bast"],
+  "variantes": [
+    "Bast"
+  ],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Déesse à tête de chatte associée à la protection du foyer, à la fertilité et à la joie, dont le culte majeur était centré sur la ville de Bubastis. Contrepartie plus douce de la déesse lionne Sekhmet.",
-  "domaines": ["protection du foyer", "fertilité", "joie", "maternité"],
-  "tags": ["terre-fertilite"],
+  "description_detaillee": "Le site de Bubastis a livré des centaines de milliers de momies de chats, témoignant d'une industrie religieuse organisée autour de l'élevage et du sacrifice rituel de ces animaux consacrés à la déesse. Les représentations les plus anciennes de Bastet lui donnaient des traits de lionne bien plus proches de ceux de Sekhmet, sa forme féline plus douce et domestique ne s'étant imposée que progressivement au cours de l'histoire égyptienne, à mesure que le chat lui-même se domestiquait dans la société égyptienne.",
+  "domaines": [
+    "protection du foyer",
+    "fertilité",
+    "joie",
+    "maternité"
+  ],
+  "tags": [
+    "terre-fertilite"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["sekhmet"]
+    "entites_liees": [
+      "sekhmet"
+    ]
   },
-  "attributs": ["tête de chatte", "sistre", "panier"],
+  "attributs": [
+    "tête de chatte",
+    "sistre",
+    "panier"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Son association avec les chats domestiques reste largement diffusée dans la culture populaire contemporaine, parfois de façon anachronique par rapport à son rôle théologique d'origine.",
   "sources": [

@@ -1,21 +1,43 @@
 {
   "id": "nut",
   "nom": "Nout",
-  "variantes": ["Nut"],
+  "variantes": [
+    "Nut"
+  ],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Déesse du ciel représentée arquée au-dessus de la terre, avalant le soleil chaque soir pour lui donner naissance à nouveau chaque matin. Mère de plusieurs divinités majeures dont Osiris, Isis, Seth et Nephthys.",
-  "domaines": ["ciel", "cycle solaire", "maternité divine"],
-  "tags": ["creation"],
+  "description_detaillee": "L'image de Nout, le corps constellé arqué au-dessus du monde, était traditionnellement peinte à l'intérieur des couvercles de sarcophages et de cercueils égyptiens, de sorte que le défunt reposait symboliquement dans son étreinte protectrice, appelé à renaître éternellement de son corps céleste comme le soleil renaît chaque matin de ses entrailles.",
+  "domaines": [
+    "ciel",
+    "cycle solaire",
+    "maternité divine"
+  ],
+  "tags": [
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
-    "conjoints": ["geb"],
-    "enfants": ["osiris", "isis"],
-    "entites_liees": ["geb"]
+    "conjoints": [
+      "geb"
+    ],
+    "enfants": [
+      "osiris",
+      "isis"
+    ],
+    "entites_liees": [
+      "geb"
+    ]
   },
-  "attributs": ["corps étoilé arqué au-dessus de la terre"],
-  "recits_associes": ["separation-nut-geb"],
+  "attributs": [
+    "corps étoilé arqué au-dessus de la terre"
+  ],
+  "recits_associes": [
+    "separation-nut-geb"
+  ],
   "culte_contemporain": "",
   "sources": [
     "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",

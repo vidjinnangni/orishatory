@@ -1,12 +1,21 @@
 {
   "id": "apophis",
   "nom": "Apophis",
-  "variantes": ["Apep"],
+  "variantes": [
+    "Apep"
+  ],
   "region": "afrique-nord",
   "categorie": "creatures",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Serpent gigantesque incarnant le chaos primordial, ennemi éternel du dieu solaire Rê qu'il attaque chaque nuit lors de la traversée du monde souterrain.",
-  "domaines": ["chaos", "ténèbres", "menace cosmique"],
+  "description_detaillee": "Le rituel dit de l'exécration d'Apophis, documenté notamment dans le papyrus Bremner-Rhind sous le titre du 'Livre de terrasser Apophis', prescrivait aux prêtres de fabriquer une figurine de cire ou une représentation du serpent sur papyrus, puis de la piétiner, cracher dessus, la mutiler et enfin la brûler, un exemple de magie sympathique par lequel la destruction rituelle symbolique était censée affaiblir concrètement la menace cosmique qu'incarnait Apophis.",
+  "domaines": [
+    "chaos",
+    "ténèbres",
+    "menace cosmique"
+  ],
   "tags": [],
   "genealogie": {
     "parents": [],
@@ -14,7 +23,9 @@
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["forme de serpent démesuré"],
+  "attributs": [
+    "forme de serpent démesuré"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

@@ -4,10 +4,19 @@
   "variantes": [],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Puniques (Carthage)"],
+  "peuples": [
+    "Puniques (Carthage)"
+  ],
   "resume": "Dieu tutélaire de Tyr adopté par les colonies phéniciennes puis par Carthage, associé à la royauté, à la navigation et à la renaissance cyclique. Identifié par les Grecs à Héraclès en raison de récits de mort et résurrection annuelle.",
-  "domaines": ["royauté", "navigation", "renaissance cyclique"],
-  "tags": ["royaute-sacree"],
+  "description_detaillee": "Le temple de Melqart à Gadès (l'actuelle Cadix), l'une des colonies phéniciennes les plus occidentales de la Méditerranée antique, était orné de colonnes monumentales qui furent par la suite associées par les auteurs grecs et romains aux 'colonnes d'Hercule' marquant traditionnellement la limite occidentale du monde connu (l'actuel détroit de Gibraltar), une confusion ou une continuité symbolique entre le culte phénicien de Melqart et la géographie mythologique gréco-romaine ultérieure.",
+  "domaines": [
+    "royauté",
+    "navigation",
+    "renaissance cyclique"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

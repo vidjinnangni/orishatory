@@ -4,17 +4,31 @@
   "variantes": [],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Dieu de la fertilité, de la reproduction et du désert oriental, associé aux routes commerciales vers la mer Rouge, représenté de façon ithyphallique en signe de puissance générative.",
-  "domaines": ["fertilité", "reproduction", "désert oriental", "commerce"],
-  "tags": ["terre-fertilite"],
+  "description_detaillee": "La fête dite de la 'sortie de Min' comportait traditionnellement un rite au cours duquel le pharaon coupait lui-même la première gerbe de céréales de la récolte, geste reliant directement la légitimité royale à la fertilité agricole placée sous le patronage de Min, et affirmant publiquement la responsabilité du souverain dans la prospérité matérielle du royaume.",
+  "domaines": [
+    "fertilité",
+    "reproduction",
+    "désert oriental",
+    "commerce"
+  ],
+  "tags": [
+    "terre-fertilite"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["représentation ithyphallique", "bras levé tenant un fléau", "laitue (plante aphrodisiaque associée)"],
+  "attributs": [
+    "représentation ithyphallique",
+    "bras levé tenant un fléau",
+    "laitue (plante aphrodisiaque associée)"
+  ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [

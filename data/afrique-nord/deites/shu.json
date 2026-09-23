@@ -1,21 +1,42 @@
 {
   "id": "shu",
   "nom": "Shou",
-  "variantes": ["Shu"],
+  "variantes": [
+    "Shu"
+  ],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Dieu de l'air et de la lumière, qui sépare de force sa fille Nout (le ciel) de son fils Geb (la terre) pour créer l'espace habitable du monde, formant avec sa sœur-épouse Tefnout le premier couple divin issu d'Atoum.",
-  "domaines": ["air", "lumière", "séparation cosmique"],
-  "tags": ["creation"],
+  "description_detaillee": "Certains textes funéraires, notamment ceux liés au mythe de la 'Vache céleste', décrivent Shou soutenant physiquement de ses bras levés le corps entier de Nout afin de maintenir le ciel élevé au-dessus de la terre, image cosmologique concrète d'un dieu littéralement chargé de porter la voûte céleste sur ses épaules pour empêcher l'effondrement du monde.",
+  "domaines": [
+    "air",
+    "lumière",
+    "séparation cosmique"
+  ],
+  "tags": [
+    "creation"
+  ],
   "genealogie": {
     "parents": [],
-    "conjoints": ["tefnut"],
-    "enfants": ["nut", "geb"],
-    "entites_liees": ["nut", "geb"]
+    "conjoints": [
+      "tefnut"
+    ],
+    "enfants": [
+      "nut",
+      "geb"
+    ],
+    "entites_liees": [
+      "nut",
+      "geb"
+    ]
   },
   "attributs": [],
-  "recits_associes": ["separation-nut-geb"],
+  "recits_associes": [
+    "separation-nut-geb"
+  ],
   "culte_contemporain": "",
   "sources": [
     "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",

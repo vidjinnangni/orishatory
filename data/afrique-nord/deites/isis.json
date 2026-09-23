@@ -1,21 +1,44 @@
 {
   "id": "isis",
   "nom": "Isis",
-  "variantes": ["Aset", "Iset"],
+  "variantes": [
+    "Aset",
+    "Iset"
+  ],
   "region": "afrique-nord",
   "categorie": "deites",
-  "peuples": ["Égyptiens anciens"],
+  "peuples": [
+    "Égyptiens anciens"
+  ],
   "resume": "Déesse égyptienne de la magie, de la maternité et de la royauté, épouse et sœur d'Osiris, mère d'Horus. Son culte, né en Égypte, s'est répandu dans tout le bassin méditerranéen antique jusqu'à l'Empire romain.",
-  "domaines": ["magie", "maternité", "royauté", "protection"],
-  "tags": ["royaute-sacree"],
+  "description_detaillee": "L'un des récits les plus célèbres concernant Isis, conservé notamment sur un papyrus aujourd'hui dit de Turin, raconte comment elle façonna un serpent à partir de la salive de Rê tombée au sol et le plaça sur son chemin ; mordu et gravement empoisonné, le dieu solaire ne put être guéri qu'en révélant à Isis son nom secret et véritable, source ultime de son pouvoir, qu'elle s'appropria ainsi par la ruse plutôt que par la force. Ce récit illustre une facette d'Isis parfois éclipsée par son image de mère et d'épouse dévouée : celle d'une magicienne redoutable, prête à recourir à la tromperie pour accroître sa propre puissance.",
+  "domaines": [
+    "magie",
+    "maternité",
+    "royauté",
+    "protection"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
   "genealogie": {
     "parents": [],
-    "conjoints": ["osiris"],
+    "conjoints": [
+      "osiris"
+    ],
     "enfants": [],
-    "entites_liees": ["osiris"]
+    "entites_liees": [
+      "osiris"
+    ]
   },
-  "attributs": ["trône (hiéroglyphe de son nom)", "ailes", "disque solaire entre cornes de vache"],
-  "recits_associes": ["mythe-osiris"],
+  "attributs": [
+    "trône (hiéroglyphe de son nom)",
+    "ailes",
+    "disque solaire entre cornes de vache"
+  ],
+  "recits_associes": [
+    "mythe-osiris"
+  ],
   "culte_contemporain": "Culte disparu comme religion vivante depuis l'Antiquité tardive, mais influence iconographique et symbolique persistante, notamment dans certains courants ésotériques occidentaux modernes.",
   "sources": [
     "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
