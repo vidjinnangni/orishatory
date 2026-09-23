@@ -4,10 +4,19 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "deites",
-  "peuples": ["Ovambo"],
+  "peuples": [
+    "Ovambo"
+  ],
   "resume": "Concept ovambo (nord de la Namibie, sud de l'Angola) désignant à la fois le dieu créateur suprême et la frontière cosmique séparant le monde des vivants de celui des morts, notion partagée sous des formes voisines par plusieurs peuples bantous d'Afrique australe et centrale.",
-  "domaines": ["création", "frontière entre vie et mort"],
-  "tags": ["creation", "mort-au-dela"],
+  "description_detaillee": "Des termes apparentés à Kalunga, désignant une puissance divine ou une frontière entre les mondes des vivants et des morts, se retrouvent dans plusieurs langues bantoues bien au-delà de la seule aire ovambo, notamment dans la cosmologie kongo d'Afrique centrale où une notion voisine structure le cosmogramme dikenga. Certains chercheurs afro-diasporistes ont même proposé d'étendre métaphoriquement cette notion de 'ligne de Kalunga' à l'océan Atlantique lui-même comme frontière traversée par les personnes déportées lors de la traite négrière, un usage contemporain et symbolique plutôt qu'une extension directement attestée dans les sources ovambo ou kongo d'origine.",
+  "domaines": [
+    "création",
+    "frontière entre vie et mort"
+  ],
+  "tags": [
+    "creation",
+    "mort-au-dela"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

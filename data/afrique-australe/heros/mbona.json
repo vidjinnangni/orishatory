@@ -4,10 +4,21 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "heros",
-  "peuples": ["Chewa", "Mang'anja"],
+  "peuples": [
+    "Chewa",
+    "Mang'anja"
+  ],
   "resume": "Héros pluvieux et martyr chewa/mang'anja (actuel Malawi), mis à mort selon la tradition par un chef jaloux de son pouvoir sur la pluie, dont l'esprit continue d'être invoqué au sanctuaire de Khulubvi lors de sécheresses graves.",
-  "domaines": ["pluie", "martyre", "médiation spirituelle"],
-  "tags": ["eau", "mort-au-dela"],
+  "description_detaillee": "Le culte de Mbona ne se limite pas à l'unique sanctuaire de Khulubvi : il s'organise en un réseau territorial de sanctuaires secondaires disséminés dans plusieurs villages de la région, chacun relié symboliquement au site central, structure que l'anthropologue Matthew Schoffeleers a qualifiée de 'culte territorial', modèle religieux décentralisé qu'il a ensuite utilisé comme cadre comparatif pour l'étude d'autres cultes analogues en Afrique centrale et australe.",
+  "domaines": [
+    "pluie",
+    "martyre",
+    "médiation spirituelle"
+  ],
+  "tags": [
+    "eau",
+    "mort-au-dela"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

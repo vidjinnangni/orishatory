@@ -4,10 +4,19 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "heros",
-  "peuples": ["Tlokwa"],
+  "peuples": [
+    "Tlokwa"
+  ],
   "resume": "Régente et cheffe militaire tlokwa du début du 19e siècle, ayant dirigé son peuple lors de migrations et de conflits pendant les bouleversements du Mfecane, dont la réputation guerrière fut telle qu'elle inspira des récits en partie légendaires quant à son ampleur et à sa cruauté supposée.",
-  "domaines": ["régence", "stratégie militaire", "migration"],
-  "tags": ["royaute-sacree"],
+  "description_detaillee": "MaNthatisi exerçait le pouvoir en tant que régente au nom de son fils encore mineur, Sekonyela, appelé à lui succéder à sa majorité, un mécanisme de régence qui a pu contribuer à minimiser rétrospectivement son rôle politique propre dans certaines sources ultérieures centrées sur la succession masculine légitime. Les récits coloniaux de l'époque ont par ailleurs fréquemment amalgamé ses déplacements avec ceux d'autres groupes armés distincts sévissant dans la même région pendant la même période, contribuant à démesurément grossir la réputation de destruction qui lui est attribuée.",
+  "domaines": [
+    "régence",
+    "stratégie militaire",
+    "migration"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

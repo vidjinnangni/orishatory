@@ -4,15 +4,27 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "recits",
-  "peuples": ["San"],
+  "peuples": [
+    "San"
+  ],
   "resume": "Conte san expliquant l'origine de la lune : Kaggen, en colère ou par jeu selon les versions, jette une vieille chaussure ou un morceau de cuir dans le ciel nocturne, qui se transforme en lune éclairant l'obscurité pour les créatures de la nuit.",
-  "domaines": ["création", "lune", "origine des astres"],
-  "tags": ["creation", "trickster"],
+  "description_detaillee": "Le motif d'un objet familier jeté dans le ciel pour devenir la lune connaît plusieurs variantes selon les groupes san consultés par Wilhelm Bleek et Lucy Lloyd à la fin du 19e siècle : tantôt une sandale usée, tantôt un morceau de cuir ou une autre parure personnelle de Kaggen, ces variations reflétant la nature fondamentalement orale et non canonisée du corpus mythologique san plutôt qu'une version unique et figée du récit.",
+  "domaines": [
+    "création",
+    "lune",
+    "origine des astres"
+  ],
+  "tags": [
+    "creation",
+    "trickster"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["kaggen"]
+    "entites_liees": [
+      "kaggen"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

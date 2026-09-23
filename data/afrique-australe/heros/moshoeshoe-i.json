@@ -4,15 +4,26 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "heros",
-  "peuples": ["Basotho"],
+  "peuples": [
+    "Basotho"
+  ],
   "resume": "Fondateur du royaume basotho au 19e siècle, réputé pour sa diplomatie habile et sa stratégie défensive, ayant unifié des groupes disparates réfugiés des guerres du Mfecane autour de la forteresse naturelle de Thaba Bosiu.",
-  "domaines": ["fondation royale", "diplomatie", "refuge"],
-  "tags": ["royaute-sacree"],
+  "description_detaillee": "L'une des manifestations les plus concrètes de l'habileté diplomatique de Moshoeshoe fut sa décision d'accueillir délibérément des missionnaires européens à sa cour, moins par adhésion religieuse immédiate que pour l'accès qu'ils offraient à l'alphabétisation, aux armes à feu et à des canaux de négociation directs avec les autorités coloniales britanniques, une stratégie pragmatique d'ouverture contrôlée plutôt qu'une soumission culturelle passive.",
+  "domaines": [
+    "fondation royale",
+    "diplomatie",
+    "refuge"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["thaba-bosiu"]
+    "entites_liees": [
+      "thaba-bosiu"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

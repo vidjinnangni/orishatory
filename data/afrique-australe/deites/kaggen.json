@@ -1,21 +1,41 @@
 {
   "id": "kaggen",
   "nom": "Kaggen",
-  "variantes": ["Cagn", "/Kaggen"],
+  "variantes": [
+    "Cagn",
+    "/Kaggen"
+  ],
   "region": "afrique-australe",
   "categorie": "deites",
-  "peuples": ["San"],
+  "peuples": [
+    "San"
+  ],
   "resume": "Figure centrale de la mythologie san (bushmen), à la fois créateur, trickster et esprit de la mante religieuse, capable de se métamorphoser en de nombreux animaux. Auteur de nombreux actes de création et de créations malicieuses qui structurent le monde tel qu'il est.",
-  "domaines": ["création", "ruse", "métamorphose", "nature"],
-  "tags": ["trickster", "creation", "metamorphose"],
+  "description_detaillee": "Au-delà du mythe lunaire, l'un des cycles narratifs les plus riches concernant Kaggen porte sur son attachement à l'éland, animal qu'il aurait créé et chéri par-dessus tout ; le récit de sa mort, tué par d'autres personnages ou par ses propres fils lors d'une chasse, provoque chez Kaggen un chagrin et une colère intenses qui structurent plusieurs épisodes ultérieurs. Ce cycle de l'éland occupe une place centrale dans l'interprétation de l'art rupestre san, l'animal figurant parmi les motifs les plus fréquemment peints et étant associé aux états de transe chamanique des guérisseurs san.",
+  "domaines": [
+    "création",
+    "ruse",
+    "métamorphose",
+    "nature"
+  ],
+  "tags": [
+    "trickster",
+    "creation",
+    "metamorphose"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["forme de mante religieuse", "capacité de métamorphose en éland, serpent et autres animaux"],
-  "recits_associes": ["lune-de-kaggen"],
+  "attributs": [
+    "forme de mante religieuse",
+    "capacité de métamorphose en éland, serpent et autres animaux"
+  ],
+  "recits_associes": [
+    "lune-de-kaggen"
+  ],
   "culte_contemporain": "",
   "sources": [
     "Bleek, W.H.I. & Lloyd, L.C. (1911). Specimens of Bushman Folklore",

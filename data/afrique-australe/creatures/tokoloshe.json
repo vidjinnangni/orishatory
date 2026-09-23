@@ -1,12 +1,23 @@
 {
   "id": "tokoloshe",
   "nom": "Tokoloshe",
-  "variantes": ["Thokolosi", "Hili (variante xhosa)"],
+  "variantes": [
+    "Thokolosi",
+    "Hili (variante xhosa)"
+  ],
   "region": "afrique-australe",
   "categorie": "creatures",
-  "peuples": ["Zulu", "Xhosa"],
+  "peuples": [
+    "Zulu",
+    "Xhosa"
+  ],
   "resume": "Esprit malveillant de petite taille, invoqué par la sorcellerie pour nuire à une personne ou une famille. Reste une figure de crainte très présente dans la culture populaire sud-africaine contemporaine.",
-  "domaines": ["sorcellerie", "malchance", "nuit"],
+  "description_detaillee": "À la différence d'un esprit surgissant spontanément, le tokoloshe est traditionnellement présenté comme une création délibérée d'un sorcier ou d'une sorcière (umthakathi), qui l'anime à partir d'un objet ou d'une dépouille par des moyens rituels précis avant de le charger d'une mission de nuisance envers une victime désignée. Cette dimension de fabrication intentionnelle le rapproche structurellement de l'umkhovu, autre création de sorcellerie zulu, dont il se distingue néanmoins par son origine non humaine.",
+  "domaines": [
+    "sorcellerie",
+    "malchance",
+    "nuit"
+  ],
   "tags": [],
   "genealogie": {
     "parents": [],
@@ -14,7 +25,10 @@
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["petite taille", "invisible aux yeux non avertis dans certaines versions"],
+  "attributs": [
+    "petite taille",
+    "invisible aux yeux non avertis dans certaines versions"
+  ],
   "recits_associes": [],
   "culte_contemporain": "La pratique consistant à surélever son lit sur des briques pour se protéger du Tokoloshe (censé ne pas pouvoir grimper) reste répandue en Afrique du Sud, y compris hors contexte de croyance active.",
   "sources": [

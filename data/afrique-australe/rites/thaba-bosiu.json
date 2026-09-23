@@ -4,15 +4,26 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "rites",
-  "peuples": ["Basotho"],
+  "peuples": [
+    "Basotho"
+  ],
   "resume": "Plateau fortifié naturel ayant servi de refuge imprenable à Moshoeshoe Ier et son peuple, dont la légende affirme qu'elle grandissait la nuit pour décourager les assaillants. Reste un site de vénération et de sépulture royale basotho.",
-  "domaines": ["refuge sacré", "légende topographique", "sépulture royale"],
-  "tags": ["royaute-sacree"],
+  "description_detaillee": "La valeur défensive du site ne relève pas de la seule légende : Thaba Bosiu résista effectivement à plusieurs sièges bien réels au cours du 19e siècle, tant de la part de royaumes africains rivaux que des commandos boers lors des guerres opposant le royaume basotho naissant à l'État libre d'Orange, confirmant empiriquement sur plusieurs générations la réputation d'imprenabilité qui lui est associée dans la tradition orale.",
+  "domaines": [
+    "refuge sacré",
+    "légende topographique",
+    "sépulture royale"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["moshoeshoe-i"]
+    "entites_liees": [
+      "moshoeshoe-i"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

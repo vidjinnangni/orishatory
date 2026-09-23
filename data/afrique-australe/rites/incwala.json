@@ -4,10 +4,20 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "rites",
-  "peuples": ["Swazi (eSwatini)"],
+  "peuples": [
+    "Swazi (eSwatini)"
+  ],
   "resume": "Cérémonie annuelle swazie de renouvellement de la royauté et des prémices agricoles, impliquant le roi dans une série de rites de purification et de réaffirmation de son lien sacré avec la nation, culminant par la dégustation rituelle des premières récoltes.",
-  "domaines": ["royauté sacrée", "renouvellement", "prémices agricoles"],
-  "tags": ["royaute-sacree", "terre-fertilite"],
+  "description_detaillee": "La cérémonie comprend une période de réclusion rituelle du roi, au cours de laquelle il consomme un remède amer symbolisant son acceptation des fardeaux de la nation pour l'année à venir, avant que certains objets royaux de l'année écoulée ne soient rituellement écartés ou détruits en signe de renouvellement complet du cycle monarchique.",
+  "domaines": [
+    "royauté sacrée",
+    "renouvellement",
+    "prémices agricoles"
+  ],
+  "tags": [
+    "royaute-sacree",
+    "terre-fertilite"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

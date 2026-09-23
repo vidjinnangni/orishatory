@@ -4,15 +4,26 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "heros",
-  "peuples": ["Zulu"],
+  "peuples": [
+    "Zulu"
+  ],
   "resume": "Roi fondateur de l'État zulu au début du 19e siècle, réorganisateur militaire réputé avoir transformé les tactiques de guerre régionales, dont la vie a fait l'objet d'une intense mythification postérieure, tant dans la mémoire orale zulu (izibongo) que dans les récits coloniaux et la culture populaire mondiale ultérieure.",
-  "domaines": ["royauté", "réforme militaire", "fondation étatique"],
-  "tags": ["royaute-sacree"],
+  "description_detaillee": "Parmi les innovations administratives et militaires qui lui sont attribuées, la réorganisation du système traditionnel de classes d'âge en régiments permanents (amabutho) directement rattachés à l'autorité royale plutôt qu'aux chefferies locales est considérée comme un facteur clé de la centralisation du pouvoir zulu ; l'ampleur exacte de cette innovation, par rapport à des pratiques militaires déjà existantes dans la région avant son règne, continue cependant de faire l'objet de discussions parmi les historiens spécialistes de la période.",
+  "domaines": [
+    "royauté",
+    "réforme militaire",
+    "fondation étatique"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["izibongo"]
+    "entites_liees": [
+      "izibongo"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

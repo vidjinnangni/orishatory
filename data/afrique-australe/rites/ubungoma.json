@@ -1,20 +1,40 @@
 {
   "id": "ubungoma",
   "nom": "Ubungoma",
-  "variantes": ["Isangoma (le/la praticien·ne)"],
+  "variantes": [
+    "Isangoma (le/la praticien·ne)"
+  ],
   "region": "afrique-australe",
   "categorie": "rites",
-  "peuples": ["Zulu", "Xhosa", "Sotho"],
+  "peuples": [
+    "Zulu",
+    "Xhosa",
+    "Sotho"
+  ],
   "resume": "Pratique de divination et de guérison assurée par des devins-guérisseurs (izangoma), reposant sur la communication avec les esprits ancestraux, la transe et la lecture des os (divination osseuse).",
-  "domaines": ["divination", "guérison", "ancestralité", "transe"],
-  "tags": ["divination", "ancetres", "initiation"],
+  "description_detaillee": "Contrairement à de nombreuses fonctions religieuses spécialisées ailleurs sur le continent souvent réservées aux hommes, la profession d'isangoma reste traditionnellement ouverte aux femmes comme aux hommes, ces dernières formant même la majorité des praticiens dans certaines régions d'Afrique australe, ce qui confère à l'ubungoma un statut notable d'inclusion et d'autorité religieuse féminine relativement rare dans le paysage des institutions religieuses africaines comparées.",
+  "domaines": [
+    "divination",
+    "guérison",
+    "ancestralité",
+    "transe"
+  ],
+  "tags": [
+    "divination",
+    "ancetres",
+    "initiation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["os de divination", "tenue rituelle", "transe induite par le tambour et la danse"],
+  "attributs": [
+    "os de divination",
+    "tenue rituelle",
+    "transe induite par le tambour et la danse"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Pratique très vivante en Afrique du Sud contemporaine, reconnue légalement via le Conseil sud-africain des praticiens de médecine traditionnelle (Traditional Health Practitioners Act).",
   "sources": [

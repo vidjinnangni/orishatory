@@ -4,17 +4,31 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "rites",
-  "peuples": ["Lozi"],
+  "peuples": [
+    "Lozi"
+  ],
   "resume": "Cérémonie royale lozi marquant le déplacement annuel du roi (litunga) et de sa cour depuis la plaine inondable du Zambèze vers des terres plus élevées à l'approche de la saison des crues, accompagné d'une procession fluviale spectaculaire en pirogues royales.",
-  "domaines": ["royauté", "migration saisonnière", "cohésion communautaire"],
-  "tags": ["royaute-sacree"],
+  "description_detaillee": "Les rameurs de la pirogue royale Nalikwanda portent traditionnellement des coiffes ornées de plumes noires, et le bon déroulement de la traversée est interprété comme un présage favorable pour l'année à venir. Ces dernières décennies, la cérémonie a dû être reportée ou annulée à plusieurs reprises faute de crue suffisante du Zambèze, un phénomène que plusieurs observateurs relient aux dérèglements climatiques contemporains affectant le régime hydrologique du fleuve.",
+  "domaines": [
+    "royauté",
+    "migration saisonnière",
+    "cohésion communautaire"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["nyambe"]
+    "entites_liees": [
+      "nyambe"
+    ]
   },
-  "attributs": ["pirogue royale Nalikwanda", "tambours royaux maoma"],
+  "attributs": [
+    "pirogue royale Nalikwanda",
+    "tambours royaux maoma"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Reste célébrée chaque année en Zambie, devenue également une attraction touristique et un symbole national d'identité lozi.",
   "sources": [

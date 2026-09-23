@@ -4,15 +4,28 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "deites",
-  "peuples": ["Zulu", "Xhosa"],
+  "peuples": [
+    "Zulu",
+    "Xhosa"
+  ],
   "resume": "Expression désignant 'celui qui est apparu en premier', concept créateur parfois distingué d'uNkulunkulu dans certaines traditions zulu et xhosa, associé à l'origine première de l'existence et parfois au tonnerre.",
-  "domaines": ["création", "origine première", "tonnerre"],
-  "tags": ["creation", "foudre-orage"],
+  "description_detaillee": "Certains chercheurs ont suggéré que uMvelinqangi et uNkulunkulu pourraient à l'origine avoir constitué les deux facettes d'un seul et même récit sur l'émergence primordiale de l'existence à partir des roseaux, avant que des traditions orales régionales distinctes ou des transcriptions missionnaires successives n'aient contribué à les présenter comme deux figures théologiquement séparées.",
+  "domaines": [
+    "création",
+    "origine première",
+    "tonnerre"
+  ],
+  "tags": [
+    "creation",
+    "foudre-orage"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["unkulunkulu"]
+    "entites_liees": [
+      "unkulunkulu"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

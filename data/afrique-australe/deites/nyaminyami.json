@@ -1,13 +1,24 @@
 {
   "id": "nyaminyami",
   "nom": "Nyaminyami",
-  "variantes": ["Esprit du fleuve Zambèze"],
+  "variantes": [
+    "Esprit du fleuve Zambèze"
+  ],
   "region": "afrique-australe",
   "categorie": "deites",
-  "peuples": ["Tonga"],
+  "peuples": [
+    "Tonga"
+  ],
   "resume": "Dieu-serpent du fleuve Zambèze vénéré par les Tonga, gardien du fleuve et de ses ressources. La construction du barrage de Kariba dans les années 1950, qui aurait selon la croyance locale déclenché sa colère, reste associée à plusieurs incidents de chantier majeurs.",
-  "domaines": ["eau", "fleuve", "colère divine"],
-  "tags": ["eau"],
+  "description_detaillee": "Nyaminyami est traditionnellement décrit avec un corps de serpent et une tête de poisson, et certains récits affirment que la construction du barrage de Kariba aurait littéralement séparé son corps de celui de son épouse, restée de l'autre côté du barrage, expliquant ainsi dans la croyance tonga locale les difficultés techniques et les accidents répétés survenus lors des travaux de construction dans les années 1950.",
+  "domaines": [
+    "eau",
+    "fleuve",
+    "colère divine"
+  ],
+  "tags": [
+    "eau"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

@@ -4,15 +4,27 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "heros",
-  "peuples": ["Shona"],
+  "peuples": [
+    "Shona"
+  ],
   "resume": "Prophète et esprit-médium légendaire shona, réputé pour ses pouvoirs de divination, de guérison et de prédiction de la pluie, dont l'esprit continue selon la tradition à posséder des médiums (svikiro) successifs depuis le 19e siècle.",
-  "domaines": ["prophétie", "guérison", "pluie", "résistance"],
-  "tags": ["divination"],
+  "description_detaillee": "Selon la tradition rapportée par l'historien David Lan, l'esprit de Chaminuka aurait, à travers l'un de ses médiums du 19e siècle, prédit l'arrivée de colons européens en terre shona ainsi que leur défaite future ; cette prophétie fut explicitement invoquée près d'un siècle plus tard par des combattants de la guérilla lors de la guerre de libération du Zimbabwe dans les années 1970 pour légitimer spirituellement leur lutte armée, illustrant la persistance politique concrète de figures spirituelles anciennes dans des contextes de mobilisation bien postérieurs.",
+  "domaines": [
+    "prophétie",
+    "guérison",
+    "pluie",
+    "résistance"
+  ],
+  "tags": [
+    "divination"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["mwari"]
+    "entites_liees": [
+      "mwari"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

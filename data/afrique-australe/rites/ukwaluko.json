@@ -4,10 +4,19 @@
   "variantes": [],
   "region": "afrique-australe",
   "categorie": "rites",
-  "peuples": ["Xhosa"],
+  "peuples": [
+    "Xhosa"
+  ],
   "resume": "Rite traditionnel xhosa de passage à l'âge adulte pour les jeunes hommes, incluant la circoncision suivie d'une période d'isolement et d'enseignement dans la brousse, encadrée par des initiés plus âgés.",
-  "domaines": ["initiation masculine", "passage à l'âge adulte", "transmission du savoir"],
-  "tags": ["initiation"],
+  "description_detaillee": "Chaque peuple nguni voisin (Xhosa, Zulu, Ndebele) maintient sa propre variante de ce complexe initiatique masculin fondé sur la circoncision, avec des différences de calendrier, de durée et de détails rituels, illustrant la diversité de pratiques apparentées mais non identiques au sein d'un même ensemble culturel élargi d'Afrique australe, aux côtés du domba féminin observé chez les Venda voisins selon une logique de genre inversée.",
+  "domaines": [
+    "initiation masculine",
+    "passage à l'âge adulte",
+    "transmission du savoir"
+  ],
+  "tags": [
+    "initiation"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],

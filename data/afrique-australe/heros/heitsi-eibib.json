@@ -1,20 +1,38 @@
 {
   "id": "heitsi-eibib",
   "nom": "Heitsi-eibib",
-  "variantes": ["Heitsi Eibip"],
+  "variantes": [
+    "Heitsi Eibip"
+  ],
   "region": "afrique-australe",
   "categorie": "heros",
-  "peuples": ["Khoikhoi", "San"],
+  "peuples": [
+    "Khoikhoi",
+    "San"
+  ],
   "resume": "Héros culturel et figure de trickster khoikhoi, mort et ressuscité à de multiples reprises selon les récits. Ses tombes multiples, marquées par des tas de pierres le long des routes, font l'objet d'un rite de passage encore observé.",
-  "domaines": ["mort et résurrection", "chasse", "voyage", "ruse"],
-  "tags": ["trickster", "mort-au-dela", "metamorphose"],
+  "description_detaillee": "Les récits relatifs à ses morts successives varient traditionnellement selon les versions : certains le font périr lors d'affrontements avec des animaux dangereux, d'autres lors de rixes ou d'épreuves surnaturelles, chaque décès donnant naissance à un nouveau cairn distinct le long des routes fréquentées. Heitsi-eibib est également crédité d'avoir enseigné aux premiers humains certaines techniques de chasse et l'usage de plantes médicinales, renforçant son statut de héros culturel civilisateur au-delà du seul motif de la résurrection répétée.",
+  "domaines": [
+    "mort et résurrection",
+    "chasse",
+    "voyage",
+    "ruse"
+  ],
+  "tags": [
+    "trickster",
+    "mort-au-dela",
+    "metamorphose"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
-  "attributs": ["cairns de pierre (tombes multiples)", "forme changeante"],
+  "attributs": [
+    "cairns de pierre (tombes multiples)",
+    "forme changeante"
+  ],
   "recits_associes": [],
   "culte_contemporain": "La coutume consistant à ajouter une pierre sur les cairns attribués à Heitsi-eibib le long de certains chemins reste rapportée dans des communautés khoikhoi contemporaines, comme geste de bonne fortune pour le voyage.",
   "sources": [
