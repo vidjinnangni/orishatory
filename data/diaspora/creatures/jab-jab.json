@@ -8,7 +8,7 @@
     "Trinidadiens"
   ],
   "resume": "Personnage de carnaval trinidadien incarnant un diable enchaîné couvert de mélasse ou de peinture noire, dont la performance mime une lutte symbolique contre l'esclavage et l'oppression, descendant de traditions de mascarade ouest-africaines recomposées dans le contexte post-esclavagiste caribéen.",
-  "description_detaillee": "Certains spécialistes du carnaval trinidadien distinguent deux figures démoniaques historiquement proches mais désormais différenciées : le Jab Jab proprement dit, vêtu de costumes colorés et armé de fouets qu'il fait claquer lors de joutes simulées avec d'autres participants, et le Jab Molassie, à la peau noircie par la mélasse, l'huile ou la peinture, dont la gestuelle plus menaçante et l'esthétique sombre accentuent davantage la dimension de commémoration de l'esclavage.\n\nCette distinction, parfois estompée dans l'usage courant qui emploie les deux noms de façon interchangeable, reflète néanmoins deux traditions performatives distinctes issues d'un même fonds de mascarades diaboliques post-esclavagistes caribéennes.",
+  "description_detaillee": "Jab Jab et Jab Molassie sont deux des masques de diable du carnaval de Trinité-et-Tobago. Leur nom vient du créole à base française : « jab » dérive de « diable », et « molassie » de « mélasse ». Ces figures appartiennent au répertoire de la « mas » traditionnelle, les personnages anciens du carnaval trinidadien, et comptent parmi les plus directement liés à la mémoire de l'esclavage dans les plantations sucrières.\n\nLe Jab Molassie s'enduisait à l'origine de mélasse, le sirop épais issu de la fabrication du sucre ; aujourd'hui, graisse, goudron, huile ou peintures noires, bleues ou rouges la remplacent. Il porte des chaînes et parfois un cadenas, et un second masqueur le retient souvent au bout de la chaîne, reproduisant chacun de ses mouvements en sens inverse. Au son de boîtes de fer-blanc frappées en rythme, il menace les spectateurs de les barbouiller s'ils ne lui donnent pas quelques pièces. Une histoire populaire en fait l'âme d'un esclave tombé ou jeté dans une cuve de mélasse bouillante. Les descriptions du XIXe siècle rattachent ces diables noircis aux processions du Canboulay (de « cannes brûlées »), qui commémoraient l'émancipation, et un témoignage de 1848 évoque déjà une troupe d'hommes enduits de vernis noir tirant sur une chaîne.\n\nLe Jab Jab proprement dit est d'une tout autre allure : chemise et culotte de satin, pointes de tissu garnies de clochettes à la taille, plastron décoré de miroirs et de brillants, capuche surmontée de cornes de tissu. Armé d'un lourd fouet de chanvre tressé, il affronte d'autres Jab Jab dans des joutes où le claquement du fouet tient lieu de défi. L'usage mêle souvent les deux noms, d'autant qu'à la Grenade voisine le « Jab Jab » désigne un diable noirci à l'huile proche du Jab Molassie trinidadien. Longtemps perçus comme de simples figures effrayantes, ces masques sont aujourd'hui volontiers présentés comme une commémoration de l'esclavage et de la liberté conquise.",
   "domaines": [
     "carnaval",
     "résistance symbolique",
@@ -25,14 +25,12 @@
   },
   "attributs": [
     "corps enduit de mélasse, peinture ou huile noire",
-    "chaînes",
-    "fourche"
+    "chaînes"
   ],
   "recits_associes": [],
   "culte_contemporain": "Reste une figure majeure du carnaval trinidadien contemporain, sa performance étant de plus en plus lue comme une commémoration critique de l'esclavage plutôt qu'un simple divertissement.",
   "sources": [
-    "Riggio, M.C. (2004). Carnival: Culture in Action - The Trinidad Experience",
-    "Ho, C.G.T. (2000). Popular Culture and the Aesthetics of Ambiguity: Jab Molassie and Carnival in Trinidad"
+    "Riggio, M.C. (2004). Carnival: Culture in Action - The Trinidad Experience"
   ],
   "notes": "L'usage de mélasse (sous-produit historique direct de l'industrie sucrière esclavagiste) comme substance rituelle du personnage rend la référence à l'esclavage particulièrement directe et non métaphorique."
 }

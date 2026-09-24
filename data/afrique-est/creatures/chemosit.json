@@ -10,8 +10,8 @@
     "Nandi",
     "Kalenjin"
   ],
-  "resume": "Créature nocturne redoutée du folklore nandi, décrite de façon variable comme un animal massif à mi-chemin entre l'ours, la hyène et le babouin, réputée attaquer le bétail et parfois les humains isolés la nuit.",
-  "description_detaillee": "Les récits occidentaux relatifs au Chemosit au début du 20e siècle s'inscrivent dans un climat intellectuel marqué par les récentes découvertes paléontologiques et un goût prononcé pour l'hypothèse de 'survivants préhistoriques', poussant plusieurs administrateurs coloniaux et chasseurs européens à interpréter les récits locaux à travers ce prisme spécifiquement occidental plutôt qu'à les comprendre dans leur contexte culturel nandi d'origine.",
+  "resume": "Démon nocturne du folklore nandi, décrit par les premières sources écrites comme un ogre mi-homme mi-oiseau à une seule jambe, dont la bouche rouge luit dans la nuit et qui attire les enfants hors des cases pour les dévorer. Son nom a ensuite été rattaché par des colons européens au « Nandi Bear », une bête jamais identifiée.",
+  "description_detaillee": "Le Chemosit appartient au folklore des Nandi, un peuple de langue kalenjin établi sur les hautes terres de l'ouest du Kenya. C'est la figure de l'ogre nocturne, celle qui rôde autour des habitations et que l'on redoute pour les enfants. Son nom a pourtant connu une seconde vie, bien loin de ce contexte : au début du XXe siècle, des colons et des chasseurs européens l'ont associé à une bête inconnue qu'ils appelèrent le Nandi Bear, « l'ours des Nandi ».\n\nLa description la plus ancienne vient d'Alfred Claud Hollis, administrateur colonial qui publia en 1909 une étude de la langue et des traditions nandi. Le Chemosit y apparaît comme un démon qui vit sur la terre et cherche à dévorer les gens, surtout les enfants. Il serait mi-homme, mi-oiseau, n'aurait qu'une jambe mais neuf fesses, et sa bouche rouge brillerait dans la nuit comme une lampe. Il se déplace en s'appuyant sur un bâton semblable à une lance, qui lui sert de béquille. Sa ruse consiste à chanter la nuit près des cases : les enfants, voyant la lumière et entendant la musique, croient qu'une danse a lieu et sortent à sa rencontre. Le vocabulaire de Hollis traduit d'ailleurs chemosit par « démon à une jambe ». Ce portrait n'a rien de l'animal massif et velu que l'on associe aujourd'hui au nom.\n\nLe glissement tient à l'histoire du Nandi Bear. Des témoignages de colons, de chasseurs et d'administrateurs, dont Charles Hobley, évoquèrent dans les années 1900 à 1920 un grand carnassier nocturne attaquant le bétail ; les Nandi auraient nommé ce prédateur kerit, et le mot chemosit fut rattaché à ces récits. Des paléontologues y virent un survivant préhistorique (on pensa un temps à un chalicothère), tandis que des zoologistes proposèrent des explications plus simples, comme la hyène tachetée ou le ratel. Bernard Heuvelmans consacra au sujet un chapitre de son ouvrage de cryptozoologie en 1955, sans qu'aucune identification ne soit jamais confirmée. Pour les Nandi, le Chemosit relève d'un autre registre : celui des récits qui apprennent aux enfants à ne pas sortir la nuit, quelle que soit la musique qu'ils croient entendre.",
   "domaines": [
     "nuit",
     "prédation",
@@ -25,8 +25,9 @@
     "entites_liees": []
   },
   "attributs": [
-    "description physique variable selon les témoignages",
-    "forme massive et velue"
+    "mi-homme, mi-oiseau",
+    "une seule jambe, appuyée sur un bâton en forme de lance",
+    "bouche rouge qui luit dans la nuit"
   ],
   "recits_associes": [],
   "culte_contemporain": "A suscité un intérêt cryptozoologique occidental durable depuis le début du 20e siècle sous le nom de 'Nandi Bear', sans identification zoologique confirmée.",

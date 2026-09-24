@@ -8,7 +8,7 @@
     "Swazi (eSwatini)"
   ],
   "resume": "Cérémonie annuelle swazie de renouvellement de la royauté et des prémices agricoles, impliquant le roi dans une série de rites de purification et de réaffirmation de son lien sacré avec la nation, culminant par la dégustation rituelle des premières récoltes.",
-  "description_detaillee": "La cérémonie comprend une période de réclusion rituelle du roi, au cours de laquelle il consomme un remède amer symbolisant son acceptation des fardeaux de la nation pour l'année à venir, avant que certains objets royaux de l'année écoulée ne soient rituellement écartés ou détruits en signe de renouvellement complet du cycle monarchique.",
+  "description_detaillee": "L'Incwala est le principal rituel de la royauté en Eswatini (anciennement Swaziland). On le présente souvent comme une fête des prémices, mais la dégustation des nouvelles récoltes par le roi n'en est qu'un moment : l'ensemble, qui s'étend sur environ un mois autour du solstice d'été austral, vise avant tout à renouveler la force du souverain et, à travers lui, celle de la nation. Le rite est si étroitement lié à la personne du souverain qu'en l'absence de roi, il n'y a pas d'Incwala.\n\nTout commence par le départ des bemanti, les « gens de l'eau », chargés d'aller puiser l'eau de plusieurs rivières (Lusutfu, Komati, Mbuluzi) et l'écume de l'océan, sur la côte mozambicaine, pour fortifier le roi. Leur retour ouvre la petite Incwala, célébrée à la nouvelle lune. La grande Incwala suit à la pleine lune suivante. De jeunes hommes considérés comme purs vont couper les branches d'un arbre sacré, le lusekwane, avec lesquelles on dresse l'enclos où un taureau est maîtrisé à mains nues. Vient ensuite le jour principal, où le roi, après une période de réclusion et de traitements rituels, paraît dans toute sa parure et mord les premiers fruits de la saison, ce qui autorise le reste du pays à consommer la nouvelle récolte. Le dernier jour, la gourde (luselwa) de l'année précédente et des restes rituels sont brûlés, et les chants de l'Incwala deviennent interdits jusqu'à l'année suivante.\n\nHilda Kuper, qui assista à la cérémonie dans les années 1930, en a laissé la description de référence. Max Gluckman en proposa ensuite une lecture devenue classique : les chants hostiles au roi et l'attitude des princes, qui doivent se comporter comme s'ils convoitaient le trône, seraient des « rituels de rébellion » dont l'expression encadrée renforce finalement l'unité du système. T. O. Beidelman critiqua cette interprétation en 1966, lui reprochant de négliger la cosmologie swazie et le vocabulaire symbolique du rite au profit de ses seules fonctions politiques.\n\nCe débat reste un jalon de l'anthropologie religieuse africaine. L'Incwala a également un rapport étroit avec l'umhlanga, l'autre grande cérémonie de la monarchie swazie, décrite dans la fiche consacrée à sa variante zulu : l'une met en scène le roi et les régiments d'hommes, l'autre les jeunes filles du royaume.",
   "domaines": [
     "royauté sacrée",
     "renouvellement",
@@ -29,7 +29,8 @@
   "culte_contemporain": "",
   "sources": [
     "Kuper, H. (1947). An African Aristocracy: Rank among the Swazi",
-    "Beidelman, T.O. (1966). Swazi Royal Ritual"
+    "Beidelman, T.O. (1966). Swazi Royal Ritual",
+    "Gluckman, M. (1954). Rituals of Rebellion in South-East Africa"
   ],
   "notes": ""
 }

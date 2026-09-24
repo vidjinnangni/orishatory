@@ -7,8 +7,8 @@
   "peuples": [
     "Swahili (Zanzibar, Pemba)"
   ],
-  "resume": "Esprit malveillant à forme changeante, souvent décrit avec une seule aile de chauve-souris, associé à des vagues de panique collective sur l'île de Pemba et à Zanzibar depuis les années 1960.",
-  "description_detaillee": "Les vagues de panique liées au Popobawa les mieux documentées, notamment en 1995 et 2007, coïncident chaque fois avec des périodes de tensions politiques ou électorales sur l'archipel de Zanzibar, un rapprochement qui a conduit plusieurs chercheurs en sciences sociales à analyser le phénomène comme une forme de 'panique morale' collective canalisant des angoisses politiques et sociales bien réelles à travers un vocabulaire surnaturel partagé, un mécanisme sociologique documenté pour des paniques comparables ailleurs sur le continent.",
+  "resume": "Esprit malfaisant capable de changer de forme, dont le nom swahili signifie « aile de chauve-souris », associé à des vagues de panique collective sur l'île de Pemba et à Zanzibar depuis le milieu des années 1960.",
+  "description_detaillee": "Popobawa est le nom d'un être malfaisant dont parlent les habitants de l'archipel de Zanzibar, au large de la Tanzanie, et en particulier ceux de l'île de Pemba. Son nom swahili signifie « aile de chauve-souris » (popo, chauve-souris ; bawa, aile) et renverrait à l'ombre noire qu'il projette lorsqu'il attaque la nuit. Contrairement à la plupart des figures de ce codex, il n'appartient pas à une tradition ancienne : les premiers récits qui le nomment remontent au milieu des années 1960, peu après la révolution de Zanzibar.\n\nOn le décrit comme un être capable de changer de forme, apparaissant tantôt sous l'aspect d'un homme, tantôt sous celui d'un animal. Il s'en prend aux dormeurs, qu'il agresse physiquement et sexuellement, puis exige que la victime raconte ce qui lui est arrivé, faute de quoi il reviendra. Cette injonction explique en partie la manière dont les rumeurs se propagent. Lors des vagues de peur, beaucoup ont préféré passer la nuit dehors, serrés en groupes devant leurs maisons. En 1995, sur les deux îles, des inconnus soupçonnés d'être des incarnations du Popobawa ont été battus par la foule, et certains en sont morts.\n\nL'anthropologue Martin Walsh, qui vivait à Pemba lorsque la grande panique de 1995 a éclaté, a suivi la façon dont les explications ont changé. La crise est partie de Pemba avant de gagner Unguja puis la côte continentale, dans les mois qui précédaient les premières élections multipartites. On a d'abord parlé d'esprits et de sorcellerie ; à Pemba, bastion de l'opposition, beaucoup ont ensuite affirmé que les autorités avaient elles-mêmes fait venir le Popobawa, pour punir l'île ou pour détourner l'attention de la campagne électorale. David Parkin y a lu une mémoire sociale de l'esclavage, dans une île longtemps liée à la traite. D'autres observateurs ont rapproché les récits d'agression nocturne de la paralysie du sommeil. Katrina Daly Thompson a critiqué ces lectures venues de l'extérieur, qui réduisent le phénomène à une hystérie : elle montre que parler du Popobawa sert aussi aux locuteurs swahili à aborder des sujets difficiles à évoquer autrement, comme la sexualité ou les rapports entre hommes et femmes. D'autres épisodes ont été signalés en 2000 et en 2007.",
   "domaines": [
     "peur collective",
     "nuit",
@@ -24,14 +24,15 @@
     "entites_liees": []
   },
   "attributs": [
-    "une seule aile de chauve-souris",
+    "agressions nocturnes contre les dormeurs",
     "forme changeante"
   ],
   "recits_associes": [],
   "culte_contemporain": "Le phénomène refait périodiquement surface sous forme de paniques morales médiatisées, étudiées par certains chercheurs en sciences sociales comme cas d'hystérie collective lié à des tensions politiques et sociales locales.",
   "sources": [
-    "Walsh, M.T. (2009). The politicisation of Popobawa: changing explanations of a collective panic in Zanzibar",
-    "Parkin, D. (2004). In and out the mangrove"
+    "Walsh, M.T. (2009). The politicisation of Popobawa: changing explanations of a collective panic in Zanzibar. Journal of Humanities, 1(1)",
+    "Parkin, D. (2004). In the Nature of the Human Landscape: Provenances in the Making of Zanzibari Politics. In Clammer, J., Poirier, S. & Schwimmer, E. (dir.), Figured Worlds: Ontological Obstacles in Intercultural Relations",
+    "Thompson, K.D. (2017). Popobawa: Tanzanian Talk, Global Misreadings"
   ],
   "notes": ""
 }

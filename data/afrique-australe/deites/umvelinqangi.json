@@ -9,7 +9,7 @@
     "Xhosa"
   ],
   "resume": "Expression désignant 'celui qui est apparu en premier', concept créateur parfois distingué d'uNkulunkulu dans certaines traditions zulu et xhosa, associé à l'origine première de l'existence et parfois au tonnerre.",
-  "description_detaillee": "Certains chercheurs ont suggéré que uMvelinqangi et uNkulunkulu pourraient à l'origine avoir constitué les deux facettes d'un seul et même récit sur l'émergence primordiale de l'existence à partir des roseaux, avant que des traditions orales régionales distinctes ou des transcriptions missionnaires successives n'aient contribué à les présenter comme deux figures théologiquement séparées.",
+  "description_detaillee": "uMvelinqangi (on trouve aussi uMvelingqangi) est l'un des noms de l'être suprême chez les Zulu, et, sous une forme voisine, chez les Xhosa. Le mot signifie à peu près « celui qui est apparu le premier » ou « celui qui existait avant tout ». Là où uNkulunkulu évoque l'ancêtre originel sorti des roseaux, uMvelinqangi met l'accent sur l'antériorité absolue, et il est souvent rattaché au « seigneur du ciel » (iNkosi yezulu), dont la colère se manifeste dans l'orage.\n\nAxel-Ivar Berglund, qui a longuement enquêté auprès de devins et d'anciens zulu, a recueilli un récit où les humains viennent du ciel. Parmi les gens qui vivaient avec uMvelinqangi se trouvait un homme turbulent, surpris à monter le bœuf blanc préféré du maître du ciel ; pour le punir, uMvelinqangi le fit descendre sur terre par un trou, suspendu à un cordon ombilical. Arrivé en bas, l'homme trancha le cordon avec un roseau. Le voyant maigre et seul, uMvelinqangi lui envoya une compagne par le même chemin, puis referma le trou. Les Zulu, amaZulu, seraient ainsi littéralement « les gens du ciel ». Le prophète zulu Laduma Madela, dont Katesa Schlosser a publié la mythologie, donne une autre version : uMvelinqangi et sa famille seraient sortis du sol comme un champignon, avec son épouse, deux fils et une fille, Nomkhubulwana, la princesse du ciel.\n\nCes récits montrent que la frontière entre uMvelinqangi et uNkulunkulu n'a jamais été nette. Certains informateurs les confondent, d'autres les distinguent ; certains chercheurs pensent qu'il s'agit de deux faces d'une même tradition sur les origines, séparées ensuite par les variations régionales et par le travail de traduction des missionnaires. Le débat recoupe celui qu'a ouvert Irving Hexham en 1981 sur l'existence même d'un dieu du ciel zulu avant la présence européenne, thèse que Berglund et d'autres ethnographes contestent.",
   "domaines": [
     "création",
     "origine première",
@@ -32,7 +32,9 @@
   "culte_contemporain": "",
   "sources": [
     "Berglund, A-I. (1976). Zulu Thought-Patterns and Symbolism",
-    "Callaway, H. (1868). The Religious System of the Amazulu"
+    "Callaway, H. (1868). The Religious System of the Amazulu",
+    "Schlosser, K. (1997). Zulu Mythology: As Written and Illustrated by the Zulu Prophet Laduma Madela",
+    "Hexham, I. (1981). Lord of the Sky, King of the Earth: Zulu Traditional Religion and Belief in the Sky God"
   ],
   "notes": "La relation exacte entre uMvelinqangi et uNkulunkulu varie selon les sources et les régions ; certains informateurs ethnographiques les traitent comme un seul et même concept sous deux noms, d'autres comme des entités distinctes."
 }

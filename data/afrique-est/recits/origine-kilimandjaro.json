@@ -7,12 +7,12 @@
   "peuples": [
     "Chagga"
   ],
-  "resume": "Récit chagga expliquant la formation du mont Kilimandjaro et de son sommet enneigé comme la demeure du dieu Ruwa, souvent associé à des épisodes où le froid et la neige du sommet punissent ceux qui manquent de respect à la montagne.",
-  "description_detaillee": "Le contraste entre la reconnaissance ancienne du sommet enneigé dans les récits chagga et son accueil sceptique en Europe illustre un décalage culturel notable : lorsque le missionnaire allemand Johannes Rebmann rapporta en 1848 l'existence d'une neige permanente sur une montagne équatoriale, plusieurs savants européens rejetèrent d'abord son témoignage comme invraisemblable, alors que cette réalité géographique faisait depuis longtemps partie intégrante de la cosmologie et du paysage quotidien des populations chagga vivant à son pied.",
+  "resume": "Récits chagga sur le mont Kilimandjaro, dont le plus connu explique le profil déchiqueté du Mawenzi par le coup de pilon que lui aurait donné son voisin Kibo, lassé de lui donner du feu. Les hauteurs glacées y apparaissent aussi comme un lieu dangereux, habité par des esprits.",
+  "description_detaillee": "Le Kilimandjaro, plus haut sommet d'Afrique, domine le pays des Chagga, agriculteurs installés sur ses pentes fertiles dans le nord de la Tanzanie. La montagne est au cœur de leur paysage quotidien, et plusieurs récits expliquent sa forme ou font de ses hauteurs glacées un lieu que l'on n'approche pas sans danger.\n\nLe récit le plus souvent cité porte sur ses deux sommets, Kibo et Mawenzi, traités comme deux êtres voisins. Kibo, « le tacheté », doit son nom aux plaques de roche sombre qui percent la neige ; Mawenzi (ou Mawenge) signifie « le cabossé, le déchiqueté ». Un jour, le feu de Mawenzi s'éteignit, et il alla en demander à Kibo, occupé à piler des bananes séchées. Kibo lui donna du feu et quelques bananes. Mawenzi laissa le feu s'éteindre en chemin et revint, puis revint encore ; à la troisième visite, Kibo ne répondit pas à son salut, leva son pilon et le frappa. Voilà pourquoi Mawenzi a aujourd'hui ce profil brisé. L'histoire, recueillie dans le dictionnaire de mythologie africaine de Harold Scheub, parle du voisinage, de la générosité et de ses limites autant que de géologie.\n\nOn lit souvent que le sommet serait la demeure ou le trône de Ruwa, le dieu suprême chagga, et que le froid y punirait les irrespectueux. Les ethnographies anciennes de Bruno Gutmann et de Charles Dundas situent pourtant Ruwa dans le ciel, et cette association n'a pas pu être retrouvée dans les sources consultées. En revanche, les récits qui circulaient dans la région au milieu du XIXe siècle faisaient bien des hauteurs un lieu dangereux : les caravaniers swahili de la côte parlaient d'une montagne inaccessible, habitée par des esprits et renfermant de l'or et de l'argent.\n\nC'est avec ces récits en tête que le missionnaire allemand Johannes Rebmann aperçut la montagne en mai 1848. Son guide, le caravanier Bwana Kheri, appelait « froid » la substance blanche du sommet ; Rebmann y reconnut de la neige et supposa que les voyageurs morts de froid sur ses pentes avaient été attribués à ces esprits. À Londres, le géographe William Desborough Cooley refusa de croire qu'il pût neiger si près de l'équateur, et il fallut attendre les expéditions suivantes pour que le fait soit admis. L'origine même du nom Kilimandjaro reste discutée : on a proposé des étymologies swahili (kilima, « colline, montagne ») comme des explications tirées du chagga.",
   "domaines": [
     "origine géologique",
-    "montagne sacrée",
-    "punition divine"
+    "montagne",
+    "voisinage et générosité"
   ],
   "tags": [
     "creation"
@@ -30,7 +30,8 @@
   "culte_contemporain": "",
   "sources": [
     "Dundas, C. (1924). Kilimanjaro and Its People",
-    "Gutmann, B. (1909). Dichten und Denken der Dschagganeger"
+    "Gutmann, B. (1909). Dichten und Denken der Dschagganeger",
+    "Scheub, H. (2000). A Dictionary of African Mythology: The Mythmaker as Storyteller"
   ],
   "notes": ""
 }

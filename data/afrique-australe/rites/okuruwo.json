@@ -8,7 +8,7 @@
     "Herero"
   ],
   "resume": "Foyer sacré entretenu en continu au sein de chaque homestead herero, symbolisant le lien ininterrompu avec les ancêtres et Mukuru, sous la responsabilité d'un gardien du feu désigné au sein de la famille.",
-  "description_detaillee": "L'emplacement du foyer okuruwo entre l'habitation familiale et l'enclos à bétail n'est pas anodin : il relie symboliquement la vénération des ancêtres à la prospérité du troupeau, élément central de la vie économique et culturelle herero. La règle veut traditionnellement que ce feu ne s'éteigne jamais, exigence qui a représenté un défi particulier lors des périodes de déplacement forcé qu'a connues le peuple herero au cours de son histoire.",
+  "description_detaillee": "L'okuruwo est le foyer sacré des Herero, peuple pasteur de Namibie et du Botswana, et de leurs proches parents himba du nord-ouest namibien. Chaque homestead en possède un, placé entre la hutte principale et l'enclos du bétail. Ce feu, qui doit couver en permanence, est le lieu où les vivants s'adressent aux ancêtres de la lignée, et à travers eux à Mukuru, figure divine lointaine dont les ancêtres sont souvent présentés comme les intermédiaires.\n\nL'okuruwo est lié à la filiation paternelle. Les Herero pratiquent une double filiation : chacun appartient à la fois à un clan patrilinéaire (oruzo) et à un clan matrilinéaire (eanda). C'est la lignée paternelle qui a la charge des ancêtres, des objets sacrés, du bétail consacré et du feu. Un aîné de la lignée, que Kana Miyamoto désigne, d'après le chercheur herero Jekura Kavari, sous le nom d'omupueje, s'assoit près du foyer pour informer les ancêtres des événements qui touchent la famille : naissances, initiations, mariages, maladies, malchance persistante. Les cérémonies de commémoration qui réunissent tous les membres d'une lignée tous les deux ou trois ans s'y déroulent aussi, de même qu'une partie des rites funéraires.\n\nLe feu accompagne la vie de la lignée. Lorsque la famille change de pâturage, des braises sont emportées pour rallumer le foyer ailleurs, et la tradition veut qu'il s'éteigne avec la mort du chef de famille. Les descriptions varient toutefois d'une région et d'une époque à l'autre : les observations anciennes de Heinrich Vedder, missionnaire en Namibie au début du 20e siècle, et celles de Gordon Gibson chez les Herero du Ngamiland botswanais ne recoupent pas en tout point les enquêtes récentes menées dans le Kaokoland.\n\nL'okuruwo montre comment, chez les Herero, le culte des ancêtres est indissociable de l'élevage : le foyer se tient littéralement entre la maison et le troupeau. Il éclaire aussi la place de Mukuru dans leur religion : un dieu que l'on atteint surtout par la médiation des ancêtres. La fiche consacrée à Mukuru développe cette figure, à la fois être suprême et premier ancêtre des lignées herero, ce qui explique que le culte domestique des morts et celui du dieu passent par le même feu.",
   "domaines": [
     "feu sacré",
     "ancestralité",
@@ -33,7 +33,8 @@
   "culte_contemporain": "",
   "sources": [
     "Vedder, H. (1928). The Herero",
-    "Gibson, G.D. (1956). Double Descent and Its Correlates among the Herero"
+    "Gibson, G.D. (1956). Double Descent and Its Correlates among the Herero",
+    "Miyamoto, K. (2019). Taboos Related to the Ancestors of the Himba and Herero Pastoralists in Northwest Namibia: A Preliminary Report"
   ],
   "notes": ""
 }

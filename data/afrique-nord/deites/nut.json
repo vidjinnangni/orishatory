@@ -10,7 +10,7 @@
     "Égyptiens anciens"
   ],
   "resume": "Déesse du ciel représentée arquée au-dessus de la terre, avalant le soleil chaque soir pour lui donner naissance à nouveau chaque matin. Mère de plusieurs divinités majeures dont Osiris, Isis, Seth et Nephthys.",
-  "description_detaillee": "L'image de Nout, le corps constellé arqué au-dessus du monde, était traditionnellement peinte à l'intérieur des couvercles de sarcophages et de cercueils égyptiens, de sorte que le défunt reposait symboliquement dans son étreinte protectrice, appelé à renaître éternellement de son corps céleste comme le soleil renaît chaque matin de ses entrailles.",
+  "description_detaillee": "Nout est le ciel de l'Égypte ancienne, conçu non comme un espace vide mais comme le corps d'une déesse. Fille de Shou et de Tefnout, épouse de Geb la terre, elle est la mère des dieux qui dominent le mythe d'Osiris : Osiris lui-même, Isis, Seth et Nephtys. On la figure en femme immense, penchée au-dessus du monde, les mains et les pieds posés aux quatre points de l'horizon, le corps semé d'étoiles. Cette image a traversé toute l'histoire égyptienne et reste l'une des plus reconnaissables de son art.\n\nSon rôle le plus constant touche au soleil. Le soir, Nout avale l'astre, qui voyage pendant la nuit à l'intérieur de son corps avant qu'elle le remette au monde à l'aube, ce qui explique la rougeur du ciel matinal. Les plafonds de certaines tombes royales du Nouvel Empire, comme celle de Ramsès VI, et du cénotaphe de Séthi Ier à Abydos déroulent ce trajet sur toute la longueur de son corps, avec les étoiles qui la parcourent. Une image voisine en fait une truie qui dévore ses petits, les étoiles, puis les fait renaître : la déesse n'avait pas qu'une seule forme.\n\nCe pouvoir de renaissance explique sa présence dans les rites funéraires. Les Textes des Pyramides demandent déjà à Nout de s'étendre au-dessus du roi défunt, et sa silhouette fut ensuite peinte sur le fond ou l'intérieur du couvercle de nombreux cercueils : le mort reposait littéralement sous elle, promis à renaître comme le soleil. Elle pouvait aussi apparaître en déesse de l'arbre, qui tend eau et nourriture au défunt depuis un sycomore, un rôle qu'elle partage avec Hathor.\n\nLa naissance de ses enfants fait l'objet d'un récit rapporté par Plutarque au IIe siècle de notre ère : Rê lui aurait interdit d'enfanter pendant les jours de l'année, et Thot lui aurait procuré cinq jours supplémentaires, les jours épagomènes, pendant lesquels elle mit au monde ses enfants. Il s'agit d'une source grecque tardive, mais les Égyptiens célébraient bien ces cinq jours comme les anniversaires des dieux. La fiche consacrée à la séparation de Nout et Geb détaille le récit de fondation qui la place au-dessus de la terre.",
   "domaines": [
     "ciel",
     "cycle solaire",
@@ -20,13 +20,17 @@
     "creation"
   ],
   "genealogie": {
-    "parents": [],
+    "parents": [
+      "shu",
+      "tefnut"
+    ],
     "conjoints": [
       "geb"
     ],
     "enfants": [
       "osiris",
-      "isis"
+      "isis",
+      "seth"
     ],
     "entites_liees": [
       "geb"
@@ -41,7 +45,8 @@
   "culte_contemporain": "",
   "sources": [
     "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
-    "Hart, G. (2005). The Routledge Dictionary of Egyptian Gods and Goddesses"
+    "Hart, G. (2005). The Routledge Dictionary of Egyptian Gods and Goddesses",
+    "Plutarque, De Iside et Osiride (source antique secondaire, 1er-2e siècle apr. J.-C.)"
   ],
   "notes": ""
 }

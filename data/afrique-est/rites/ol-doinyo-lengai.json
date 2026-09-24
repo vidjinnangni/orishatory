@@ -8,7 +8,7 @@
     "Maasai"
   ],
   "resume": "Volcan actif de Tanzanie considéré par les Maasai comme la demeure terrestre d'Engai, objet de pèlerinages et de prières, en particulier lors de sécheresses ou de crises communautaires.",
-  "description_detaillee": "L'activité volcanique elle-même est traditionnellement interprétée par les Maasai à travers le prisme de la double nature d'Engai déjà observée ailleurs dans leur cosmologie : une éruption ou une coulée de lave pouvant être lue comme une manifestation de la colère de l'aspect Nanyokie (rouge), tandis qu'une phase calme de la montagne serait associée à la bienveillance de l'aspect Narok (noir), reliant directement le comportement géologique du volcan à l'humeur changeante de la divinité qui y réside.",
+  "description_detaillee": "Ol Doinyo Lengai, « la montagne de Dieu » en maa, est un volcan actif du nord de la Tanzanie qui domine la rive sud du lac Natron, dans la vallée du Rift. Les Maasai y voient la demeure d'Engai, leur divinité suprême, ce qui en fait le lieu le plus sacré de leur géographie religieuse. C'est l'un des rares cas où une croyance maasai centrale se rattache à un site précis et visible de loin.\n\nLes récits disponibles décrivent surtout des démarches de crise. En période de sécheresse, des pasteurs se rendent au pied de la montagne pour demander la pluie qui fera repousser l'herbe ; on y prie aussi pour le bétail et pour la naissance d'enfants, et des anciens y conduiraient des groupes de femmes sans enfant afin qu'Engai leur accorde la fécondité. Quand une épidémie ou un conflit frappe la communauté, un groupe peut monter vers le sommet pour des prières, des chants et parfois des sacrifices. Ces descriptions proviennent pour une large part de récits de voyage et d'ouvrages de vulgarisation plutôt que d'études ethnographiques détaillées, et les modalités précises de ces pèlerinages restent mal connues.\n\nLa montagne est aussi une curiosité géologique : c'est le seul volcan actif connu pour émettre de la natrocarbonatite, une lave riche en carbonates de sodium décrite scientifiquement pour la première fois par John Barry Dawson après l'éruption de 1960-1961. Émise vers 500 °C, bien en dessous des laves basaltiques, elle sort noire ou brune et blanchit en quelques heures au contact de l'humidité, ce qui donne au sommet un aspect enneigé. Le volcan a connu une phase explosive en 2007-2008. On lit parfois que les Maasai interprètent ses éruptions comme la colère d'Engai Nanyokie, l'aspect rouge de la divinité, et ses périodes de calme comme la bienveillance d'Engai Narok : cette lecture, séduisante au regard de la fiche consacrée à Engai, n'est attestée dans aucune des sources consultées et doit être tenue pour une hypothèse.",
   "domaines": [
     "montagne sacrée",
     "pèlerinage",
@@ -24,13 +24,13 @@
     ]
   },
   "attributs": [
-    "volcan actif unique au monde par sa lave carbonatitique naturellement froide et blanche"
+    "seul volcan actif émettant des laves natrocarbonatitiques, émises vers 500 °C (bien moins chaudes que les laves basaltiques), noires ou brunes à la sortie puis blanchissant au contact de l'humidité"
   ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [
     "Galaty, J.G. (1993). Maasai Expansion and the New East African Pastoralism",
-    "Sanders, T. (2008). Beyond Bodies: Rainmaking and Sense Making in Tanzania"
+    "Dawson, J.B. (1962). Sodium carbonate lavas from Oldoinyo Lengai, Tanganyika"
   ],
   "notes": "La documentation ethnographique académique dédiée spécifiquement au statut religieux de cette montagne reste plus mince que la littérature volcanologique qui la concerne ; à enrichir si des sources plus ciblées sont identifiées."
 }

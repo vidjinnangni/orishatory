@@ -11,7 +11,7 @@
     "Égyptiens anciens"
   ],
   "resume": "Dieu égyptien du monde souterrain, de la résurrection et de l'agriculture cyclique, assassiné par son frère Seth puis restauré par la magie d'Isis pour régner sur le royaume des morts.",
-  "description_detaillee": "La crue annuelle du Nil, condition de toute vie agricole en Égypte ancienne, était théologiquement interprétée comme une manifestation directe du corps ou des larmes d'Osiris, reliant ainsi très concrètement le cycle naturel dont dépendait la survie du pays tout entier à la trame mythologique de sa mort et de sa résurrection partielle, plutôt que de traiter les deux comme des registres séparés.",
+  "description_detaillee": "Osiris est le dieu égyptien qui règne sur le monde des morts, et sans doute celui qui a le plus profondément façonné la manière dont les anciens Égyptiens pensaient la mort. Dans la théologie d'Héliopolis, il est l'aîné des enfants de Geb, la terre, et de Nout, le ciel, frère et époux d'Isis, frère de Seth et de Nephthys. Il apparaît dans les textes vers la fin de l'Ancien Empire, au cours de la Ve dynastie, et son importance ne cesse ensuite de grandir pendant près de trois millénaires. Son histoire est celle d'un roi assassiné, puis ranimé assez pour engendrer un héritier et devenir le souverain de l'au-delà.\n\nCette mort suivie d'un retour à la vie le relie directement aux cycles de la nature. Les Textes des pyramides font de la crue du Nil un écoulement sorti de son corps, et l'on représente souvent sa peau verte, couleur de la végétation, ou noire, couleur du limon fertile. Le lien avec le grain était très concret : on fabriquait des figurines d'Osiris en terre mêlée de semences, que l'on arrosait pour les faire germer, notamment lors des rites du mois de Khoiak, et certaines tombes en contenaient. Ses principaux sanctuaires se trouvaient à Busiris, dans le Delta, où il était associé au pilier djed, et surtout à Abydos, tenu pour le lieu de sa tombe, où des milliers de pèlerins laissaient des stèles pour participer de loin à ses fêtes.\n\nSon rôle funéraire est central. D'abord réservée au roi, l'identification à Osiris s'étend peu à peu aux autres défunts : dès la fin de l'Ancien Empire et surtout au Moyen Empire, les textes des sarcophages et plus tard le Livre des Morts désignent le mort comme « l'Osiris Untel ». Osiris préside aussi le tribunal où l'on pèse le cœur des morts, ce qui fait de lui à la fois le modèle de la survie et le juge qui y donne accès. Son culte survit longtemps à l'Égypte pharaonique : sous les Ptolémées, le dieu Sérapis, créé en combinant Osiris et le taureau Apis, est diffusé dans tout le monde grec, et le récit de sa mort nous est surtout connu, sous une forme continue, par l'auteur grec Plutarque.",
   "domaines": [
     "mort",
     "résurrection",
@@ -22,7 +22,10 @@
     "mort-au-dela"
   ],
   "genealogie": {
-    "parents": [],
+    "parents": [
+      "geb",
+      "nut"
+    ],
     "conjoints": [
       "isis"
     ],
@@ -44,7 +47,7 @@
     "mythe-osiris",
     "combat-horus-seth"
   ],
-  "culte_contemporain": "Culte disparu comme religion vivante, mais chaque défunt égyptien antique était rituellement assimilé à Osiris lors des funérailles — une influence structurante sur toute la théologie funéraire égyptienne.",
+  "culte_contemporain": "Culte disparu comme religion vivante, mais d'une influence structurante sur toute la théologie funéraire égyptienne : lors des funérailles, chaque défunt était rituellement assimilé à Osiris.",
   "sources": [
     "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
     "Assmann, J. (2005). Death and Salvation in Ancient Egypt"

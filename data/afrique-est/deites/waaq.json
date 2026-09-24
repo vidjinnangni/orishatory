@@ -10,7 +10,7 @@
     "Oromo"
   ],
   "resume": "Divinité suprême de la religion traditionnelle oromo (Waaqeffannaa), créateur unique et source de l'ordre moral (safuu). Central au système socio-religieux oromo, y compris dans l'organisation du système gadaa.",
-  "description_detaillee": "Le concept de safuu, principe d'ordre moral et cosmique central au Waaqeffannaa, ne se limite pas à une éthique interpersonnelle : sa transgression est traditionnellement crue capable de perturber l'équilibre écologique autant que social, reliant étroitement dans la pensée oromo le respect des normes morales au maintien de l'harmonie entre les humains et leur environnement naturel.",
+  "description_detaillee": "Waaqa, ou Waaq, est le dieu créateur des Oromo, le peuple le plus nombreux d'Éthiopie, présent aussi au nord du Kenya. Sa religion porte aujourd'hui le nom de Waaqeffannaa. On l'appelle volontiers Waaqa gurraacha, « le Dieu noir », le noir évoquant ici le mystère et la pureté. Il a créé le monde et en garantit l'ordre, que les humains doivent respecter.\n\nWaaqa se manifeste à travers les ayyaana, des esprits intermédiaires qui peuvent posséder des hommes et des femmes ; ceux qu'ils choisissent deviennent qaalluu et qaallitti, prêtres et prêtresses. L'institution des qaalluu se tenait à l'écart des luttes de pouvoir, mais c'est elle qui bénissait le système gadaa, l'organisation par classes d'âge qui répartissait les fonctions politiques. Le plus haut dignitaire, l'Abbaa Muudaa, recevait des pèlerins venus de tout le pays oromo pour obtenir son onction. La vie morale s'ordonne autour du safuu : enfreindre ce principe, c'est rompre la relation avec Waaqa et, avec elle, l'équilibre entre humains et nature.\n\nLa grande fête d'Irreecha, célébrée deux fois par an, notamment au bord du lac Hora Harsadi à Bishoftu, rend grâce à Waaqa et réunit des foules considérables ; elle est devenue aussi un moment d'affirmation de l'identité oromo. Le système gadaa a été inscrit en 2016 sur la liste du patrimoine culturel immatériel de l'UNESCO. Le nombre de fidèles du Waaqeffannaa reste difficile à estimer, les chiffres avancés variant d'un à plusieurs millions. Lambert Bartels, missionnaire qui a recueilli mythes et rites chez les Oromo de l'ouest, reste une source majeure, à lire en tenant compte de ce regard.",
   "domaines": [
     "création",
     "ciel",
@@ -30,7 +30,8 @@
   "culte_contemporain": "Le Waaqeffannaa connaît un regain d'intérêt contemporain chez certains Oromo comme alternative aux religions importées (christianisme, islam), en lien avec des mouvements de revitalisation culturelle et identitaire.",
   "sources": [
     "Bartels, L. (1983). Oromo Religion: Myths and Rites of the Western Oromo of Ethiopia",
-    "Hassen, M. (1990). The Oromo of Ethiopia: A History, 1570-1860"
+    "Hassen, M. (1990). The Oromo of Ethiopia: A History, 1570-1860",
+    "UNESCO (2016). Gada system, an indigenous democratic socio-political system of the Oromo"
   ],
   "notes": ""
 }

@@ -9,7 +9,7 @@
     "Mandingue"
   ],
   "resume": "Divinité de l'eau et organisatrice du monde dans la cosmogonie bambara (Mali), envoyée pour restaurer l'ordre après le désordre provoqué par Pemba. Associée à la parole, à la gémellité et à la purification.",
-  "description_detaillee": "La cosmogonie bambara telle que documentée par Germaine Dieterlen présente Faro comme une entité de nature gémellaire, associée à la parole articulée et à la purification du désordre originel introduit par Pemba. Certains récits la présentent sacrifiée ou démembrée dans le cours de son intervention organisatrice, un motif qui rappelle structurellement le sort du Nommo dogon voisin, sacrifié par Amma pour parachever l'ordre du monde.\n\nLes sociétés d'initiation bambara, notamment le Komo, réactualisent rituellement le conflit entre Faro et Pemba lors des cérémonies de passage : l'ordre que Faro impose au chaos de Pemba devient ainsi le modèle mythologique sur lequel se règle le passage de l'enfance à l'âge adulte, l'individu non initié étant symboliquement assimilé au désordre originel que le rite doit corriger.",
+  "description_detaillee": "Faro est la grande divinité de l'eau chez les Bambara (ou Bamana) et les Malinké du Mali, peuples d'agriculteurs et de pêcheurs installés le long du fleuve Niger, auquel il est étroitement associé. Dans la pensée religieuse bambara telle que l'ont décrite Germaine Dieterlen et Dominique Zahan, il est l'une des manifestations du dieu suprême, Bemba : un être androgyne né de son souffle, identifié à l'eau, à la lumière, à la parole et à la vie. Là où la première création a produit un monde confus, Faro est celui qui remet chaque chose à sa place, ce qui en fait la figure bienfaisante par excellence pour les humains.\n\nSelon Zahan, la création bambara se déroule en trois temps. Dieu se manifeste d'abord sous la forme de Pemba, une graine d'où pousse un arbre qui meurt et dont le bois donne naissance à Mousso Koroni, la première femme, qui engendre plantes, animaux et humains dans la hâte et la confusion. Vient ensuite la « seconde création », placée sous l'autorité de Faro, qui donne à chaque être un lieu dans l'espace et une position par rapport aux autres. La troisième, confiée au forgeron céleste Ndomadyiri, sépare et distingue ce que Faro a ordonné sans encore le différencier.\n\nLa version malinké recueillie par Dieterlen à Kangaba et publiée en 1957 donne à Faro un rôle plus dramatique. Il y est le jumeau de Pemba, sous la forme d'un poisson silure. Pour réparer le désordre causé par son frère, il est sacrifié au ciel et son corps, découpé en soixante morceaux, tombe sur la terre où les fragments deviennent des arbres. Ressuscité sous forme humaine, il redescend dans une arche chargée des ancêtres de l'humanité, des animaux et des plantes, qui se pose sur la montagne de Kouroula, au Manding ; les eaux qu'il répand ensuite lavent la terre de l'impureté laissée par Pemba. Ce motif du sacrifice fondateur rappelle celui du Nommo chez les Dogon voisins.\n\nCes récits très construits doivent être lus avec prudence. Ils proviennent pour l'essentiel de l'école de Marcel Griaule, dont les travaux sur les Dogon ont été contestés pour leur tendance à systématiser des savoirs dispersés entre plusieurs spécialistes. Faro reste pourtant une figure vivante de la culture malienne : des lieux de culte jalonnent les rives du Niger, entretenus notamment par les pêcheurs somono, et le cinéaste Salif Traoré lui a consacré en 2007 le film Faro, la reine des eaux.",
   "domaines": [
     "eau",
     "ordre du monde",
@@ -35,7 +35,9 @@
   "culte_contemporain": "",
   "sources": [
     "Dieterlen, G. (1951). Essai sur la religion bambara",
-    "Zahan, D. (1960). Sociétés d'initiation bambara: le N'domo, le Korè"
+    "Zahan, D. (1960). Sociétés d'initiation bambara: le N'domo, le Korè",
+    "Dieterlen, G. (1957). The Mande Creation Myth",
+    "Zahan, D. (1987). Bambara Religion"
   ],
   "notes": ""
 }

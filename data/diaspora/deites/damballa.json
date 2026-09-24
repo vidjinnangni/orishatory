@@ -11,7 +11,7 @@
     "Haïtiens (vodou)"
   ],
   "resume": "Loa vodou haïtien serpent, associé à la création, à la sagesse et à la pureté primordiale, souvent représenté avec sa parèdre Ayida-Wédo (l'arc-en-ciel). Hérité de traditions ouest-africaines et kongo du serpent créateur.",
-  "description_detaillee": "Lorsqu'un pratiquant est 'chevauché' (possédé) par Damballa, les conventions rituelles veulent qu'il perde l'usage de la parole humaine, ne communiquant plus que par sifflements, et qu'il se déplace au sol à la manière d'un serpent — une incarnation physique complète de la nature du loa plutôt qu'une simple représentation symbolique.\n\nDamballa appartient au rite Rada du vodou haïtien, associé aux esprits 'frais' et bienveillants d'origine principalement ouest-africaine (Fon, Yoruba), par opposition au rite Petro, plus tardif et plus âpre dans son tempérament, où dominent des esprits nés sur le sol haïtien pendant la période de l'esclavage. Cette division entre 'nations' (nanchons) de loa structure l'ensemble du panthéon vodou et distingue Damballa de loa plus combatifs comme certains aspects d'Ezili ou d'Ogou.",
+  "description_detaillee": "Danbala, souvent appelé Damballa Wedo, est le lwa serpent du vodou haïtien et l'un des plus anciens et des plus respectés de son panthéon. Son surnom renvoie à Ouidah (Whydah), port de l'ancien royaume du Dahomey, dans l'actuel Bénin, où le culte du serpent Dan était célébré dans un temple des pythons encore actif aujourd'hui. Associé à la création, à la pluie, aux sources et à une sagesse très ancienne, il est volontiers considéré comme un père calme et bienveillant, dont la présence apaise plutôt qu'elle ne bouscule.\n\nIl appartient au rite rada, qui regroupe des esprits réputés doux et dont les noms et les rythmes viennent surtout des traditions fon et yoruba. Le vodou haïtien l'oppose au rite petro, plus brûlant et plus rapide, qui s'est formé à Saint-Domingue avec un fort apport d'Afrique centrale (kongo). Danbala forme un couple avec Ayida-Wédo, l'arc-en-ciel, et les vèvè, dessins rituels tracés au sol, les montrent souvent sous l'aspect de deux serpents dressés. Tout ce qui lui est offert est blanc : son offrande la plus caractéristique est un œuf blanc posé sur un petit monticule de farine. Le catholicisme populaire l'a rapproché de saint Patrick, qui aurait chassé les serpents d'Irlande, ou parfois de Moïse.\n\nSa possession est l'une des plus singulières du vodou. Les observateurs, à commencer par Maya Deren qui a longuement filmé et décrit ces cérémonies, rapportent que la personne « montée » par Danbala perd l'usage de la parole humaine, ne s'exprime plus que par des sifflements, se déplace en rampant et cherche parfois à grimper en hauteur, sur un poteau ou dans un arbre. Le lwa n'est pas mimé : il s'incarne complètement dans le corps de son serviteur.\n\nCe serpent créateur associé à l'arc-en-ciel trouve des échos directs dans le codex. Il prolonge la figure fon de Dan Aido Hwedo, le serpent qui soutient le monde, et rappelle aussi le serpent arc-en-ciel kongo Mbumba Luangu, ce qui suggère une mémoire à plusieurs sources plutôt qu'une filiation unique. Les deux ancrages, fon et kongo, se sont combinés dans la colonie, où des captifs d'origines diverses ont recomposé ensemble leurs cosmologies.",
   "domaines": [
     "création",
     "sagesse",
@@ -25,9 +25,7 @@
   ],
   "genealogie": {
     "parents": [],
-    "conjoints": [
-      "Ayida-Wédo"
-    ],
+    "conjoints": [],
     "enfants": [],
     "entites_liees": [
       "mbumba-luangu"
@@ -41,7 +39,7 @@
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [
-    "Métraux, A. (1959). Le Vaudou haïtien",
+    "Métraux, A. (1958). Le Vaudou haïtien",
     "Deren, M. (1953). Divine Horsemen: The Living Gods of Haiti"
   ],
   "notes": "Le motif du serpent créateur associé à l'arc-en-ciel relie cette figure à Mbumba Luangu (Kongo) et à d'autres traditions ouest et centre-africaines de serpents cosmiques, illustrant une continuité directe entre les cosmologies d'origine et leur recomposition dans le vodou haïtien."

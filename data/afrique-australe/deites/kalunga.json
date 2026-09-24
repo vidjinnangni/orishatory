@@ -7,11 +7,12 @@
   "peuples": [
     "Ovambo"
   ],
-  "resume": "Concept ovambo (nord de la Namibie, sud de l'Angola) désignant à la fois le dieu créateur suprême et la frontière cosmique séparant le monde des vivants de celui des morts, notion partagée sous des formes voisines par plusieurs peuples bantous d'Afrique australe et centrale.",
-  "description_detaillee": "Des termes apparentés à Kalunga, désignant une puissance divine ou une frontière entre les mondes des vivants et des morts, se retrouvent dans plusieurs langues bantoues bien au-delà de la seule aire ovambo, notamment dans la cosmologie kongo d'Afrique centrale où une notion voisine structure le cosmogramme dikenga. Certains chercheurs afro-diasporistes ont même proposé d'étendre métaphoriquement cette notion de 'ligne de Kalunga' à l'océan Atlantique lui-même comme frontière traversée par les personnes déportées lors de la traite négrière, un usage contemporain et symbolique plutôt qu'une extension directement attestée dans les sources ovambo ou kongo d'origine.",
+  "resume": "Nom donné par les Ovambo (nord de la Namibie, sud de l'Angola) au dieu créateur suprême, qui habite le ciel et veille sur la vie comme sur la mort. Le même mot désigne chez plusieurs peuples d'Afrique centrale (Kongo, Mbundu, Tchokwe) la frontière entre le monde des vivants et celui des morts, un sens qui n'est pas attesté chez les Ovambo.",
+  "description_detaillee": "Kalunga est le nom que les Ovambo, principal groupe de population du nord de la Namibie et présent aussi dans le sud de l'Angola, donnent à l'être suprême. Pour eux, il habite le ciel, a créé le monde et veille sur la vie comme sur la mort. Le même mot, ou des formes très proches, se retrouve chez de nombreux peuples bantous d'Afrique centrale et australe, ce qui fait de Kalunga une porte d'entrée vers un ensemble d'idées religieuses beaucoup plus large que la seule Namibie.\n\nDans la tradition ovambo, Kalunga voit tout et se tient à distance des affaires ordinaires, que l'on règle plutôt avec les ancêtres. Un récit d'origine rapporté par plusieurs auteurs lui attribue la création du premier homme et de la première femme, dont la fille serait à l'origine des lignées ovambo, un trait cohérent avec l'organisation matrilinéaire de ces sociétés qu'étudie Tuupainen. La vie rituelle s'organisait autour d'un feu sacré, de danses de pluie et d'usages de plantes. Les missionnaires luthériens finlandais, arrivés dans les années 1870, ont repris le nom de Kalunga pour désigner le Dieu chrétien, si bien que les Ovambo, aujourd'hui en majorité luthériens, continuent de l'invoquer sous ce nom.\n\nLe sens de « frontière entre les vivants et les morts » est surtout documenté ailleurs, dans les langues kongo, mbundu ou tchokwe d'Afrique centrale. Là, kalunga désigne à la fois une puissance divine, l'étendue d'eau et la ligne qui sépare le monde des vivants de celui des ancêtres, ligne que le cosmogramme kongo représente comme l'horizon d'un cercle parcouru par le soleil. Rien ne permet d'affirmer que les Ovambo donnaient à Kalunga exactement cette valeur : les deux notions sont apparentées par la langue, pas nécessairement par la doctrine.\n\nDepuis les travaux de l'historien de l'art Robert Farris Thompson, de nombreux chercheurs soutiennent que les captifs originaires d'Afrique centrale ont vu dans l'océan Atlantique une kalunga à l'échelle du monde, la traversée valant passage au pays des morts. L'idée est appuyée par des traces dans les religions afro-américaines (candomblé angola, hoodoo), mais elle repose sur des indices indirects et relève de l'interprétation plus que du témoignage explicite. Elle concerne en tout cas l'aire kongo et non les sources ovambo.",
   "domaines": [
     "création",
-    "frontière entre vie et mort"
+    "ciel",
+    "vie et mort"
   ],
   "tags": [
     "creation",
@@ -28,7 +29,8 @@
   "culte_contemporain": "",
   "sources": [
     "Loeb, E.M. (1962). In Feudal Africa (étude sur les Ovambo du Kwanyama)",
-    "Tuupainen, M. (1970). Marriage in a Matrilineal African Tribe"
+    "Tuupainen, M. (1970). Marriage in a Matrilineal African Tribe",
+    "Thompson, R.F. (1983). Flash of the Spirit: African and Afro-American Art and Philosophy"
   ],
   "notes": ""
 }

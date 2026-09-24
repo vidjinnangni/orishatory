@@ -8,7 +8,7 @@
     "Égyptiens anciens"
   ],
   "resume": "Déesse de la guerre, de la chasse et du tissage, patronne de la ville de Saïs dans le delta du Nil, parfois présentée comme une créatrice primordiale antérieure aux autres dieux.",
-  "description_detaillee": "Dans le récit du tribunal divin tranchant le conflit entre Horus et Seth, Neith figure parmi les autorités consultées pour rendre un jugement équitable, un rôle d'arbitre cohérent avec son statut de divinité à la fois guerrière et sage. Son association simultanée avec les couronnes rouge et blanche, symboles respectifs de la Basse et de la Haute-Égypte réunies, suggère une origine remontant à une période antérieure à l'unification dynastique du pays.",
+  "description_detaillee": "Neith compte parmi les plus anciennes divinités de l'Égypte pharaonique. Son emblème, un bouclier traversé de deux flèches croisées, apparaît déjà à l'aube de l'histoire dynastique, et plusieurs reines de la Ire dynastie portent un nom construit sur le sien, comme Merneith ou Neithhotep. Déesse de Saïs, dans l'ouest du delta du Nil, elle est habituellement représentée coiffée de la couronne rouge de Basse-Égypte. Guerrière et chasseresse, elle est aussi une puissance de sagesse et, dans certaines théologies, la mère de tout ce qui existe.\n\nCette autorité se voit bien dans les Aventures d'Horus et Seth, un récit conservé sur un papyrus du Nouvel Empire. Incapables de trancher la querelle de succession d'Osiris, les dieux écrivent à Neith, qualifiée de « mère du dieu ». Sa réponse est à la fois ferme et diplomatique : la fonction doit revenir à Horus, mais Seth sera dédommagé en voyant ses biens doublés et en recevant pour épouses les déesses étrangères Anat et Astarté. Son lien avec le tissage, lui, la relie au monde funéraire, puisque les bandelettes de lin des momies relevaient de son domaine ; elle est aussi l'une des quatre déesses qui veillent sur les vases canopes, aux côtés d'Isis, Nephthys et Serket.\n\nSon importance culmine sous la XXVIe dynastie (VIIe-VIe siècles avant notre ère), dont les rois, originaires de Saïs, font de son temple l'un des grands sanctuaires du pays. Les textes gravés à l'époque romaine dans le temple d'Esna, en Haute-Égypte, développent une cosmogonie où Neith, surgie des eaux primordiales du Noun, fait émerger la terre par sa parole et met au monde le soleil ; le serpent Apophis, ennemi de Rê, serait né de sa salive. Les auteurs grecs l'identifiaient à Athéna, et Plutarque rapporte qu'une statue de Saïs, qu'il rattache à Isis, portait une inscription affirmant qu'aucun mortel n'avait jamais soulevé le voile de la déesse. Ces sources tardives, filtrées par un regard étranger, disent davantage sur l'aura de Saïs à la Basse Époque que sur la Neith des origines, dont on ne connaît que les emblèmes et les noms propres.",
   "domaines": [
     "guerre",
     "chasse",
@@ -33,7 +33,8 @@
   "culte_contemporain": "",
   "sources": [
     "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
-    "El-Sayed, R. (1982). La déesse Neith de Saïs"
+    "El-Sayed, R. (1982). La déesse Neith de Saïs",
+    "Wilkinson, R.H. (2003). The Complete Gods and Goddesses of Ancient Egypt"
   ],
   "notes": ""
 }

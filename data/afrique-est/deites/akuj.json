@@ -8,7 +8,7 @@
     "Turkana"
   ],
   "resume": "Dieu suprême du ciel chez les Turkana (nord du Kenya), associé à la pluie et au bétail, approché principalement lors de sécheresses ou de crises collectives par l'intermédiaire de devins (emuron).",
-  "description_detaillee": "La cosmologie turkana s'inscrit dans un ensemble plus large de peuples nilotiques orientaux (Karamojong, Jie) partageant des racines linguistiques et culturelles communes, chacun reconnaissant sous un nom voisin un principe céleste suprême comparable, ce qui témoigne d'un fonds religieux ancien commun à cette aire couloir sahélo-est-africaine plutôt que d'emprunts tardifs entre groupes. Les devins emuron, au-delà de leur rôle strictement religieux d'interprétation de la volonté d'Akuj par la lecture des entrailles d'animaux sacrifiés, exerçaient traditionnellement aussi une fonction politique et judiciaire d'arbitrage au sein de la société turkana.",
+  "description_detaillee": "Akuj est le nom que les Turkana, pasteurs du nord-ouest du Kenya, donnent au dieu du ciel, créateur de toutes choses. Le même nom se retrouve chez les autres peuples du groupe dit karamojong, en particulier les Karimojong et les Jie d'Ouganda, dont les Turkana se disent eux-mêmes issus. Dans un pays semi-aride où la survie des familles tient à celle des troupeaux, et celle des troupeaux à des pluies rares et capricieuses, Akuj est avant tout celui dont dépend l'eau.\n\nOn le tient pour tout-puissant, mais il se mêle peu des affaires humaines. Personne ne l'importune pour des soucis ordinaires : on se tourne vers lui quand la communauté entière est menacée, par la sécheresse, une épizootie ou la guerre, et l'on sacrifie alors des animaux pour obtenir la pluie. Le lien passe par l'emuron, le devin, considéré comme le représentant d'Akuj sur terre. Celui-ci reçoit des messages en rêve, lit les intestins des bêtes sacrifiées ou interprète la façon dont retombent des sandales lancées en l'air ; il annonce les calamités, purifie les classes d'âge et passe pour savoir faire venir la pluie.\n\nCe rôle ne s'est jamais limité au religieux. L'historien John Lamphear a montré comment, face à la conquête britannique entre les années 1890 et 1920, la résistance armée turkana s'est organisée autour de grands devins, dont le dernier, Loolel Kokoi, ne se rendit qu'en 1926. L'autorité de l'emuron reposait sur sa capacité à dire la volonté d'Akuj, et c'est cette autorité qui permettait de fédérer des groupes dispersés sans chef politique permanent. On retrouve une configuration voisine chez les Maasai, où les laibon occupent une place comparable auprès d'Engai.",
   "domaines": [
     "ciel",
     "pluie",
@@ -29,7 +29,8 @@
   "culte_contemporain": "",
   "sources": [
     "Gulliver, P.H. (1955). The Family Herds: A Study of Two Pastoral Tribes",
-    "Lamphear, J. (1976). The Traditional History of the Jie of Uganda (contexte comparatif régional)"
+    "Lamphear, J. (1976). The Traditional History of the Jie of Uganda (contexte comparatif régional)",
+    "Lamphear, J. (1992). The Scattering Time: Turkana Responses to Colonial Rule"
   ],
   "notes": ""
 }

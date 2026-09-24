@@ -5,10 +5,11 @@
   "region": "afrique-australe",
   "categorie": "rites",
   "peuples": [
-    "Zulu"
+    "Zulu",
+    "Swazi"
   ],
   "resume": "Cérémonie annuelle zulu où des dizaines de milliers de jeunes filles célibataires présentent des roseaux coupés au roi zulu dans le cadre d'un rite célébrant la chasteté, l'unité nationale et le respect de la royauté.",
-  "description_detaillee": "L'historienne Daphna Golan a montré que la forme actuelle et l'ampleur spectaculaire de l'umhlanga contemporain résultent largement d'une relance délibérée de la cérémonie en 1984 sous l'impulsion du roi zulu Goodwill Zwelithini, après une période de déclin relatif de la pratique : un exemple documenté de la manière dont une tradition présentée comme immémoriale peut en réalité avoir été activement reconstruite et amplifiée au 20e siècle plutôt que transmise sans interruption depuis les temps précoloniaux.",
+  "description_detaillee": "L'umhlanga, ou « danse des roseaux », est une cérémonie au cours de laquelle des jeunes filles non mariées vont couper de grands roseaux qu'elles apportent ensuite en procession à la résidence royale. Elle existe sous deux formes principales : en Eswatini, où elle est liée à la reine mère, et chez les Zulu d'Afrique du Sud, où elle porte le nom d'umkhosi womhlanga et se tient chaque année en septembre au palais d'Enyokeni, à Nongoma, dans le KwaZulu-Natal. Des dizaines de milliers de jeunes femmes y participent.\n\nLa version swazie est la plus ancienne. Sous le règne de Sobhuza II, elle a pris sa forme moderne à partir d'une institution plus ancienne, l'umcwasho, qui regroupait les jeunes filles en classes d'âge soumises à des règles de chasteté. Les roseaux servent à réparer la clôture qui entoure la résidence de la reine mère, et la cérémonie dure environ huit jours à la fin d'août ou au début de septembre. Les princesses se distinguent par une couronne de plumes rouges.\n\nLa version zulu est une reprise récente. Les sources ne s'accordent pas sur la date de sa relance par le roi Goodwill Zwelithini : 1984 selon la tradition royale et la presse sud-africaine, qui a célébré ses quarante ans en 2024, 1991 selon d'autres sources. Son épouse Mantfombi Dlamini, fille du roi swazi Sobhuza II, aurait joué un rôle décisif en apportant de sa cour d'origine la connaissance du rite. La tradition la rattache volontiers à l'époque de Shaka, mais son organisation actuelle, avec des participantes venues de toute la province, relève d'un projet de promotion de l'identité zulu mené par la monarchie à la fin du 20e siècle. On y enseigne aux jeunes filles la valeur de la chasteté, et l'on dit qu'un roseau qui se brise en chemin trahit celle qui n'est plus vierge.\n\nC'est sur ce point que se concentrent les critiques. Les tests de virginité qui précèdent souvent la participation sont contestés par des associations de défense des droits des femmes, et la loi sud-africaine sur l'enfance de 2005 les interdit avant seize ans et les soumet ensuite à un consentement écrit. Les défenseurs de la cérémonie y voient une école de dignité et, dans le contexte de l'épidémie de VIH, un moyen d'encourager l'abstinence ; ses détracteurs, un contrôle public du corps des jeunes filles. L'Incwala, autre grand rite de la monarchie swazie, présente l'autre versant de cette royauté cérémonielle.",
   "domaines": [
     "chasteté",
     "unité nationale",
@@ -28,7 +29,7 @@
   "recits_associes": [],
   "culte_contemporain": "Reste célébrée chaque année en Afrique du Sud contemporaine (kwaZulu-Natal) et dans une variante swazie (Umhlanga/Reed Dance), attirant un tourisme culturel important tout en faisant l'objet de débats contemporains sur le regard porté sur le corps des jeunes filles.",
   "sources": [
-    "Golan, D. (1990). Inventing Shaka: Using History in the Construction of Zulu Nationalism",
+    "Golan, D. (1994). Inventing Shaka: Using History in the Construction of Zulu Nationalism",
     "Kuper, H. (1947). An African Aristocracy (pour la variante swazie)"
   ],
   "notes": "La cérémonie, comme d'autres traditions royales sud-africaines, fait l'objet de débats contemporains contrastés entre valorisation culturelle et critiques portant sur l'exposition publique des jeunes participantes."

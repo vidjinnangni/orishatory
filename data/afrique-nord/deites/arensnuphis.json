@@ -8,7 +8,7 @@
     "Nubiens (royaume de Kouch)"
   ],
   "resume": "Dieu-lion nubien vénéré conjointement par les Égyptiens et les Méroïtiques au temple de Philae, illustrant la porosité religieuse entre les théologies égyptienne et nubienne aux confins méridionaux de l'Égypte antique.",
-  "description_detaillee": "Les sources grecques le désignent sous le nom d'Arsnouphis, littéralement 'le bon compagnon', et son temple fut édifié à Philae sous le patronage des rois ptolémaïques, dans une période de diplomatie active entre l'Égypte hellénistique et le royaume méroïtique voisin : la construction d'un sanctuaire dédié à une divinité nubienne sur le sol égyptien traduit une volonté politique délibérée de ménager les sensibilités religieuses du royaume voisin.",
+  "description_detaillee": "Arensnuphis est un dieu du royaume de Kouch, en Nubie antique, attesté pour la première fois à Musawwarat es-Sufra au 3e siècle avant notre ère. Son nom est la forme grecque d'un nom égyptien, Iry-hemes-nefer, « le bon compagnon ». Il intéresse l'historien parce qu'il a fait le chemin inverse de la plupart des dieux de la région : né en Nubie, il a été accueilli en Égypte, jusque dans l'un de ses grands sanctuaires.\n\nOn le représente tantôt en lion, tantôt en homme coiffé d'une haute couronne de plumes, vêtu d'un pagne court et souvent armé d'une lance. Les sources méroïtiques l'associent volontiers à Sebiumeker : leurs images, ou leurs statues, encadrent les entrées de temples, ce qui a conduit plusieurs chercheurs à voir dans ce couple des gardiens des seuils. À Méroé, deux statues colossales provenant du temple M 600, l'une d'Arensnuphis (aujourd'hui au National Museum of Scotland), l'autre de Sebiumeker (à la Ny Carlsberg Glyptotek de Copenhague), semblent avoir formé une paire. Aucun récit mythologique le concernant ne nous est parvenu, et ses fonctions se déduisent surtout de ces images.\n\nSon sanctuaire de Philae, un petit temple proche du kiosque de Nectanébo Ier, remonte au moins au règne de Ptolémée IV. Il fut ensuite agrandi ou décoré par le roi méroïtique Arqamani, puis par plusieurs Ptolémées et jusque sous l'empereur Tibère : un roi de Kouch a donc laissé sa marque sur un temple d'Égypte. Les prêtres égyptiens l'y ont présenté comme le compagnon d'Isis et l'ont assimilé à Onouris (Anhur) et à Shou. Il était aussi honoré à Dakka et à Dendour, en Basse-Nubie.\n\nCe culte partagé montre que la frontière méridionale de l'Égypte ptolémaïque était une zone d'échanges religieux dans les deux sens, et non un simple front. Il faut toutefois lire les inscriptions de Philae pour ce qu'elles sont : des textes rédigés par des prêtres égyptiens, qui disent comment l'Égypte voyait ce dieu venu du sud plus que ce qu'il représentait pour les Nubiens eux-mêmes. Le codex le relie à Apedemak, l'autre grand dieu-lion de Kouch, et à Anhur, dont les Égyptiens le rapprochaient.",
   "domaines": [
     "guerre",
     "protection",
@@ -28,7 +28,9 @@
   "culte_contemporain": "",
   "sources": [
     "Welsby, D.A. (1996). The Kingdom of Kush: The Napatan and Meroitic Empires",
-    "Žabkar, L.V. (1975). Apedemak, Lion God of Meroe (contexte comparatif des dieux-lions nubiens)"
+    "Žabkar, L.V. (1975). Apedemak, Lion God of Meroe (contexte comparatif des dieux-lions nubiens)",
+    "Kockelmann, H. (2012). Philae. UCLA Encyclopedia of Egyptology",
+    "Kuckertz, J. & Lohwasser, A. (2019). Introduction to the Religion of Kush"
   ],
   "notes": ""
 }

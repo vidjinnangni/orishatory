@@ -7,8 +7,8 @@
   "peuples": [
     "Amazigh (Berbères)"
   ],
-  "resume": "Dieu guerrier à tête de taureau vénéré par les peuples berbères de l'Antiquité, notamment les Garamantes et les Laguatan, mentionné par des sources byzantines comme divinité invoquée avant les batailles.",
-  "description_detaillee": "Selon le poète byzantin Corippus, principale source antique sur cette divinité, les Laguatan berbères considéraient Gurzil comme le fils du dieu Ammon, la divinité bélier vénérée à l'oasis de Siwa et largement diffusée dans l'Antiquité sous sa forme grecque de Zeus Ammon : cette filiation revendiquée témoigne de contacts religieux anciens et complexes entre traditions berbères, égyptiennes et gréco-romaines dans cette région du Maghreb antique.",
+  "resume": "Dieu guerrier des Laguatan, confédération berbère de Tripolitaine dans l'Antiquité tardive, connu presque uniquement par le poète latin Corippus, qui le dit fils d'Ammon et décrit une image de taureau portée au combat en son honneur.",
+  "description_detaillee": "Gurzil est un dieu des Laguatan, confédération berbère de Tripolitaine (l'ouest de l'actuelle Libye), connu presque uniquement par la Johannide (Iohannis), poème épique latin composé au 6e siècle par Corippus pour célébrer les campagnes du général byzantin Jean Troglita contre les tribus maures. C'est l'une des très rares divinités berbères de l'Antiquité tardive dont on connaisse le nom et un fragment de mythe, ce qui lui donne un poids particulier malgré la minceur du dossier.\n\nCorippus en fait le fils d'Ammon, le dieu à tête de bélier vénéré dans l'oasis de Siwa, et d'une vache. Le dieu est présent sur le champ de bataille sous la forme d'une image de taureau que les Laguatan emportaient avec eux au combat. Leur chef, Ierna, était aussi le prêtre de Gurzil : lors de la défaite infligée par Jean Troglita vers 547, il aurait perdu un temps précieux à vouloir sauver l'image sacrée et fut tué, tandis que l'effigie était détruite. Le poème ne dit pas clairement si le dieu lui-même avait une tête de taureau ou si le taureau n'était que son emblème, et les chercheurs restent partagés sur ce point.\n\nOn a rapproché son nom de celui de Ghirza, site de l'intérieur de la Tripolitaine qui a livré un grand temple doté d'une vingtaine d'autels votifs, une inscription mentionnant le sacrifice de 51 bovins et un relief représentant l'abattage d'un taureau. David Mattingly juge probable que le sanctuaire principal de Gurzil se soit trouvé là. Au 11e siècle, le géographe al-Bakri signale encore dans la région un sanctuaire de hauteur abritant une idole de pierre fréquentée par les tribus berbères voisines, sans qu'on puisse affirmer qu'il s'agissait du même dieu.\n\nToute cette documentation vient d'un poète au service de l'adversaire, qui décrit les dieux des Maures pour mieux célébrer leur défaite ; les détails du mythe peuvent refléter la manière dont un lettré latin percevait ces cultes autant que les croyances des Laguatan. La filiation avec Ammon rattache Gurzil à un dieu dont le prestige s'étendait de l'Égypte à tout le nord du continent, et le codex le met en regard d'Anzar, autre figure divine amazighe, documentée elle par l'ethnographie des époques récentes.",
   "domaines": [
     "guerre",
     "force",
@@ -22,13 +22,14 @@
     "entites_liees": []
   },
   "attributs": [
-    "tête de taureau"
+    "image de taureau portée au combat"
   ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [
     "Corippus, Iohannis (poème épique latin du 6e siècle, source antique sur les guerres byzantino-berbères)",
-    "Brett, M. & Fentress, E. (1996). The Berbers"
+    "Brett, M. & Fentress, E. (1996). The Berbers",
+    "Mattingly, D.J. (1995). Tripolitania"
   ],
   "notes": "La documentation sur Gurzil provient presque exclusivement de sources extérieures byzantines, rédigées dans un contexte de conflit militaire ; à lire avec la prudence critique que requiert toute source hostile décrivant les pratiques religieuses de l'adversaire."
 }

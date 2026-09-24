@@ -8,7 +8,7 @@
     "Égyptiens anciens"
   ],
   "resume": "Grande fête religieuse thébaine annuelle célébrant le renouvellement du pouvoir divin du pharaon, au cours de laquelle la statue du dieu Amon était processionnellement transportée de Karnak au temple de Louxor.",
-  "description_detaillee": "L'ampleur de la fête d'Opet a considérablement varié selon les époques : d'une célébration initialement limitée à quelques jours, elle s'est progressivement étendue jusqu'à dépasser trois semaines sous le règne de Ramsès III au Nouvel Empire, signe de l'importance croissante accordée par certains pharaons à cette manifestation publique et spectaculaire de leur légitimité religieuse.",
+  "description_detaillee": "La fête d'Opet était, au Nouvel Empire, la plus grande célébration religieuse de Thèbes, capitale religieuse de l'Égypte. Chaque année, au deuxième mois de la saison de l'inondation, les statues d'Amon, de son épouse Mout et de leur fils Khonsou quittaient le temple de Karnak pour rejoindre, à environ trois kilomètres au sud, le temple de Louxor, appelé Ipet-resyt, « le sanctuaire méridional ». Les dieux y séjournaient plusieurs jours avant de revenir à Karnak. Sous l'apparence d'une visite divine, la fête servait un enjeu politique majeur : renouveler chaque année la légitimité du pharaon régnant.\n\nLes statues voyageaient cachées dans des naos posés sur des barques portatives, portées à l'épaule par les prêtres. Le trajet a varié avec les époques. Les reliefs de la Chapelle rouge d'Hatchepsout montrent un aller par voie de terre, ponctué de reposoirs où l'on déposait les barques, et un retour par le Nil ; ceux de la grande colonnade de Louxor, sculptés sous Toutânkhamon, figurent l'aller et le retour sur le fleuve, les barques sacrées remorquées par de grands bateaux, dont l'Ouserhat d'Amon, au milieu des soldats, des musiciens, des danseuses et d'une foule en liesse. La durée s'allongea aussi : onze jours sous Thoutmôsis III, puis vingt-quatre jours au début du règne de Ramsès III selon le calendrier de Médinet Habou, voire vingt-sept d'après le papyrus Harris. L'égyptologue Lanny Bell a proposé l'interprétation aujourd'hui la plus suivie : à Louxor, le roi pénétrait dans le sanctuaire et y retrouvait le ka royal, la force vitale transmise de souverain en souverain, ressortant régénéré et reconnu comme fils d'Amon.\n\nLe cœur du rituel se déroulait à l'abri des regards, mais la fête appartenait aussi à la population. Des distributions de pain, de viande et de bière accompagnaient les processions, et le passage des barques offrait aux habitants l'occasion rare d'approcher le dieu, voire de lui soumettre une question oraculaire. On a souvent rapproché la fête d'Opet du moulid actuel d'Abou el-Haggag, saint musulman dont la mosquée est bâtie dans l'enceinte même du temple de Louxor et dont la fête comporte la procession d'une barque ; la parenté des formes est frappante, mais une continuité directe sur plus de deux millénaires reste impossible à démontrer.",
   "domaines": [
     "royauté",
     "renouvellement divin",
@@ -21,7 +21,11 @@
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": []
+    "entites_liees": [
+      "amon",
+      "mut",
+      "khonsu"
+    ]
   },
   "attributs": [
     "barque processionnelle sacrée",
@@ -31,7 +35,8 @@
   "culte_contemporain": "",
   "sources": [
     "Bell, L. (1985). Luxor Temple and the Cult of the Royal Ka",
-    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions"
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "Epigraphic Survey (1994). Reliefs and Inscriptions at Luxor Temple, Volume 1: The Festival Procession of Opet in the Colonnade Hall"
   ],
   "notes": "Contrairement à beaucoup de rites égyptiens réservés au clergé, la fête d'Opet impliquait une participation publique large, la population pouvant notamment adresser des questions oraculaires à la statue processionnelle."
 }

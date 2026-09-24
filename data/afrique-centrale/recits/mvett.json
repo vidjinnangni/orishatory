@@ -8,8 +8,8 @@
     "Fang",
     "Beti"
   ],
-  "resume": "Tradition épique orale fang et beti, mêlant récit chanté et instrument de musique du même nom, narrant les exploits des Immortels (Beketan) dans leur lutte contre les Mortels (Elat Osamu), transmise par des maîtres-conteurs spécialisés (mvett obiang).",
-  "description_detaillee": "Une performance de mvett peut s'étendre sur plusieurs heures, voire se poursuivre sur plusieurs nuits consécutives lors des grandes occasions, le maître-conteur incarnant seul, par des changements de registre vocal, la totalité des personnages de l'épopée. Si la trame générale du conflit entre Immortels et Mortels demeure reconnaissable d'une performance à l'autre, chaque récitation comporte une part d'improvisation propre au conteur, faisant de chaque exécution une œuvre à la fois traditionnelle et unique.",
+  "resume": "Tradition épique orale des Fang-Beti (Gabon, Cameroun, Guinée équatoriale), mêlant récit chanté et instrument de musique du même nom, qui raconte la lutte sans fin entre le peuple d'Engong, les Immortels, et celui d'Oku, les Mortels, portée par un conteur-musicien appelé mbom-mvett.",
+  "description_detaillee": "Le mvett (ou mvet) désigne à la fois un instrument de musique et le grand genre épique qu'il accompagne chez les peuples fang-beti, que l'on appelle aussi Ekang, au Gabon, au Cameroun et en Guinée équatoriale. C'est la forme la plus prestigieuse de leur littérature orale : un récit chanté, joué et dansé qui peut occuper une nuit entière, voire davantage, et qui porte une vision complète du monde, de sa création à la condition humaine.\n\nL'instrument est une cithare-harpe faite d'une tige de raphia ou de bambou d'un peu plus d'un mètre, munie de calebasses qui servent de résonateurs et de quatre ou cinq cordes réparties de part et d'autre d'un chevalet central. Le musicien le tient à l'horizontale contre sa poitrine et ouvre ou ferme la calebasse centrale d'un mouvement des bras, tout en pinçant les cordes des deux mains. Le conteur-musicien, le mbom-mvett, est à la fois chanteur, narrateur, acteur et danseur, face à un public qui participe à la performance. La tradition attribue l'invention du mvett à Oyono Ada Ngone, qui l'aurait reçu d'un esprit nommé Eyo au cours d'un sommeil prolongé, avant de l'enseigner aux hommes.\n\nLes récits se déroulent dans un univers où s'affrontent sans fin deux peuples : celui d'Engong, les Immortels, conduits par le guerrier Akoma Mba, et celui d'Oku, les Mortels, qui cherchent à ravir le secret de l'immortalité. Les combats, menés avec des armes fabuleuses autant qu'avec des pouvoirs occultes, tournent en principe à l'avantage d'Engong. Les joueurs de mvett gardent aussi de longues généalogies cosmiques qui remontent de créateur en créateur jusqu'aux origines, et ces textes comptent parmi les sources utilisées pour reconstituer la religion fang ancienne (voir la fiche Nzame).\n\nLe passage à l'écrit a beaucoup pesé sur la connaissance du genre. L'ethnomusicologue Herbert Pepper a enregistré et transcrit des performances dans les années 1960, et le Gabonais Tsira Ndong Ndoutoume, lui-même initié au mvett, a publié à partir de 1970 une version littéraire qui a servi de référence, au point qu'une thèse lui a été consacrée pour mesurer ce que l'écriture change à une épopée orale. En décembre 2025, le Mvet Oyeng a été inscrit sur la Liste représentative du patrimoine culturel immatériel de l'humanité de l'UNESCO, à la suite d'une candidature portée par le Gabon avec le Cameroun et le Congo ; cette reconnaissance a aussi ravivé au Gabon des débats sur l'appartenance de cette tradition.",
   "domaines": [
     "épopée",
     "immortalité",
@@ -26,10 +26,10 @@
     "instrument de musique à cordes (également nommé mvett)"
   ],
   "recits_associes": [],
-  "culte_contemporain": "Reconnu comme patrimoine culturel majeur au Gabon et au Cameroun, avec des efforts de transmission scolaire et de documentation face au déclin du nombre de maîtres-conteurs.",
+  "culte_contemporain": "Reconnu comme patrimoine culturel majeur au Gabon, au Cameroun et en Guinée équatoriale ; le Mvet Oyeng a été inscrit en décembre 2025 sur la Liste représentative du patrimoine culturel immatériel de l'UNESCO. Des efforts de transmission et de documentation répondent au déclin du nombre de maîtres-conteurs.",
   "sources": [
-    "Ondo Mba, T. (1990). Le Mvett, épopée des Fang",
-    "Nnang Ndong, L. (1990). Le mvett: littérature orale fang"
+    "Ndong Ndoutoume, T. (1970). Le Mvett: épopée fang",
+    "Elébiyo'o Mvé, J-D. (2004). Poétique du Mvett: épopée fang d'Afrique centrale. Thèse de doctorat, Université de Nantes"
   ],
   "notes": ""
 }

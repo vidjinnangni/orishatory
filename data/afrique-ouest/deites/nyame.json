@@ -12,7 +12,7 @@
     "Ashanti"
   ],
   "resume": "Dieu suprême du ciel dans la cosmologie akan, créateur du monde, source ultime de tout pouvoir spirituel. Figure lointaine et abstraite, rarement l'objet d'un culte direct.",
-  "description_detaillee": "La cosmologie akan situe Nyame en couple complémentaire avec Asase Yaa, la déesse de la terre : le premier gouverne le ciel et l'ordre cosmique général, la seconde préside à la fertilité du sol et reçoit les défunts en son sein, une répartition ciel/terre que l'on retrouve sous des formes distinctes dans plusieurs cosmologies ouest-africaines voisines.\n\nUn récit largement répandu raconte que Nyame vivait autrefois tout près des humains, jusqu'au jour où une vieille femme pilant du fufu le frappa accidentellement à répétition avec son pilon en le levant trop haut ; excédé, il se retira au loin dans le ciel, rendant depuis toute communication directe impossible et nécessitant l'intermédiaire des abosom (esprits mineurs). Ce motif du dieu créateur \"retiré\" après une offense humaine involontaire se retrouve, sous des formes comparables, dans d'autres cosmogonies ouest-africaines de dieux suprêmes devenus lointains.\n\nLe symbole adinkra Gye Nyame (\"sauf Dieu\"), popularisé bien au-delà de son contexte religieux d'origine, exprime visuellement l'idée que rien, hormis Nyame, n'a d'existence ou de pouvoir absolu — une formule théologique concise qui continue d'orner textiles, architecture et objets du quotidien au Ghana contemporain.",
+  "description_detaillee": "Nyame est le dieu suprême du ciel dans la cosmologie du peuple akan, installé principalement au Ghana actuel. Il forme un couple complémentaire avec Asase Yaa, la déesse de la terre : lui gouverne le ciel et l'ordre cosmique général, elle préside à la fertilité du sol et reçoit les défunts en son sein à leur mort. Cette répartition entre un principe céleste et un principe terrestre, chacun gardant son domaine, se retrouve sous des formes différentes dans plusieurs cosmologies voisines d'Afrique de l'Ouest.\n\nUn récit largement répandu explique pourquoi Nyame, autrefois si proche des humains, est aujourd'hui perçu comme lointain et inaccessible sans intermédiaire. Il vivait, dit-on, tout près d'eux, jusqu'au jour où une vieille femme en train de piler du fufu le frappa accidentellement à plusieurs reprises en levant son pilon trop haut. Excédé par ces coups répétés, il se retira définitivement dans le ciel, rendant depuis toute communication directe impossible et nécessitant l'intermédiaire des abosom, des esprits de rang inférieur chargés de porter les prières jusqu'à lui. Ce motif d'un créateur devenu lointain à la suite d'une offense humaine involontaire se retrouve, sous des formes comparables, dans plusieurs autres cosmogonies d'Afrique de l'Ouest.\n\nLe symbole adinkra Gye Nyame, que l'on traduit par « sauf Dieu », résume visuellement cette théologie : rien, en dehors de Nyame, ne possède d'existence ou de pouvoir absolu. Ce motif continue aujourd'hui d'orner textiles, façades et objets du quotidien au Ghana, bien au-delà de son usage religieux d'origine, preuve de la place que Nyame occupe encore dans l'imaginaire collectif akan.",
   "domaines": [
     "ciel",
     "création",
@@ -23,9 +23,7 @@
   ],
   "genealogie": {
     "parents": [],
-    "conjoints": [
-      "asase-yaa"
-    ],
+    "conjoints": [],
     "enfants": [],
     "entites_liees": [
       "anansi"

@@ -12,7 +12,7 @@
     "Malinké"
   ],
   "resume": "Fondateur légendaire de l'empire du Mali au 13e siècle, héros de l'épopée orale mandingue transmise par les griots. Né infirme et méprisé, il surmonte son handicap pour devenir un souverain unificateur.",
-  "description_detaillee": "La Charte du Manden, proclamée selon la tradition orale par Sunjata et ses compagnons d'armes à Kouroukan Fouga au terme de sa victoire fondatrice, est souvent présentée comme l'une des plus anciennes déclarations de principes de gouvernance connues en Afrique de l'Ouest, énonçant des règles de solidarité entre clans, de statut social et, selon certaines interprétations contemporaines, des dispositions relatives à la dignité humaine et à l'esclavage qui ont valu à ce texte oral une comparaison, débattue, avec des chartes de droits plus tardives.\n\nLa transmission de l'épopée reste aujourd'hui assurée par des lignées spécialisées de griots (jeliw), dont les Kouyaté qui se revendiquent héritiers directs du griot personnel de Sunjata, Balla Fasséké. La performance de l'épopée s'accompagne traditionnellement de la kora, la harpe-luth mandingue, et peut s'étendre sur plusieurs heures selon le contexte et l'auditoire.\n\nDes sources écrites extérieures, notamment certains récits de voyageurs et chroniqueurs arabes médiévaux, corroborent l'existence historique d'un empire du Mali puissant au 13e-14e siècle sans toutefois confirmer chaque détail du récit épique, laissant subsister une zone d'ombre féconde entre l'homme historique et le héros de la tradition orale.",
+  "description_detaillee": "Sunjata Keïta est le fondateur légendaire de l'empire du Mali, l'un des plus vastes et des plus puissants royaumes d'Afrique de l'Ouest au treizième siècle. Son histoire se transmet depuis des générations par la tradition orale mandingue, et son parcours suit un schéma que l'on retrouve dans plusieurs grands récits fondateurs africains : un enfant méprisé et affligé d'un handicap qui doit surmonter l'adversité avant d'accéder à la grandeur qui lui était destinée.\n\nAu terme de sa victoire fondatrice, Sunjata et ses compagnons d'armes auraient proclamé à Kouroukan Fouga une charte de gouvernance, dite Charte du Manden, l'une des plus anciennes déclarations de principes politiques connues en Afrique de l'Ouest. Elle établit des règles de solidarité entre clans et de statut social, et certaines lectures contemporaines y voient même des dispositions relatives à la dignité humaine, une comparaison qui reste débattue avec des chartes de droits plus tardives et d'origine différente.\n\nLa transmission de cette épopée reste aujourd'hui assurée par des lignées spécialisées de griots, les jeliw, dont les Kouyaté se revendiquent héritiers directs de Balla Fasséké, le griot personnel de Sunjata. Sa performance s'accompagne traditionnellement de la kora, la harpe-luth mandingue, et peut s'étendre sur plusieurs heures selon le contexte et l'auditoire.\n\nDes sources écrites extérieures, notamment des récits de voyageurs et de chroniqueurs arabes médiévaux, confirment l'existence historique d'un empire du Mali puissant aux treizième et quatorzième siècles, sans pour autant valider chaque détail du récit épique. Il subsiste ainsi une zone d'ombre féconde entre l'homme qui a réellement existé et le héros que la tradition orale a construit au fil des siècles.",
   "domaines": [
     "royauté",
     "unification",
@@ -23,10 +23,7 @@
     "royaute-sacree"
   ],
   "genealogie": {
-    "parents": [
-      "Naré Maghann Konaté (père)",
-      "Sogolon Kondé (mère)"
-    ],
+    "parents": [],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []
@@ -35,11 +32,13 @@
     "bâton de fer (pour marcher après son infirmité)",
     "arc"
   ],
-  "recits_associes": [],
+  "recits_associes": [
+    "naissance-de-sunjata"
+  ],
   "culte_contemporain": "L'épopée mandingue (l'Épopée de Sundiata) reste transmise oralement par les griots (jeliw) en Afrique de l'Ouest et fait partie du patrimoine culturel immatériel reconnu par l'UNESCO (Charte du Manden).",
   "sources": [
     "Niane, D.T. (1960). Soundjata ou l'épopée mandingue",
     "UNESCO (2009). Charte du Manden, proclamée à Kouroukan Fouga - inscription au patrimoine immatériel"
   ],
-  "notes": "Figure à la frontière entre histoire et mythe : Sunjata est un personnage historiquement attesté, mais son récit a pris une forme épique et symbolique via la tradition orale des griots, avec des variantes selon les lignages narrateurs."
+  "notes": "Figure à la frontière entre histoire et mythe : Sunjata est un personnage historiquement attesté, mais son récit a pris une forme épique et symbolique via la tradition orale des griots, avec des variantes selon les lignages narrateurs. Selon l'épopée, il est le fils de Naré Maghann Konaté, roi du Manden, et de Sogolon Kondé."
 }

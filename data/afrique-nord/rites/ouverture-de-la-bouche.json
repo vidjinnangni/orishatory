@@ -8,7 +8,7 @@
     "Égyptiens anciens"
   ],
   "resume": "Cérémonie funéraire égyptienne pratiquée sur la momie ou la statue du défunt, censée restaurer l'usage des sens (parole, vue, respiration) pour lui permettre de vivre pleinement dans l'au-delà.",
-  "description_detaillee": "Le rituel trouve son origine dans une pratique appliquée aux statues de culte des temples, destinée à les 'animer' rituellement afin qu'elles puissent recevoir et transmettre la présence divine ; son adaptation ultérieure au contexte funéraire, appliquée directement à la momie ou à une statue du défunt, transpose cette même logique d'animation rituelle du domaine strictement religieux vers celui, plus intime, de la survie individuelle après la mort.",
+  "description_detaillee": "Les Égyptiens appelaient ce rite wpt-r, « l'ouverture de la bouche ». C'était l'un des gestes décisifs des funérailles : tant qu'il n'avait pas été accompli, le corps momifié ou la statue du défunt restait un objet inerte, incapable de respirer, de parler, de voir ou de se nourrir des offrandes que la famille lui apporterait. Le rituel rendait ces facultés au mort pour qu'il puisse exister pleinement dans l'au-delà, et la même logique s'appliquait aux statues divines des temples, qu'il fallait « animer » avant de leur rendre un culte.\n\nLa version la plus complète date du Nouvel Empire. Dans la tombe du vizir Rekhmirê, à Thèbes, les parois en déroulent une longue suite de scènes, et l'égyptologue Eberhard Otto a recensé au total soixante-quinze épisodes distincts à partir de l'ensemble des copies connues. L'officiant principal est le prêtre sem, vêtu d'une peau de léopard ; dans l'idéal, ce rôle revient au fils ou à l'héritier du défunt. La tombe de Toutânkhamon en offre l'exemple le plus célèbre : sur un mur de la chambre funéraire, son successeur Aÿ, en costume de prêtre sem, accomplit le rite sur le roi mort figuré en Osiris, image qui affirmait du même coup sa propre légitimité. Parmi les gestes, on touche la bouche et les yeux avec une herminette rituelle, on présente le pesesh-kef, une lame à extrémité fourchue, et l'on offre la patte antérieure d'un veau tout juste découpée, accompagnée d'encens, de libations et de récitations.\n\nL'origine du rituel reste discutée. Otto voyait dans la version du Nouvel Empire un assemblage de plusieurs rites plus anciens, dont un rituel d'atelier destiné aux statues. Ann Macy Roth a proposé une autre lecture : les Textes des pyramides de l'Ancien Empire mentionnent déjà une séquence d'objets liés au pesesh-kef qui imiterait les soins donnés à un nouveau-né, ce couteau fourchu servant à l'origine à couper le cordon ombilical. Dans cette perspective, ouvrir la bouche du mort reviendrait à le faire naître une seconde fois. Les deux hypothèses ne s'excluent pas, et le rite est resté en usage jusqu'à l'époque romaine, appliqué aussi bien aux momies qu'aux statues et aux temples.",
   "domaines": [
     "funérailles",
     "au-delà",
@@ -24,14 +24,16 @@
     "entites_liees": []
   },
   "attributs": [
-    "instrument en forme d'herminette (peseshkaf)",
+    "couteau rituel à lame fourchue (pesesh-kef)",
+    "herminette",
     "encens"
   ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [
     "Otto, E. (1960). Das ägyptische Mundöffnungsritual",
-    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions"
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "Roth, A.M. (1992). The psš-kf and the 'Opening of the Mouth' Ceremony: A Ritual of Birth and Rebirth (Journal of Egyptian Archaeology, 78)"
   ],
   "notes": ""
 }

@@ -10,7 +10,7 @@
     "Égyptiens anciens"
   ],
   "resume": "Déesse mère du panthéon thébain, épouse d'Amon et mère de Khonsou avec qui elle forme la triade thébaine, associée à la royauté et à la protection maternelle du pharaon.",
-  "description_detaillee": "Le grand complexe religieux dédié à Mout à Karnak comprenait un lac sacré en forme de croissant, l'Isherou, élément architectural distinctif de son culte. Bien que principalement représentée sous une forme maternelle bienveillante coiffée d'un vautour protecteur, Mout pouvait également revêtir un aspect guerrier assimilé à celui d'une lionne, la rapprochant iconographiquement de Sekhmet dans certaines de ses manifestations les plus redoutables.",
+  "description_detaillee": "Mout est la grande déesse mère de Thèbes. Son nom s'écrit avec le hiéroglyphe du vautour et se lit simplement « mère ». Elle apparaît le plus souvent sous les traits d'une femme portant une dépouille de vautour sur la tête, surmontée de la double couronne de Haute et de Basse-Égypte, signe qu'elle protégeait la royauté du pays entier. À partir du Nouvel Empire, quand Thèbes devint le centre religieux et politique de l'Égypte, elle s'imposa comme l'épouse d'Amon, le dieu dynastique, à la place de la plus ancienne Amaunet, et comme la mère du dieu lunaire Khonsou. Cette famille divine, la triade thébaine, servait de modèle à la famille royale : la reine pouvait s'identifier à Mout, et le pharaon se présentait comme son fils.\n\nMout possédait à Karnak son propre domaine, au sud du grand temple d'Amon, relié à lui par une allée processionnelle. Son temple était bordé sur trois côtés par un lac sacré en forme de croissant, l'Isherou, sur lequel on faisait naviguer sa barque lors de certaines fêtes. Amenhotep III agrandit l'ensemble, et des centaines de statues de Sekhmet, la déesse lionne, y ont été retrouvées ; une partie d'entre elles provient peut-être de son temple funéraire de la rive ouest. Leur présence dit quelque chose d'essentiel sur Mout : la mère protectrice pouvait devenir lionne furieuse. Les Égyptiens la rattachaient au mythe de l'Œil de Rê, la déesse lointaine qui s'enfuit, déchaînée, et qu'il faut apaiser pour la ramener en Égypte.\n\nLes fouilles menées depuis 2001 par l'égyptologue Betsy Bryan dans le temple de Mout ont éclairé ce versant de son culte. Une inscription de la reine Hatchepsout y mentionne un « portique de l'ivresse » dédié à Mout, maîtresse de l'Isherou. Il y avait là une fête où l'on buvait jusqu'à l'ivresse, où l'on veillait et faisait de la musique, pour recréer l'apaisement de la déesse dangereuse et, peut-être, provoquer chez les participants une rencontre directe avec le divin. On voit ainsi dans la même figure la mère royale bienveillante de l'iconographie officielle et une déesse qu'il fallait régulièrement calmer, deux faces que l'on retrouve chez Hathor et Sekhmet.",
   "domaines": [
     "maternité",
     "royauté",
@@ -21,12 +21,15 @@
   ],
   "genealogie": {
     "parents": [],
-    "conjoints": [],
+    "conjoints": [
+      "amon"
+    ],
     "enfants": [
       "khonsu"
     ],
     "entites_liees": [
-      "khonsu"
+      "khonsu",
+      "amon"
     ]
   },
   "attributs": [],

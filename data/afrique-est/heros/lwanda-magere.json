@@ -8,7 +8,7 @@
     "Luo"
   ],
   "resume": "Guerrier légendaire luo réputé invincible au combat, sa force résidant non dans son corps mais dans son ombre. Trahi, son secret révélé à l'ennemi permit sa défaite lorsqu'une lance transperça son ombre projetée au sol.",
-  "description_detaillee": "Certaines versions du récit précisent que c'est une femme de son propre camp, parfois identifiée comme une épouse rivale ou une captive, qui aurait révélé aux ennemis de Lwanda Magere le secret de sa vulnérabilité liée à son ombre, introduisant un motif de trahison intime qui accentue la dimension tragique du récit plutôt qu'une simple défaite militaire.",
+  "description_detaillee": "Lwanda Magere est le grand guerrier des récits luo du Kenya, le héros que l'on raconte encore dans la région de Kano, dans la plaine qui s'étend à l'est du golfe de Winam, sur le lac Victoria. Son histoire se situe à l'époque des conflits entre les Luo et leurs voisins nandi, peuple de langue kalenjin établi sur les hauteurs voisines. Elle compte parmi les récits les plus connus du Kenya et continue d'être racontée, chantée et adaptée.\n\nLes versions s'accordent sur l'essentiel. Lwanda Magere, du clan Sidho selon la tradition la plus répandue, avait un corps dur comme la pierre : lances et flèches rebondissaient sur lui, et les Nandi perdaient bataille après bataille. Ne pouvant le vaincre par les armes, ils lui offrirent une jeune femme de leur peuple en mariage, comme gage de paix. Un jour que Lwanda était malade et que sa première épouse était absente, un guérisseur prescrivit d'appliquer des remèdes sur une incision. Lwanda demanda alors à cette seconde épouse de pratiquer l'entaille non sur son corps, mais sur son ombre. Elle comprit où se trouvait sa vulnérabilité, s'enfuit la nuit rejoindre les siens et leur révéla le secret. Lors de l'attaque suivante, un guerrier nandi visa l'ombre de Lwanda avec sa lance ; le héros tomba et son corps se changea en pierre.\n\nÀ Sidho, près d'Awasi, dans l'ancien district de Nyando, on montre un rocher comme le lieu où il est tombé. Le récit a été adapté au théâtre par Okoiti Omtatah, dont la pièce Lwanda Magere, publiée en 1991, puise dans les proverbes et les devinettes luo, et le récit a inspiré chansons et films d'animation. Il est plus difficile d'en fixer la date : des sources populaires avancent des années précises, mais aucune ne repose sur une documentation historique, et le récit relève de la tradition orale plus que de la chronique. Le motif de la force logée hors du corps, dans l'ombre, se retrouve sous d'autres formes dans de nombreuses traditions, sans qu'aucun lien de filiation soit démontré.",
   "domaines": [
     "guerre",
     "invincibilité",
@@ -28,7 +28,8 @@
   "culte_contemporain": "Un rocher près de Kisumu (Kenya), dit lui ressembler, reste associé à sa légende et attire encore des visiteurs locaux.",
   "sources": [
     "Ogot, B.A. (1967). History of the Southern Luo",
-    "Osogo, J. (1966). A History of the Baluyia (contexte comparatif régional)"
+    "Osogo, J. (1966). A History of the Baluyia (contexte comparatif régional)",
+    "Omtatah, O. (1991). Lwanda Magere: A Play"
   ],
   "notes": "Le motif de la faiblesse localisée dans l'ombre plutôt que dans le corps rappelle structurellement d'autres récits de 'talon d'Achille' ailleurs dans le monde, sans qu'une filiation directe soit établie."
 }

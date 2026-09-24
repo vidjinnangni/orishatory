@@ -8,7 +8,7 @@
     "Dinka"
   ],
   "resume": "Divinité dinka du tonnerre et de la pluie, fils de Nhialic, souvent invoqué directement dans les prières agricoles et lors des orages. Figure centrale du culte des esprits (jok) dinka, plus accessible que le dieu suprême distant.",
-  "description_detaillee": "Le culte de Deng est traditionnellement administré par des clans sacerdotaux héréditaires, les 'maîtres de la lance à pêcher' (bany bith), dont la fonction rituelle consiste à servir d'intermédiaires privilégiés entre la société dinka et les divinités, Deng en particulier lors des cérémonies liées à la pluie et à la fertilité agricole. Cette prêtrise héréditaire, distincte des devins consultés ponctuellement, structure une autorité religieuse durable au sein des communautés dinka, transmise de génération en génération au sein de lignages spécifiques.",
+  "description_detaillee": "Deng, que l'on trouve aussi sous le nom de Dengdit (« le grand Deng »), est chez les Dinka du Soudan du Sud la plus importante de ce que l'anthropologue Godfrey Lienhardt a appelé les « divinités libres », aux côtés de Garang, Macardit et Abuk. Il est lié à la pluie et à la foudre : l'orage est sa manifestation la plus directe, et une personne tuée par la foudre est considérée comme touchée par lui plutôt que victime d'un accident.\n\nCe qui distingue une divinité libre, c'est qu'elle n'appartient à aucun clan. Les divinités claniques se transmettent dans les lignages et protègent l'ensemble de leurs membres ; Deng, lui, peut saisir n'importe qui, se faire connaître par une possession ou une maladie, puis nouer avec cette personne une relation durable. Sa place dans une généalogie divine n'est pas fixée : des récits le disent fils de Nhialic, d'autres donnent Abuk, la première femme, pour sa mère. Lienhardt insiste sur le fait que ces divinités sont à la fois des puissances distinctes et des manières dont Nhialic se rend présent, ce qui rend vaine la recherche d'un arbre familial stable.\n\nIl ne faut pas confondre Deng avec la divinité des « maîtres de la lance à pêcher », les lignages sacerdotaux héréditaires qui descendent du héros Aiwel Longar : leur pouvoir de donner la vie vient de Ring, « la Chair », une divinité clanique. Le rayonnement de Deng a débordé le monde dinka. Les Nuer voisins l'ont intégré parmi leurs esprits d'en haut, et le prophète nuer Ngundeng, au XIXe siècle, affirmait tenir de Deng son autorité ; il fit élever en son honneur un grand tertre de terre et de cendres entouré de défenses d'éléphant (voir Kwoth).",
   "domaines": [
     "tonnerre",
     "pluie",
@@ -29,11 +29,14 @@
     ]
   },
   "attributs": [],
-  "recits_associes": [],
+  "recits_associes": [
+    "abuk-garang"
+  ],
   "culte_contemporain": "",
   "sources": [
     "Lienhardt, G. (1961). Divinity and Experience: The Religion of the Dinka",
-    "Deng, F.M. (1972). The Dinka of the Sudan"
+    "Deng, F.M. (1972). The Dinka of the Sudan",
+    "Evans-Pritchard, E.E. (1956). Nuer Religion"
   ],
-  "notes": ""
+  "notes": "La filiation de Deng varie selon les traditions : certaines en font le fils de Nhialic, d'autres donnent Abuk pour mère (voir le récit abuk-garang), et Lienhardt ne fixe pas de généalogie."
 }

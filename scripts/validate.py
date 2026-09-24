@@ -37,6 +37,7 @@ def main():
     validator = Draft7Validator(schema)
     errors_found = False
     checked = 0
+    entities = {}
 
     for path in iter_entity_files():
         checked += 1
@@ -66,6 +67,18 @@ def main():
                 errors_found = True
             if data.get("id") != filename.replace(".json", ""):
                 print(f"[CHEMIN] {rel}: id='{data.get('id')}' ne correspond pas au nom de fichier")
+                errors_found = True
+
+        entities[data.get("id")] = (rel, data)
+
+    # Les liens (genealogie, recits_associes) doivent pointer vers des fiches existantes
+    for entity_id, (rel, data) in entities.items():
+        links = [("recits_associes", ref) for ref in data.get("recits_associes", [])]
+        for field, refs in data.get("genealogie", {}).items():
+            links += [(f"genealogie.{field}", ref) for ref in refs]
+        for field, ref in links:
+            if ref not in entities:
+                print(f"[LIEN] {rel}: '{ref}' dans '{field}' ne correspond à aucune fiche")
                 errors_found = True
 
     print(f"\n{checked} fiche(s) vérifiée(s).")

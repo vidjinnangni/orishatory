@@ -8,7 +8,7 @@
     "Mbuti"
   ],
   "resume": "Cérémonie nocturne mbuti organisée en réponse à un événement grave (mort, maladie, malheur collectif), au cours de laquelle les hommes font résonner une longue trompette en bois à travers la forêt pour 'réveiller' celle-ci et restaurer l'harmonie.",
-  "description_detaillee": "Selon les observations de Colin Turnbull, la 'saison molimo' suit généralement une période de malchance collective à la chasse ou un deuil marquant, et peut s'étendre sur plusieurs semaines d'intensité croissante, culminant lors d'une nuit où la trompette molimo est introduite jusqu'au cœur du campement, accompagnée de danses autour du feu, avant que la cérémonie ne s'achève et que l'harmonie avec la forêt ne soit considérée comme restaurée.",
+  "description_detaillee": "Pour les Mbuti de la forêt de l'Ituri, au nord-est de la République démocratique du Congo, la forêt est une présence bienveillante qui nourrit et protège ceux qu'elle considère comme ses enfants. Quand le malheur s'abat sur un campement (mort d'une personne respectée, chasse qui ne donne plus rien, maladie), c'est qu'elle s'est endormie. Le molimo est la cérémonie qui la réveille : des nuits de chants masculins, parfois sur plusieurs semaines, portés par la voix d'une longue trompette qui porte le même nom.\n\nLe premier molimo auquel Colin Turnbull assista suivait la mort de Balekimito, une vieille femme très aimée, et dura des semaines. L'instrument qu'il vit alors n'était pas en bois mais un morceau de tuyau d'évacuation métallique : ce qui compte est la voix du molimo, pas sa matière. Les trompettes de bois, elles, se fendaient en séchant et devaient être mouillées pour rester étanches. L'objet est gardé caché dans la forêt par les jeunes hommes ; femmes et enfants ne doivent pas le voir, et restent dans leurs huttes quand il entre de nuit dans le campement, pendant que les hommes chantent et dansent autour du feu jusqu'au petit matin.\n\nExclues du regard, les femmes ne sont pas absentes du rite. Leurs chants pèsent sur l'humeur du camp, et Turnbull rapporte un épisode décisif : une vieille femme lie le cou des hommes avec une corde. Ils cessent de chanter et déclarent qu'elle a lié les hommes, la chasse et le molimo. Ils ne retrouvent leur liberté qu'après lui avoir remis de la nourriture et des cigarettes en gage de défaite. La scène rappelle que l'équilibre entre hommes et femmes, et entre la vie et la mort, est au cœur de la cérémonie.\n\nLe molimo s'adresse à la forêt elle-même, que certaines traditions mbuti rapprochent de Tore, l'esprit de la forêt associé à l'origine de la mort (voir sa fiche). Comme pour l'elima, notre connaissance du rite dépend largement des récits de Turnbull, dont la vision d'une société forestière harmonieuse a été contestée par des chercheurs comme Roy Richard Grinker : la description vaut pour les campements qu'il a connus dans les années 1950 et ne saurait être étendue sans prudence à tous les groupes de l'Ituri.",
   "domaines": [
     "crise collective",
     "harmonie avec la forêt",
@@ -31,7 +31,8 @@
   "culte_contemporain": "",
   "sources": [
     "Turnbull, C.M. (1961). The Forest People",
-    "Turnbull, C.M. (1965). Wayward Servants: The Two Worlds of the African Pygmies"
+    "Turnbull, C.M. (1965). Wayward Servants: The Two Worlds of the African Pygmies",
+    "Grinker, R.R. (1994). Houses in the Rain Forest: Ethnicity and Inequality among Farmers and Foragers in Central Africa"
   ],
   "notes": ""
 }

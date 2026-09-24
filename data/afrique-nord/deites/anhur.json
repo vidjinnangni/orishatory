@@ -11,7 +11,7 @@
     "Égyptiens anciens"
   ],
   "resume": "Dieu guerrier dont le nom signifie 'celui qui ramène la lointaine', directement associé au mythe de la Déesse lointaine qu'il est chargé de ramener d'exil en Nubie. Identifié par les Grecs à Arès.",
-  "description_detaillee": "Anhour formait traditionnellement un couple avec la déesse lionne Mehit, et son centre de culte principal se situait dans la région de This, près d'Abydos. À une période plus tardive de l'histoire égyptienne, son identité guerrière fut partiellement fusionnée avec celle de Shou sous la forme syncrétique de Shou-Anhour, illustrant la fluidité avec laquelle certaines divinités égyptiennes aux fonctions voisines pouvaient être combinées plutôt que maintenues rigoureusement séparées.",
+  "description_detaillee": "Anhour, que les Grecs appelaient Onouris, est un dieu guerrier et chasseur de l'Égypte ancienne. Son nom signifie « celui qui ramène la lointaine », et ce nom résume son mythe. Il était vénéré surtout à This (Thinis), près d'Abydos, en Haute-Égypte, une ville associée aux premiers rois du pays, puis à Sebennytos (l'actuelle Samannoud), dans le delta. On le représente en homme barbu vêtu d'une longue robe, coiffé de quatre hautes plumes et tenant une lance, parfois une corde.\n\nLe récit qui fonde son identité est une version locale du mythe de la Déesse lointaine. L'Œil de Rê, sous l'apparence d'une lionne furieuse, s'est retiré dans les déserts du sud, en Nubie, laissant l'Égypte privée de sa présence. Anhour part à sa recherche et la ramène ; la lionne apaisée devient Mehit, son épouse, avec qui il forme un couple vénéré à This. Le chasseur qui capture la bête sauvage et le mari qui ramène l'épouse sont ici une seule et même figure, ce qui explique sa double nature de dieu combattant et de protecteur.\n\nComme d'autres versions du mythe attribuent ce retour à Shou, frère et époux de Tefnout, les deux dieux ont été rapprochés, puis combinés sous la forme Onouris-Shou. Ce type de fusion est fréquent en Égypte, où deux divinités aux fonctions voisines pouvaient partager un même nom sans perdre leur existence propre. Les Grecs, frappés par son caractère guerrier, l'ont identifié à Arès. Son culte n'a jamais atteint l'importance de celui des grands dieux nationaux, mais la popularité de ses statuettes de bronze à la Basse Époque atteste une dévotion bien réelle.",
   "domaines": [
     "guerre",
     "chasse",
@@ -34,7 +34,8 @@
   "culte_contemporain": "",
   "sources": [
     "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
-    "Junker, H. (1911). Der Auszug der Hathor-Tefnut aus Nubien"
+    "Junker, H. (1911). Der Auszug der Hathor-Tefnut aus Nubien",
+    "Wilkinson, R.H. (2003). The Complete Gods and Goddesses of Ancient Egypt"
   ],
   "notes": ""
 }

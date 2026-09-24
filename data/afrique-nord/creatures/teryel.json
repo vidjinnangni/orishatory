@@ -7,16 +7,14 @@
   "peuples": [
     "Kabyles"
   ],
-  "resume": "Figure d'ogresse cannibale dans les contes kabyles, dotée de pouvoirs de métamorphose, dévorant les imprudents mais parfois déjouée par la ruse des héros et héroïnes des récits, notamment dans le cycle de Loundja.",
-  "description_detaillee": "La figure de l'ogresse dévoreuse d'enfants ou de voyageurs imprudents, incarnant les dangers du monde extérieur au foyer, trouve des équivalents structurels dans de nombreuses traditions orales à travers le monde, où ce type de personnage sert fréquemment à mettre en scène et à contenir symboliquement des angoisses parentales ou domestiques liées à la protection des plus jeunes membres de la communauté.",
+  "resume": "Figure d'ogresse cannibale des contes kabyles, versée dans la magie, qui dévore les imprudents mais peut être déjouée par la ruse des héros ou liée par le pacte du lait lorsqu'un enfant tète son sein. Dans le conte de Loundja, elle est la mère de l'héroïne.",
+  "description_detaillee": "Teryel (tteryel en kabyle, pluriel teryalin) est l'ogresse des contes de Kabylie, et le mot désigne aussi, plus largement, toute ogresse. Mangeuse d'hommes et d'animaux, versée dans la magie, elle est avec son pendant masculin, l'ogre (waghzen), l'une des figures les plus présentes de la littérature orale berbère. Qui veut comprendre le conte kabyle, tel que l'ont recueilli puis étudié Taos Amrouche ou Camille Lacoste-Dujardin, la croise presque à chaque veillée.\n\nLes conteurs lui donnent un portrait très reconnaissable : une vieille femme à la crinière hirsute, aux yeux malades, aux dents saillantes et aux bras griffus, dont les seins énormes sont rejetés par-dessus les épaules. Elle vit dans la forêt, dans une grotte ou une maison isolée, flaire la chair jeune et, dans certaines traditions, emporte les petits garçons dans un sac. À Agouni Gueghrane, en Kabylie, une grotte porte le nom d'Akham n teryel, « la maison de l'ogresse ».\n\nLe danger n'est pourtant jamais sans issue. Un motif revient d'un conte à l'autre : l'enfant qui parvient à la surprendre et à téter son sein devient son fils de lait, et l'ogresse, liée par ce pacte, ne peut plus le dévorer ; elle devient même parfois son alliée. Dans un récit kabyle, une veuve que l'ogresse a tirée de la misère en l'aidant à tisser doit lui livrer son fils, et c'est par ce stratagème qu'elle le sauve. Dans le conte de Loundja, Teryel est la mère de l'héroïne, et le jeune homme qui enlève la jeune fille finit par causer la noyade de l'ogresse.\n\nLes analyses savantes lisent volontiers en elle la face sombre des relations familiales. Nabile Farès, dans une étude de 1994, y voit une figure de la « mauvaise mère » qui permet à l'enfant de traverser, dans le récit, les épreuves de sa propre croissance ; beaucoup de contes s'ouvrent sur la mort d'une mère et l'arrivée d'une marâtre qui chasse les enfants vers la forêt. Ces interprétations restent des lectures parmi d'autres, et les récits eux-mêmes varient beaucoup d'un village à l'autre.",
   "domaines": [
     "cannibalisme",
-    "métamorphose",
+    "magie",
     "menace domestique"
   ],
-  "tags": [
-    "metamorphose"
-  ],
+  "tags": [],
   "genealogie": {
     "parents": [],
     "conjoints": [],
@@ -30,7 +28,10 @@
   "culte_contemporain": "",
   "sources": [
     "Amrouche, T. (1966). Le grain magique: contes, poèmes et proverbes berbères de Kabylie",
-    "Frobenius, L. & Fox, D.C. (1937). African Genesis (contexte comparatif du conte africain)"
+    "Frobenius, L. & Fox, D.C. (1937). African Genesis (contexte comparatif du conte africain)",
+    "Lacoste-Dujardin, C. (1970). Le conte kabyle: étude ethnologique",
+    "Farès, N. (1994). L'ogresse dans la littérature orale berbère",
+    "Bounfour, A. (2013). Ogre (dans le conte merveilleux berbère). Encyclopédie berbère, vol. 35"
   ],
   "notes": ""
 }

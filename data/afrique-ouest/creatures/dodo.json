@@ -8,7 +8,7 @@
     "Hausa"
   ],
   "resume": "Figure de croquemitaine du folklore haoussa, utilisée traditionnellement pour dissuader les enfants de s'aventurer seuls hors du village ou de désobéir, sans apparence fixe précise, laissée à l'imagination de chaque conteur.",
-  "description_detaillee": "L'absence de forme fixe attribuée au Dodo constitue elle-même une donnée culturelle significative : contrairement à des figures plus codifiées comme le Sasabonsam akan, la force du Dodo tient précisément à son indétermination, chaque conteur ou chaque parent étant libre d'adapter sa description à l'âge et aux craintes propres de l'enfant à discipliner.\n\nDans certains contextes contemporains marqués par l'islam, la figure du Dodo se trouve parfois rapprochée ou fusionnée avec celle des djinns (esprits reconnus par la cosmologie islamique), illustrant la capacité de ces figures d'avertissement populaire à absorber de nouveaux vocabulaires religieux sans perdre leur fonction sociale essentielle de mise en garde enfantine.",
+  "description_detaillee": "Dans la langue haoussa, parlée par des dizaines de millions de personnes au Nigeria, au Niger et bien au-delà, dodo désigne un monstre, un ogre. C'est la créature la plus redoutée des contes (tatsuniyoyi) que l'on raconte le soir aux enfants : un être dévoreur d'hommes qui rôde dans la brousse, près des mares et des cours d'eau. Les parents l'invoquent aussi pour dissuader les petits de s'éloigner seuls du village ou de sortir à la nuit tombée.\n\nLes conteurs adaptent son portrait à leur auditoire, mais certains traits reviennent souvent dans les recueils de l'époque coloniale, notamment celui de l'officier britannique A. J. N. Tremearne (1913). Le dodo y apparaît comme un géant d'allure humaine, couvert de longs cheveux, doté d'un odorat qui lui fait sentir la chair humaine de très loin et d'un appétit sans limite. Il peut prendre la forme d'un lion, d'un python ou d'autres grands animaux, mais l'eau courante lui barre souvent la route. Certains contes lui donnent une épouse, et plusieurs récits le montrent imposant un marché terrible à une jeune fille : être mangée ou l'épouser.\n\nLe dodo n'est cependant pas invincible. Dans beaucoup de récits, un enfant rusé, une héroïne courageuse ou une aide surnaturelle finit par le vaincre, et le conte devient alors une leçon sur la prudence, l'obéissance ou la jalousie qui pousse à livrer un rival au monstre. Il faut le distinguer des iskoki, les esprits du culte de possession bori : ceux-ci sont des puissances que l'on honore et qui chevauchent leurs adeptes, tandis que le dodo reste une figure de récit et d'avertissement.\n\nLe mot a voyagé avec les commerçants haoussa. Au Burkina Faso, des troupes de garçons masqués sortent pendant le ramadan pour danser le « dodo » de maison en maison, une tradition introduite au XIXe siècle par des marchands musulmans haoussa puis largement appropriée par la population locale. Dans le Nigeria contemporain, où l'islam domine, le dodo côtoie volontiers les djinns (aljanu) dans le vocabulaire de la peur, sans perdre sa place de croquemitaine des veillées.",
   "domaines": [
     "peur enfantine",
     "discipline",
@@ -28,7 +28,8 @@
   "culte_contemporain": "",
   "sources": [
     "Skinner, N. (1969). Hausa Tales and Traditions",
-    "Besmer, F.E. (1983). Horses, Musicians, and Gods: The Hausa Cult of Possession-Trance"
+    "Besmer, F.E. (1983). Horses, Musicians, and Gods: The Hausa Cult of Possession-Trance",
+    "Tremearne, A.J.N. (1913). Hausa Superstitions and Customs: An Introduction to the Folk-Lore and the Folk"
   ],
   "notes": ""
 }

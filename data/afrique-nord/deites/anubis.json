@@ -11,7 +11,7 @@
     "Égyptiens anciens"
   ],
   "resume": "Dieu à tête de chacal associé à l'embaumement et à la conduite des morts, présidant les rites funéraires et guidant les défunts jusqu'à la pesée du cœur.",
-  "description_detaillee": "Dans les théologies funéraires les plus anciennes de l'Ancien Empire, Anubis occupait la position de dieu principal des morts avant d'être progressivement associé, puis subordonné, au culte grandissant d'Osiris à partir du Moyen Empire ; il conserva néanmoins son rôle technique essentiel de patron de l'embaumement et de guide des défunts, illustrant une évolution théologique par laquelle une ancienne divinité funéraire s'articule avec un culte plus récent sans disparaître complètement de la scène religieuse.",
+  "description_detaillee": "Anubis est le dieu égyptien des nécropoles et de l'embaumement, reconnaissable à sa tête de chacal ou, couché sur un coffre, à sa forme entièrement animale. Les chiens sauvages et les chacals rôdaient autour des cimetières du désert, et l'on pense souvent que les Égyptiens ont fait de cet animal le gardien des morts pour retourner à leur avantage une menace bien réelle. Sa couleur noire ne renvoie pas au deuil : c'est celle du limon du Nil et de la régénération, et peut-être aussi celle des corps momifiés, noircis par les résines. Il est l'un des dieux les plus anciens et les plus constamment présents de toute la religion funéraire égyptienne.\n\nPendant l'Ancien Empire, c'est lui, et non Osiris, qui domine le monde des morts. Dans la formule d'offrande gravée sur les tombes, qui devait assurer au défunt sa part de nourriture, Anubis est d'abord invoqué seul ; Osiris n'apparaît dans les textes qu'à partir de la Ve dynastie, puis prend peu à peu la première place. Anubis ne disparaît pas pour autant : il devient l'auxiliaire d'Osiris dans le mythe, celui qui embaume son corps, et donc le modèle de tous les embaumeurs. Ses épithètes disent ses fonctions : « celui qui est sur sa montagne », veillant sur la nécropole, « celui qui est dans le lieu de l'embaumement », ou « maître de la terre sacrée ». Sa filiation varie selon les traditions ; chez Plutarque, il est le fils d'Osiris et de Nephthys.\n\nDans les rites, les prêtres qui préparaient la momie agissaient en son nom, et Anubis figure dans les vignettes du Livre des Morts, penché sur le corps du défunt ou réglant la balance lors de la pesée du cœur. Aux époques tardives, sa popularité prend une ampleur considérable : dans les catacombes qui lui étaient consacrées à Saqqara, une équipe dirigée par Paul Nicholson a estimé en 2015 à environ huit millions le nombre d'animaux momifiés, des chiens pour l'immense majorité, déposés comme offrandes par des pèlerins. Les Grecs l'associèrent à leur propre guide des âmes, Hermès, sous le nom d'Hermanubis, et son profil de chacal est devenu aujourd'hui l'une des images les plus familières de l'Égypte ancienne.",
   "domaines": [
     "embaumement",
     "mort",
@@ -36,7 +36,8 @@
   "culte_contemporain": "Figure égyptienne parmi les plus reconnaissables de la culture populaire contemporaine, souvent reprise hors de tout contexte religieux d'origine.",
   "sources": [
     "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
-    "Faulkner, R.O. (trad.) (1972). The Egyptian Book of the Dead"
+    "Faulkner, R.O. (trad.) (1972). The Egyptian Book of the Dead",
+    "Nicholson, P.T. et al. (2015). The Catacombs of Anubis at North Saqqara (Antiquity, 89)"
   ],
   "notes": ""
 }

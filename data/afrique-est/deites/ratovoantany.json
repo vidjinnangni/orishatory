@@ -7,12 +7,12 @@
   "peuples": [
     "Malgaches"
   ],
-  "resume": "Divinité de la terre dans certaines traditions malgaches, complément de Zanahary (le ciel) dans un schéma cosmogonique dualiste, associée à la fertilité du sol et aux forces telluriques.",
-  "description_detaillee": "Le schéma dualiste associant Zanahary (ciel) et Ratovoantany (terre) rejoint structurellement d'autres couples divins ciel-terre déjà attestés sur le continent, tels Nyame et Asase Yaa chez les Akan d'Afrique de l'Ouest ou Geb et Nout dans l'Égypte ancienne, sans qu'aucune filiation historique entre ces traditions géographiquement éloignées ne puisse être établie : il s'agit vraisemblablement de résolutions indépendantes d'une même intuition cosmologique répandue.",
+  "resume": "Puissance de la terre dans la mythologie malgache, face à Zanahary, le dieu du ciel, connue surtout par le récit de création où elle modèle les premiers êtres dans l'argile ; Zanahary leur donne le souffle et le reprend à la mort, tandis que le corps retourne à la terre.",
+  "description_detaillee": "Ratovoantany est, dans la mythologie malgache, la puissance de la terre qui fait face à Zanahary, le dieu du ciel. On le connaît presque uniquement par un récit de création très répandu à Madagascar, qui explique à la fois l'origine des êtres humains et celle de la mort. Contrairement à Zanahary, il ne semble avoir été au centre du culte d'aucun peuple de l'île.\n\nSelon ce récit, Ratovoantany modelait dans l'argile des figurines d'hommes et d'animaux, qu'il faisait sécher au soleil comme des poteries, sans parvenir à leur donner vie. Zanahary, descendu du ciel par curiosité, proposa de les animer à condition de les emporter là-haut ; Ratovoantany refusa. Les deux puissances finirent par s'entendre : Zanahary donnerait le souffle et le reprendrait à la mort, tandis que les corps resteraient pour toujours à la terre qui les avait formés. Mourir, c'est rendre à chacun sa part.\n\nCe partage éclaire l'importance que les sociétés malgaches accordent à la sépulture et au soin des corps des ancêtres : le tombeau est le lieu où le corps retourne à la terre, pendant que le souffle rejoint le ciel. Le couple ciel-terre rappelle d'autres paires connues sur le continent, comme Nyame et Asase Yaa chez les Akan, sans qu'aucun lien historique ne puisse être établi. Les sources ne documentent guère un culte propre à Ratovoantany, et son association à la fertilité du sol relève plus de sa fonction dans le mythe que de pratiques attestées.",
   "domaines": [
     "terre",
-    "fertilité",
-    "forces telluriques"
+    "création",
+    "origine de la mort"
   ],
   "tags": [
     "terre-fertilite"

@@ -10,7 +10,7 @@
     "San"
   ],
   "resume": "Créature mythique san associée à l'origine de la pluie, souvent représentée dans l'art rupestre san, capturée et 'menée' symboliquement par les chamanes en transe pour provoquer les précipitations lors de rituels de danse.",
-  "description_detaillee": "Selon l'interprétation chamanique proposée par David Lewis-Williams, plusieurs panneaux rupestres représentant des personnages humains tenant une corde reliée à un animal à cornes illustreraient précisément cette capture symbolique du taureau de pluie par des chamanes en transe, sa sueur ou son sang, une fois versé, se transformant alors en précipitations bienfaisantes pour la communauté.",
+  "description_detaillee": "Chez les |Xam, un peuple san du Karoo sud-africain dont la langue a disparu, la pluie n'est pas un simple phénomène : elle est un être, nommé !Khwa, mot qui signifie à la fois « eau » et « pluie ». Cet être peut prendre de nombreuses formes, et l'une d'elles est celle d'un bovin, le « taureau de pluie » ou « animal de pluie » (!khwa-ka xoro). Il est l'un des rares personnages de la cosmologie san que l'on peut suivre à la fois dans des récits recueillis au XIXe siècle et dans des milliers de peintures rupestres.\n\nLes récits ont été notés dans les années 1870 par Wilhelm Bleek et Lucy Lloyd auprès d'informateurs |Xam comme Dia!kwain, qui dessina lui-même un taureau de pluie. On y apprend que des spécialistes rituels, les « gens de la pluie », allaient capturer l'animal dans son point d'eau, le menaient à travers le pays puis l'abattaient sur une hauteur, afin que son sang et son lait se répandent et deviennent averse. La pluie a aussi ses dangers : un récit de la collection raconte comment une jeune femme, dont l'odeur a attiré le taureau, parvient à l'apaiser avec du buchu, une plante aromatique, avant de lui échapper.\n\nÀ partir des années 1970, David Lewis-Williams a rapproché ces textes des peintures du Drakensberg et d'ailleurs, où l'on voit des personnages tenant une corde reliée à un grand animal parfois hybride. Pour lui, ces scènes figurent des chamanes en transe accomplissant dans le monde des esprits la capture décrite par les |Xam. Cette lecture chamanique est aujourd'hui dominante, mais la manière de passer des récits d'un groupe du Karoo aux peintures d'autres régions, parfois éloignées de plusieurs siècles, reste discutée. Le taureau de pluie croise dans le codex la figure de Kaggen, autre grand personnage de la pensée |xam.",
   "domaines": [
     "pluie",
     "transe chamanique",
@@ -34,7 +34,8 @@
   "culte_contemporain": "Motif central de l'art rupestre san (peintures rupestres du Drakensberg notamment), aujourd'hui étudié comme témoignage majeur de la cosmologie chamanique san précoloniale.",
   "sources": [
     "Lewis-Williams, J.D. (1981). Believing and Seeing: Symbolic Meanings in Southern San Rock Paintings",
-    "Lewis-Williams, J.D. & Dowson, T.A. (1989). Images of Power: Understanding San Rock Art"
+    "Lewis-Williams, J.D. & Dowson, T.A. (1989). Images of Power: Understanding San Rock Art",
+    "Bleek, W.H.I. & Lloyd, L.C. (1911). Specimens of Bushman Folklore"
   ],
   "notes": "L'interprétation chamanique de l'art rupestre san (associée notamment aux travaux de Lewis-Williams) fait référence dans le champ académique, mais certains éléments spécifiques de lecture symbolique restent débattus entre spécialistes."
 }

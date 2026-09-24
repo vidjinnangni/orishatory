@@ -11,7 +11,7 @@
     "Serer"
   ],
   "resume": "Dieu créateur suprême dans la religion traditionnelle serer (Sénégal, Gambie), source première de l'univers et garant de l'ordre cosmique, approché principalement à travers les pangool, esprits ancestraux intermédiaires.",
-  "description_detaillee": "Dans la pratique religieuse serer, Roog demeure une figure largement en retrait du culte quotidien : ce sont les pangool, esprits ancestraux attachés à des lignages, des baobabs ou des termitières précises, qui reçoivent l'essentiel des invocations, des offrandes et des consultations concrètes, Roog n'intervenant qu'en arrière-plan comme garant ultime de l'ordre qu'ils font respecter.\n\nCette structure religieuse fortement enracinée dans le territoire et la lignée a contribué, selon plusieurs historiens, à la résistance relativement marquée des populations serer à l'islamisation qui a largement gagné leurs voisins wolof dès l'époque précoloniale, la religion traditionnelle serer ayant conservé une vitalité et une visibilité sociale plus importantes que dans la plupart des sociétés environnantes du Sénégal.",
+  "description_detaillee": "Roog est le dieu créateur de la religion traditionnelle des Serer, un peuple du centre-ouest du Sénégal et de la Gambie, établi notamment dans les anciens royaumes du Sine et du Saloum. Son nom renvoie au ciel, et les locuteurs des langues cangin, apparentées au serer, le nomment Koox. Il est à la fois l'origine de toute chose et le terme vers lequel tout retourne, une puissance sans corps que l'on ne représente jamais : aucune image de Roog n'est fabriquée, aucun sanctuaire ne lui est réservé.\n\nLes travaux du père Henry Gravrand et d'auteurs serer comme Issa Laye Thiaw soulignent que Roog réunit en lui le masculin et le féminin. Dans les invocations, on l'appelle « père et mère », et certains récits de création en font une grand-mère qui donne naissance à l'humanité. Plusieurs épithètes rituelles le désignent, dont Roog Sene, que l'on rend par « Roog l'immense » ou « le miséricordieux ».\n\nParce qu'il est si lointain, on ne s'adresse presque jamais à lui directement. Les prières passent par les pangool, esprits d'ancêtres attachés à des lignages, à des lieux de fondation et à des sites naturels, et par les saltigui, prêtres et devins qui interprètent sa volonté. Lors du xooy, grande séance de divination tenue avant la saison des pluies, les saltigui annoncent publiquement ce que l'année réserve à la communauté. Roog reste ainsi à l'arrière-plan du culte, comme le garant d'un ordre que les pangool et leurs desservants font respecter au quotidien.\n\nLes royaumes serer du Sine et du Saloum sont restés longtemps à l'écart de l'islam, alors que leurs voisins wolof s'étaient largement convertis ; l'historien Martin Klein a montré que la conversion massive des Serer ne s'est produite qu'à la fin du XIXe siècle et au XXe siècle, dans le contexte de la conquête coloniale et de l'essor des confréries. Aujourd'hui, la plupart des Serer sont musulmans ou chrétiens, mais le nom de Roog et les pratiques liées aux pangool continuent d'être transmis, parfois aux côtés de ces religions.",
   "domaines": [
     "création",
     "ordre cosmique",
@@ -32,8 +32,9 @@
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [
-    "Galvan, D.C. (2001). Political Turbulence without Systemic Change: Religion and the State in Senegal",
-    "Gravrand, H. (1990). La civilisation sereer - Pangool"
+    "Gravrand, H. (1990). La civilisation sereer - Pangool",
+    "Klein, M.A. (1968). Islam and Imperialism in Senegal: Sine-Saloum, 1847-1914",
+    "Galvan, D.C. (2004). The State Must Be Our Master of Fire: How Peasants Craft Culturally Sustainable Development in Senegal"
   ],
   "notes": ""
 }

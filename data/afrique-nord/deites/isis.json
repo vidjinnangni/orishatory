@@ -11,7 +11,7 @@
     "Égyptiens anciens"
   ],
   "resume": "Déesse égyptienne de la magie, de la maternité et de la royauté, épouse et sœur d'Osiris, mère d'Horus. Son culte, né en Égypte, s'est répandu dans tout le bassin méditerranéen antique jusqu'à l'Empire romain.",
-  "description_detaillee": "L'un des récits les plus célèbres concernant Isis, conservé notamment sur un papyrus aujourd'hui dit de Turin, raconte comment elle façonna un serpent à partir de la salive de Rê tombée au sol et le plaça sur son chemin ; mordu et gravement empoisonné, le dieu solaire ne put être guéri qu'en révélant à Isis son nom secret et véritable, source ultime de son pouvoir, qu'elle s'appropria ainsi par la ruse plutôt que par la force. Ce récit illustre une facette d'Isis parfois éclipsée par son image de mère et d'épouse dévouée : celle d'une magicienne redoutable, prête à recourir à la tromperie pour accroître sa propre puissance.",
+  "description_detaillee": "Isis est l'une des grandes déesses de l'Égypte ancienne et, sur la durée, la plus largement vénérée de toutes. Son nom égyptien, Aset, s'écrit avec le signe du siège ou du trône, qu'elle porte souvent sur la tête, et l'on y voit fréquemment une allusion à son lien avec la royauté : elle est la mère d'Horus, et donc, symboliquement, de chaque pharaon. Sœur et épouse d'Osiris, elle tient dans son mythe le rôle décisif, puisque c'est elle qui retrouve le corps de son mari assassiné, le ranime assez pour concevoir un fils et protège ensuite cet enfant contre Seth.\n\nSa puissance tient à la magie, que les Égyptiens concevaient comme une force efficace et légitime, héka, et non comme une pratique suspecte. Un conte connu par des manuscrits de l'époque ramesside, dont le papyrus de Turin 1993, la montre sous un jour peu attendu : elle modèle un serpent avec de la terre mêlée à la salive du vieux dieu solaire Rê, le place sur son chemin, puis n'accepte de guérir le dieu mordu qu'en échange de son nom secret, qui renferme sa puissance. Ce récit servait de formule contre les piqûres venimeuses, et c'est bien comme guérisseuse qu'Isis était invoquée au quotidien : on l'appelait au secours des enfants malades, sur le modèle de ses soins à Horus enfant, piqué par un scorpion dans les marais du Delta.\n\nSon culte a connu un rayonnement exceptionnel à partir de la Basse Époque. Le grand temple de Philae, près d'Assouan, construit pour l'essentiel sous les Ptolémées, est resté un lieu de pèlerinage jusqu'au Ve siècle de notre ère ; l'empereur Justinien le fit fermer officiellement dans les années 530, alors que les derniers prêtres attestés y officiaient environ quatre-vingts ans plus tôt. Entre-temps, Isis était devenue une divinité du monde gréco-romain, honorée dans des sanctuaires de Délos à Pompéi et à Rome, avec des rites d'initiation dont l'écrivain latin Apulée livre un témoignage dans ses Métamorphoses. Les statuettes d'Isis allaitant Horus ont souvent été rapprochées des premières images chrétiennes de la Vierge à l'Enfant ; la ressemblance est réelle, mais la question d'une influence directe reste débattue.",
   "domaines": [
     "magie",
     "maternité",
@@ -22,7 +22,10 @@
     "royaute-sacree"
   ],
   "genealogie": {
-    "parents": [],
+    "parents": [
+      "geb",
+      "nut"
+    ],
     "conjoints": [
       "osiris"
     ],
@@ -42,7 +45,8 @@
   "culte_contemporain": "Culte disparu comme religion vivante depuis l'Antiquité tardive, mais influence iconographique et symbolique persistante, notamment dans certains courants ésotériques occidentaux modernes.",
   "sources": [
     "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
-    "Assmann, J. (2001). The Search for God in Ancient Egypt"
+    "Assmann, J. (2001). The Search for God in Ancient Egypt",
+    "Ritner, R.K. (1997). The Legend of Isis and the Name of Re (P. Turin 1993), in Hallo, W.W. (dir.), The Context of Scripture, vol. I"
   ],
   "notes": ""
 }
