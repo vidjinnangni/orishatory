@@ -25,13 +25,18 @@
     "royaute-sacree"
   ],
   "genealogie": {
-    "parents": [],
+    "parents": [
+      "yemoja"
+    ],
     "conjoints": [
-      "oshun"
+      "oshun",
+      "oya"
     ],
     "enfants": [],
     "entites_liees": [
-      "oshun"
+      "oshun",
+      "santeria",
+      "xevioso"
     ]
   },
   "attributs": [

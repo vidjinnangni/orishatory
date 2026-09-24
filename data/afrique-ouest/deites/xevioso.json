@@ -1,0 +1,58 @@
+{
+  "id": "xevioso",
+  "nom": "Xevioso",
+  "variantes": [
+    "Hevioso",
+    "Xɛvioso",
+    "Heviosso",
+    "Hebioso",
+    "Xebieso",
+    "Sogbo",
+    "So"
+  ],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": [
+    "Fon",
+    "Ewe"
+  ],
+  "resume": "Vodun du tonnerre, de la foudre et de la pluie chez les Fon du Bénin et les Ewe du Togo et du Ghana, à la tête du panthéon du Tonnerre. Il frappe de la foudre les coupables de fautes graves et commande la pluie dont dépend la terre. Le bélier est son animal et la hache de tonnerre son emblème.",
+  "description_detaillee": "Dans le royaume du Danxomè, la religion publique s'organisait autour de quelques grands panthéons : le Ciel de Mawu-Lisa, la Terre de Sagbata, la Mer, et le Tonnerre, que dirige Xevioso (Hevioso), aussi appelé Sogbo ou So. Dans les récits recueillis par Melville et Frances Herskovits, il est l'un des enfants de Mawu-Lisa, parfois décrit comme homme et femme à la fois à l'image de son parent ; lors du partage du monde, c'est lui qui reste au ciel. Il y garde l'eau et le feu, les deux choses que son frère aîné Sagbata a laissées derrière lui en emportant toutes les richesses sur terre.\n\nCe partage est au cœur des mythes qui le concernent. Jaloux ou vexé, Xevioso retient la pluie et la terre se dessèche jusqu'à ce que Sagbata s'incline : dans une version, il lui envoie l'oiseau Wututu, grand ami de Sogbo, porter une part de ses biens, et la pluie tombe avant même que l'oiseau ait regagné le sol ; dans une autre, c'est le caméléon qui échappe aux éclairs pour aller demander l'eau, et Xevioso exige en retour que chacun règne sur son domaine, lui en haut, Sagbata en bas. Depuis la réconciliation, dit le récit, le Tonnerre visite chaque année la Terre, et sa pluie rend l'herbe et les humains féconds.\n\nSa colère a des effets très concrets dans la vie sociale décrite par Herskovits. Celui que la foudre tue est réputé coupable d'un crime grave ; sa famille n'a pas le droit de l'enterrer, le corps est remis aux prêtres du Tonnerre, sa maison est abandonnée et nul ne doit toucher à ses biens, jetés au carrefour. La famille peut ensuite, après consultation du devin, négocier avec le chef des prêtres le rachat de l'âme du défunt, point sur lequel les informateurs n'étaient pas d'accord. Herskovits décrit aussi, dans l'ouest du pays, un sanctuaire du Tonnerre où étaient conservés les crânes et les os d'une cinquantaine de foudroyés. Les pierres de tonnerre, des haches polies néolithiques, lui sont associées, et ses danseurs brandissent des haches cérémonielles.\n\nXevioso occupe dans le monde fon une place comparable à celle de Ṣàngó chez les Yoruba voisins, et le couple qu'il forme avec Sakpata, le ciel qui arrose et la terre qui reçoit, se retrouve dans de nombreux cultes de la région. Son culte est aussi très présent chez les Ewe. Au Brésil, le nom de Sogbo reste attaché au tonnerre dans le candomblé de nation jeje, héritier des traditions du Danxomè.",
+  "domaines": [
+    "tonnerre",
+    "foudre",
+    "pluie",
+    "justice"
+  ],
+  "tags": [
+    "foudre-orage",
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [
+      "mawu-lisa"
+    ],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "sakpata",
+      "legba-fon",
+      "shango",
+      "gu"
+    ]
+  },
+  "attributs": [
+    "bélier",
+    "hache de tonnerre",
+    "pierres de tonnerre (haches néolithiques)",
+    "oiseau Wututu"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Son culte est toujours pratiqué au Bénin, au Togo et dans le sud-est du Ghana, et le nom de Sogbo désigne encore une divinité du tonnerre dans le candomblé jeje de Bahia.",
+  "sources": [
+    "Herskovits, M.J. (1938). Dahomey: An Ancient West African Kingdom",
+    "Herskovits, M.J. & Herskovits, F.S. (1958). Dahomean Narrative: A Cross-Cultural Analysis",
+    "Parés, L.N. (2013). The Formation of Candomblé: Vodun History and Ritual in Brazil"
+  ],
+  "notes": "Le rapport entre Xevioso et Sogbo varie : noms d'une même divinité dans les récits d'Abomey recueillis par Herskovits, Sogbo est ailleurs présenté comme l'un des enfants ou l'un des membres du panthéon du Tonnerre. Les récits divergent aussi sur l'origine de la sécheresse (rancune de Xevioso, ruse de Legba) et sur le messager envoyé au ciel (l'oiseau Wututu ou le caméléon)."
+}

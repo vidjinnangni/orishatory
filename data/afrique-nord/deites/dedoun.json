@@ -1,0 +1,49 @@
+{
+  "id": "dedoun",
+  "nom": "Dédoun",
+  "variantes": [
+    "Dedun",
+    "Dedwen",
+    "Dédouen",
+    "Osiris-Dédoun"
+  ],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": [
+    "Nubiens (Ta-Seti, Koush)",
+    "Égyptiens anciens"
+  ],
+  "resume": "Dieu associé à la Nubie, connu dès les Textes des Pyramides comme celui qui apporte l'encens au roi. Il fut honoré dans les forteresses égyptiennes de la deuxième cataracte, notamment à Semna, puis, sous la forme d'Osiris-Dédoun, au Gebel Barkal par les rois de Napata.",
+  "description_detaillee": "Dédoun est l'une des rares divinités que les Égyptiens rattachaient explicitement au pays situé au sud d'Assouan, la Nubie, qu'ils appelaient Ta-Seti, « le pays de l'arc ». Sa mention la plus ancienne se trouve dans les Textes des Pyramides, gravés dans les tombes royales à partir de la fin de la Ve dynastie : une formule le décrit comme un jeune dieu venu de Nubie, qui offre au roi défunt l'encens dont on encense les dieux. Le détail n'est pas anodin, car l'encens et les résines aromatiques arrivaient en Égypte par les routes du sud, et Dédoun devint pour cette raison un dieu des biens précieux venus de Nubie.\n\nC'est au Moyen Empire, quand l'Égypte occupe la Basse-Nubie et y construit une chaîne de forteresses autour de la deuxième cataracte, que son culte est le mieux attesté. Il porte alors le titre de « premier de Ta-Seti » et apparaît dans les sanctuaires des garnisons, souvent aux côtés du roi Sésostris III divinisé, le conquérant de la région. À Ouronarti, la chapelle de la forteresse honorait Sésostris III, Montou et Dédoun. À Semna, Thoutmosis III fit bâtir un petit temple dédié à Dédoun et à Sésostris III, en face de celui de Khnoum à Koumma ; menacé par la montée du lac Nasser, il fut démonté et remonté au Musée national du Soudan, à Khartoum. Sur les reliefs, Dédoun a une apparence humaine assez conventionnelle, sans attribut qui le distingue nettement.\n\nLe dieu survécut au départ des Égyptiens. Au VIIe siècle avant notre ère, les rois de Koush Atlanersa et Senkamanisken firent construire au Gebel Barkal, la montagne sacrée d'Amon près de Napata, un temple (désigné B700 par les archéologues) consacré à Osiris-Dédoun. La fusion avec Osiris le rattachait à la mort et à la renaissance royales, et le temple accueillait la barque d'Amon lors de certaines fêtes. L'origine même de Dédoun est aujourd'hui discutée : longtemps tenu pour un dieu nubien adopté par l'Égypte, il pourrait aussi être, selon Martina Ullmann, une création égyptienne chargée de représenter la souveraineté divine sur un territoire conquis.",
+  "domaines": [
+    "encens",
+    "richesses du sud",
+    "protection de la Nubie",
+    "royauté"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "amon",
+      "osiris",
+      "khnoum",
+      "apedemak"
+    ]
+  },
+  "attributs": [
+    "encens"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Ullmann, M. (2019). Egyptian Temples in Nubia during the Middle and the New Kingdom, in Raue, D. (dir.), Handbook of Ancient Nubia",
+    "Török, L. (2002). The Image of the Ordered World in Ancient Nubian Art: The Construction of the Kushite Mind, 800 BC-300 AD",
+    "Fisher, M.M. et al. (dir.) (2012). Ancient Nubia: African Kingdoms on the Nile"
+  ],
+  "notes": "L'origine de Dédoun reste débattue : divinité nubienne (peut-être du Groupe C) intégrée à la religion égyptienne, ou dieu égyptien créé pour incarner la souveraineté sur la Nubie. Certaines présentations modernes lui prêtent une forme de lion, un point mal établi dans les sources publiées."
+}

@@ -1,0 +1,59 @@
+{
+  "id": "atoum",
+  "nom": "Atoum",
+  "variantes": [
+    "Atum",
+    "Tem",
+    "Temou",
+    "Atoum-Rê"
+  ],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": [
+    "Égyptiens anciens"
+  ],
+  "resume": "Dieu créateur d'Héliopolis, qui émerge seul des eaux primordiales et engendre le premier couple divin, Shou et Tefnout, à l'origine de l'Ennéade. Associé au soleil couchant, il est souvent représenté en homme coiffé de la double couronne.",
+  "description_detaillee": "Atoum est le créateur du monde selon la théologie d'Héliopolis, l'antique Iounou, aujourd'hui dans la banlieue du Caire. Il est la tête de l'Ennéade, le groupe de neuf dieux qui comprend ses enfants Shou et Tefnout, ses petits-enfants Geb et Nout, puis Osiris, Isis, Seth et Nephthys. Son nom se rattache à une racine qui signifie à la fois « être complet » et « ne pas être » : Atoum est celui qui contient tout avant que rien ne soit séparé. Les Textes des Pyramides, dès la fin de la Ve dynastie, et les Textes des Sarcophages au Moyen Empire sont les principales sources de sa théologie.\n\nAu commencement, Atoum surgit du Noun, l'océan inerte et obscur, et se pose sur une butte de terre émergée, souvent rapprochée de la pierre benben vénérée à Héliopolis. Seul, il doit tirer de lui-même une première dualité. Les textes en donnent plusieurs versions : dans l'une, il s'unit à sa propre main, que l'on personnifie parfois en déesse sous les noms d'Iousâas ou de Nebet-Hetepet ; dans une autre, il « éternue » Shou et « crache » Tefnout, en jouant sur le son de leurs noms. Les Textes des Sarcophages le montrent aussi discutant avec le Noun avant la création, et font de Shou la vie et de Tefnout Maât. On l'appelle pour cette raison « père et mère des dieux ».\n\nTrès tôt, Atoum fut associé au soleil, en particulier au soleil couchant : sous la forme combinée Rê-Atoum, il est l'astre vieilli du soir, tandis que Khépri incarne le matin. On le représente en homme portant la double couronne de Haute et de Basse-Égypte, et il a aussi des formes animales, serpent, ichneumon ou lézard, que Karol Myśliwiec a étudiées. Le chapitre 175 du Livre des Morts contient l'un des rares textes égyptiens sur la fin des temps : Atoum y annonce qu'il détruira un jour tout ce qu'il a fait et que le monde retournera aux eaux primordiales, où il ne subsistera plus qu'avec Osiris, sous la forme de serpents. Ptah, à Memphis, fut présenté plus tard comme le créateur dont Atoum lui-même serait issu, signe des concurrences entre théologies locales.",
+  "domaines": [
+    "création",
+    "soleil couchant",
+    "origine des dieux",
+    "fin des temps"
+  ],
+  "tags": [
+    "creation"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [
+      "shu",
+      "tefnut"
+    ],
+    "entites_liees": [
+      "ra",
+      "ptah",
+      "bennu",
+      "maat",
+      "osiris",
+      "nephthys"
+    ]
+  },
+  "attributs": [
+    "double couronne",
+    "serpent",
+    "ichneumon",
+    "butte primordiale",
+    "pierre benben"
+  ],
+  "recits_associes": [
+    "separation-nut-geb"
+  ],
+  "culte_contemporain": "",
+  "sources": [
+    "Allen, J.P. (1988). Genesis in Egypt: The Philosophy of Ancient Egyptian Creation Accounts",
+    "Myśliwiec, K. (1978-1979). Studien zum Gott Atum (2 vol.)",
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions"
+  ],
+  "notes": "Les versions de l'autocréation d'Atoum (union avec sa main, éternuement et crachat) coexistent dans les mêmes corpus sans être hiérarchisées. L'identification de la butte primordiale à la pierre benben d'Héliopolis est probable mais repose sur des sources tardives et indirectes."
+}

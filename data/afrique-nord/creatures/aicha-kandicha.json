@@ -23,7 +23,9 @@
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": []
+    "entites_liees": [
+      "zar"
+    ]
   },
   "attributs": [
     "pieds de chèvre ou de chameau",

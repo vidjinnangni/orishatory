@@ -1,0 +1,63 @@
+{
+  "id": "santeria",
+  "nom": "Santería (Regla de Ocha)",
+  "variantes": [
+    "Regla de Ocha",
+    "Regla Lucumí",
+    "Lucumí",
+    "Lukumí",
+    "Regla de Ocha-Ifá"
+  ],
+  "region": "diaspora",
+  "categorie": "rites",
+  "peuples": [
+    "Afro-Cubains",
+    "Diaspora cubaine (États-Unis notamment)"
+  ],
+  "resume": "Religion afro-cubaine issue des cultes yoruba, appelés lucumí à Cuba, qui s'est structurée à la fin du XIXe siècle au contact du catholicisme et du spiritisme. Elle repose sur la relation entre les fidèles et les oricha, honorés par des offrandes, la divination, les tambours batá et la possession. Elle s'est largement diffusée hors de Cuba, en particulier aux États-Unis.",
+  "description_detaillee": "La santería, que ses pratiquants préfèrent souvent appeler Regla de Ocha ou Lucumí, est la forme cubaine du culte des orisha yoruba. Lucumí était, dans la Cuba coloniale, le nom donné aux captifs de langue yoruba, arrivés en grand nombre dans l'île au XIXe siècle. Le terme de santería, « voie des saints », s'est imposé dans les écrits savants des années 1930 ; certains fidèles le jugent réducteur, voire péjoratif, parce qu'il ramène la religion à un culte des saints catholiques. Au sommet de l'univers se tient Olodumare, créateur lointain ; l'aché, force qui traverse toute chose, circule par les rites, et les oricha sont les puissances avec lesquelles chacun entretient une relation personnelle d'échange.\n\nSa formation doit beaucoup aux cabildos de nación, associations d'Africains d'une même origine que l'administration coloniale espagnole autorisait et qui préservèrent chants, danses et cultes ; David H. Brown a retracé le passage de ces cabildos aux maisons-temples (casas-templo) organisées autour de lignées d'initiés. Seul culte légal sous la colonie, le catholicisme a fourni un vocabulaire de correspondances : Changó est associé à sainte Barbe, Ochún à la Vierge de la Charité du Cuivre, patronne de Cuba, Babalú-Ayé à saint Lazare. L'initiation majeure, le kariocha ou asiento, dure sept jours et consacre le fidèle à l'oricha qui « règne » sur sa tête ; le nouvel initié, l'iyawó, s'habille de blanc et observe de nombreux interdits pendant un an. La divination se fait par les cauris (diloggún) et, pour les babalawos, prêtres d'Ifá, selon le système d'Ifá. La grande fête publique est le toque de santo, où les tambours batá appellent les oricha à descendre dans le corps des initiés.\n\nL'ethnologue Lydia Cabrera a consigné dans El Monte (1954) une somme de savoirs sur les plantes, les récits et les pratiques recueillis auprès de pratiquants afro-cubains. Après la révolution de 1959, l'émigration cubaine a implanté la Regla de Ocha aux États-Unis, notamment en Floride et à New York, où elle a attiré aussi des fidèles d'autres origines. En 1993, dans l'affaire Church of the Lukumi Babalu Aye v. City of Hialeah, la Cour suprême des États-Unis a jugé à l'unanimité que les arrêtés municipaux interdisant les sacrifices d'animaux visaient spécifiquement cette religion et violaient la liberté de culte. La santería partage avec le candomblé brésilien une grande partie de son panthéon et coexiste à Cuba avec d'autres traditions d'origine africaine, comme le Palo Mayombe d'héritage kongo et la société Abakuá.",
+  "domaines": [
+    "culte des oricha",
+    "divination",
+    "initiation",
+    "possession",
+    "guérison"
+  ],
+  "tags": [
+    "initiation",
+    "divination",
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "yemaya",
+      "omolu",
+      "candomble",
+      "palo-mayombe",
+      "abakua",
+      "espiritismo",
+      "ifa",
+      "olodumare",
+      "shango",
+      "oshun",
+      "eshu-elegba"
+    ]
+  },
+  "attributs": [
+    "tambours batá",
+    "cauris (diloggún)",
+    "colliers aux couleurs des oricha",
+    "vêtements blancs de l'iyawó"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Largement pratiquée à Cuba et dans la diaspora cubaine, notamment aux États-Unis (Floride, New York).",
+  "sources": [
+    "Cabrera, L. (1954). El Monte",
+    "Brown, D.H. (2003). Santería Enthroned: Art, Ritual, and Innovation in an Afro-Cuban Religion",
+    "Fernández Olmos, M. & Paravisini-Gebert, L. (2011). Creole Religions of the Caribbean: An Introduction from Vodou and Santería to Obeah and Espiritismo"
+  ],
+  "notes": "La nature des correspondances avec les saints catholiques est débattue : camouflage face aux autorités coloniales, stratégie d'intégration sociale, ou association sincère. Le nom même de la religion (santería, Regla de Ocha, Lucumí) fait l'objet de préférences divergentes chez les pratiquants."
+}

@@ -1,0 +1,53 @@
+{
+  "id": "elissa",
+  "nom": "Élissa",
+  "variantes": [
+    "Elissa",
+    "Didon",
+    "Dido",
+    "Elishat",
+    "Theiossô"
+  ],
+  "region": "afrique-nord",
+  "categorie": "heros",
+  "peuples": [
+    "Phéniciens (Tyr)",
+    "Puniques (Carthage)"
+  ],
+  "resume": "Princesse de Tyr que la tradition antique présente comme la fondatrice de Carthage, à la fin du IXe siècle avant notre ère, après sa fuite devant son frère le roi Pygmalion. Connue surtout par des auteurs grecs et latins, elle devient chez Virgile la Didon amante d'Énée.",
+  "description_detaillee": "Élissa est l'héroïne fondatrice de Carthage, la grande cité punique du golfe de Tunis. Son histoire ne nous est parvenue que par des auteurs grecs et latins : l'historien sicilien Timée, au IIIe siècle avant notre ère, dont l'œuvre est perdue mais dont un court traité anonyme sur les femmes courageuses conserve un résumé, puis Trogue Pompée, historien de l'époque d'Auguste, connu par l'abrégé qu'en fit Justin. Timée plaçait la fondation 38 ans avant la première olympiade, soit en 814 ou 813 avant notre ère, date qui est restée canonique.\n\nLe récit de Justin est le plus complet. Fille du roi de Tyr, Élissa épouse son oncle Acherbas, prêtre de Melqart, le dieu de la cité. Son frère Pygmalion, devenu roi, le fait tuer pour s'emparer de ses richesses. Élissa s'enfuit par mer avec des fidèles et l'or de son mari, fait escale à Chypre, puis aborde en Afrique. Les habitants acceptent de lui céder autant de terre qu'en peut couvrir une peau de bœuf ; elle la découpe en fines lanières et enclôt ainsi toute une colline, qui prend le nom de Byrsa. Plus tard, Hiarbas, roi des Maxitani, exige de l'épouser sous menace de guerre. Élissa demande un délai, fait élever un bûcher comme pour honorer son premier époux, y monte et se tue d'un coup d'épée. Justin ajoute que Carthage l'honora comme une déesse tant que la ville resta invaincue.\n\nSous ce récit transparaissent des éléments phéniciens. Le nom Élissa répond à Elishat, fréquent dans les inscriptions puniques, celui de Pygmalion au phénicien Pumayyaton ; byrsa, qui signifie « peau de bœuf » en grec, transcrit sans doute un mot sémitique désignant une place forte, ce qui fait de la ruse de la peau une étymologie inventée après coup. Le surnom de Didon, donné par les habitants selon la tradition, reste d'origine incertaine. C'est Virgile qui, dans l'Énéide, en fait l'amante d'Énée abandonnée, dont la malédiction annonce les guerres puniques ; la reine fidèle à son mari mort devient ainsi, pour des siècles, une figure de la passion tragique. L'archéologie ne confirme pas le personnage, mais les datations au radiocarbone des plus anciens niveaux de Carthage, publiées en 2005 par l'équipe de Roald Docter, placent l'installation vers la fin du IXe ou le début du VIIIe siècle, assez près de la date de Timée.",
+  "domaines": [
+    "fondation de Carthage",
+    "royauté",
+    "ruse",
+    "fidélité"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "melqart",
+      "tanit",
+      "baal-hammon"
+    ]
+  },
+  "attributs": [
+    "peau de bœuf découpée en lanières",
+    "bûcher",
+    "épée",
+    "colline de Byrsa"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Noël, M.-P. (2014). Élissa, la Didon grecque, dans la mythologie et dans l'histoire, in Berriot-Salvadore, E. (dir.), Les Figures de Didon : de l'épopée antique au théâtre de la Renaissance",
+    "Scheid, J. & Svenbro, J. (1985). Byrsa. La ruse d'Élissa et la fondation de Carthage. Annales ESC, 40",
+    "Lancel, S. (1992). Carthage",
+    "Docter, R.F. et al. (2005). Radiocarbon dates of animal bones in the earliest levels of Carthage, in Bartoloni, G. & Delpino, F. (dir.), Oriente e Occidente"
+  ],
+  "notes": "Les dates antiques varient : 814/813 chez Timée, environ 825 d'après le calcul de Trogue Pompée (72 ans avant Rome), et une tradition plus ancienne, rapportée notamment par Appien, attribue la fondation à Zoros et Karchedon avant la guerre de Troie. Le sens du nom Didon est discuté (Servius l'explique par « virago »). La part de substrat phénicien et d'élaboration grecque dans la légende reste débattue."
+}

@@ -20,7 +20,9 @@
   "genealogie": {
     "parents": [],
     "conjoints": [],
-    "enfants": [],
+    "enfants": [
+      "nommo"
+    ],
     "entites_liees": [
       "nommo"
     ]

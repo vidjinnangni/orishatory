@@ -1,0 +1,48 @@
+{
+  "id": "gaunab",
+  "nom": "//Gaunab",
+  "variantes": [
+    "Gaunab",
+    "||Gaunab",
+    "Gauna"
+  ],
+  "region": "afrique-australe",
+  "categorie": "deites",
+  "peuples": [
+    "Khoikhoi",
+    "Nama"
+  ],
+  "resume": "Puissance de la destruction et de la mort dans la religion khoikhoi, adversaire de l'être suprême Tsui//goab. Vaincu par lui dans un combat originel, il reste associé à la nuit, aux morts et aux malheurs qui frappent les vivants.",
+  "description_detaillee": "//Gaunab (les deux barres notent un clic latéral) est, dans la religion des Khoikhoi et en particulier des Nama de Namibie et d'Afrique du Sud, la figure opposée à Tsui//goab, l'être suprême du ciel et de la pluie. Avec lui et le héros Heitsi-eibib, il forme l'un des trois grands personnages que retiennent les études sur les Khoikhoi. Son nom vient de la racine //gau, « détruire, anéantir » : c'est le destructeur, et Theophilus Hahn notait en 1881 qu'il n'évoquait pour un Khoikhoi que la douleur, la misère et la mort.\n\nLe récit le plus connu est celui de son combat contre Tsui//goab. //Gaunab l'emporta plusieurs fois, mais son adversaire se relevait chaque fois plus fort et finit par l'abattre d'un coup derrière l'oreille ; en mourant, //Gaunab le blessa au genou. Un voyageur des années 1820, Ebner, avait recueilli une version différente, où un vieil homme plus sage que lui l'attire vers une fosse garnie de pieux et l'y précipite, victoire fêtée par l'abattage d'un mouton gras. Hahn décrit aussi une croyance plus quotidienne : //Gaunab était d'abord un esprit malfaisant qui cherchait à nuire aux gens, et l'on parlait de « mort de //gauna » pour ceux qui mouraient sous son influence. Lors d'une éclipse de lune, une expédition de chasse ou de guerre rebroussait chemin en disant qu'elle était « vaincue par //Gauna ».\n\nHahn proposait sa propre interprétation : //Gaunab habite le « ciel noir », celui de la nuit qui fait dormir et mourir les hommes, tandis que Tsui//goab vit dans le ciel rouge de l'aube ; le combat serait à l'origine une image du passage de la nuit au jour. Andrew Lang critiquait déjà cette lecture et relevait que Hahn donnait ailleurs d'autres explications. Des auteurs plus récents, comme Edwin Wilmsen, rapprochent //Gaunab du //angwa des San ju/'hoansi, un être capricieux et maladroit qui dévore les morts, dont les esprits restent ensuite auprès de lui.\n\nCe dualisme très net pose la question de l'influence chrétienne. Hahn rapporte lui-même que le missionnaire Schmelen, traduisant les Évangiles en nama au début du 19e siècle, employa le nom de Tsui//goab pour Dieu et celui de //Gaunab pour le diable, et il y voyait la preuve que l'opposition était ancienne. On peut aussi y lire l'inverse : une traduction qui a fixé le couple dans des rôles de dieu bon et de diable. Les sources étant presque toutes missionnaires ou savantes, ce que l'on sait de //Gaunab dépend beaucoup de ceux qui l'ont décrit.",
+  "domaines": [
+    "mort",
+    "nuit",
+    "maladie",
+    "destruction"
+  ],
+  "tags": [
+    "mort-au-dela"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "tsui-goab",
+      "heitsi-eibib"
+    ]
+  },
+  "attributs": [
+    "ciel noir",
+    "nuit"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Hahn, T. (1881). Tsuni-||Goam: The Supreme Being of the Khoi-Khoi",
+    "Lang, A. (1884). Custom and Myth (chapitre « Hottentot Mythology »)",
+    "Wilmsen, E.N. (1987). Khoi and San Religion. In Eliade, M. (dir.), The Encyclopedia of Religion",
+    "Hartmann, I. & Sukdaven, M. (2024). The Interrelatedness between the Nama Khoikhoi Supreme Being and Celestial Objects. HTS Teologiese Studies / Theological Studies 80(2)"
+  ],
+  "notes": "L'identification de //Gaunab à la nuit, à un esprit malfaisant ou, selon Andrew Lang citant d'anciens voyageurs, à la mante religieuse varie selon les auteurs, y compris chez Hahn lui-même. Le parallèle avec le //Gauwa des San, figure elle aussi ambivalente liée aux morts, est souvent relevé, mais la nature exacte de la parenté entre ces deux noms reste discutée. Certains ouvrages de vulgarisation racontent une lutte au chevet d'un mourant dans un village frappé par la sécheresse ; cette version n'apparaît pas dans les sources anciennes consultées."
+}

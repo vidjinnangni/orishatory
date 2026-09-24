@@ -1,0 +1,41 @@
+{
+  "id": "mekatilili-wa-menza",
+  "nom": "Mekatilili wa Menza",
+  "variantes": [
+    "Mekatalili",
+    "Mekatilili"
+  ],
+  "region": "afrique-est",
+  "categorie": "heros",
+  "peuples": [
+    "Giriama (Mijikenda)"
+  ],
+  "resume": "Mekatilili wa Menza est une femme giriama de l'arrière-pays de Malindi et Kilifi (Kenya) qui mobilisa son peuple contre l'administration britannique en 1913. Arrêtée et exilée, elle est associée au soulèvement giriama de 1914 et elle est aujourd'hui célébrée comme héroïne nationale du Kenya.",
+  "description_detaillee": "Mekatilili wa Menza vivait chez les Giriama, l'un des neuf peuples mijikenda de l'arrière-pays côtier du Kenya. Veuve et déjà âgée au début des années 1910, elle devint la figure principale de l'opposition à la mainmise britannique sur la région, dans un contexte où l'administration du protectorat imposait l'impôt sur les cases, contrôlait le commerce du vin de palme et de l'ivoire et cherchait à recruter de jeunes hommes comme travailleurs. L'historienne Cynthia Brantley a montré qu'elle réussit à réunir derrière elle des femmes, des jeunes hommes sans pouvoir et des anciens, ce qui fait d'elle un cas rare de direction féminine dans les résistances africaines du début du XXe siècle.\n\nEn 1913, l'administrateur Arthur Champion entreprit de nommer des chefs et des conseils locaux, une structure étrangère à l'organisation giriama fondée sur les conseils d'anciens. Mekatilili attirait les foules en dansant le kifudu, danse normalement réservée aux funérailles, puis prenait la parole. Avec Wanje wa Mwadorikola, un ancien réputé pour son savoir rituel, elle convoqua une grande assemblée à la Kaya Fungo, le principal centre rituel des Giriama, où les hommes prêtèrent le serment appelé fisi et les femmes le serment mukushekushe, s'engageant à ne pas coopérer avec les Britanniques. Tous deux furent arrêtés le 17 octobre 1913 et exilés à Kisii, dans l'ouest du pays. Des récits oraux affirment qu'elle s'en échappa et revint à pied sur la côte ; les sources divergent sur ce point et sur la suite de sa détention. En 1914, la tension déboucha sur un soulèvement armé, que les Britanniques réprimèrent en brûlant des villages et en imposant une lourde amende et l'évacuation de la rive nord de la Sabaki.\n\nMekatilili revint parmi les siens vers la fin des années 1910 et mourut en 1924. Sa mémoire a changé de statut au fil du temps. Neil Carrier et Celia Nyamweru ont suivi comment cette figure locale est devenue, après l'indépendance puis surtout après la réforme de décentralisation de 2010, une héroïne nationale et un symbole régional revendiqué par des responsables politiques de la côte. À Malindi, la Malindi District Cultural Association (MADCA), fondée en 2003, a donné son nom à un centre culturel et organise chaque année un festival Mekatilili wa Menza ; en 2017, ses anciens ont porté en procession une statue de l'héroïne dans les rues de la ville. Les chercheurs soulignent que ces récits, souvent enjolivés, reposent sur une documentation coloniale lacunaire et sur des traditions orales qui ne concordent pas toujours.",
+  "domaines": [
+    "résistance anticoloniale",
+    "serments",
+    "mobilisation des femmes"
+  ],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [
+    "danse kifudu",
+    "serments fisi et mukushekushe",
+    "Kaya Fungo"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Mekatilili n'est pas l'objet d'un culte, mais elle est au centre des activités de la Malindi District Cultural Association, qui entretient un centre culturel à son nom et organise un festival annuel à Malindi, en mêlant mise en valeur de la culture giriama et messages de paix.",
+  "sources": [
+    "Brantley, C. (1981). The Giriama and Colonial Resistance in Kenya, 1800-1920",
+    "Brantley, C. (1986). Mekatalili and the Role of Women in Giriama Resistance, in Crummey, D. (dir.), Banditry, Rebellion and Social Protest in Africa",
+    "Carrier, N. & Nyamweru, C. (2016). Reinventing Africa's National Heroes: The Case of Mekatilili, a Kenyan Popular Heroine",
+    "Meinema, E. (2021). Is Giriama Traditionalism a Religion? Negotiating Indigenous African Religiosity in Interfaith Cooperation in Coastal Kenya"
+  ],
+  "notes": "La date de naissance de Mekatilili varie selon les sources (années 1840 ou années 1860), tout comme les détails de son exil : évasion de Kisii, nouvelle arrestation, voire détention à Kismayo selon certains récits. La datation du soulèvement giriama est parfois donnée comme 1913-1914, parfois 1914-1915. Wanje wa Mwadorikola est présenté tantôt comme un ancien et guérisseur, tantôt comme son gendre."
+}

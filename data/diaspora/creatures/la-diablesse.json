@@ -1,0 +1,51 @@
+{
+  "id": "la-diablesse",
+  "nom": "La Diablesse",
+  "variantes": [
+    "La Guiablesse",
+    "Ladjablès",
+    "La Jablesse",
+    "Lajables"
+  ],
+  "region": "diaspora",
+  "categorie": "creatures",
+  "peuples": [
+    "Trinidadiens et Tobagoniens",
+    "Antillais créolophones (Martinique, Dominique, Sainte-Lucie, Grenade)"
+  ],
+  "resume": "Figure du folklore des Petites Antilles : une femme d'une grande beauté, élégamment vêtue, qui séduit les hommes rencontrés sur les routes isolées et les égare jusqu'à leur perte. Dans la version la plus répandue à Trinité, sa longue robe dissimule un pied normal et un sabot fourchu.",
+  "description_detaillee": "La Diablesse, ou la Guiablesse dans le créole de la Martinique, appartient au fonds commun des îles marquées par la colonisation et la langue françaises, de la Martinique à Trinité. Elle apparaît sous les traits d'une femme inconnue, belle et bien mise, qui marche seule sur un chemin de campagne. L'homme qui la suit ne revient pas, ou revient trop tard.\n\nLafcadio Hearn, en Martinique à la fin des années 1880, en donne l'une des plus anciennes descriptions écrites. Selon lui, on la voit parfois en plein midi traverser une plantation isolée en souriant aux travailleurs des champs de canne ; celui qui la suit disparaît, et ses compagnons disent alors qu'« il a vu la Guiablesse ». Hearn en tire un récit où un ouvrier agricole l'accompagne jusqu'au soir sur les routes de montagne avant de découvrir son vrai visage et de tomber dans un précipice. Il signale aussi que des femmes de haute taille la représentaient au carnaval de Saint-Pierre, vêtues de noir, masquées, coiffées d'un turban blanc. À Trinité, les recueils de folklore comme celui de Gérard Besson la décrivent plutôt la nuit : une longue robe et un chapeau à large bord cachent un pied normal, un sabot de vache et, dans certaines versions, un visage hideux. Elle entraîne l'homme dans un lieu désert ou au fond des bois, où il se retrouve pris dans un buisson d'épines et abandonné à la mort. Pour lui échapper, on conseille de retourner ses vêtements ou d'allumer une flamme.\n\nUn récit d'origine souvent repris fait d'elle une femme réduite en esclavage qui aurait vendu son âme au diable en échange d'une beauté éternelle. Besson y voit la rencontre de figures féminines ouest-africaines et de croyances européennes, dont le pacte avec le diable et le pied fourchu qui trahit le démon. Elle voisine dans le folklore trinidadien avec d'autres êtres nocturnes comme la soucouyant, et elle a été reprise par la littérature, le théâtre et le carnaval des Antilles.",
+  "domaines": [
+    "séduction",
+    "nuit",
+    "égarement",
+    "mort"
+  ],
+  "tags": [
+    "metamorphose",
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "soucouyant",
+      "jab-jab"
+    ]
+  },
+  "attributs": [
+    "longue robe",
+    "chapeau à large bord",
+    "sabot fourchu",
+    "turban blanc (Martinique)"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Personnage toujours raconté à Trinité-et-Tobago et dans les Antilles, présent dans les défilés du carnaval trinidadien parmi les personnages traditionnels ; ce n'est pas l'objet d'un culte.",
+  "sources": [
+    "Hearn, L. (1890). Two Years in the French West Indies",
+    "Besson, G.A. (1989). Folklore and Legends of Trinidad and Tobago",
+    "Parsons, E.C. (1933-1943). Folk-Lore of the Antilles, French and English"
+  ],
+  "notes": "Les versions divergent nettement : chez Hearn (Martinique, fin du XIXe siècle), elle apparaît en plein jour et le sabot n'est pas mentionné ; les versions trinidadiennes du XXe siècle la situent la nuit et font du sabot fourchu son signe distinctif. Le récit du pacte avec le diable est une explication tardive dont l'ancienneté n'est pas établie."
+}

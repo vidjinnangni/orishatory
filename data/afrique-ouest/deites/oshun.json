@@ -31,7 +31,9 @@
     ],
     "enfants": [],
     "entites_liees": [
-      "shango"
+      "shango",
+      "santeria",
+      "yemoja"
     ]
   },
   "attributs": [

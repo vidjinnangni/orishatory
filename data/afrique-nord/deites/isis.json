@@ -29,9 +29,12 @@
     "conjoints": [
       "osiris"
     ],
-    "enfants": [],
+    "enfants": [
+      "horus"
+    ],
     "entites_liees": [
-      "osiris"
+      "osiris",
+      "nephthys"
     ]
   },
   "attributs": [

@@ -1,0 +1,37 @@
+{
+  "id": "hai-uri",
+  "nom": "Hai-uri",
+  "variantes": [
+    "Haiuri"
+  ],
+  "region": "afrique-australe",
+  "categorie": "creatures",
+  "peuples": [
+    "Khoikhoi"
+  ],
+  "resume": "Être redouté attribué aux traditions khoikhoi, décrit comme n'ayant qu'une moitié de corps : une jambe, un bras, un seul côté, et à demi invisible. Il se déplace par bonds au-dessus des broussailles pour poursuivre les humains. Sa documentation repose surtout sur des dictionnaires de mythologie du 20e siècle.",
+  "description_detaillee": "Le Hai-uri est un être que les dictionnaires de mythologie rattachent aux Khoikhoi, les pasteurs de langue khoe d'Afrique australe. On le décrit comme un demi-homme : il n'a qu'une jambe, un bras et un côté du corps, et il est en partie invisible. Malgré cette infirmité apparente, il est d'une agilité redoutable, franchit d'un bond les buissons et pourchasse les humains, qu'il dévore. La tradition lui associe parfois une forme féminine, appelée Bi-blouk.\n\nCette figure appartient à une famille très répandue en Afrique, celle des êtres à moitié de corps. Alice Werner en a rassemblé de nombreux exemples chez les peuples de langue bantoue : le Chiruwi du Malawi, qui erre dans la forêt avec une hache, n'a qu'un œil, un bras et une jambe, l'autre moitié de son corps étant faite de cire ; il défie les hommes à la lutte et, s'il est vaincu, leur enseigne les vertus des plantes. Les Sotho parlaient d'êtres à une jambe, un bras, une oreille et un œil, les Ronga d'un village de gens unijambistes capables de voler. Werner insistait sur le fait que ces demi-êtres ne sont pas toujours malfaisants, contrairement au Hai-uri tel qu'on le décrit. Les dictionnaires rapprochent aussi le Hai-uri d'un nain zulu à l'anatomie comparable.\n\nLe Hai-uri pose un problème de sources. Il apparaît dans des ouvrages de référence généraux, comme le dictionnaire de mythologie mondiale d'Arthur Cotterell, mais nous n'avons pas retrouvé le récit ou l'informateur khoikhoi d'origine, ni le nom de l'auteur qui l'a recueilli. Il ne figure ni dans l'étude de Theophilus Hahn sur la religion khoikhoi (1881) ni dans le recueil de fables khoikhoi de Wilhelm Bleek (1864), qui sont les deux grands témoins anciens. Il faut donc le lire comme une figure transmise par la littérature de synthèse, dont les détails ne peuvent pas être vérifiés auprès d'une tradition vivante.",
+  "domaines": [
+    "danger",
+    "prédation"
+  ],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [
+    "une seule jambe",
+    "un seul bras",
+    "à demi invisible"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Cotterell, A. (1979). A Dictionary of World Mythology",
+    "Werner, A. (1933). Myths and Legends of the Bantu (chapitre XIII, « Of Were-wolves, Half-men, Gnomes, Goblins, and Other Monsters »)"
+  ],
+  "notes": "Documentation très mince : la source primaire (collecteur, date, groupe khoikhoi précis) n'a pas été identifiée. Des sites de vulgarisation en font un dieu des enfers ou lui prêtent la capacité d'entraîner ses victimes dans le monde souterrain ; ces traits ne se retrouvent pas dans les ouvrages de référence consultés. Le rapprochement avec le tokoloshe zulu, parfois suggéré à travers la forme « Tikdoshe », n'est pas établi."
+}

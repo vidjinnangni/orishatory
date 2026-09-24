@@ -1,0 +1,56 @@
+{
+  "id": "maat",
+  "nom": "Maât",
+  "variantes": [
+    "Maat",
+    "Ma'at",
+    "Mayet"
+  ],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": [
+    "Égyptiens anciens"
+  ],
+  "resume": "Déesse égyptienne qui personnifie la maât, notion qui réunit l'ordre du monde, la vérité et la justice. Représentée coiffée d'une plume d'autruche, elle est offerte par le roi aux dieux dans les temples et sert de contrepoids au cœur du défunt lors du jugement des morts.",
+  "description_detaillee": "Maât est à la fois une déesse et un concept, et le second importe davantage que la première. Pour les Égyptiens, la maât désigne l'état juste des choses : le retour régulier du soleil et de la crue, le bon gouvernement, l'honnêteté dans les échanges, la parole vraie. Elle s'oppose à l'isfet, le désordre, qui menace en permanence de reprendre le dessus. Le mot apparaît déjà dans les Textes des Pyramides d'Ounas, au XXIVe siècle avant notre ère, et la notion traverse ensuite toute l'histoire pharaonique, de la théologie royale à la morale ordinaire.\n\nLa déesse donne un visage à cette idée. On la représente en femme assise ou debout, coiffée d'une plume d'autruche, signe qui sert aussi à écrire son nom. Les textes la disent fille de Rê, qu'elle accompagne dans sa barque, et Thot, le dieu du calcul et de l'écriture, lui est souvent associé. Dans les Textes des Sarcophages, le créateur Atoum identifie Tefnout à Maât, ce qui la place à l'origine même du monde organisé. Son rôle le plus connu est funéraire : dans la scène de la pesée du cœur, la plume de Maât fait face au cœur du mort sur la balance, et le jugement se déroule dans la « salle des Deux Maât ».\n\nSur terre, c'est au roi qu'il revient d'accomplir la maât. Dans les temples du Nouvel Empire et de la Troisième Période intermédiaire, d'innombrables reliefs le montrent tendant à un dieu une petite figurine de la déesse accroupie : Emily Teeter a montré que ce rite de « présentation de Maât » servait à affirmer la légitimité du souverain, garant de l'ordre qu'il rendait aux dieux. Depuis l'Ancien Empire, le vizir, plus haut magistrat du pays, portait le titre de « prêtre de Maât ». Les enseignements de sagesse, comme celui attribué à Ptahhotep, font de la maât la règle d'une vie réussie. Jan Assmann y voit une « justice connective », une solidarité qui lie les vivants entre eux, les hommes aux dieux et les morts aux vivants, et c'est à ses yeux la notion centrale de la pensée égyptienne.",
+  "domaines": [
+    "ordre cosmique",
+    "vérité",
+    "justice",
+    "morale",
+    "jugement des morts"
+  ],
+  "tags": [
+    "mort-au-dela",
+    "royaute-sacree"
+  ],
+  "genealogie": {
+    "parents": [
+      "ra"
+    ],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "thot",
+      "tefnut",
+      "atoum",
+      "osiris",
+      "ammit",
+      "apophis",
+      "pesee-du-coeur"
+    ]
+  },
+  "attributs": [
+    "plume d'autruche",
+    "balance",
+    "figurine offerte par le roi"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Le concept de maât est repris dans des courants religieux modernes se réclamant de l'Égypte ancienne, comme le kemetisme, et dans certaines pensées afrocentristes qui en font un modèle éthique.",
+  "sources": [
+    "Assmann, J. (1990). Ma'at. Gerechtigkeit und Unsterblichkeit im Alten Ägypten",
+    "Teeter, E. (1997). The Presentation of Maat: Ritual and Legitimacy in Ancient Egypt",
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions"
+  ],
+  "notes": "L'union de Maât et de Thot n'est pas systématique : certaines sources associent plutôt Thot à Seshat. La distinction entre la déesse et le principe est en partie moderne, les textes passant de l'une à l'autre sans marquer la différence."
+}

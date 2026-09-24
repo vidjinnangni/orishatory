@@ -1,0 +1,41 @@
+{
+  "id": "aziza",
+  "nom": "Aziza",
+  "variantes": [
+    "Azizan"
+  ],
+  "region": "afrique-ouest",
+  "categorie": "creatures",
+  "peuples": [
+    "Fon"
+  ],
+  "resume": "Petits êtres de la forêt dans la tradition fon du Bénin, que les contes présentent comme les auxiliaires des chasseurs. Ils possèdent le savoir des plantes et de la magie, et un récit leur attribue la transmission aux humains de la médecine par les feuilles et de plusieurs grands vodun. Ils ne sont pas toujours bienveillants et peuvent aussi inquiéter.",
+  "description_detaillee": "Dans les contes fon recueillis à Abomey par Melville et Frances Herskovits au début des années 1930, les aziza sont les « petites gens » de la forêt. Ils appartiennent au monde de la brousse profonde, que seuls les chasseurs fréquentent, et c'est d'abord à travers les récits de chasse qu'on les connaît. Les Herskovits en font l'un des personnages types de ce répertoire : le chasseur qui affronte un géant ou un magicien plus puissant que lui y trouve ses auxiliaires traditionnels chez les aziza. Lors des veillées où les chasseurs rivalisent de récits pour désigner leur chef de l'année, les rencontres avec ces êtres secourables figurent parmi les épreuves qu'on raconte, à côté des monstres de la forêt, les yehwe.\n\nUn récit rapporté par les Herskovits, intitulé par eux « Origine de la médecine », leur donne un rôle fondateur. Au temps où les humains ne savaient pas que les feuilles guérissent, un chasseur dont la femme souffrait de la lèpre passe près d'un monticule de terre dans la brousse ; une voix en sort et lui indique un remède. C'est un aziza, caché dans le monticule, qui dépose des feuilles derrière le chasseur pendant qu'il a le dos tourné. La femme guérit, les malades affluent, et la renommée du lieu parvient jusqu'à un roi qui vient y sacrifier une chèvre. L'aziza lui remet alors de la magie et plusieurs vodun, parmi lesquels Sagbata, Agasu et Da, en lui disant de bâtir une maison pour chacun ; qui veut posséder l'un de ces dieux n'a qu'à venir prendre de la terre du monticule. « Les vodun et la magie qui sont dans le monde, conclut le narrateur, ont tous été donnés par Aziza. »\n\nLes aziza ne sont pas pour autant de simples génies bienfaisants. Dans un autre conte, un jeune jumeau parti chercher du feu découvre sous un baobab un aziza dont la tête, les mains et les pieds, séparés du corps, mangent chacun de leur côté, et il s'enfuit terrifié. Un autre récit de chasse donne même le nom d'Aziza à un grand animal qui commande la mer. Cette diversité montre qu'il s'agit moins d'un être au portrait fixé que d'une catégorie d'êtres de la brousse, détenteurs d'un savoir que les humains doivent approcher avec prudence.",
+  "domaines": [
+    "forêt",
+    "chasse",
+    "plantes médicinales",
+    "magie"
+  ],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "sakpata"
+    ]
+  },
+  "attributs": [
+    "monticule de terre en brousse",
+    "feuilles médicinales",
+    "forêt profonde"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Herskovits, M.J. & Herskovits, F.S. (1958). Dahomean Narrative: A Cross-Cultural Analysis",
+    "Herskovits, M.J. (1938). Dahomey: An Ancient West African Kingdom, vol. II"
+  ],
+  "notes": "Plusieurs présentations récentes les décrivent comme de petits êtres velus vivant dans les fourmilières et les fromagers, ou leur attribuent le don du feu aux humains ; ces détails ne figurent pas dans les récits publiés par les Herskovits, et l'image d'aziza ailés, comparables aux fées européennes, semble plus tardive encore."
+}

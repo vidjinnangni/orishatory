@@ -1,0 +1,51 @@
+{
+  "id": "olodumare",
+  "nom": "Olódùmarè",
+  "variantes": [
+    "Olodumare",
+    "Olọ́run",
+    "Olorun",
+    "Eledumare",
+    "Olofin-Orun",
+    "Olofi"
+  ],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": [
+    "Yoruba"
+  ],
+  "resume": "Être suprême de la religion yoruba, source de toute existence et de toute puissance (àṣẹ). Il délègue la création de la terre et la conduite du monde aux orisha, qui sont ses créatures et ses intermédiaires. On ne lui consacre en général ni temple ni prêtrise propre.",
+  "description_detaillee": "Au sommet de la religion yoruba, au-dessus des orisha, se tient Olódùmarè. Le théologien nigérian E. Bolaji Idowu, dont le livre de 1962 reste l'étude de référence, le présente comme le créateur de toute chose, le roi, le juge, celui dont les divinités tiennent leur existence et leur pouvoir. Il est aussi appelé Olọ́run, « maître du ciel (ọ̀run) », Ẹlẹ́dàá, « le Créateur », ou Ẹlẹ́mìí, « le maître du souffle de vie ». Idowu estimait qu'Olódùmarè était le nom traditionnel et qu'Olọ́run avait gagné du terrain dans l'usage courant sous l'influence du christianisme et de l'islam.\n\nOlódùmarè agit rarement en personne dans les récits. C'est lui qui commande la création de la terre ferme, mais il en confie l'exécution à Ọbàtálá, puis à Oduduwa quand le premier échoue, et c'est à lui qu'on vient rendre compte du travail accompli. Les vers d'Ifá le montrent parfois dans des situations surprenantes : un jour troublé par une affaire que nul orisha ne sait éclaircir, il doit s'en remettre à Ọ̀rúnmìlà, le seul à trouver la cause de son trouble. Un autre récit, rapporté par Idowu, raconte qu'il chercha lui-même le moyen de ne pas mourir ; il fit le sacrifice prescrit, on étendit sur lui un grand tissu blanc qui le couvrit entièrement, et depuis il est immortel. Un vers d'Ifá le dit à sa manière : jeunes et vieux n'ont jamais entendu dire qu'Olódùmarè était mort.\n\nIl n'a pas, en règle générale, de sanctuaire ni de clergé : on s'adresse aux orisha, plus proches des humains, et c'est par eux que les demandes remontent jusqu'à lui. Cette absence de culte organisé a longtemps été lue par les observateurs européens comme le signe d'un dieu oisif et lointain. Idowu a contesté cette lecture en rappelant qu'on l'invoque directement, dans les prières spontanées et les formules du quotidien, et il a proposé de parler de « monothéisme diffus », les orisha n'étant selon lui que des aspects de la puissance divine.\n\nCette interprétation a été discutée à son tour. Le philosophe John A. I. Bewaji, s'appuyant sur les critiques d'Okot p'Bitek, reproche aux théologiens africains de la génération d'Idowu d'avoir habillé Olódùmarè des attributs du Dieu chrétien (omniscience, bonté parfaite) et de faire des orisha ses « fils », une idée qui ne repose selon lui sur aucune donnée yoruba. Pour Bewaji, la tradition attribue à Olódùmarè le bien comme le mal et ne le confronte donc pas au problème du mal tel que le pose la théologie chrétienne. Le nom a traversé l'Atlantique : Olodumare, Olofi et Olorun désignent l'être suprême dans la santería cubaine et le candomblé brésilien.",
+  "domaines": [
+    "création",
+    "souveraineté cosmique",
+    "destin",
+    "vie et souffle"
+  ],
+  "tags": [
+    "creation"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "obatala",
+      "orunmila",
+      "eshu-elegba",
+      "ifa"
+    ]
+  },
+  "attributs": [
+    "le ciel (ọ̀run)",
+    "le blanc (récit du tissu blanc de l'immortalité)",
+    "àṣẹ, la puissance qui rend les choses possibles"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Invoqué dans les prières et les formules de la vie quotidienne en pays yoruba, ainsi que dans les religions d'origine yoruba des Amériques (santería, candomblé), où il est souvent nommé Olodumare, Olofi ou Olorun ; il n'y reçoit généralement pas de culte sacrificiel propre.",
+  "sources": [
+    "Idowu, E.B. (1962). Olódùmarè: God in Yoruba Belief",
+    "Bewaji, J.A.I. (1998). Olodumare: God in Yoruba Belief and the Theistic Problem of Evil. African Studies Quarterly, 2(1)"
+  ],
+  "notes": "L'étymologie du nom reste discutée ; Idowu le décompose en ol- (« maître de »), odù et marè, et l'une des lectures courantes est « le maître de la plénitude qui ne s'épuise pas ». Le rapport entre les noms Olódùmarè, Olọ́run et Olofi varie selon les traditions : aspects d'une même divinité pour la plupart des auteurs, entités distinctes dans certaines lignées de la santería. La notion de « monothéisme diffus » proposée par Idowu est contestée par les critiques d'une lecture christianisée des religions africaines."
+}

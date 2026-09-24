@@ -1,0 +1,46 @@
+{
+  "id": "nnambi",
+  "nom": "Nnambi",
+  "variantes": [
+    "Nambi",
+    "Nambi Nantululu"
+  ],
+  "region": "afrique-est",
+  "categorie": "deites",
+  "peuples": [
+    "Baganda"
+  ],
+  "resume": "Fille de Ggulu, le roi du ciel, dans la tradition des Baganda (Ouganda), Nnambi descend sur terre, choisit Kintu pour époux et devient avec lui la mère des premiers Baganda. En retournant au ciel chercher le grain de sa poule, elle permet à son frère Walumbe, la Mort, de la suivre sur terre.",
+  "description_detaillee": "Nnambi est la première femme du récit d'origine des Baganda, le peuple du royaume du Buganda, dans le centre de l'Ouganda. Venue du ciel, elle est à la fois celle qui rend possible la vie humaine sur terre, en épousant Kintu et en apportant avec elle animaux et plantes cultivées, et celle par qui la Mort arrive. C'est ce double rôle qui fait d'elle une figure centrale du mythe de Kintu.\n\nDans la version recueillie par John Roscoe, c'est elle qui prend l'initiative : descendue sur terre avec un de ses frères, elle voit Kintu, s'éprend de lui et le lui dit sans détour. Ses frères le méprisent, et quand Ggulu vole la vache de Kintu pour l'éprouver, Nnambi, qui reconnaît l'animal, redescend prévenir Kintu et l'emmène au ciel pour la reprendre. Une fois les épreuves réussies, Ggulu lui donne sa fille en recommandant au couple de partir avant le retour de Walumbe et de ne pas revenir s'ils oublient quelque chose. Ils emportent, en plus des vaches, une chèvre, un mouton, une poule et un plant de bananier. En chemin, Nnambi se souvient qu'elle a laissé le grain de la poule ; malgré Kintu, elle retourne le chercher, et Walumbe la suit. Arrivée sur terre, elle plante son jardin, et ses bananiers poussent si vite qu'elle a bientôt une grande bananeraie. Quand les enfants se mettent à mourir, Ggulu envoie Kaikuzi l'aider ; Walumbe refuse de repartir sans elle, et Kaikuzi lui répond qu'elle doit rester avec son mari.\n\nLa tradition royale telle que Roscoe la rapporte fait de Nnambi la cause de tout mal, de la maladie et de la mort, une lecture qui pèse sur la femme seule. D'autres présentations, comme celle de Benjamin Ray, attribuent la venue de la Mort aux fautes de Kintu, de Nnambi et de leurs enfants ensemble. Roscoe relève aussi une tradition plus terrestre : le clan du Colobe (Ngeye), qui se dit l'un des plus anciens du pays, affirme avoir fourni à Kintu sa première épouse, et la liste royale la nomme Nambi Nantululu, de ce clan. Le personnage oscille ainsi entre la fille du ciel du mythe et l'épouse issue d'un clan déjà installé, ce qui laisse entrevoir, selon Roscoe, que Kintu trouva le pays déjà peuplé.",
+  "domaines": [
+    "origine humaine",
+    "agriculture (bananier)",
+    "arrivée de la mort"
+  ],
+  "tags": [
+    "mort-au-dela",
+    "creation"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [
+      "kintu"
+    ],
+    "enfants": [],
+    "entites_liees": [
+      "walumbe"
+    ]
+  },
+  "attributs": [
+    "poule et son grain",
+    "plant de bananier"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Roscoe, J. (1911). The Baganda: An Account of Their Native Customs and Beliefs",
+    "Ray, B.C. (1987). East African Religions: Northeast Bantu Religions, in Eliade, M. (dir.), The Encyclopedia of Religion",
+    "Ray, B.C. (1991). Myth, Ritual, and Kingship in Buganda"
+  ],
+  "notes": "Classée parmi les divinités parce qu'elle est fille de Ggulu, Nnambi ne semble pas avoir fait l'objet d'un culte propre dans les sources consultées. Son père Ggulu et son frère Kaikuzi n'ont pas de fiche. Roscoe écrit « Nambi » ; l'orthographe luganda actuelle est « Nnambi »."
+}

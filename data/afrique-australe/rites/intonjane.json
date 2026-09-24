@@ -1,0 +1,46 @@
+{
+  "id": "intonjane",
+  "nom": "Intonjane",
+  "variantes": [
+    "KwaNtonjane",
+    "ntonjane"
+  ],
+  "region": "afrique-australe",
+  "categorie": "rites",
+  "peuples": [
+    "Xhosa"
+  ],
+  "resume": "Rite de passage des jeunes filles xhosa, célébré en principe après les premières règles, qui les fait passer de l'enfance à l'état de jeune femme en âge de se marier. Il associe une période de réclusion, des enseignements, des sacrifices d'animaux et des fêtes, sous le regard des ancêtres de la lignée paternelle.",
+  "description_detaillee": "L'intonjane est le pendant féminin de l'ulwaluko, l'initiation des garçons xhosa, dans l'actuel Cap-Oriental sud-africain. On désigne du même mot le rite et la jeune fille qui le vit. Célébré en principe à l'apparition des premières règles, il marque le passage de l'enfance à l'âge adulte et ouvre la possibilité du mariage. Son enjeu dépasse la jeune fille elle-même : il engage les ancêtres de la lignée de son père, dont on attend la protection pour sa future vie d'épouse et de mère.\n\nLe rite comprend une réclusion de plusieurs semaines, pendant laquelle l'initiée vit à l'écart, entourée de femmes de la famille et de compagnes qui l'assistent, et reçoit l'enseignement de ses aînées sur la conduite attendue d'une femme xhosa. Les descriptions récentes mentionnent le corps couvert d'argile blanche pendant la réclusion, des animaux abattus à plusieurs étapes et une grande fête finale qui rassemble les femmes du voisinage. Les sacrifices en font une cérémonie coûteuse : l'historien Wallace Mills rappelle qu'elle exigeait au 19e siècle quatre abattages, ainsi que de la bière et de la nourriture pour des participants nourris pendant des semaines, si bien qu'on la repoussait souvent, parfois jusqu'après le mariage. Une jeune fille pouvait en effet se marier sans l'avoir faite ; mais si elle tombait malade, restait stérile ou avait des enfants chétifs, le devin pouvait attribuer ces malheurs aux ancêtres de son père, mécontents que le rite ait été omis, et l'envoyer l'accomplir dans sa famille d'origine.\n\nAu 19e siècle, l'intonjane fut la coutume dont les missionnaires réclamèrent le plus souvent l'interdiction légale, plus encore que la circoncision. Ils l'accusaient de pratiques contraires à la pudeur, sans toujours bien la connaître ; devant la commission gouvernementale de 1883 sur les lois et coutumes indigènes, Henry Callaway lui-même mettait en garde contre la tentation de condamner des pratiques qu'on ne comprenait pas. Le rite a nettement reculé au 20e siècle, sous l'effet de la christianisation mais aussi de son coût, et Mills note que plusieurs de ses éléments, comme la réclusion de la future mariée avant les noces suivie d'une fête, sont passés dans les mariages chrétiens. Des travaux récents, comme ceux de Nobuntu Penxa Matholeni, s'intéressent à la place faite aux femmes dans les espaces rituels xhosa et à l'écart de visibilité entre ce rite et l'initiation masculine.",
+  "domaines": [
+    "passage à l'âge adulte",
+    "féminité",
+    "mariage",
+    "fécondité"
+  ],
+  "tags": [
+    "initiation",
+    "ancetres"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "ukwaluko"
+    ]
+  },
+  "attributs": [
+    "argile blanche",
+    "réclusion"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "L'intonjane est encore pratiqué dans certaines familles du Cap-Oriental, mais beaucoup moins que l'initiation masculine, et il fait l'objet de travaux universitaires et de projets de transmission.",
+  "sources": [
+    "Mills, W.G. (1995). Missionaries, Xhosa Clergy and the Suppression of Traditional Customs. In Bredekamp, H. & Ross, R. (dir.), Missions and Christianity in South African History",
+    "Soga, J.H. (1931). The Ama-Xosa: Life and Customs",
+    "Hunter, M. (1936). Reaction to Conquest: Effects of Contact with Europeans on the Pondo of South Africa",
+    "Matholeni, N.P. (2020). KwaNtonjane: The indigenous rites of passage amongst amaXhosa in relation to prejudiced spaces. In Matholeni, N.P., Boateng, G.K. & Manyonganise, M. (dir.), Mother Earth, Mother Africa & African Indigenous Religions"
+  ],
+  "notes": "Le déroulement précis (nombre d'étapes, durée de trois à six semaines selon certaines descriptions, animaux sacrifiés) varie selon les familles, les régions et les époques. L'origine du nom est parfois rattachée à un insecte dont le cocon d'herbe évoquerait la réclusion de l'initiée ; cette explication n'a pas été vérifiée dans les sources académiques consultées. Les accusations missionnaires d'immoralité reposaient sur des témoignages indirects et ont été contestées dès l'époque."
+}

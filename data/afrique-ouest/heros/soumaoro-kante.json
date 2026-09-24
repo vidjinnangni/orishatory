@@ -1,0 +1,57 @@
+{
+  "id": "soumaoro-kante",
+  "nom": "Soumaoro Kanté",
+  "variantes": [
+    "Sumaoro Kanté",
+    "Soumangourou Kanté",
+    "Sumanguru",
+    "Sumaworo",
+    "Soumahoro"
+  ],
+  "region": "afrique-ouest",
+  "categorie": "heros",
+  "peuples": [
+    "Sosso",
+    "Mandingue",
+    "Malinké"
+  ],
+  "resume": "Roi du Sosso au début du XIIIe siècle, forgeron et détenteur de puissants pouvoirs occultes, il domine le Manding avant d'être vaincu par Sunjata Keïta à la bataille de Krina. L'épopée mandingue en fait l'adversaire du héros fondateur du Mali. On lui attribue le Sosso-Bala, balafon sacré conservé à Niagassola, en Guinée.",
+  "description_detaillee": "Dans l'épopée de Sunjata, telle que la transmettent les griots du monde mandingue, Soumaoro Kanté est le grand adversaire. Roi du Sosso, issu d'une lignée de forgerons, il a soumis le Wagadou et le Manding ; le roi Dankaran Touman, demi-frère de Sunjata, lui fait allégeance et lui donne même sa sœur Nana Triban. Sa puissance tient autant à ses armées qu'à la maîtrise du feu, du fer et des forces occultes, qui lui permet de se métamorphoser. Sa défaite marque, dans le récit, la naissance de l'empire du Mali.\n\nLa version du griot Mamadou Kouyaté publiée par Djibril Tamsir Niane en 1960 lui consacre des scènes restées célèbres. Balla Fasséké, le griot de la famille royale du Manding, pénètre dans la chambre secrète du roi, gardée par un serpent, des hiboux et les crânes de neuf rois vaincus, et y découvre un immense balafon que seul Soumaoro a le droit de jouer. Le roi, furieux, se laisse apaiser par les louanges que le griot improvise et le garde à son service. Plus tard, Soumaoro enlève Keleya, l'épouse de son propre neveu Fakoli, qui passe dans le camp de Sunjata. Nana Triban, échappée de Sosso, révèle alors le secret de son mari : l'ergot d'un coq blanc est son interdit (tana). À Krina, Sunjata fixe l'ergot au bout d'une flèche qui effleure l'épaule du roi ; privé de ses pouvoirs, Soumaoro s'enfuit et disparaît dans les montagnes de Koulikoro.\n\nLes récits disent peu de lui en dehors de ce rôle d'antagoniste, et les chercheurs discutent de ce que l'on peut en tirer. Ibn Khaldûn, au XIVe siècle, rapporte que le fondateur du Mali soumit les Sosso, sans donner le nom de leur roi. La localisation même du Sosso est débattue : l'hypothèse classique le place au Kaniaga, au nord-ouest de Ségou, alors que l'historien Stephan Bühnen, à partir de sources portugaises, le rapproche de royaumes du Fouta-Djalon et du haut Niger. La date de la bataille de Krina, souvent fixée à 1235, repose sur une chronologie reconstruite.\n\nSa mémoire n'est pas seulement celle d'un vaincu. À Koulikoro, la colline où il aurait disparu reste un lieu de culte, et le chercheur malien Amadou Zan Traoré plaide pour une relecture d'un roi que les griots du Manding, selon lui, ont peint sous des traits uniquement négatifs. Le Sosso-Bala, que la tradition présente comme son balafon et comme le premier de tous les balafons, est gardé à Niagassola, en Guinée, par une branche de griots Kouyaté qui en assure la garde depuis des siècles ; l'UNESCO a proclamé son espace culturel chef-d'œuvre du patrimoine oral et immatériel en 2001.",
+  "domaines": [
+    "royauté",
+    "forge",
+    "pouvoirs occultes",
+    "guerre"
+  ],
+  "tags": [
+    "forge-artisanat",
+    "royaute-sacree",
+    "metamorphose"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "sunjata-keita"
+    ]
+  },
+  "attributs": [
+    "balafon (Sosso-Bala)",
+    "ergot de coq blanc (son interdit)",
+    "chambre secrète aux neuf crânes de rois",
+    "forge"
+  ],
+  "recits_associes": [
+    "naissance-de-sunjata"
+  ],
+  "culte_contemporain": "Le Sosso-Bala est conservé à Niagassola (Guinée) par des griots Kouyaté, qui le jouent lors de cérémonies ; son espace culturel est inscrit sur la Liste représentative du patrimoine culturel immatériel de l'UNESCO depuis 2008. La colline de Koulikoro associée à sa disparition fait l'objet de rites locaux.",
+  "sources": [
+    "Niane, D.T. (1960). Soundjata ou l'épopée mandingue",
+    "Conrad, D.C. (2004). Sunjata: A West African Epic of the Mande Peoples",
+    "Bühnen, S. (1994). In Quest of Susu. History in Africa, 21",
+    "Traoré, A.Z. (2022). Soumangourou Kanté : héros déchu et/ou invisibilisé ? Esquisse d'une autre lecture de sa vie et de ses œuvres. Akofena, n° spécial 08",
+    "UNESCO (2001). L'espace culturel du Sosso-Bala, proclamation au patrimoine oral et immatériel de l'humanité"
+  ],
+  "notes": "Son origine est discutée : les traditions le rattachent tantôt aux forgerons Kanté, tantôt aux Diarisso (Soninké) du Wagadou. Sa fin varie selon les versions : disparition dans une grotte ou une colline de Koulikoro, fuite vers la région de Ségou sous un autre nom, ou mort. Le portrait de roi cruel et tyrannique vient surtout de la tradition des griots du Manding, c'est-à-dire du camp vainqueur."
+}

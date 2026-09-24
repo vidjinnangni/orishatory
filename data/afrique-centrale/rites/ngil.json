@@ -1,0 +1,43 @@
+{
+  "id": "ngil",
+  "nom": "Ngil",
+  "variantes": [
+    "Ngi",
+    "Ngui"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "rites",
+  "peuples": [
+    "Fang"
+  ],
+  "resume": "Le Ngil était une société masculine à initiation des Fang (Gabon, Guinée équatoriale, sud du Cameroun), chargée de rendre la justice, de maintenir l'ordre entre villages et clans et surtout de débusquer et punir les auteurs de sorcellerie. Son nom signifie « gorille ». Interdite par l'administration coloniale française au début du XXe siècle, elle a disparu dans les années 1920.",
+  "description_detaillee": "Le Ngil est l'une des institutions les plus puissantes qu'aient connues les Fang, en particulier dans le nord de leur aire, entre le Gabon, la Guinée équatoriale et le sud du Cameroun. À côté du culte familial des reliques d'ancêtres (le byeri), qui se pratiquait à l'intérieur du lignage, le Ngil agissait à l'échelle de plusieurs villages et de plusieurs clans : il faisait office de police et de tribunal. On le connaît surtout par ses masques blancs, conservés aujourd'hui dans les musées, mais sa fonction première était de protéger la communauté contre la sorcellerie.\n\nLe dignitaire du Ngil passait pour capable de voir ceux qui jetaient des sorts et de les frapper. Il intervenait après les crimes graves et les morts inexpliquées, désignait les coupables et prononçait les sanctions, parfois la mort. L'ethnologue allemand Günther Tessmann, qui parcourut le sud du Cameroun et la Guinée espagnole de 1907 à 1909, en a laissé dans Die Pangwe (1913) l'une des rares descriptions directes. Les masques associés à la société sont de grands visages allongés, blanchis au kaolin, dont les arcades et le front bombé évoqueraient le gorille qui a donné son nom au Ngil ; le blanc renvoie aux ancêtres et au monde des morts. Ils apparaissaient lors des initiations, des cérémonies et des processions.\n\nSelon James Fernandez, les Fang ont vécu la conquête coloniale comme une défaite de leurs ancêtres face aux puissances de la sorcellerie, et ont multiplié en réponse les sociétés destinées à les démasquer, dont le Ngil, qui se répandit à la fin de la période précoloniale et au début de la colonisation. John Cinnamon souligne l'ambivalence de ces mouvements : ils garantissaient l'ordre et la sécurité, mais renforçaient aussi les inégalités et pouvaient servir des intérêts particuliers. L'administration française interdit le Ngil, qu'elle accusait de meurtres rituels, et l'institution avait disparu de ses territoires à la fin des années 1920. D'autres mouvements prirent le relais de la lutte contre la sorcellerie, et le bwiti (voir sa fiche) se développa chez les Fang dans ce contexte de crise. La disparition du Ngil explique qu'on ne connaisse ses masques que par des pièces anciennes, et que leur identification dans les collections reste souvent incertaine.",
+  "domaines": [
+    "justice",
+    "lutte contre la sorcellerie",
+    "ordre social"
+  ],
+  "tags": [
+    "initiation"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "bwiti"
+    ]
+  },
+  "attributs": [
+    "masque blanc au kaolin",
+    "gorille"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Tessmann, G. (1913). Die Pangwe: Völkerkundliche Monographie eines westafrikanischen Negerstammes",
+    "Fernandez, J.W. (1982). Bwiti: An Ethnography of the Religious Imagination in Africa",
+    "Cinnamon, J.M. (2012). Spirits, Power and the Political Imagination in Late-Colonial Gabon. Africa, 82(2)"
+  ],
+  "notes": "La date de l'interdiction varie selon les sources : 1910 d'après la notice du Denver Art Museum, fin des années 1920 selon d'autres présentations, qui situent plutôt à cette date la disparition effective de la société. L'attribution au Ngil de nombreux masques blancs fang conservés dans les musées, et leur rôle supposé dans la genèse du cubisme, font l'objet de discussions entre historiens de l'art. Le nom est parfois donné sous la forme ngi, qui désigne aussi le gorille dans les langues fang-beti."
+}

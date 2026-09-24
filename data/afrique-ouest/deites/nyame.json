@@ -23,8 +23,12 @@
   ],
   "genealogie": {
     "parents": [],
-    "conjoints": [],
-    "enfants": [],
+    "conjoints": [
+      "asase-yaa"
+    ],
+    "enfants": [
+      "anansi"
+    ],
     "entites_liees": [
       "anansi"
     ]

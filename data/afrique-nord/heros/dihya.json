@@ -1,0 +1,48 @@
+{
+  "id": "dihya",
+  "nom": "Dihya",
+  "variantes": [
+    "La Kahina",
+    "Kahena",
+    "al-Kâhina",
+    "Damya"
+  ],
+  "region": "afrique-nord",
+  "categorie": "heros",
+  "peuples": [
+    "Amazighs de l'Aurès (Maures)"
+  ],
+  "resume": "Reine de l'Aurès qui dirigea, à la fin du VIIe siècle, la résistance berbère à la conquête arabe de l'Ifrîqiya et infligea une défaite au général Hassan ibn al-Nu'mân avant d'être vaincue et tuée. Connue surtout par le surnom arabe de Kahina, « la devineresse », elle est devenue une figure majeure des mémoires nationales et amazighes du Maghreb.",
+  "description_detaillee": "Les chroniqueurs arabes l'appellent la Kahina, « la devineresse », et la présentent comme la « reine de l'Aurès », le massif montagneux de l'est de l'actuelle Algérie, puis comme la « reine des Berbères de l'Ifrîqiya ». Elle prend la tête de la résistance après la mort de Koceila, le chef berbère qui avait tué le conquérant 'Uqba ibn Nâfi'. Le nom de Dihya et la généalogie qui la rattache à la tribu des Djeraoua n'apparaissent qu'au XIVe siècle, chez Ibn Khaldûn ; Yves Modéran a montré qu'ils proviennent de généalogistes berbères des Xe et XIe siècles, et préfère s'en tenir au titre royal que lui donnent les textes les plus anciens.\n\nLe récit transmis par ces chroniques tient en deux campagnes. Envoyé par le calife 'Abd al-Malik, Hassan ibn al-Nu'mân attaque la reine, est battu près d'une rivière au nord de l'Aurès et doit se replier en Cyrénaïque. Quelques années plus tard, il revient, prend Gafsa, la poursuit dans la montagne et la tue, près d'un lieu appelé depuis Bîr al-Kahina. Les auteurs plus tardifs ajoutent des épisodes devenus célèbres : la politique de terre brûlée par laquelle elle aurait ravagé le pays pour décourager les Arabes, l'adoption d'un jeune prisonnier arabe, Khâled, et l'envoi de ses fils au camp adverse, où ils auraient reçu un commandement. Les dates varient fortement selon les sources ; deux témoignages anciens, dont la chronique syriaque d'Élie de Nisibe, conduisent Modéran à situer ces combats entre 698 et 703 environ.\n\nPresque tout, dans la figure de la Kahina, a été débattu. Son existence même a été niée, puis admise sur la foi de ces textes anciens. Au XXe siècle, une lecture d'Ibn Khaldûn en fit une reine juive, thèse que les travaux de H. Z. Hirschberg puis de Mohamed Talbi ont largement défaite ; l'hypothèse d'une reine chrétienne, comme l'était une grande partie des Maures de l'Aurès, est aujourd'hui jugée la plus vraisemblable. Son surnom renvoie au rôle des femmes prophétesses chez les Berbères, déjà décrit par Procope au VIe siècle. Abdelmajid Hannoum a suivi la transformation de ce personnage, héroïne tour à tour du récit arabe de la conquête, de l'historiographie coloniale française, du nationalisme algérien, du mouvement amazigh et du féminisme. En 2003, une statue de la reine a été inaugurée à Baghaï, dans la wilaya de Khenchela.",
+  "domaines": [
+    "résistance",
+    "royauté",
+    "prophétie"
+  ],
+  "tags": [
+    "royaute-sacree",
+    "divination"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "tin-hinan",
+      "gurzil"
+    ]
+  },
+  "attributs": [
+    "Aurès",
+    "surnom de « devineresse »",
+    "effigie portée devant elle sur un chameau (selon al-Mâlikî)"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Figure de mémoire très présente en Algérie et dans le mouvement culturel amazigh, célébrée dans la littérature, la chanson et l'art. Une statue à son effigie, érigée à Baghaï (wilaya de Khenchela) et inaugurée en 2003, a été endommagée par un incendie en 2016 puis restaurée.",
+  "sources": [
+    "Modéran, Y. (2005). Kahena. Encyclopédie berbère, 27",
+    "Talbi, M. (1971). Un nouveau fragment de l'histoire de l'Occident musulman (62-196/682-812) : l'épopée d'al-Kahina. Cahiers de Tunisie, 19",
+    "Hannoum, A. (2001). Colonial Histories, Post-Colonial Memories: The Legend of the Kahina, a North African Heroine"
+  ],
+  "notes": "Les dates des campagnes de Hassan varient d'une chronique à l'autre (de 687 à 703). Le nom Dihya, la filiation djeraoua, la religion juive attribuée à la reine et la politique de terre brûlée sont des éléments tardifs ou contestés. L'objet de culte qu'elle faisait porter devant elle, mentionné par al-Mâlikî, a été lu comme une icône chrétienne (Talbi, Camps) ou comme une divinité berbère (M. Fantar)."
+}

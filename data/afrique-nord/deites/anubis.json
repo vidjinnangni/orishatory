@@ -21,7 +21,9 @@
     "mort-au-dela"
   ],
   "genealogie": {
-    "parents": [],
+    "parents": [
+      "nephthys"
+    ],
     "conjoints": [],
     "enfants": [],
     "entites_liees": []

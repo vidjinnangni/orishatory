@@ -1,0 +1,46 @@
+{
+  "id": "hlakanyana",
+  "nom": "uHlakanyana",
+  "variantes": [
+    "Hlakanyana",
+    "Uthlakanyana",
+    "Hlakayana",
+    "uKcaijana"
+  ],
+  "region": "afrique-australe",
+  "categorie": "heros",
+  "peuples": [
+    "Zulu",
+    "Xhosa"
+  ],
+  "resume": "Personnage rusé des contes zulu et xhosa, minuscule et doué de parole dès avant sa naissance, qui trompe adultes, animaux et ogres pour s'emparer de leur nourriture. Ses aventures, recueillies au 19e siècle par Henry Callaway et George McCall Theal, forment l'un des grands cycles de trickster d'Afrique australe.",
+  "description_detaillee": "uHlakanyana est le héros d'un long cycle de contes que l'on racontait chez les Zulu et, sous une forme voisine, chez les Xhosa. Ce n'est pas une divinité : c'est un enfant prodige, pas plus grand qu'une belette, dont le nom évoque la ruse et la petitesse, et que Theal traduisait par « le petit trompeur ». Les informateurs de Henry Callaway lui donnaient aussi le nom d'uKcaijana, qui désigne un petit carnivore roux à queue noire, réputé le plus malin des animaux parce qu'il vide les pièges avant le chat sauvage pour lequel ils ont été tendus.\n\nLa version publiée par Callaway en 1868 commence avant la naissance. L'enfant parle depuis le ventre de sa mère et exige de naître sans tarder, parce que les hommes sont en train de manger les bœufs de son père. À peine né, il se tient debout, refuse qu'on le traite en nourrisson, se déclare « homme du conseil » et coupe lui-même son cordon avec la lance paternelle. Le soir même, il se fait remettre la viande des invités, la porte à sa mère puis barbouille de sang la natte et le bâton qui servent au repas, pour faire croire qu'on la lui a volée : aucun des hommes ne retrouve sa part. Chez Theal, la mère est une épouse de chef longtemps stérile, et l'enfant naît avec un visage de vieillard. La suite enchaîne les tours, souvent cruels. Le plus célèbre le montre persuadant une vieille femme d'entrer dans une marmite ; il la fait cuire, enfile ses vêtements et sert le repas à ses propres fils. Dans la version de Theal, il meurt brûlé par la graisse d'une tortue qu'il portait sur la tête ; ailleurs, il échappe à toutes les représailles.\n\nAlice Werner le rapprochait de Tom Pouce ou de Jack le tueur de géants et le rangeait du côté du conte plutôt que du mythe. L'historien Jimmy Pieterse s'intéresse aux conteuses : Theal jugeait que les meilleures étaient des femmes âgées, et Callaway voyait dans les femmes les dépositaires de ces récits. Pieterse lit les tours de ce petit personnage, qui se proclame homme du conseil le jour de sa naissance et détourne la viande des adultes, comme une manière de réimaginer, par le rire, l'ordre social du village. uHlakanyana appartient à une large famille de tricksters sud-africains, avec le lièvre et avec Huveane chez les Sotho et les Pedi.",
+  "domaines": [
+    "ruse",
+    "nourriture",
+    "transgression"
+  ],
+  "tags": [
+    "trickster"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [
+    "petite taille",
+    "belette",
+    "lance de son père"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Callaway, H. (1868). Nursery Tales, Traditions, and Histories of the Zulus, in Their Own Words",
+    "Theal, G.M. (1882). Kaffir Folk-Lore: A Selection from the Traditional Tales Current among the People Living on the Eastern Border of the Cape Colony",
+    "Werner, A. (1933). Myths and Legends of the Bantu",
+    "Pieterse, J. (2010). Trickster tropes: female storytelling and the re-imagination of social orders in four nineteenth-century southern African communities. Historia 55(1)"
+  ],
+  "notes": "Les versions divergent sur la naissance, l'ordre des épisodes et la fin du personnage. Le rapprochement avec la belette est donné par les informateurs de Callaway comme une comparaison (sa taille, sa ruse) ; Alice Werner envisageait qu'il ait été à l'origine un animal. Certains ouvrages récents le décrivent comme capable de changer de sexe ou le confondent avec le tokoloshe ; ces traits ne figurent pas dans les recueils du 19e siècle consultés."
+}

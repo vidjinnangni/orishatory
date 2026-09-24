@@ -1,0 +1,57 @@
+{
+  "id": "orunmila",
+  "nom": "Ọ̀rúnmìlà",
+  "variantes": [
+    "Orunmila",
+    "Orunla",
+    "Ọ̀rúnmìlà-Ifá",
+    "Ifá",
+    "Agbonniregun",
+    "Orula",
+    "Orunmilá"
+  ],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": [
+    "Yoruba"
+  ],
+  "resume": "Orisha yoruba de la sagesse et de la connaissance, patron du système divinatoire Ifá, au point que son nom et celui de l'oracle se confondent souvent. On le dit « témoin de la destinée », parce qu'il assistait au choix que chaque être fait de son sort avant de naître. Ses prêtres sont les babaláwo.",
+  "description_detaillee": "Dans le panthéon yoruba, Ọ̀rúnmìlà est celui qui sait. Parmi ses nombreux noms de louange, le plus éclairant est Ẹlẹ́rìí ìpín, « témoin de la destinée » : avant de venir au monde, chaque personne choisit sa tête intérieure (orí), porteuse de son destin, puis oublie ce choix en franchissant la frontière entre le monde invisible et la terre. Ọ̀rúnmìlà, présent à ce moment, est le seul à pouvoir révéler ce qui a été choisi. D'où son lien avec Ifá, l'oracle qui permet aux humains de retrouver et d'accomplir ce destin ; les Yoruba emploient d'ailleurs souvent « Ifá » pour désigner le dieu lui-même.\n\nSa sagesse dépasse, dans certains récits, celle des autres orisha et touche même Olódùmarè. E. Bolaji Idowu rapporte l'histoire d'un jour où l'être suprême fut troublé par une affaire que nulle divinité ne parvenait à éclaircir ; seul Ọ̀rúnmìlà en trouva la cause. Idowu jugeait que ce récit avait été forgé pour grandir Ọ̀rúnmìlà au risque de diminuer la sagesse divine, ce que le philosophe John A. I. Bewaji conteste : pour lui, la tradition ne voit aucune contradiction à ce que le créateur fasse appel à la sagesse d'une de ses créatures. Wande Abimbola rappelle qu'au temps où le ciel et la terre n'étaient pas séparés, Olódùmarè convoquait Ifá pour résoudre ses problèmes.\n\nUn récit très répandu parmi les devins explique l'origine des noix de palme consacrées (ikin) avec lesquelles on consulte l'oracle. Ọ̀rúnmìlà vivait sur terre avec ses huit enfants ; le plus jeune, souvent nommé Olowo, refusa un jour de se prosterner devant lui, et le dieu, offensé, repartit au ciel. La terre devint stérile, les femmes cessèrent d'enfanter, et les enfants montèrent le supplier de revenir. Il refusa mais leur remit seize noix de palme : chaque fois qu'ils voudraient lui parler, il leur suffirait de les consulter. Le lien quotidien avec le dieu passe depuis par ces noix, que manipule le babaláwo.\n\nÈṣù est son compagnon inséparable : c'est lui qui porte les sacrifices prescrits par l'oracle, et son visage orne le bord du plateau divinatoire. Le culte d'Ọ̀rúnmìlà a gagné les Amériques avec la traite. À Cuba, Orula ou Orúnmila est au centre de la Regla de Ifá, dont les babalaos forment aujourd'hui l'un des groupes de praticiens d'Ifá les plus nombreux au monde . Au Brésil, il est connu sous le nom d'Orunmilá.",
+  "domaines": [
+    "sagesse",
+    "connaissance",
+    "divination",
+    "destinée"
+  ],
+  "tags": [
+    "divination",
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [
+      "yemoja"
+    ],
+    "enfants": [],
+    "entites_liees": [
+      "ifa",
+      "eshu-elegba",
+      "olodumare",
+      "obatala"
+    ]
+  },
+  "attributs": [
+    "noix de palme consacrées (ikin)",
+    "chaîne divinatoire (ọ̀pẹ̀lẹ̀)",
+    "plateau divinatoire (ọpọ́n Ifá)"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Honoré par les babaláwo au Nigeria et au Bénin, où Ifá est toujours consulté, et dans la diaspora, notamment dans la Regla de Ifá cubaine (sous le nom d'Orula) et dans les communautés d'Ifá des États-Unis et du Brésil. Le système divinatoire placé sous son patronage a été inscrit par l'UNESCO au patrimoine culturel immatériel en 2008.",
+  "sources": [
+    "Bascom, W. (1969). Ifa Divination: Communication between Gods and Men in West Africa",
+    "Abimbola, W. (1976). Ifá: An Exposition of Ifá Literary Corpus",
+    "Idowu, E.B. (1962). Olódùmarè: God in Yoruba Belief",
+    "Bewaji, J.A.I. (1998). Olodumare: God in Yoruba Belief and the Theistic Problem of Evil. African Studies Quarterly, 2(1)"
+  ],
+  "notes": "Le rapport entre Ọ̀rúnmìlà et Ifá est discuté : pour certains, Ifá est le nom du dieu, pour d'autres celui de l'oracle ou du corpus qu'il a transmis. Le récit du retour au ciel et des seize ikin circule sous plusieurs versions, qui varient sur le nom de l'enfant insolent et sur le lieu où vivait la famille. Les unions qu'on lui prête (avec Yemọja dans certains récits recueillis par Pierre Verger) ne font pas consensus."
+}

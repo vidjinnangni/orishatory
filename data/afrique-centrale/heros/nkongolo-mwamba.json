@@ -1,0 +1,49 @@
+{
+  "id": "nkongolo-mwamba",
+  "nom": "Nkongolo Mwamba",
+  "variantes": [
+    "Nkongolo",
+    "Kongolo",
+    "Kongolo Mwamba"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "heros",
+  "peuples": [
+    "Luba"
+  ],
+  "resume": "Nkongolo Mwamba est le premier roi du pays luba, dans le sud-est de l'actuelle République démocratique du Congo, selon l'épopée qui raconte la naissance de la royauté sacrée luba. Son nom signifie « arc-en-ciel ». Souverain cruel et sans manières, il est vaincu et mis à mort par son neveu Kalala Ilunga, fils du chasseur Mbidi Kiluwe, qui fonde après lui la dynastie.",
+  "description_detaillee": "Dans les traditions orales des Luba du Katanga, Nkongolo Mwamba est celui qui a réuni le pays sous son autorité avant que n'y arrive la véritable royauté. Il règne depuis Mwibele, près du lac Boya. L'épopée ne le célèbre pas : elle se sert de lui pour montrer, par contraste, ce qu'un roi ne doit pas être. C'est pourquoi il est l'une des figures les plus commentées de l'histoire politique de l'Afrique centrale.\n\nLes récits recueillis par l'historien Thomas Reefe font remonter sa lignée à un couple originel, Kyubaka Ubaka, « le bâtisseur de cases », et Kibumba Bumba, « la potière ». Un de leurs descendants, Mwamba, prend le nom de Nkongolo. Il a la peau rouge, il est violent, et il ignore les règles de la conduite royale : il mange et boit en public, rit à gorge déployée, n'a pas les dents limées. Quand le chasseur Mbidi Kiluwe arrive de l'est, Nkongolo l'accueille et lui donne deux de ses sœurs, Bulanda et Mabela. Mais Mbidi s'indigne de voir son hôte manger sous les yeux de tous et finit par repartir vers l'est. L'une des sœurs met au monde Kalala Ilunga, qui devient un guerrier redouté. Jaloux, Nkongolo tente de le faire périr dans une fosse garnie de lances, dissimulée sous l'aire où le jeune homme doit danser. Prévenu, Kalala s'enfuit et franchit la Lualaba. Nkongolo, lancé à sa poursuite, veut construire une chaussée de pierres pour traverser, en vain : ses outils de fer ne mordent pas sur la roche. Kalala revient avec une armée, découvre la cachette de son oncle, le capture et le fait décapiter ; la tête et les organes génitaux du vaincu sont placés dans une corbeille.\n\nLuc de Heusch a consacré à ce récit son livre Le roi ivre ou l'origine de l'État (1972), qui lit l'opposition entre le roi-arc-en-ciel, excessif et ivre, et le chasseur venu d'ailleurs, maître de ses gestes, comme une théorie africaine de la naissance de l'État. La tradition luba associe Nkongolo au serpent arc-en-ciel et à la couleur rouge, que l'on retrouve sur les planchettes de mémoire lukasa (voir sa fiche) ; le principe de royauté qui triomphe de lui est décrit dans la fiche bulopwe. Les historiens situent parfois Nkongolo au début du XVIe siècle, mais la plupart voient dans l'épopée une charte politique plutôt qu'un récit d'événements, et dans Nkongolo le souvenir d'un ordre ancien plus que celui d'un individu.",
+  "domaines": [
+    "royauté",
+    "conquête",
+    "arc-en-ciel"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "mbidi-kiluwe",
+      "bulopwe",
+      "lukasa"
+    ]
+  },
+  "attributs": [
+    "arc-en-ciel",
+    "serpent",
+    "couleur rouge",
+    "peau claire"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Reefe, T.Q. (1981). The Rainbow and the Kings: A History of the Luba Empire to 1891",
+    "Heusch, L. de (1972). Le roi ivre ou l'origine de l'État. Mythes et rites bantous I",
+    "Scheub, H. (2000). A Dictionary of African Mythology: The Mythmaker as Storyteller (notice « Nkongolo Insults Mbidi Kiluwe »)",
+    "Akyeampong, E.K. & Gates, H.L. (dir.) (2012). Dictionary of African Biography (notice « Nkongolo »)"
+  ],
+  "notes": "Les versions divergent sur plusieurs points : Bulanda et Mabela sont dites sœurs ou demi-sœurs de Nkongolo, et les sources ne s'accordent pas sur celle qui est la mère de Kalala Ilunga. La découverte de la cachette de Nkongolo est attribuée tantôt à une femme, tantôt à ses sœurs. L'historicité du personnage est discutée : certains historiens y voient un souverain du XVIe siècle, d'autres la personnification d'une dynastie ou d'un ordre politique antérieur à la royauté sacrée."
+}

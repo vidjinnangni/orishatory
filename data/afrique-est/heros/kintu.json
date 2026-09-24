@@ -20,9 +20,13 @@
   ],
   "genealogie": {
     "parents": [],
-    "conjoints": [],
+    "conjoints": [
+      "nnambi"
+    ],
     "enfants": [],
-    "entites_liees": []
+    "entites_liees": [
+      "walumbe"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

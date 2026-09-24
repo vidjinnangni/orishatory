@@ -1,0 +1,49 @@
+{
+  "id": "mwene-mutapa",
+  "nom": "Mwene Mutapa",
+  "variantes": [
+    "Mwenemutapa",
+    "Munhumutapa",
+    "Monomotapa",
+    "Mutapa"
+  ],
+  "region": "afrique-australe",
+  "categorie": "heros",
+  "peuples": [
+    "Shona",
+    "Korekore"
+  ],
+  "resume": "Titre des souverains d'un État shona qui domina, du milieu du 15e siècle au 17e siècle, le nord du plateau zimbabwéen et la vallée du Zambèze, et nom par lequel les Portugais désignaient ce royaume (Monomotapa). Le souverain y était à la fois chef politique et garant, par ses ancêtres, de la pluie et de la fertilité.",
+  "description_detaillee": "Mwene Mutapa (Munhumutapa en shona, Monomotapa chez les Portugais) n'est pas un individu mais un titre, porté par les rois d'un État shona fondé vers le milieu du 15e siècle dans le nord de l'actuel Zimbabwe, entre le plateau et la vallée du Zambèze. Par extension, le mot a désigné le royaume lui-même. Pour l'Europe de la Renaissance, qui en connaissait l'or par les récits portugais, le Monomotapa devint un nom presque légendaire ; pour l'histoire de l'Afrique australe, c'est l'un des principaux héritiers de la culture de Grand Zimbabwe.\n\nLa tradition attribue la fondation à Nyatsimba Mutota, venu du sud avec ses partisans pour s'établir dans le Dande, région de la vallée riche en sel et en gibier. Son fils Matope étendit le pouvoir de la dynastie. On traduit souvent le titre par « seigneur des terres conquises » ou « des terres pillées », mais cette étymologie reste discutée. Le Mutapa tirait sa légitimité de ses ancêtres : les rois défunts devenaient des mhondoro, esprits lions protecteurs du pays, qui parlaient par la bouche de médiums et dont dépendaient la pluie et la prospérité. Une tradition recueillie dans le Dande raconte que Mutota aurait exigé de son successeur une union incestueuse avec sa demi-sœur Nyamhika, qui serait devenue l'esprit Nehanda ; ce récit, qui fonde le lien entre la dynastie et l'un des plus grands mhondoro, relève de la tradition orale et non de l'histoire documentée.\n\nL'histoire du royaume est surtout connue par les sources portugaises. En 1561, le jésuite Gonçalo da Silveira fut mis à mort à la cour du Mutapa peu après l'avoir baptisé ; sa mort servit de prétexte à l'expédition de Francisco Barreto, qui remonta le Zambèze à partir de 1569 sans parvenir à conquérir les mines d'or. Au 17e siècle, les querelles de succession ouvrirent la porte aux Portugais : en 1629, Mavhura Mhande, installé grâce à leur appui, dut accepter un traité qui faisait de lui un vassal et plaçait une garnison à sa cour. Les provinces se détachèrent les unes après les autres, et à la fin du 17e siècle les Rozvi du Changamire prirent le contrôle d'une grande partie du plateau. Réduite à la vallée du Zambèze, dans l'actuel Mozambique, la dynastie se maintint pourtant jusqu'au début du 20e siècle : Chioko Dambamupute, dernier Mutapa régnant, mourut en 1902 en combattant les Portugais.\n\nLes historiens S.I. Mudenge et David Beach ont reconstruit cette histoire en croisant les archives portugaises et les traditions orales, mais l'ampleur réelle de « l'empire » fait débat. Les Portugais avaient intérêt à grossir la puissance d'un souverain qu'ils prétendaient contrôler, et l'archéologue Innocent Pikirayi souligne que les provinces lointaines gardaient une large autonomie. Dans la mémoire zimbabwéenne, le Mutapa est devenu, avec Grand Zimbabwe, l'un des symboles d'un passé précolonial puissant et organisé.",
+  "domaines": [
+    "royauté",
+    "commerce de l'or",
+    "ancêtres royaux"
+  ],
+  "tags": [
+    "royaute-sacree",
+    "ancetres"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "nehanda",
+      "culte-oiseaux-grand-zimbabwe",
+      "chaminuka"
+    ]
+  },
+  "attributs": [
+    "mhondoro (esprits lions des rois défunts)"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Des lignées de médiums continuent, dans le nord du Zimbabwe et notamment dans la vallée du Dande, d'être possédées par les mhondoro attribués aux anciens rois mutapa ; David Lan a étudié leur rôle pendant la guerre de libération des années 1970.",
+  "sources": [
+    "Mudenge, S.I.G. (1988). A Political History of Munhumutapa, c. 1400-1902",
+    "Beach, D.N. (1980). The Shona and Zimbabwe 900-1850: An Outline of Shona History",
+    "Pikirayi, I. (2001). The Zimbabwe Culture: Origins and Decline of Southern Zambezian States",
+    "Lan, D. (1985). Guns and Rain: Guerrillas and Spirit Mediums in Zimbabwe"
+  ],
+  "notes": "La date de fin de la dynastie varie selon les auteurs : Mudenge la fixe à 1902, avec la mort de Chioko, tandis que d'autres ouvrages retiennent 1917, année de la grande révolte du Barue contre les Portugais dans la vallée du Zambèze. Le sens du titre (« seigneur des terres conquises », « des terres pillées », voire « des mines ») n'est pas établi. La date de fondation (vers 1430-1450) et le lien direct avec l'abandon de Grand Zimbabwe reposent sur des traditions orales et restent discutés."
+}

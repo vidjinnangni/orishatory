@@ -1,0 +1,51 @@
+{
+  "id": "ryangombe",
+  "nom": "Ryangombe",
+  "variantes": [
+    "Kiranga (Burundi)",
+    "Lyangombe"
+  ],
+  "region": "afrique-est",
+  "categorie": "deites",
+  "peuples": [
+    "Banyarwanda (Rwanda)",
+    "Barundi (Burundi)",
+    "Ha (Buha, Tanzanie)"
+  ],
+  "resume": "Héros divinisé, « roi des Imandwa », Ryangombe est la figure centrale du kubandwa, le culte initiatique de possession pratiqué au Rwanda, au Burundi (où il porte surtout le nom de Kiranga) et dans le Buha. Tué par un buffle au cours d'une chasse, il aurait fondé en mourant un culte ouvert à tous. Ses initiés espéraient le rejoindre après la mort sur le volcan Karisimbi.",
+  "description_detaillee": "Ryangombe est le chef des Imandwa, les esprits honorés dans le kubandwa, une religion de possession et d'initiation répandue dans le sud de la région des Grands Lacs. L'anthropologue Luc de Heusch pense que ces esprits, apparentés aux héros cwezi de l'Ouganda occidental, s'imposèrent au Rwanda sans doute à partir du XVIIe siècle, autour de Ryangombe. Au Burundi, le même personnage est plus souvent appelé Kiranga. Son importance tient à ce qu'il offrait autre chose que la religion ordinaire : là où Imana, le dieu suprême, restait lointain et où les esprits des ancêtres (abazimu) passaient pour souvent hostiles, Ryangombe promettait protection de son vivant et une existence heureuse après la mort.\n\nLe mythe, connu par plusieurs versions recueillies au XXe siècle (Arnoux, Pagès, Johanssen, Coupez), le montre comme un roi chasseur et joueur. Il perd son royaume au jeu contre un rival, puis le reconquiert grâce à son fils Binego, un enfant prodige et violent qui tue l'adversaire. Un matin, sa mère, inquiète d'un rêve, lui barre la route ; il passe outre et part chasser. Selon Pagès, une jeune femme se change en buffle et le blesse à mort ; d'autres versions ne disent rien de la nature féminine de l'animal. Il meurt sous une érythrine. Dans la version d'Arnoux, il réunit les Imandwa, désigne Binego comme successeur et proclame que le Tutsi, le Hutu, le Twa, les garçons, les filles et les enfants doivent tous l'honorer. Chez Pagès, ses compagnons se jettent sur les cornes du buffle pour le suivre dans la mort.\n\nL'initiation, accessible aux hommes comme aux femmes, se faisait en deux degrés. La première, kwatura, était pensée comme une mort suivie d'une nouvelle naissance et comme un mariage mystique avec Ryangombe ; la seconde faisait de l'initié un médium, capable d'incarner les Imandwa pendant les cérémonies, et le conduisait symboliquement au-delà d'une rivière avec Mukasa comme passeur. Les initiés comptaient rejoindre Ryangombe sur le Karisimbi, volcan éteint où l'on boit et fume sans fin, tandis que les non-initiés risquaient le Nyiragongo, volcan actif voisin. Au Rwanda, le culte entretenait une relation tendue avec la royauté : un prince initié ne pouvait régner, et un « roi des Imandwa » représentait le souverain dans les cérémonies. Au Burundi, selon de Heusch, le culte de Kiranga était au contraire étroitement lié aux rites royaux.\n\nDe Heusch a lu le kubandwa comme une contestation symbolique de l'ordre social rwandais, puisque le message de Ryangombe s'adresse à tous, même si Hutu et Tutsi pratiquaient séparément. L'historienne Iris Berger, qui a comparé ces cultes dans toute la région, a nuancé cette lecture : selon les royaumes et les époques, le kubandwa a pu légitimer le pouvoir aussi bien que s'y opposer. Combattu par les missions catholiques, le kubandwa était encore pratiqué en 1949 près du lac Muhazi, où de Heusch l'observa, mais en 1963 un magistrat de la République rwandaise lui déclara qu'il ne relevait pas de la liberté de culte.",
+  "domaines": [
+    "possession",
+    "initiation",
+    "au-delà des initiés",
+    "protection"
+  ],
+  "tags": [
+    "initiation",
+    "mort-au-dela"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "mukasa"
+    ]
+  },
+  "attributs": [
+    "érythrine (arbre sacré du culte)",
+    "buffle",
+    "volcan Karisimbi",
+    "queue de lièvre (insigne royal dans le mythe)",
+    "lance"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Pourchassé par les missions pendant la période coloniale et tenu à l'écart après l'indépendance du Rwanda, le kubandwa a presque disparu de la vie publique. Son souvenir se maintient dans les récits et la littérature orale.",
+  "sources": [
+    "de Heusch, L. (1964). Mythe et société féodale : le culte du kubandwa dans le Rwanda traditionnel",
+    "de Heusch, L. (1993). Histoire structurale d'une religion africaine",
+    "Berger, I. (1981). Religion and Resistance: East African Kingdoms in the Precolonial Period",
+    "Beattie, J. (1987). Interlacustrine Bantu Religions, in Eliade, M. (dir.), The Encyclopedia of Religion"
+  ],
+  "notes": "Les versions du mythe diffèrent sur des points importants : identité du rival de Ryangombe (son frère utérin chez Coupez, un client hutu chez Pagès), nature du buffle, déroulement de la mort. Le lien entre Ryangombe et Kiranga est admis par la plupart des auteurs, mais certaines traditions burundaises les distinguent. Le Mukasa passeur du rituel rwandais porte le nom du grand dieu ganda du lac Victoria, sans que les sources consultées précisent la nature du rapport entre les deux."
+}

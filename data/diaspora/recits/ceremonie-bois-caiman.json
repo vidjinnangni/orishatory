@@ -1,0 +1,50 @@
+{
+  "id": "ceremonie-bois-caiman",
+  "nom": "La cérémonie du Bois-Caïman",
+  "variantes": [
+    "Bois-Caïman",
+    "Bwa Kayiman",
+    "Bois Caïman"
+  ],
+  "region": "diaspora",
+  "categorie": "recits",
+  "peuples": [
+    "Esclaves de Saint-Domingue",
+    "Haïtiens"
+  ],
+  "resume": "Cérémonie nocturne tenue en août 1791 dans le nord de Saint-Domingue, au cours de laquelle des esclaves insurgés auraient scellé leur engagement par un sacrifice et un serment, quelques jours avant le soulèvement qui ouvrit la Révolution haïtienne. Considérée en Haïti comme l'acte fondateur de la nation, elle est connue surtout par des récits postérieurs, et sa forme exacte fait débat parmi les historiens.",
+  "description_detaillee": "Dans la mémoire haïtienne, la cérémonie du Bois-Caïman marque le point de départ de la lutte pour la liberté : une nuit d'août 1791, dans un bois de la plaine du Nord, près du Cap, des esclaves venus de nombreuses habitations se seraient réunis autour du prêtre Boukman et d'une prêtresse, auraient sacrifié un cochon noir et juré de se soulever. L'insurrection des ateliers du Nord éclata dans la nuit du 22 au 23 août. Le récit, enseigné dès l'école, fait du vodou la matrice de l'indépendance ; sa construction s'est pourtant faite par couches successives, qu'il faut distinguer.\n\nLe témoignage le plus proche des faits est celui d'Antoine Dalmas, médecin colon du Nord, rédigé vers 1793 mais publié seulement en 1814. S'appuyant sur les interrogatoires d'esclaves capturés, il distingue deux réunions : une assemblée de « commandeurs » et de cochers d'une centaine d'habitations, tenue le dimanche 14 août sur l'habitation Lenormand de Mézy, et, quelques jours plus tard, une réunion plus restreinte dans un bois appelé le Caïman, où un cochon aurait été sacrifié ; les participants auraient bu son sang et gardé ses soies comme protection. En 1824, l'écrivain haïtien Hérard Dumesle, qui recueillit les traditions orales de la région, ajoute une prière attribuée à Boukman et une jeune officiante lisant l'avenir dans les entrailles de l'animal, dans un style volontiers poétique. Céligny Ardouin, au milieu du XIXe siècle, associe Boukman au serment d'après le témoignage d'un ancien soldat. Le nom de la prêtresse, Cécile Fatiman, n'apparaît qu'en 1954 chez Étienne Charlier, qui le tenait d'un descendant ; la tradition populaire dédie aussi le sacrifice à Ezili Dantor, détail absent des sources anciennes.\n\nLes historiens divergent sur ce qu'il faut en retenir. Léon-François Hoffmann, en 1990, a soutenu que la cérémonie relevait du mythe fondateur plus que de l'événement attesté, peut-être à partir d'un récit colonial destiné à présenter les insurgés sous un jour inquiétant ; sa thèse a été vivement discutée en Haïti. David Geggus, après examen des archives, conclut qu'une cérémonie a probablement bien eu lieu vers le 21 août, distincte de l'assemblée du 14, et que ses détails ont été amplifiés par les auteurs postérieurs. Le récit a connu d'autres usages : la musique racine des années 1970 y a puisé une image de la résistance à la dictature, tandis que des prédicateurs évangéliques, depuis les années 1990, le présentent comme un « pacte avec le diable », lecture que rejette la grande majorité des Haïtiens. Le souvenir de Makandal, brûlé en 1758, est souvent rattaché à cette même histoire des résistances religieuses et politiques de la colonie.",
+  "domaines": [
+    "révolution",
+    "serment",
+    "vodou",
+    "liberté"
+  ],
+  "tags": [
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "makandal",
+      "ezili"
+    ]
+  },
+  "attributs": [
+    "cochon noir sacrifié",
+    "serment",
+    "plaine du Nord"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Commémorée en Haïti comme événement fondateur de la nation, et évoquée dans les cérémonies vodou comme dans la culture politique et musicale du pays.",
+  "sources": [
+    "Dalmas, A. (1814). Histoire de la révolution de Saint-Domingue",
+    "Dumesle, H. (1824). Voyage dans le nord d'Hayti",
+    "Hoffmann, L.-F. (1990). Histoire, mythe et idéologie : la cérémonie du Bois-Caïman. Études créoles, 13(1)",
+    "Geggus, D.P. (1991). The Bois Caïman Ceremony. Journal of Caribbean History, 25(1-2)",
+    "Geggus, D.P. (2002). Haitian Revolutionary Studies"
+  ],
+  "notes": "Date (14 ou vers le 21 août 1791), lieu exact, identité des officiants et contenu du serment varient selon les sources. La prière de Boukman n'est connue que par Dumesle (1824) et ses successeurs ; le nom de Cécile Fatiman repose sur une seule source familiale (Charlier, 1954). Le rattachement du sacrifice à Ezili Dantor relève de la tradition orale."
+}

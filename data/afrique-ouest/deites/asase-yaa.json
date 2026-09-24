@@ -1,0 +1,53 @@
+{
+  "id": "asase-yaa",
+  "nom": "Asase Yaa",
+  "variantes": [
+    "Asase Ya",
+    "Asase Afua",
+    "Asase Efua",
+    "Aberewa"
+  ],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": [
+    "Akan",
+    "Asante",
+    "Fante"
+  ],
+  "resume": "Déesse de la terre dans la religion des Akan du Ghana et de Côte d'Ivoire, placée juste après Nyame, le dieu du ciel, dont plusieurs traditions font son époux. Elle préside à la fertilité du sol, à la vérité et au monde des morts. Son jour sacré est le jeudi chez les Asante, le vendredi chez les Fante, et l'on s'abstient alors de travailler la terre.",
+  "description_detaillee": "Chez les Akan, le ciel et la terre sont les deux grandes puissances divines. Le ciel revient à Nyame ; la terre est une femme, Asase Yaa, que l'on invoque aussitôt après lui dans les libations. Son nom suit l'usage akan des noms de jour : Yaa est le prénom d'une fille née un jeudi, et l'on explique qu'elle porte ce nom parce que Nyame a créé la terre ce jour-là. Les Fante, pour qui la création de la terre eut lieu un vendredi, l'appellent Asase Afua (ou Efua). Les Asante lui donnent aussi le titre d'Aberewa, « vieille mère ».\n\nL'anthropologue britannique Robert S. Rattray, qui enquêtait en pays asante au début des années 1920, relevait qu'aucun temple ni aucun objet de culte ne lui était élevé, alors que sa puissance était reconnue de tous. On l'honore là où elle se trouve, c'est-à-dire partout. Le jeudi lui appartient : le cultivateur asante ne houe pas et ne retourne pas le sol ce jour-là, et Rattray note qu'une trentaine d'années avant son enquête, enfreindre cet interdit pouvait être puni de mort. Au début de la saison des cultures, il décrit une offrande faite sur le champ : on égorge une volaille au-dessus d'une purée de plantain ou d'igname, puis le cultivateur s'adresse à l'ancêtre qui a défriché la parcelle avant lui et à « Terre, Yaa », sur qui il va travailler, en lui demandant une bonne année et d'être protégé de la machette, des arbres qui tombent et des serpents.\n\nLe lien entre la terre et les ancêtres fait d'Asase Yaa une figure centrale du rapport aux morts. C'est elle qui reçoit les défunts, et son jour sacré exclut aussi, selon plusieurs auteurs, les enterrements. Elle est également garante de la vérité : on peut porter un peu de terre à ses lèvres pour jurer que l'on dit vrai. Rattray voyait dans ce caractère sacré du sol le fondement religieux du droit foncier asante, où la terre appartient aux ancêtres et à la déesse plus qu'aux vivants qui la cultivent.\n\nLa répartition entre un dieu du ciel lointain et une terre toute proche, qui nourrit et reprend les corps, rappelle celle que l'on trouve chez les Igbo avec Ala, autre divinité de la terre et de la moralité. Les sources divergent sur la famille d'Asase Yaa : son union avec Nyame est courante dans les présentations modernes, tandis que la liste de ses enfants varie beaucoup d'un auteur à l'autre.",
+  "domaines": [
+    "terre",
+    "fertilité du sol",
+    "agriculture",
+    "mort et ancêtres",
+    "vérité"
+  ],
+  "tags": [
+    "terre-fertilite",
+    "ancetres",
+    "mort-au-dela"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [
+      "nyame"
+    ],
+    "enfants": [],
+    "entites_liees": [
+      "ala"
+    ]
+  },
+  "attributs": [
+    "le sol lui-même",
+    "jeudi (vendredi chez les Fante)",
+    "libation versée au sol"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Elle reste invoquée dans les libations akan, juste après Nyame, et l'interdit de travailler la terre le jeudi (ou le vendredi en pays fante) est encore observé dans certaines communautés rurales du Ghana.",
+  "sources": [
+    "Rattray, R.S. (1923). Ashanti",
+    "Asante, M.K. & Mazama, A. (dir.) (2009). Encyclopedia of African Religion, notice « Asase Yaa »"
+  ],
+  "notes": "Les Asante la décrivent volontiers comme une vieille femme (Aberewa), alors que certaines présentations fante insistent sur une Asase Afua jeune et liée à la terre fertile ; il s'agit de deux noms régionaux d'une même divinité. Plusieurs sites grand public lui attribuent pour enfants Bia, Tano ou même Anansi, sans appui clair dans les sources ethnographiques anciennes ; ces filiations ne sont pas retenues ici."
+}

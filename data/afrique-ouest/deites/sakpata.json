@@ -1,0 +1,59 @@
+{
+  "id": "sakpata",
+  "nom": "Sakpata",
+  "variantes": [
+    "Sagbata",
+    "Sakpatá",
+    "Azo",
+    "Ai",
+    "Dada Zodji"
+  ],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": [
+    "Fon",
+    "Mahi",
+    "Ewe"
+  ],
+  "resume": "Vodun de la terre chez les Fon du Bénin, à la tête d'un panthéon de divinités terrestres, et maître de la variole et des maladies éruptives, qu'il envoie en châtiment. Ses prêtres étaient aussi des guérisseurs. Son culte, d'origine étrangère au royaume du Danxomè, y prit une place politique considérable.",
+  "description_detaillee": "Dans la religion vodun du Danxomè (Dahomey), Sakpata, ou Sagbata, désigne à la fois une divinité et tout un panthéon, celui de la Terre. Melville et Frances Herskovits, qui enquêtaient à Abomey dans les années 1930, appellent ses membres les « rois de la Terre » ; à leur tête, Dada Zodji punit de la variole ceux qui commettent une faute grave contre l'ordre moral. Parce que la maladie venait de lui, ce sont les prêtres de la Terre qui décidaient du sort des morts : une personne emportée par la variole ne pouvait être enterrée qu'avec l'accord du chef de ce culte, par une équipe spéciale et sans cérémonie, et sa famille devait ensuite racheter son âme aux prêtres avant de lui offrir de véritables funérailles.\n\nLes récits recueillis par les Herskovits font de Sagbata l'aîné des enfants de Mawu-Lisa. Sa mère lui donne la terre et toutes ses richesses, mais il part sans emporter l'eau, qu'il ne pouvait pas mettre dans son sac. Son cadet Xevioso, resté au ciel, arrête alors la pluie, et la terre se dessèche pendant des années. Selon une version racontée par un prêtre de Sagbata, deux devins venus du ciel consultent le Fa et révèlent que l'aîné doit se soumettre au cadet ; Sagbata confie une part de ses biens à l'oiseau Wututu, qui porte son message au ciel, et la pluie revient. Dans une autre, c'est Legba qui a provoqué la sécheresse, puis la fait cesser par une ruse. Une troisième version, où Sagbata s'appelle encore Azo, le montre vendu et revendu jusqu'à se couvrir de plaies, image transparente de la maladie.\n\nL'historien béninois Elisée Soumonni rappelle que le culte n'est pas né à Abomey. Les rois du Danxomè installaient dans leur capitale les dieux des pays conquis pour s'assurer leur protection, et c'est le cas de Sakpata. Ses prêtres le disaient venu du pays mahi, au nord ; Le Hérissé rapportait au début du XXe siècle que le roi Agaja l'aurait reçu des Dassa, voisins des Mahi et proches des Yoruba, qui honoraient un dieu semblable nommé Sanponna. Les initiés de Sakpata sont d'ailleurs appelés anagonu et la langue de leurs couvents d'initiation est, selon Pierre Verger, un yoruba archaïque. Le culte gagna tant de pouvoir sous le roi Agonglo, à la faveur d'une épidémie, que son successeur Adandozan l'interdit à son avènement en 1797.\n\nL'éradication de la variole n'a pas fait disparaître Sakpata, maître de toutes les maladies éruptives et pas seulement de celle-là. Au début du XXe siècle, l'administration coloniale française voyait dans ses prêtres les principaux adversaires de la vaccination, attitude que Soumonni lit aussi comme une réponse au mépris affiché pour les savoirs médicaux locaux. Ses interdits alimentaires, comme l'antilope ou la pintade dont la robe tachetée évoque les pustules, rappellent son domaine. Le même dieu est connu en pays yoruba sous le nom de Ṣọ̀pọ̀na, et il a traversé l'Atlantique : on le retrouve au Brésil sous les traits d'Omolu ou Obaluaiê.",
+  "domaines": [
+    "terre",
+    "variole et maladies éruptives",
+    "guérison",
+    "justice morale"
+  ],
+  "tags": [
+    "terre-fertilite",
+    "mort-au-dela",
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [
+      "mawu-lisa"
+    ],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "xevioso",
+      "legba-fon",
+      "omolu",
+      "gu"
+    ]
+  },
+  "attributs": [
+    "le sol et les monticules de terre",
+    "taches de la variole",
+    "interdits de l'antilope et de la pintade",
+    "plantes médicinales"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Le culte de Sakpata reste actif au Bénin et au Togo, où ses prêtres conservent un rôle de guérisseurs ; il s'est prolongé au Brésil dans les figures d'Omolu et Obaluaiê du candomblé.",
+  "sources": [
+    "Herskovits, M.J. (1938). Dahomey: An Ancient West African Kingdom",
+    "Herskovits, M.J. & Herskovits, F.S. (1958). Dahomean Narrative: A Cross-Cultural Analysis",
+    "Soumonni, E. (2012). Disease, religion and medicine: smallpox in nineteenth-century Benin. História, Ciências, Saúde-Manguinhos, 19 (supl. 1)",
+    "Monroe, J.C. (2014). The Precolonial State in West Africa: Building Power in Dahomey"
+  ],
+  "notes": "L'origine du culte est discutée : pays mahi selon les prêtres interrogés par Herskovits, Dassa selon Le Hérissé, pays tapa (nupe) selon Pierre Verger, qui y voit au moins le foyer de diffusion du culte de Sapata/Sanponna. Le poids respectif de la terre et de la maladie dans sa figure varie selon les auteurs et les régions. Les généalogies divergent : Sagbata est tantôt un fils unique, tantôt un couple de jumeaux (Da Zodji et Nyohwè Ananu) à qui Mawu confie la terre."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "antee",
+  "nom": "Antée",
+  "variantes": [
+    "Antaios",
+    "Antaeus"
+  ],
+  "region": "afrique-nord",
+  "categorie": "creatures",
+  "peuples": [
+    "Grecs anciens",
+    "Libyens et Maures antiques (tradition de Tingi)"
+  ],
+  "resume": "Géant libyen de la mythologie grecque, fils de Poséidon et de Gaïa, qui tirait sa force du contact avec la terre et fut vaincu à la lutte par Héraclès. Plusieurs auteurs antiques situent sa demeure et son tombeau à Tingi, l'actuelle Tanger, dont la légende locale faisait de lui un ancêtre.",
+  "description_detaillee": "Antée appartient à la mythologie grecque, mais c'est un Grec d'Afrique : les auteurs le font régner en Libye, nom que les Grecs donnaient à l'ensemble du continent à l'ouest de l'Égypte. Fils de Poséidon et de Gaïa, la Terre, il contraignait les étrangers de passage à lutter contre lui et les tuait ; selon Pindare, au Ve siècle avant notre ère, il ornait de leurs crânes le toit du temple de son père. Héraclès, qui traverse la Libye au cours de ses travaux, accepte le combat. Le géant retrouvant des forces chaque fois qu'il touche le sol, le héros finit par le soulever dans ses bras et l'étouffe en l'air. La scène est représentée dès l'époque archaïque, notamment sur un cratère du peintre Euphronios conservé au Louvre, où le géant porte des traits que Gabriel Camps rapproche de la façon dont les Égyptiens figuraient les Libyens.\n\nLa localisation d'Antée a glissé vers l'ouest au fil du temps. Pindare mentionne sa fille à Irasa, en Cyrénaïque, Lucain place son royaume près d'Utique, Pline l'Ancien situe son palais et son combat avec Hercule à Lixus, sur la côte atlantique du Maroc. Mais c'est à Tingi, l'actuelle Tanger, que la tradition est le mieux ancrée. Pomponius Mela y signale un immense bouclier en cuir d'éléphant attribué au géant. Plutarque raconte que le général romain Sertorius, vers 81 avant notre ère, fit ouvrir le tombeau qu'on y disait être celui d'Antée, y trouva un corps de soixante coudées, puis le fit refermer après un sacrifice. Selon le récit local qu'il rapporte, la veuve d'Antée, Tingé, eut d'Héraclès un fils, Sophax, qui donna à la ville le nom de sa mère ; le roi Juba II, érudit et auteur d'ouvrages historiques, se disait descendant de cette lignée.\n\nCe rattachement dynastique a conduit Gabriel Camps à voir dans Antée plus qu'un monstre grec : peut-être une figure indigène, et dans Sophax un écho du nom de Syphax, roi des Masaesyles, qui aurait pu être à l'origine un nom divin. On a aussi proposé d'identifier le tombeau montré à Sertorius au monument de Mzora, près d'Asilah, un grand tumulus entouré d'un cercle de monolithes, unique en Afrique du Nord et daté des IVe et IIIe siècles avant notre ère d'après le mobilier. Ces rapprochements restent des hypothèses, de même que l'origine égyptienne parfois proposée pour son nom. Le combat d'Héraclès et d'Antée, image de la force qui s'épuise loin de sa source, a été abondamment repris par la sculpture et la peinture européennes à partir de la Renaissance.",
+  "domaines": [
+    "force",
+    "lutte",
+    "terre"
+  ],
+  "tags": [
+    "terre-fertilite"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "melqart"
+    ]
+  },
+  "attributs": [
+    "force tirée du contact avec le sol",
+    "bouclier en cuir d'éléphant (tradition de Tingi)",
+    "crânes des vaincus"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Camps, G. (1988). Antée. Encyclopédie berbère, 5",
+    "Gantz, T. (1993). Early Greek Myth: A Guide to Literary and Artistic Sources",
+    "Plutarque, Vie de Sertorius, 9 (source antique, Ier-IIe siècle apr. J.-C.)"
+  ],
+  "notes": "Les parents d'Antée (Poséidon et Gaïa) sont des divinités grecques sans fiche dans le codex. La localisation varie selon les auteurs (Cyrénaïque, région d'Utique, Lixus, Tingi). L'identification de son tombeau avec le cromlech de Mzora (proposée par P. Koehler puis G. Camps) et la lecture d'Antée comme divinité indigène berbère ne sont pas démontrées. La date de la visite de Sertorius est approximative."
+}

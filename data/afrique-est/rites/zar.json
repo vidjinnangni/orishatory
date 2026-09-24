@@ -1,0 +1,56 @@
+{
+  "id": "zar",
+  "nom": "Zar",
+  "variantes": [
+    "Zâr",
+    "Zaar",
+    "Zār"
+  ],
+  "region": "afrique-est",
+  "categorie": "rites",
+  "peuples": [
+    "Amhara et Oromo (Éthiopie)",
+    "Soudanais du Nord",
+    "Égyptiens",
+    "Somali",
+    "populations de la mer Rouge et du golfe Persique"
+  ],
+  "resume": "Le zar désigne à la fois une catégorie d'esprits, les troubles qu'ils provoquent en « chevauchant » une personne, et les cérémonies de possession destinées à les apaiser. Attesté en Éthiopie depuis au moins le XVIIIe siècle, il s'est répandu au Soudan, en Égypte, dans la Corne de l'Afrique et jusqu'en Arabie et en Iran. Ses adeptes sont surtout des femmes.",
+  "description_detaillee": "Le zar est l'un des cultes de possession les plus répandus du nord-est de l'Afrique. Le mot désigne des esprits qui s'emparent d'une personne, le plus souvent une femme, et la rendent malade ; on ne cherche pas à les chasser, mais à conclure avec eux une relation durable. La personne atteinte est initiée au cours d'une cérémonie où, idéalement, elle entre en transe et laisse l'esprit s'exprimer à travers elle ; elle devient ensuite une adepte qui entretient l'esprit par des offrandes et des participations régulières aux rituels. Musulmans et chrétiens y prennent part sans y voir, pour la plupart, de contradiction avec leur foi.\n\nL'origine du zar se situe probablement dans les hautes terres éthiopiennes. L'historien Richard Natvig estime que la notion d'un esprit nommé zar pourrait remonter au XVIe siècle et serait née du contact entre les Amhara chrétiens et les peuples couchitiques, les premiers ayant fait du dieu du ciel des seconds un esprit malfaisant ; au XIXe siècle, la traite d'esclaves, notamment oromo, l'aurait diffusé vers le Soudan, l'Égypte, la mer Rouge et le golfe Persique. L'étymologie reste discutée : on la cherche en amharique, en persan, ou dans l'arabe zar, « il a rendu visite ». En 1932, lors de la mission Dakar-Djibouti, Michel Leiris fréquenta plusieurs mois à Gondar la maison de Malkam Ayyahu, guérisseuse et cheffe d'un groupe de zar ; il en tira une analyse de la possession comme théâtre vécu, publiée en 1958.\n\nAu Soudan, Janice Boddy a étudié le zar dans un village au nord de Khartoum, qu'elle appelle Hofriyat : en 1977 comme en 1984, plus de quatre femmes mariées sur dix y étaient possédées. Les esprits y forment des « nations » qui caricaturent les étrangers ayant marqué l'histoire du pays : Éthiopiens, derviches, pachas ottomans et égyptiens, Européens (khawajat), nomades arabes. À travers la femme possédée, l'esprit exige des cadeaux, commente la vie du village et met en scène ce que la société féminine ne peut dire directement. Boddy s'écarte ainsi de la lecture de l'anthropologue I. M. Lewis, qui voyait dans ces cultes « périphériques » une stratégie des femmes pour compenser leur position subordonnée ; elle insiste sur le fait que les esprits font partie du monde tenu pour évident par les possédées. En Égypte, où l'anthropologue Hager El Hadidi a recueilli plus de trois cents chants, le zar a intégré des éléments du soufisme populaire, dont la dévotion à des saints musulmans et chrétiens.\n\nLe zar a toujours suscité la méfiance des autorités religieuses, musulmanes comme chrétiennes, qui le jugent souvent contraire à leur foi, et celle des psychiatres : le DSM-IV le classait parmi les « syndromes liés à la culture », catégorie que le DSM-5 a remplacée par celle de « concept culturel de détresse ». Il se rattache à une famille de cultes de possession qui s'étend jusqu'au bori haoussa, avec lequel il partage l'idée d'esprits étrangers que l'on apaise plutôt qu'on ne les exorcise, au point que plusieurs chercheurs parlent d'un complexe zar-bori.",
+  "domaines": [
+    "possession",
+    "guérison",
+    "fécondité",
+    "sociabilité féminine"
+  ],
+  "tags": [
+    "initiation"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "bori",
+      "aicha-kandicha"
+    ]
+  },
+  "attributs": [
+    "tambours",
+    "encens",
+    "sacrifice animal",
+    "vêtements et parures propres à chaque esprit"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Le zar reste pratiqué au Soudan, en Éthiopie et en Égypte, ainsi que sur la côte iranienne du golfe Persique (Bandar Abbas, Qeshm) ; l'Encyclopedia of Religion le signale aussi en Israël et au Maghreb. Il y est souvent mal vu des autorités religieuses.",
+  "sources": [
+    "Natvig, R. (1987). Oromos, Slaves, and the Zar Spirits: A Contribution to the History of the Zar Cult",
+    "Leiris, M. (1958). La possession et ses aspects théâtraux chez les Éthiopiens de Gondar",
+    "Boddy, J. (1989). Wombs and Alien Spirits: Women, Men, and the Zar Cult in Northern Sudan",
+    "Lewis, I.M., Al-Safi, A. & Hurreiz, S. (dir.) (1991). Women's Medicine: The Zar-Bori Cult in Africa and Beyond",
+    "El Hadidi, H. (2016). Zar: Spirit Possession, Music, and Healing Rituals in Egypt",
+    "Masquelier, A. (2005). Zar, in Jones, L. (dir.), Encyclopedia of Religion (2e éd.)",
+    "Mianji, F. & Semnani, Y. (2015). Zār Spirit Possession in Iran and African Countries: Group Distress, Culture-Bound Syndrome or Cultural Concept of Distress?"
+  ],
+  "notes": "L'origine éthiopienne du zar est admise par la plupart des auteurs, mais sa date d'apparition et le sens premier du mot restent débattus. Les esprits, leur hiérarchie et le déroulement des cérémonies varient fortement d'un pays à l'autre, et parfois d'un groupe à l'autre dans une même ville. Certains esprits voyagent d'un répertoire à l'autre : la fiche Aïcha Qandicha signale sa présence dans le zar égyptien sous le nom d'Aïcha la Maghrébine."
+}

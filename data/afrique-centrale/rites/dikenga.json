@@ -25,7 +25,9 @@
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": []
+    "entites_liees": [
+      "simbi"
+    ]
   },
   "attributs": [
     "croix inscrite dans un cercle",

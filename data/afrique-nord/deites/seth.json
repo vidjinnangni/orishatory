@@ -24,7 +24,9 @@
       "geb",
       "nut"
     ],
-    "conjoints": [],
+    "conjoints": [
+      "nephthys"
+    ],
     "enfants": [],
     "entites_liees": [
       "osiris",

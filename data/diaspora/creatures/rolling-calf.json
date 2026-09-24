@@ -1,0 +1,48 @@
+{
+  "id": "rolling-calf",
+  "nom": "Rolling calf",
+  "variantes": [
+    "Rollin' calf",
+    "Rolling-calf"
+  ],
+  "region": "diaspora",
+  "categorie": "creatures",
+  "peuples": [
+    "Jamaïcains"
+  ],
+  "resume": "Duppy (esprit de mort) du folklore jamaïcain qui erre la nuit sous une forme animale, les yeux flamboyants et une chaîne au cou. On y voit l'esprit d'une personne malfaisante, en particulier d'un boucher malhonnête, qui ne trouve pas le repos après sa mort.",
+  "description_detaillee": "Le rolling calf est l'un des duppies les plus redoutés de la Jamaïque, le mot duppy désignant les esprits des morts, qui passent pour rester actifs après le décès. Martha Warren Beckwith, qui enquêtait dans les campagnes jamaïcaines dans les années 1920, le décrit comme la forme animale prise par les duppies particulièrement dangereux : meurtriers, bouchers et autres réprouvés deviendraient des rolling calves à leur mort. MacEdward Leach, dans son enquête des années 1960, insiste sur la figure du boucher qui a trompé ses clients.\n\nSon apparence varie. Les témoignages réunis par Beckwith le montrent le plus souvent en animal proche de la chèvre, aux yeux rouges et brillants, dont une patte avant est humaine et l'autre un sabot de cheval ; Thomas Banbury, dès 1894, le disait capable de prendre l'aspect d'un chat, d'un chien, d'un porc, d'un cheval ou d'un taureau, et de changer de taille. Une chaîne pend à son cou, et son cliquetis annonce son approche ; selon un récit rapporté par Frank Cundall en 1904, c'est Satan lui-même qui la lui aurait donnée pour avertir les vivants. Il vit au pied des fromagers, dans les touffes de bambous, les grottes et les maisons abandonnées, et sort la nuit pour suivre les charrettes de sucre, attiré par la mélasse, ou pour s'introduire dans les enclos à bétail. Leach rapporte qu'il tue en soufflant son haleine brûlante sur ses victimes.\n\nLe nom lui-même prête à débat : Beckwith comprenait rolling au sens d'« errant », tandis que Leach y voyait une déformation de roaring, « rugissant ». Le rolling calf s'inscrit dans un ensemble plus large de croyances jamaïcaines sur les morts, qui imposent notamment de veiller à ce que le défunt soit correctement accompagné pour ne pas revenir, préoccupation au cœur de la cérémonie des Nine Night.",
+  "domaines": [
+    "morts",
+    "nuit",
+    "châtiment"
+  ],
+  "tags": [
+    "mort-au-dela",
+    "metamorphose",
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "nine-night"
+    ]
+  },
+  "attributs": [
+    "chaîne au cou",
+    "yeux rouges flamboyants",
+    "forme de chèvre ou de veau",
+    "fromager et bambous",
+    "goût pour la mélasse"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Figure encore racontée dans les campagnes jamaïcaines et largement reprise dans la culture populaire de l'île ; elle ne fait pas l'objet d'un culte.",
+  "sources": [
+    "Beckwith, M.W. (1929). Black Roadways: A Study of Jamaican Folk Life",
+    "Leach, M. (1963). Folklore of Jamaica: A Survey. Schweizerisches Archiv für Volkskunde, 59",
+    "Cundall, F. (1904). Folklore of the Negroes of Jamaica. Folklore, 15(1)"
+  ],
+  "notes": "L'étymologie de rolling (« errant » selon Beckwith, « rugissant » selon Leach) reste discutée. Les descriptions physiques diffèrent beaucoup d'un informateur à l'autre, ce que les auteurs anciens relevaient déjà."
+}
