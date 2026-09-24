@@ -10,7 +10,7 @@
     "Zulu"
   ],
   "resume": "Déesse zulu de l'arc-en-ciel, de l'agriculture et de la protection des jeunes filles non mariées, distincte de Mbaba Mwana Waresa bien que partageant certains domaines. Des rites agricoles annuels menés exclusivement par des femmes lui étaient traditionnellement dédiés.",
-  "description_detaillee": "Les rites agricoles annuels dédiés à Nomkhubulwana, documentés notamment par l'ethnographe Axel-Ivar Berglund, impliquaient traditionnellement la préparation d'un champ rituel entièrement pris en charge par des femmes et des jeunes filles, à l'exclusion de toute présence masculine, dans le cadre d'une cérémonie destinée à s'assurer sa bienveillance pour la fertilité des récoltes de l'année à venir.",
+  "description_detaillee": "Nomkhubulwana (ou Nomkhubulwane) est la grande figure féminine de la religion zulu. On l'appelle aussi Inkosazana yezulu, « la princesse du ciel », et on la dit d'une grande beauté ; l'arc-en-ciel, la brume et la pluie passent pour des émanations de sa présence. Elle n'est pas une ancêtre et son culte ne passe pas par les lignages : elle concerne la terre cultivée, la pluie et les femmes, ce qui en fait un contrepoint rare aux figures masculines qui dominent la cosmologie zulu.\n\nOn lui attribue l'introduction de plusieurs savoirs féminins : semer, récolter, brasser la bière, sevrer les enfants. Chaque printemps, quand les collines sont prises dans la brume, les femmes lui consacraient un rite agricole, décrit par Max Gluckman dès 1935 puis par Eileen Krige et Axel-Ivar Berglund. Les jeunes filles houaient et ensemençaient un petit champ réservé à la princesse du ciel, puis y versaient en libation une bière brassée pour l'occasion ; en chemin, les femmes mariées chantaient des chants de puberté dont Krige a montré qu'ils servaient aussi d'éducation sexuelle. On pouvait encore se tourner vers elle en cas de sécheresse ou d'inondation. Dans la cosmologie du prophète Laduma Madela, recueillie par Katesa Schlosser, elle est la fille de Mvelinqangi, celle qui sème et qui moissonne.\n\nLes ethnographes ont souvent comparé Nomkhubulwana aux déesses méditerranéennes des moissons : A. T. Bryant la rapprochait de Déméter et Perséphone, Krige parlait d'une « Cérès zulu », et un article de M. Lambert (1990) s'intitule justement « Nomkhubulwana : la Déméter zulu ». Ces parallèles aident le lecteur européen mais risquent d'importer un cadre étranger. Plusieurs auteurs la confondent aussi avec Mbaba Mwana Waresa, qui partage l'arc-en-ciel, l'agriculture et la bière ; le codex conserve deux fiches en signalant ce débat.\n\nLongtemps donnés pour disparus, ces rites survivaient pourtant dans certaines campagnes, comme Krige le constatait en 1968, et ils ont connu un net renouveau après la fin de l'apartheid. En 1997, l'isangoma Nomagugu Ngobese, fondatrice d'une organisation culturelle à Pietermaritzburg, a organisé près de Bulwer une fête de trois jours où, après un contrôle de virginité, les jeunes filles plantaient maïs, sorgho et courges dans le jardin de la déesse. Ce lien entre son culte et le test de virginité, remis à l'honneur au KwaZulu-Natal dans les années 1990 comme réponse au VIH et aux grossesses précoces, fait aujourd'hui l'objet de vives critiques de la part d'associations de défense des droits des femmes.",
   "domaines": [
     "arc-en-ciel",
     "agriculture",
@@ -32,7 +32,11 @@
   "culte_contemporain": "",
   "sources": [
     "Berglund, A-I. (1976). Zulu Thought-Patterns and Symbolism",
-    "Krige, E.J. (1936). The Social System of the Zulus"
+    "Krige, E.J. (1936). The Social System of the Zulus",
+    "Gluckman, M. (1935). Zulu Women in Hoecultural Ritual",
+    "Krige, E.J. (1968). Girls' Puberty Songs and their Relation to Fertility, Health, Morality and Religion among the Zulu",
+    "Adeyemi, S. (2017). Performing Myths, Ritualising Modernity: Dancing for Nomkhubulwana and the Reinvention of Zulu Tradition",
+    "Schlosser, K. (1997). Zulu Mythology: As Written and Illustrated by the Zulu Prophet Laduma Madela"
   ],
   "notes": "Certaines sources tendent à fusionner Nomkhubulwana et Mbaba Mwana Waresa comme une seule et même figure sous des noms régionaux différents, tandis que d'autres les distinguent nettement ; cette fiche suit la position qui les distingue, tout en signalant le débat."
 }

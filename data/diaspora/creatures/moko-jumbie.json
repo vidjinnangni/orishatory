@@ -7,8 +7,8 @@
   "peuples": [
     "Caribéens (Trinidad-et-Tobago et autres)"
   ],
-  "resume": "Personnage sur échasses figurant dans les carnavals caribéens, descendant des traditions ouest-africaines d'esprits protecteurs sur échasses (notamment chez les Ewe et les peuples du delta du Niger), interprété dans la diaspora comme un gardien surnaturel veillant sur la communauté depuis les airs.",
-  "description_detaillee": "Le nom moko jumbie associerait un terme ouest-africain (mọ́kọ́ ou moko, parfois relié à une figure de guérisseur ou de devin dans certaines langues du golfe du Bénin) au mot créole caribéen 'jumbie', désignant un esprit ou un revenant. Au-delà de sa fonction spirituelle de protection, la stature du danseur sur échasses aurait eu, à l'époque de l'esclavage, une utilité pratique concrète : sa position en hauteur permettait de repérer à distance l'approche de surveillants ou de patrouilles, combinant vigilance communautaire réelle et symbolique de protection surnaturelle.",
+  "resume": "Danseur sur très hautes échasses des carnavals caribéens (Trinité-et-Tobago, îles Vierges et autres), rattaché aux traditions de danse sur échasses de plusieurs peuples d'Afrique de l'Ouest et vu dans la tradition populaire comme un esprit gardien qui veille sur la communauté depuis sa hauteur.",
+  "description_detaillee": "Le moko jumbie est un danseur perché sur de très hautes échasses que l'on voit dans les carnavals de Trinité-et-Tobago, des îles Vierges et d'autres îles de la Caraïbe. Dans la tradition populaire, il est plus qu'un acrobate : c'est un esprit gardien, dont la haute taille lui permet de voir venir le danger de loin et de veiller sur la communauté. Cette pratique est rattachée aux traditions de danse sur échasses de plusieurs peuples d'Afrique de l'Ouest, transportées par les captifs dans les colonies antillaises.\n\nSon nom associe deux éléments. « Jumbie » désigne dans la Caraïbe anglophone un esprit ou un revenant, souvent malveillant, et on le rapproche généralement d'un mot kongo qui est aussi à l'origine du « zombi » haïtien. L'origine de « moko » est plus incertaine : on y a vu le nom d'un guérisseur ou d'un esprit gardien ouest-africain, ou celui d'une divinité, sans qu'aucune de ces étymologies soit établie. Au milieu du XXe siècle, le folkloriste Daniel Crowley décrivait les moko jumbies de Trinidad, avec leurs jupes peintes, leurs vestes de satin ou de velours et leurs chapeaux à plumes, comme une tradition pratiquement éteinte.\n\nLa figure a connu depuis un renouveau remarquable. À partir des années 1970 puis 1980, des artistes trinidadiens ont relancé la pratique et formé des écoles de danse sur échasses, souvent ouvertes aux enfants des quartiers populaires, qui ont fait du moko jumbie l'une des images les plus reconnaissables du carnaval contemporain. Il est aujourd'hui autant une performance artistique qu'une affirmation d'héritage africain. L'explication, parfois avancée, selon laquelle les danseurs sur échasses auraient servi à guetter l'arrivée des surveillants au temps de l'esclavage ne repose sur aucune source identifiée et relève plutôt de la tradition orale moderne.",
   "domaines": [
     "protection",
     "carnaval",
@@ -32,7 +32,7 @@
   "culte_contemporain": "Figure centrale du carnaval de Trinité-et-Tobago et d'autres carnavals caribéens contemporains, aujourd'hui autant artistique que spirituelle.",
   "sources": [
     "Riggio, M.C. (2004). Carnival: Culture in Action - The Trinidad Experience",
-    "Franco, P. (2007). The Ambivalent Trickster Figure of Moko Jumbies"
+    "Crowley, D.J. (1956). The Traditional Masques of Carnival"
   ],
   "notes": ""
 }

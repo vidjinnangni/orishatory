@@ -8,7 +8,7 @@
     "Fon (Dahomey)"
   ],
   "resume": "Divinité primordiale et androgyne dans certaines traditions fon, antérieure et mère de Mawu-Lisa, associée à la création originelle du monde avant même la répartition des principes masculin et féminin.",
-  "description_detaillee": "L'historien et anthropologue Melville Herskovits, l'un des premiers à documenter systématiquement la religion fon dans les années 1930, a suggéré que le nom et certains traits de Nana Buluku pourraient provenir d'échanges anciens avec des populations haoussa islamisées, le vocable 'buluku' évoquant possiblement une adaptation du terme arabe désignant Dieu — hypothèse qui, si elle se confirme, ferait de Nana Buluku un exemple de recomposition religieuse issue de contacts commerciaux et culturels transrégionaux plutôt que d'une théologie fon isolée.\n\nCette incertitude sur son origine exacte s'ajoute à celle, déjà signalée, sur sa place précise dans la généalogie divine : figure à la fois antérieure et complémentaire de Mawu-Lisa, Nana Buluku illustre la difficulté à figer en un schéma unique une cosmogonie transmise oralement et sujette à variation régionale.",
+  "description_detaillee": "Nana Buluku (ou Nana Buruku) est la divinité la plus ancienne du panthéon vodun des Fon, au Bénin, et des Ewe voisins, au Togo. Dans la version de la création recueillie par Melville et Frances Herskovits au début des années 1930, c'est elle qui crée l'univers et donne naissance aux jumeaux Mawu et Lisa, avant de se retirer et de leur laisser la conduite du monde. Elle se tient ainsi en amont de toute la généalogie divine : les grands vodun descendent de Mawu-Lisa, mais Mawu-Lisa descendent d'elle.\n\nCe retrait explique la faible place de Nana Buluku dans le culte ordinaire. Les Herskovits notent que sa préséance sur toutes les autres divinités est reconnue sans qu'elle fasse l'objet d'un culte régulier comparable à celui des vodun actifs, et ils mentionnent un sanctuaire à Dumè, au nord-ouest d'Abomey. Ce schéma d'un créateur lointain, qui a achevé son œuvre et laissé la place à des divinités plus proches des humains, se retrouve dans de nombreuses religions d'Afrique de l'Ouest. Sa nature reste fluide : on la décrit tantôt comme une femme, tantôt comme un être androgyne, et certaines traditions la confondent avec Mawu elle-même.\n\nSon nom circule bien au-delà du royaume d'Abomey. Chez les Yoruba, une divinité apparentée est connue sous le nom de Nana Buruku, et la traite atlantique l'a portée jusqu'aux Amériques. Au Brésil, elle est devenue Nanã, honorée dans le candomblé et le tambor de mina comme une très vieille femme, plus ancienne que la création même, liée à la boue des origines et à la mort. En Haïti, la cinéaste et ethnographe Maya Deren a relevé que certains fidèles la considéraient comme à la fois masculine et féminine.\n\nL'origine de son nom et le chemin par lequel elle est entrée dans le panthéon fon restent incertains, et les sources n'autorisent pas à trancher. L'idée, parfois avancée, d'un emprunt à l'arabe pour le terme « buluku » ne s'appuie sur aucune source vérifiable.",
   "domaines": [
     "création primordiale",
     "androgynie divine"
@@ -29,7 +29,9 @@
   "culte_contemporain": "",
   "sources": [
     "Herskovits, M.J. (1938). Dahomey: An Ancient West African Kingdom",
-    "Blier, S.P. (1995). African Vodun: Art, Psychology, and Power"
+    "Blier, S.P. (1995). African Vodun: Art, Psychology, and Power",
+    "Herskovits, M.J. & Herskovits, F.S. (1933). An Outline of Dahomean Religious Belief",
+    "Deren, M. (1953). Divine Horsemen: The Living Gods of Haiti"
   ],
   "notes": "La place exacte de Nana Buluku varie selon les sources : certaines traditions la présentent comme antérieure à Mawu-Lisa, d'autres l'associent plus étroitement voire la confondent avec Mawu seule."
 }

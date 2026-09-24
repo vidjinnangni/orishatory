@@ -11,7 +11,7 @@
     "Lunda"
   ],
   "resume": "Prince chasseur luba légendaire qui, selon la tradition orale, épouse la reine lunda Lueji et fonde la dynastie à l'origine de l'empire lunda, incarnant la fusion entre la légitimité par la chasse et le pouvoir royal transmis par alliance.",
-  "description_detaillee": "Selon la tradition, les frères de Lueji, mécontents qu'elle ait transmis le pouvoir royal à son époux étranger plutôt qu'à l'un d'eux, auraient quitté le royaume pour fonder leurs propres États, essaimant ainsi le modèle de royauté sacrée lunda sur un vaste territoire d'Afrique centrale et australe, notamment le royaume kazembe en Zambie orientale. Le bracelet royal lukano, transmis de Lueji à Chibinda Ilunga puis à leurs descendants, demeure le symbole matériel central de légitimité dans l'ensemble de cette 'diaspora' politique lunda, chaque lignage royal qui s'en réclame retraçant sa légitimité jusqu'à cet objet fondateur.",
+  "description_detaillee": "Chibinda Ilunga est le héros fondateur de la royauté lunda, dont le centre se trouvait dans le sud-ouest de l'actuelle République démocratique du Congo. La tradition en fait un chasseur luba, fils d'Ilunga Mbidi et frère cadet de Kalala Ilunga, le fondateur de la royauté luba, venu s'établir chez les Lunda où il épouse la souveraine Lueji. Son histoire explique comment le titre de Mwaant Yav, porté par les rois lunda, est né de la rencontre de deux sociétés voisines.\n\nDans la version la plus répandue, le père de Lueji, déçu par ses fils Kinguri et Chinyama, confie le lukano, le bracelet insigne du pouvoir, à sa fille. Chibinda Ilunga, arrivé en chassant, s'installe à la cour, épouse Lueji et reçoit d'elle le bracelet ; il introduit des rites et des usages luba que les Lunda adoptent. Kinguri et Chinyama, refusant cette situation, quittent le pays : la tradition fait de Kinguri l'ancêtre des souverains du Kasanje, en Angola, et rattache Chinyama aux Luvale. Le titre de Mwaant Yav revient ensuite à un fils de Chibinda. L'ancienne version de cette fiche attribuait aux frères de Lueji la fondation du royaume de Kazembe ; celui-ci fut en réalité créé plus tard, vers le milieu du XVIIIe siècle, par des dignitaires envoyés vers l'est par le Mwaant Yav, sur la Luapula, à la frontière actuelle de la Zambie et de la RDC.\n\nLes Chokwe ont donné au personnage une place à part : leurs sculpteurs l'ont représenté en chasseur portant les insignes royaux, et ces statues comptent parmi les œuvres majeures de l'art d'Afrique centrale. Ils en font un héros civilisateur, maître des techniques de chasse. Les historiens se méfient toutefois d'une lecture trop littérale de la légende. David Gordon a montré que le récit tel qu'on le connaît a été assemblé entre 1885 et 1887 par l'explorateur portugais Henrique Dias de Carvalho, à partir d'informateurs lunda, imbangala et chokwe réunis par le commerce caravanier, chacun y ajoutant ses propres éléments. Certaines versions chokwe renversaient même l'intrigue. Comme pour d'autres épopées dynastiques, histoire politique et récit fondateur y restent étroitement mêlés.",
   "domaines": [
     "royauté",
     "chasse",
@@ -22,9 +22,7 @@
   ],
   "genealogie": {
     "parents": [],
-    "conjoints": [
-      "Lueji"
-    ],
+    "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
@@ -36,7 +34,8 @@
   "culte_contemporain": "Le récit de Chibinda Ilunga et Lueji continue de structurer la légitimité de plusieurs lignages royaux en Angola, en Zambie et en RDC se réclamant de l'héritage lunda.",
   "sources": [
     "Vansina, J. (1966). Kingdoms of the Savanna",
-    "Miller, J.C. (1976). Kings and Kinsmen: Early Mbundu States in Angola (contexte comparatif régional)"
+    "Miller, J.C. (1976). Kings and Kinsmen: Early Mbundu States in Angola (contexte comparatif régional)",
+    "Gordon, D.M. (2023). The Quotidian Politics of a Love Story: Researching, Assembling, and Mobilizing the Lunda Legend in the Late Nineteenth Century (Journal of African History, 64, 2)"
   ],
   "notes": "Comme pour Sunjata Keïta en Afrique de l'Ouest, ce récit se situe à la frontière entre histoire dynastique attestée et épopée transmise oralement, avec des variantes selon les lignages narrateurs."
 }

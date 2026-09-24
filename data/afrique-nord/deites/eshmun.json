@@ -10,7 +10,7 @@
     "Puniques (Carthage)"
   ],
   "resume": "Dieu punique de la guérison et de la médecine, vénéré à Carthage dans un important sanctuaire sur la colline de Byrsa, identifié par les Grecs et Romains à Asclépios/Esculape.",
-  "description_detaillee": "Une tradition rapportée par l'auteur tardif Damascius relate qu'Eshmoun aurait été à l'origine un jeune chasseur d'une beauté remarquable, poursuivi par les avances de la déesse Astarté ; désespéré par cette insistance, il se serait mutilé et laissé mourir, avant d'être ramené à la vie et élevé au rang de dieu par la déesse elle-même, un mythe fondateur de mort et de résurrection cohérent avec sa fonction ultérieure de dieu guérisseur.",
+  "description_detaillee": "Eshmoun est un dieu guérisseur venu de Phénicie, protecteur de la cité de Sidon, dont le culte a suivi les marchands et les colons phéniciens jusqu'à Carthage, en Sardaigne et à Ibiza. Les Grecs et les Romains l'ont reconnu dans leur dieu de la médecine, Asclépios ou Esculape, et c'est sous ce nom que les auteurs classiques évoquent son grand temple carthaginois, sur la colline de Byrsa. Il compte parmi les rares dieux puniques dont on connaît un fragment de mythe.\n\nCe récit est tardif et nous parvient de loin : il est rapporté au 6e siècle de notre ère par le philosophe néoplatonicien Damascius. Un jeune homme de Béryte (Beyrouth), passionné de chasse, attire le désir de la déesse Astronoé ; pour lui échapper, il se mutile et meurt. La déesse le ramène à la vie par sa chaleur et fait de lui un dieu que les Phéniciens nommeraient Eshmoun et les Grecs Paian, « le guérisseur ». Damascius fait aussi de lui le huitième fils de Sydyk, et une étymologie ancienne lit dans son nom « le huitième », explication qui reste discutée. Mort et retour à la vie, puis pouvoir de rendre la santé : le mythe éclaire la fonction du dieu, mais il est rédigé en grec, près d'un millénaire après l'essor de son culte, et ne dit pas forcément ce qu'en pensaient ses fidèles de Carthage.\n\nEn Phénicie, son sanctuaire près de Sidon, développé sous le roi Eshmounazar II au 6e siècle avant notre ère, a livré de nombreux ex-voto, dont beaucoup représentent des enfants, signe de prières pour des guérisons. Une inscription trilingue (punique, grec, latin) découverte en Sardaigne l'identifie explicitement à Asclépios et à Esculape. À Carthage, l'historien grec Appien raconte que son temple, au sommet de Byrsa, fut le dernier refuge des défenseurs en 146 avant notre ère : les déserteurs romains s'y enfermèrent et y mirent le feu, et c'est là que l'épouse du général Hasdrubal, selon ce récit, se jeta dans les flammes avec ses enfants après avoir maudit son mari.\n\nLe codex le rapproche de Baal Hammon, Tanit et Melqart, les autres dieux phéniciens adoptés à Carthage. À Chypre et à Ibiza, des inscriptions l'associent à Melqart sous la forme composée Eshmoun-Melqart, preuve que ces figures n'étaient pas cloisonnées.",
   "domaines": [
     "guérison",
     "médecine",
@@ -28,7 +28,8 @@
   "culte_contemporain": "",
   "sources": [
     "Lipiński, E. (1995). Dieux et déesses de l'univers phénicien et punique",
-    "Xella, P. (2013). The Tophet in the Punic Mediterranean (contexte religieux carthaginois)"
+    "Xella, P. (2013). The Tophet in the Punic Mediterranean (contexte religieux carthaginois)",
+    "Appien, Libyca (Histoire romaine, livre VIII, 2e siècle apr. J.-C.)"
   ],
   "notes": ""
 }

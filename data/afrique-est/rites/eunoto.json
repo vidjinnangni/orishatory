@@ -8,7 +8,7 @@
     "Maasai"
   ],
   "resume": "Cérémonie maasai marquant le passage des jeunes guerriers (moran) au statut d'ancien junior, impliquant plusieurs jours de rituels collectifs et la coupe rituelle des cheveux longs portés depuis l'initiation.",
-  "description_detaillee": "Le rasage rituel des cheveux longs et ocrés du jeune guerrier, point culminant de la cérémonie, est traditionnellement effectué par sa propre mère, geste chargé d'une forte portée émotionnelle marquant symboliquement la fin de son autorité maternelle directe sur un fils désormais reconnu comme un adulte pleinement autonome. L'ensemble des festivités peut s'étendre sur plusieurs jours, réunissant l'ensemble de la classe d'âge des jeunes guerriers concernés dans un campement cérémoniel spécialement construit pour l'occasion.",
+  "description_detaillee": "L'eunoto est l'une des grandes cérémonies de passage des Maasai, peuple de pasteurs installé de part et d'autre de la frontière entre le Kenya et la Tanzanie. Elle concerne non pas un individu mais toute une classe d'âge : les jeunes guerriers (ilmurran, souvent appelés moran) y quittent leur condition de guerrier pour entrer dans l'âge adulte, ce qui leur ouvre en principe le droit de se marier et de fonder un foyer. Chez les Maasai, où l'organisation de la société repose sur ces classes d'âge, la cérémonie règle donc la relève d'une génération d'hommes par la suivante.\n\nLes rites durent plusieurs jours, quatre selon plusieurs descriptions, dans un campement bâti pour l'occasion autour d'une maison cérémonielle (osingira). Les anciens désignent parmi les guerriers un olotuno, jeune homme à la réputation sans tache, dont le choix doit être approuvé par le laibon, le spécialiste rituel ; c'est lui qui boit le premier le sang du bœuf abattu et qui porte une part de la responsabilité rituelle de toute sa classe. Le moment le plus attendu reste le rasage. Chaque mère coupe les longues tresses teintes à l'ocre de son fils, assis, disent plusieurs témoins, sur la peau de vache qui avait servi lors de sa circoncision. Ces cheveux signalaient le prestige et la liberté du guerrier, si bien que leur perte est vécue à la fois comme une promotion et comme un deuil, et la scène s'accompagne souvent de larmes en public. L'intervalle entre deux eunoto varie selon les sections maasai et les sources, de l'ordre d'une dizaine d'années ou davantage.\n\nL'eunoto ne se comprend bien qu'au sein d'une suite de rites : l'enkipaata prépare les garçons à l'initiation, l'eunoto clôt la vie de guerrier, et l'olng'esherr, la cérémonie de la viande, marque plus tard l'entrée dans le rang des anciens. L'UNESCO a inscrit ces trois rites ensemble en 2018 sur sa liste du patrimoine immatériel nécessitant une sauvegarde urgente, en citant l'essor de l'agriculture, les réformes foncières et les effets du changement climatique sur le bétail. L'anthropologue Paul Spencer, qui a étudié les Maasai du Matapato, lit ces cérémonies à travers les tensions entre anciens et guerriers, d'où le sous-titre de son ouvrage consacré aux « rituels de rébellion ». Les prières et bénédictions qui les accompagnent s'adressent à Engai, la divinité maasai présentée dans une fiche distincte du codex.",
   "domaines": [
     "passage rituel",
     "guerre",
@@ -33,7 +33,8 @@
   "culte_contemporain": "",
   "sources": [
     "Spencer, P. (1988). The Maasai of Matapato: A Study of Rituals of Rebellion",
-    "Galaty, J.G. (1993). Maasai Expansion and the New East African Pastoralism"
+    "Galaty, J.G. (1993). Maasai Expansion and the New East African Pastoralism",
+    "UNESCO (2018). Enkipaata, Eunoto and Olng'esherr, three male rites of passage of the Maasai community"
   ],
   "notes": ""
 }

@@ -8,7 +8,7 @@
     "Haïtiens (vodou)"
   ],
   "resume": "Loa vodou haïtien des carrefours, de la communication et du seuil entre les mondes, invoqué en premier lors de toute cérémonie vodou pour ouvrir le passage vers les autres esprits. Descend directement d'Èṣù/Elegba yoruba et de Legba fon, recomposé dans le contexte haïtien.",
-  "description_detaillee": "Une hypothèse discutée par certains musicologues, notamment Gerhard Kubik, relie la légende nord-américaine du bluesman ayant vendu son âme à un esprit du carrefour (popularisée autour de Robert Johnson) à une mémoire résiduelle, largement transformée et déconnectée de son théologie d'origine, de la fonction de Legba/Èṣù comme gardien des carrefours dans les religions ouest-africaines transmises aux États-Unis ; cette filiation reste hypothétique et ne fait pas consensus, mais illustre la façon dont des motifs religieux africains ont pu essaimer dans la culture populaire américaine par des voies indirectes et largement sécularisées.",
+  "description_detaillee": "Papa Legba est le lwa qui ouvre toutes les cérémonies du vodou haïtien. Gardien des portes, des chemins et des carrefours, il se tient au seuil qui sépare le monde des vivants de celui des esprits, et c'est à lui que l'on s'adresse en premier pour qu'il « ouvre la barrière » et laisse passer les autres lwa. Il descend de Legba, le vodun fon du Bénin, et d'Èṣù yoruba, deux figures présentes dans le codex, mais le vodou haïtien lui a donné un visage bien à lui.\n\nSous le nom d'Atibon Legba, il apparaît en vieillard boiteux appuyé sur une béquille, coiffé d'un chapeau de paille, la pipe à la bouche et un sac de paille (makout) à l'épaule. Cette image a favorisé son rapprochement avec saint Lazare, représenté avec des béquilles, ou avec saint Pierre, qui détient les clés du paradis. Maya Deren l'associe au soleil et à la « grande route » qui mène aux lwa. Dans le rite petro, le carrefour relève d'une figure plus inquiétante, Kalfou (Mèt Kafou), nocturne et associée à la lune, souvent présentée comme l'autre face de Legba : ce qui est ouverture et protection chez l'un devient danger et magie chez l'autre.\n\nLe contraste avec ses ancêtres africains est frappant. Le Legba des Fon, jeune, espiègle et à la statuaire souvent phallique, est devenu en Haïti un vieil homme affaibli qui garde pourtant la clé de tout. Dans un autre registre, le musicologue Gerhard Kubik a discuté l'idée selon laquelle la légende du bluesman ayant vendu son âme au diable à un carrefour, attachée à Robert Johnson, garderait la trace d'un dieu des carrefours africain. Il souligne lui-même que Legba n'a rien de diabolique en Afrique de l'Ouest, et que la légende a été entièrement habillée de références chrétiennes et européennes ; la filiation reste une hypothèse, non un fait établi.",
   "domaines": [
     "carrefours",
     "communication",
@@ -35,8 +35,9 @@
   "recits_associes": [],
   "culte_contemporain": "Toujours invoqué en ouverture de toute cérémonie vodou haïtienne contemporaine, en Haïti comme dans sa diaspora.",
   "sources": [
-    "Métraux, A. (1959). Le Vaudou haïtien",
-    "Deren, M. (1953). Divine Horsemen: The Living Gods of Haiti"
+    "Métraux, A. (1958). Le Vaudou haïtien",
+    "Deren, M. (1953). Divine Horsemen: The Living Gods of Haiti",
+    "Kubik, G. (1999). Africa and the Blues"
   ],
   "notes": "À ne pas réduire à une simple 'version haïtienne' d'Èṣù : le vodou a développé sa propre théologie et pratique autour de Legba, distincte de la pratique yoruba d'origine."
 }

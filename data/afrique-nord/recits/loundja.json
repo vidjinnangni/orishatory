@@ -7,8 +7,8 @@
   "peuples": [
     "Kabyles"
   ],
-  "resume": "Conte kabyle célèbre narrant les épreuves de Loundja, jeune fille d'une beauté extraordinaire élevée par l'ogresse Teryel, et de son prétendant qui doit déjouer une série de ruses et de dangers pour la délivrer et l'épouser.",
-  "description_detaillee": "Sur le plan comparatif, ce conte partage une structure narrative reconnaissable dans la classification internationale des contes populaires (jeune femme recluse élevée ou gardée par une figure surnaturelle, délivrée après des épreuves par un prétendant), rapprochant Loundja de récits mieux connus en Occident comme Raiponce, tout en conservant des éléments et un cadre culturel propres à la tradition orale kabyle.",
+  "resume": "Conte kabyle célèbre narrant les épreuves de Loundja, jeune fille d'une beauté extraordinaire et fille de l'ogresse Teryel, et du jeune homme qui doit déjouer les ruses et les dangers de l'ogresse pour l'emmener et l'épouser.",
+  "description_detaillee": "« Loundja, fille de Tsériel » est l'un des contes kabyles les plus connus hors de Kabylie, grâce à la version qu'en a donnée Taos Amrouche dans Le Grain magique (1966), recueil de contes, poèmes et proverbes transmis dans sa famille, puis à ses adaptations pour la radio et la scène. L'héroïne y est la fille de Teryel (Tsériel dans cette graphie), l'ogresse des contes kabyles : toute la tension du récit tient à ce qu'une jeune fille d'une beauté parfaite soit née du monstre le plus redouté de la tradition.\n\nTout commence par une quête. Un jeune homme entend parler d'une fille à la peau blanche comme la neige et aux joues vermeilles comme le sang, et il part à sa recherche jusqu'au fond de la forêt, où vit l'ogresse. Il parvient à enlever Loundja, et Tsériel finit noyée. L'histoire ne s'arrête pas là : un aigle emporte le jeune homme. Avant de disparaître, il demande à Loundja de revêtir une peau d'âne et d'entrer ainsi dans la maison de son père. Sous ce déguisement, elle avertit le père du sort de son fils, qui est délivré. Le jeune homme annonce alors qu'il épousera la « peau d'âne », et il le fait malgré la honte de son père.\n\nLe conte réunit des motifs que l'on retrouve ailleurs, en Europe comme au Maghreb : la beauté décrite par la neige et le sang, la fiancée gardée par un être dangereux, la princesse cachée sous une peau de bête. Il les agence pourtant d'une manière propre, où c'est la jeune fille qui, sous son déguisement, sauve le héros, et où le mariage se conclut contre l'avis du père. Comme tous les contes de veillée, il circule en de nombreuses variantes selon les villages et les conteuses.\n\nLe récit a connu une seconde vie en français, portée par Taos Amrouche, qui l'a aussi dit et produit pour la radio, puis par des mises en scène scolaires et théâtrales. Il se lit en regard de la fiche Teryel, qui présente l'ogresse, et des études de Camille Lacoste-Dujardin sur le conte kabyle, qui analysent ces récits à travers le monde masculin, le monde féminin et les relations entre hommes et femmes au sein de la famille.",
   "domaines": [
     "beauté",
     "épreuves",
@@ -28,7 +28,8 @@
   "culte_contemporain": "",
   "sources": [
     "Amrouche, T. (1966). Le grain magique: contes, poèmes et proverbes berbères de Kabylie",
-    "Feraoun, M. (1994). Les Chemins qui montent (contexte littéraire kabyle plus large)"
+    "Feraoun, M. (1994). Les Chemins qui montent (contexte littéraire kabyle plus large)",
+    "Lacoste-Dujardin, C. (1970). Le conte kabyle: étude ethnologique"
   ],
   "notes": "Ce conte fait partie d'un cycle narratif largement diffusé oralement à travers la Kabylie, avec de nombreuses variantes locales quant aux détails des épreuves imposées au prétendant."
 }

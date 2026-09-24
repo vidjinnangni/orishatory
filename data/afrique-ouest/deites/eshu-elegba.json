@@ -1,21 +1,44 @@
 {
   "id": "eshu-elegba",
   "nom": "Èṣù",
-  "variantes": ["Eshu", "Elegba", "Legba", "Èṣù-Ẹlẹ́gbára"],
+  "variantes": [
+    "Eshu",
+    "Elegba",
+    "Legba",
+    "Èṣù-Ẹlẹ́gbára"
+  ],
   "region": "afrique-ouest",
   "categorie": "deites",
-  "peuples": ["Yoruba"],
+  "peuples": [
+    "Yoruba"
+  ],
   "resume": "Orisha des carrefours, du langage et de la communication entre les mondes humain et divin. Figure ambivalente souvent associée au trickster, gardien des choix et de l'imprévisible.",
-  "description_detaillee": "Dans la théologie yoruba, Èṣù occupe une position structurellement unique : messager d'Olódùmarè (l'être suprême) et intermédiaire obligé entre les humains, les autres orisha et le monde invisible. Aucun sacrifice ni aucune prière ne serait efficace sans son passage préalable, ce qui en fait moins un dieu parmi d'autres qu'une condition de possibilité de toute communication rituelle. Cette centralité se retrouve dans le système Ifá, où chaque séance de divination s'ouvre par une invocation d'Èṣù, chargé de transmettre fidèlement le message des oracles.\n\nÈṣù n'a pas une forme unique mais se décline en une multitude de 'chemins' (ọ̀nà) ou avatars régionaux, chacun associé à un sanctuaire, un tempérament et des offrandes propres — une pluralité qui complique toute description figée de sa personnalité. Les récits qui le mettent en scène le montrent fréquemment en train de tester la droiture morale des humains et des autres orisha eux-mêmes, parfois en semant volontairement la discorde pour révéler des vérités cachées ; le mythe le plus cité le montre traversant un chemin coiffé d'un bonnet mi-rouge mi-noir, provoquant une dispute entre deux amis qui n'avaient chacun vu qu'une couleur.\n\nSa statuaire, souvent explicitement phallique, renvoie à la fécondité et au pouvoir générateur plutôt qu'à une charge obscène — une lecture qui a pourtant nourri, comme le signale le champ notes, l'assimilation missionnaire à une figure diabolique.",
-  "domaines": ["carrefours", "communication", "chance", "ambivalence morale"],
-  "tags": ["trickster", "divination"],
+  "description_detaillee": "Èṣù appartient au panthéon des orisha, les divinités de la religion yoruba, pratiquée depuis plus d'un millénaire par les populations du sud-ouest du Nigeria et du Bénin. Parmi ces nombreuses divinités, chacune gouvernant un domaine précis de l'existence, Èṣù occupe une place à part : il est le seul par qui toute communication entre les humains et le reste du panthéon doit transiter. Sans lui, aucune prière, aucun sacrifice, aucune question posée à l'oracle n'atteint son destinataire divin.\n\nCette fonction de messager et de gardien des carrefours en fait une figure ambivalente, ni bonne ni mauvaise en elle-même. On le range souvent parmi les tricksters, ces personnages rusés et imprévisibles que l'on retrouve dans de nombreuses mythologies africaines, mais le réduire à un simple farceur reviendrait à passer à côté de son rôle théologique. Dans la pratique rituelle, il est salué en premier, avant tout autre orisha, et ses autels portent souvent des cauris et des pièces de monnaie destinés à s'assurer sa bonne humeur. Il n'a par ailleurs pas une forme unique : la tradition lui reconnaît de nombreux « chemins », chacun avec son lieu, son tempérament et ses offrandes propres.\n\nLe récit le plus souvent raconté pour faire comprendre sa nature le montre traversant un village coiffé d'un chapeau peint moitié en rouge, moitié en noir. Deux amis qui l'observent chacun d'un côté du chemin se disputent ensuite violemment sur la couleur qu'ils ont vue, chacun ayant raison de son point de vue et tort de celui de l'autre. Èṣù n'intervient jamais pour les départager : la leçon tient précisément dans l'idée qu'une même vérité peut sembler totalement différente selon l'endroit d'où on la regarde.\n\nSa statuaire, souvent ouvertement phallique, renvoie à la fécondité et à la puissance générative plutôt qu'à une provocation gratuite. Les premiers missionnaires européens ont largement ignoré cette lecture théologique en l'assimilant à une figure diabolique, un contresens qui a durablement marqué la perception occidentale du personnage et qui explique en partie pourquoi son nom évoque encore, à tort, une figure du mal dans l'imaginaire populaire.",
+  "domaines": [
+    "carrefours",
+    "communication",
+    "chance",
+    "ambivalence morale"
+  ],
+  "tags": [
+    "trickster",
+    "divination"
+  ],
   "genealogie": {
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": ["ifa", "ogun"]
+    "entites_liees": [
+      "ifa",
+      "ogun"
+    ]
   },
-  "attributs": ["bâton (ogo)", "calebasse", "couleurs rouge et noir", "carrefour"],
+  "attributs": [
+    "bâton (ogo)",
+    "calebasse",
+    "couleurs rouge et noir",
+    "carrefour"
+  ],
   "recits_associes": [],
   "culte_contemporain": "Vénéré au sein de l'Ifá/Orisha traditionnel au Nigeria et au Bénin, ainsi que dans ses formes diasporiques sous les noms de Legba (vaudou) et Elegguá (santería).",
   "sources": [

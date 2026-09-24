@@ -7,8 +7,8 @@
   "peuples": [
     "Égyptiens anciens"
   ],
-  "resume": "Dieu de la terre, souvent représenté allongé sous le corps arqué de sa sœur-épouse Nout, associé aux tremblements de terre (interprétés comme son rire) et à la fertilité du sol.",
-  "description_detaillee": "Dans le récit du conflit opposant Horus et Seth pour la succession d'Osiris, c'est Geb, en tant que dieu de la terre et ancien souverain divin, qui préside symboliquement le tribunal chargé de trancher le litige, avant de céder finalement son trône terrestre à son petit-fils Horus, incarnant la transmission légitime du pouvoir royal à travers les générations divines.",
+  "resume": "Dieu de la terre, souvent représenté allongé sous le corps arqué de sa sœur-épouse Nout, associé à la fertilité du sol et à la végétation ; la Théologie memphite fait de lui l'arbitre entre Horus et Seth. L'idée que les tremblements de terre seraient son rire circule dans les ouvrages modernes mais reste peu attestée dans les textes égyptiens.",
+  "description_detaillee": "Geb est la terre divinisée de l'Égypte ancienne. Fils de Shou et de Tefnout dans la théologie d'Héliopolis, il forme avec sa sœur Nout, le ciel, le couple dont naissent Osiris, Isis, Seth et Nephtys. Contrairement à beaucoup de mythologies où la terre est féminine, l'Égypte en fait un dieu masculin, allongé sur le flanc sous le corps arqué de Nout. Son importance tient moins à des récits spectaculaires qu'à sa place dans la transmission du pouvoir : il est l'ancêtre dont procède la royauté d'Osiris puis d'Horus, et donc celle des pharaons, qui se disaient volontiers « héritiers de Geb » et siégeaient sur le « trône de Geb ».\n\nOn le représente en homme étendu, parfois couvert de végétation ou peint en vert, car c'est de son corps que poussent les plantes et que sortent les récoltes. Il porte parfois une oie sur la tête, l'oiseau qui sert à écrire son nom. Comme dieu du sol, il est aussi celui qui garde ce qui est enfoui : les morts, les minéraux, les serpents qui vivent sous terre. Les Textes des Pyramides en appellent à lui pour qu'il ouvre la terre au roi défunt ou, au contraire, qu'il retienne les forces hostiles.\n\nSon rôle d'arbitre est surtout connu par la Théologie memphite, un texte gravé sur la « pierre de Shabaka » au VIIIe siècle avant notre ère. Geb y juge le conflit entre Horus et Seth pour l'héritage d'Osiris : il partage d'abord l'Égypte entre les deux rivaux, puis se ravise et confie l'ensemble du pays à Horus. Dans le récit plus connu des Aventures d'Horus et Seth, conservé sur un papyrus du Nouvel Empire, c'est en revanche le tribunal de l'Ennéade, sous l'autorité de Rê, qui mène le procès. Les deux versions montrent la même idée sous deux angles : la royauté est un héritage qui se transmet dans la lignée divine, et Geb en est le dépositaire.",
   "domaines": [
     "terre",
     "fertilité",
@@ -18,11 +18,18 @@
     "terre-fertilite"
   ],
   "genealogie": {
-    "parents": [],
+    "parents": [
+      "shu",
+      "tefnut"
+    ],
     "conjoints": [
       "nut"
     ],
-    "enfants": [],
+    "enfants": [
+      "osiris",
+      "isis",
+      "seth"
+    ],
     "entites_liees": [
       "nut"
     ]
@@ -34,7 +41,8 @@
   "culte_contemporain": "",
   "sources": [
     "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
-    "Hart, G. (2005). The Routledge Dictionary of Egyptian Gods and Goddesses"
+    "Hart, G. (2005). The Routledge Dictionary of Egyptian Gods and Goddesses",
+    "Allen, J.P. (1988). Genesis in Egypt: The Philosophy of Ancient Egyptian Creation Accounts"
   ],
   "notes": ""
 }

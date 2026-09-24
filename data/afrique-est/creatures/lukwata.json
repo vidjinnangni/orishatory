@@ -8,7 +8,7 @@
     "Baganda"
   ],
   "resume": "Créature légendaire censée habiter les profondeurs du lac Victoria, décrite selon les récits comme un serpent géant ou un poisson monstrueux capable de faire chavirer des embarcations, invoquée traditionnellement pour expliquer des noyades inexpliquées.",
-  "description_detaillee": "La figure du Lukwata s'inscrit dans un ensemble plus large de créatures aquatiques gardiennes redoutées dans les grands lacs et fleuves d'Afrique, aux côtés de Nyaminyami sur le Zambèze ou de l'Inkanyamba sud-africain, formant un motif largement répandu du serpent ou monstre des eaux profondes exigeant respect et prudence de la part des pêcheurs et voyageurs, sous des noms et des récits distincts selon les régions.",
+  "description_detaillee": "Le Lukwata est le monstre du lac Victoria dans les traditions des Baganda, le peuple du royaume du Buganda, sur la rive nord du lac, dans l'actuel Ouganda. Pour les pêcheurs et les piroguiers qui traversaient ses eaux entre les îles, le lac n'était pas un espace neutre : il abritait des puissances qu'il fallait ménager, et le Lukwata était la plus redoutée d'entre elles.\n\nLes premières mentions écrites datent de la fin du XIXe siècle, dans les vocabulaires et grammaires du luganda rédigés par les missionnaires. En 1902, Sir Harry Johnston, alors commissaire britannique en Ouganda, rapporte dans The Uganda Protectorate des « récits persistants » selon lesquels le lac serait habité par un monstre que les Baganda appellent Lukwata. Il hésite sur sa nature (un petit cétacé, un grand lamantin ou, plus probablement à ses yeux, un poisson gigantesque) et note que certains riverains l'associent aux tourbillons, entre les îles, capables d'aspirer de grandes pirogues. Des témoignages européens de la même époque décrivent une tête sombre surgissant de l'eau, et plusieurs auteurs signalent que les riverains faisaient des offrandes de bétail pour apaiser la créature. Le mot désignait aussi autre chose : vers 1905, John Cunningham décrit sous ce nom une amulette d'argile que l'on cachait sur les terres royales pour protéger un village des voleurs.\n\nL'anthropologue Michael Kenny, qui a travaillé sur les îles Mfangano et Rusinga à l'entrée du golfe de Kavirondo, a replacé ces monstres dans un ensemble plus large : autour du lac, les populations riveraines partagent un même complexe d'idées où le lac apparaît comme une source de puissance cosmique, habitée par des êtres dangereux et par des divinités protectrices comme Mukasa, grande figure du panthéon ganda liée aux eaux. Le Lukwata s'apparente aussi à d'autres gardiens aquatiques du continent, comme Nyaminyami sur le Zambèze ou l'Inkanyamba d'Afrique australe, sans qu'on puisse établir de lien historique entre ces figures. Comme pour d'autres créatures africaines, la littérature cryptozoologique s'en est emparée au XXe siècle, souvent en retenant les témoignages européens plus que ce que la créature signifiait pour les gens du lac.",
   "domaines": [
     "lac",
     "danger",
@@ -27,8 +27,9 @@
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [
-    "Roscoe, J. (1911). The Baganda: An Account of Their Native Customs and Beliefs",
-    "Kitching, A.L. (1912). On the Backwaters of the Nile"
+    "Johnston, H. (1902). The Uganda Protectorate",
+    "Cunningham, J.F. (1905). Uganda and Its Peoples",
+    "Kenny, M.G. (1977). The Powers of Lake Victoria"
   ],
   "notes": ""
 }

@@ -8,7 +8,7 @@
     "Haïtiens (vodou)"
   ],
   "resume": "Famille de loa vodou haïtiens du fer, de la guerre et de la force, descendant direct d'Ogun yoruba, se déclinant en plusieurs figures spécialisées (Ogou Feray pour la guerre, Ogou Badagri pour la diplomatie, entre autres).",
-  "description_detaillee": "Chaque avatar d'Ogou correspond à un registre distinct de la force martiale et sociale : Ogou Feray incarne la guerre et l'agressivité pure, Ogou Balendjo penche vers la guérison malgré son tempérament guerrier, Ogou Badagri vers la diplomatie et la négociation — une spécialisation qui permet aux pratiquants de solliciter précisément l'aspect de la force nécessaire à leur situation plutôt qu'une puissance martiale indifférenciée.\n\nDans l'imaginaire populaire haïtien, certains avatars d'Ogou en sont venus à être associés, de façon informelle mais culturellement significative, à des figures historiques de la révolution haïtienne comme Jean-Jacques Dessalines, mêlant ainsi mémoire spirituelle et mémoire politique de la lutte pour l'indépendance.",
+  "description_detaillee": "Ogou est, dans le vodou haïtien, une famille de lwa du fer, de la guerre et du pouvoir. Il hérite à la fois d'Ògún, l'orisha forgeron des Yoruba, et de Gu, son équivalent chez les Fon du Bénin, deux divinités présentes dans le codex. En Haïti, ce maître du métal est devenu le patron des soldats et des hommes politiques, un esprit auquel on demande force, courage et victoire, et qui compte parmi les lwa les plus populaires du pays.\n\nOn ne sert pas un seul Ogou mais plusieurs : Ogou Feray, le plus guerrier, Ogou Badagri, Ogou Balendjo, Ogou Batala ou Ogou Je Wouj, chacun avec son tempérament, ses préférences et son registre d'action. Le rouge est leur couleur, la machette ou une simple pièce de fer leur emblème, et le rhum blanc accompagne leurs possessions, où le lwa se comporte en officier autoritaire. Ogou Feray a été rapproché de saint Jacques le Majeur, que l'imagerie catholique représente en cavalier armé d'une épée. Chaque année, autour du 25 juillet, jour de la Saint-Jacques, des milliers de pèlerins se rendent à Plaine-du-Nord, près du Cap-Haïtien, pour se baigner dans la boue du « trou Saint-Jacques » en son honneur.\n\nLe lien entre Ogou et l'histoire nationale est plus qu'une image. Jean-Jacques Dessalines, chef de la guerre d'indépendance et premier dirigeant d'Haïti, est lui-même servi dans certaines maisons comme un lwa, Ogou Desalin, rangé parmi les esprits « créoles » nés sur le sol haïtien, comme l'a analysé Joan Dayan. Le paradoxe est notable, car Dessalines, comme la plupart des dirigeants de son temps, n'était sans doute pas favorable au vodou. Les récits le rattachent aussi à Ezili Dantor, souvent présentée comme sa partenaire, ce qui fait d'Ogou un point de rencontre entre la guerre, l'amour et la mémoire de la révolution.",
   "domaines": [
     "fer",
     "guerre",
@@ -32,8 +32,9 @@
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [
-    "Métraux, A. (1959). Le Vaudou haïtien",
-    "Brown, K.M. (1991). Mama Lola: A Vodou Priestess in Brooklyn"
+    "Métraux, A. (1958). Le Vaudou haïtien",
+    "Brown, K.M. (1991). Mama Lola: A Vodou Priestess in Brooklyn",
+    "Dayan, J. (1995). Haiti, History, and the Gods"
   ],
   "notes": ""
 }

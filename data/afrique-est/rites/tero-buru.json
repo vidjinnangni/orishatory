@@ -8,7 +8,7 @@
     "Luo"
   ],
   "resume": "Rite funéraire luo traditionnel impliquant une simulation de combat ou de raid de bétail en l'honneur du défunt, destiné à honorer sa mémoire et à accompagner symboliquement son passage vers le monde des ancêtres.",
-  "description_detaillee": "La tenue effective du tero buru pouvait traditionnellement être différée de plusieurs mois, voire de plusieurs années après le décès, le temps que la famille du défunt rassemble les ressources et le bétail nécessaires à l'organisation d'une cérémonie digne de son rang social, en particulier pour les personnalités de premier plan au sein de la communauté ; l'achèvement du deuil funéraire luo pouvait ainsi constituer un processus social prolongé plutôt qu'un rite immédiatement consécutif au décès.",
+  "description_detaillee": "Le tero buru est un rite funéraire des Luo du Kenya, peuple nilotique installé autour du golfe de Winam, sur le lac Victoria. Il n'était accompli que pour des hommes respectés : anciens, guerriers renommés, hommes riches ou influents, guérisseurs. Le nom se traduit généralement par « emporter la poussière » (buru désignant la poussière ou la cendre), c'est-à-dire la souillure laissée par la mort et par le deuil dans la concession ; certains commentateurs le rendent plutôt par « conduire le taureau ». Le rite dit beaucoup de la manière dont les Luo concevaient la mort, comme une contamination qu'il fallait chasser collectivement pour que la vie reprenne.\n\nDans sa forme classique, jeunes hommes et anciens, parés de peaux, de coiffes et de branchages, font courir un troupeau de bœufs autour de la concession du défunt en soulevant la poussière, au son des cornes, des tambours et des chants de guerre. Ils frappent de leurs massues et de leurs lances des adversaires invisibles, puis escortent les bêtes jusqu'à une rivière ou au lac, où l'on considère que les forces néfastes sont déposées. Au retour, le fils aîné reçoit la coiffe et la lance de son père, geste qui fait de la cérémonie un rite de succession autant qu'un adieu. Le moment choisi varie selon les témoignages : certains situent le rite avant l'inhumation, d'autres quelques jours après, à une date fixée par les anciens. L'idée que la famille pouvait le repousser de plusieurs années, le temps de réunir le bétail nécessaire, n'a pas pu être vérifiée.\n\nLa pratique a fortement reculé. Une grande partie des Luo sont aujourd'hui chrétiens, et en 2023 la famille du professeur George Magoha a renoncé au rite ; les troupeaux se sont aussi réduits, deux ou trois bêtes par foyer là où l'on en comptait autrefois plusieurs dizaines. Le tero buru reste pourtant mobilisé pour honorer des figures exceptionnelles : en octobre 2025, le Conseil des anciens luo l'a accompli dans la propriété de Raila Odinga, près de Bondo, avant même l'arrivée de sa dépouille. Il prolonge ainsi l'idéal guerrier que la tradition luo attache à des héros comme Lwanda Magere, présenté dans une autre fiche du codex.",
   "domaines": [
     "funérailles",
     "honneur guerrier",
@@ -32,7 +32,8 @@
   "culte_contemporain": "La pratique a considérablement décliné avec la christianisation et l'urbanisation, mais certains éléments symboliques subsistent dans des funérailles luo contemporaines réinterprétées.",
   "sources": [
     "Ocholla-Ayayo, A.B.C. (1976). Traditional Ideology and Ethics among the Southern Luo",
-    "Mboya, P. (1938). Luo Kitgi gi Timbegi"
+    "Mboya, P. (1938). Luo Kitgi gi Timbegi",
+    "Daily Nation (2025). Tero Buru and the fading traditions of Luo funerals"
   ],
   "notes": ""
 }

@@ -2,8 +2,7 @@
   "id": "impundulu",
   "nom": "Impundulu",
   "variantes": [
-    "Oiseau-tonnerre",
-    "Ihlolo (variante xhosa)"
+    "Oiseau-tonnerre"
   ],
   "region": "afrique-australe",
   "categorie": "creatures",
@@ -12,7 +11,7 @@
     "Zulu"
   ],
   "resume": "Créature surnaturelle en forme d'oiseau associée à la foudre, censée servir de familier à des sorcières et se nourrir de sang humain. Sa présence est traditionnellement invoquée pour expliquer des morts soudaines ou des maladies inexpliquées.",
-  "description_detaillee": "Selon les récits traditionnels, l'impundulu ne surgirait pas spontanément mais serait transmis, souvent au sein d'une même lignée féminine, d'une femme âgée accusée de sorcellerie à une parente plus jeune, un mécanisme qui a historiquement alimenté des accusations de sorcellerie inscrites dans la durée au sein des familles elles-mêmes plutôt que dirigées uniquement contre des étrangers à la communauté.",
+  "description_detaillee": "L'impundulu, l'« oiseau de la foudre », est une créature connue des peuples de langue nguni d'Afrique du Sud, en particulier les Xhosa, les Mpondo et les Zulu. Elle relie deux domaines que l'on pourrait croire séparés : l'orage, dont elle serait la manifestation, et la sorcellerie, puisqu'elle passe pour l'auxiliaire d'une personne malveillante. C'est par elle que l'on explique, selon les contextes, une mort foudroyée, un saignement de nez inexpliqué ou un dépérissement brutal.\n\nDans la pensée zulu étudiée par Axel-Ivar Berglund, la foudre est un oiseau : le tonnerre est le battement de ses ailes, l'éclair le moment où il se pose, et l'on dit qu'il enfouit un œuf à l'endroit frappé. Des spécialistes du ciel, les « gardiens du ciel » (izinyanga zezulu), sont chargés de protéger les enclos contre l'orage et de retirer du sol ce qui a été laissé par l'oiseau avant qu'il n'apporte le malheur. Dans ce registre, le coup de foudre relève moins de l'accident que d'une intervention du Seigneur du ciel.\n\nLe second visage de l'impundulu est celui du familier. Il appartiendrait à une femme, le plus souvent âgée, qui l'enverrait contre ses ennemis ; il se nourrirait de sang et pourrait prendre l'apparence d'un jeune homme séduisant. Surtout, il ne naîtrait pas de rien : on le dit transmis de mère en fille ou entre parentes, comme un héritage dont il serait impossible de se défaire. Cette idée d'une lignée féminine porteuse du mal a donné un fondement durable aux soupçons au sein même des familles.\n\nLes anthropologues qui ont travaillé sur la sorcellerie en Afrique du Sud, comme Isak Niehaus dans le Lowveld, montrent que ces croyances ont des effets très concrets : accusations, expulsions et violences visant surtout des femmes âgées. L'impundulu partage cette logique d'agent envoyé par un tiers avec le tokoloshe et l'umkhovu, autres figures du codex, mais s'en distingue par son lien direct avec l'orage.",
   "domaines": [
     "foudre",
     "sorcellerie",
@@ -35,7 +34,8 @@
   "culte_contemporain": "Les accusations liées à l'impundulu ont historiquement contribué à des violences réelles contre des femmes accusées de sorcellerie en Afrique australe, un phénomène qui persiste par endroits.",
   "sources": [
     "Hammond-Tooke, W.D. (1989). Rituals and Medicines: Indigenous Healing in South Africa",
-    "Niehaus, I. (2001). Witchcraft, Power and Politics: Exploring the Occult in the South African Lowveld"
+    "Niehaus, I. (2001). Witchcraft, Power and Politics: Exploring the Occult in the South African Lowveld",
+    "Berglund, A-I. (1976). Zulu Thought-Patterns and Symbolism"
   ],
   "notes": "Comme pour d'autres croyances liées à la sorcellerie sur le continent, la charge sociale réelle de cette croyance (accusations, violences) doit être gardée à l'esprit plutôt que traitée comme pur folklore désincarné."
 }

@@ -8,7 +8,7 @@
     "Teke"
   ],
   "resume": "Catégorie d'esprits de la terre et de l'eau dans la cosmologie teke, intimement liés à la légitimité du souverain Makoko du royaume teke, dont l'investiture royale nécessitait traditionnellement leur reconnaissance rituelle.",
-  "description_detaillee": "Certains sites naturels précis du territoire teke traditionnel, notamment des bassins et rochers associés au fleuve, étaient identifiés comme demeures particulières de nkira spécifiques, chacun lié à une portion du royaume et consulté séparément lors des cérémonies d'investiture du souverain Makoko. Cette fragmentation territoriale du sacré, où l'autorité royale doit composer avec une mosaïque d'esprits locaux plutôt qu'avec une divinité unique et centralisée, structure une bonne part de l'organisation politico-religieuse historique du royaume teke.",
+  "description_detaillee": "Chez les Teke (ou Tio), dont le royaume s'étendait sur les plateaux au nord du Malebo Pool, de part et d'autre du fleuve Congo, les nkira sont des esprits de la nature attachés à un lieu : une chute, une source, un rocher, un bosquet. Ils ne forment pas un panthéon ordonné autour d'un dieu central, mais une géographie sacrée où chaque portion du territoire a son esprit. C'est ce qui leur donne leur poids politique : dans le royaume tio, commander une terre revenait à entretenir la relation avec son nkira.\n\nÀ l'échelle locale, l'autorité d'un chef de domaine reposait sur ce lien. Le nkira avait un autel devant la maison du chef ; il écartait les catastrophes, protégeait les habitants et sanctionnait ceux qui enfreignaient ses règles. Le dieu créateur, Nzã, était lui-même décrit comme le premier des nkira, mais sans doctrine fixée à son sujet, ce qui confirme que la vie religieuse s'organisait d'abord autour de ces puissances locales.\n\nAu sommet se trouvait Nkwe Mbali, le nkira « national », dont le nom est souvent traduit par « la cour du lion ». Son sanctuaire se situait aux chutes de la Léfini, où un grand prêtre, le Lipie, dirigeait son culte et fabriquait des charmes à partir d'objets déposés par les eaux ; un jour de la semaine lui était consacré et l'on s'y abstenait de travailler. Le roi, appelé Makoko ou Ôkoo, tenait son droit à régner de sa maîtrise de Nkwe Mbali, acquise au cours d'un long rituel d'intronisation, le lisee. Les nkira locaux étaient considérés comme des « épouses » de Nkwe Mbali, de même que les chefs de domaine étaient les « épouses », c'est-à-dire les vassaux, du roi : l'organisation religieuse et l'organisation politique se répondaient terme à terme.\n\nL'essentiel de ce tableau vient de l'étude de Jan Vansina sur le royaume tio entre 1880 et 1892, période où le souverain signa avec Pierre Savorgnan de Brazza le traité qui ouvrit la voie à la colonisation française. Après la conquête, les rois ne passèrent plus par le lisee, et c'est une femme, la reine Ngalifourou, qui garda le plus d'influence jusqu'à sa mort en 1956. La logique des esprits territoriaux dont dépend la légitimité du pouvoir se retrouve ailleurs en Afrique centrale, par exemple avec les esprits des eaux kongo comme Mbumba Luangu.",
   "domaines": [
     "terre",
     "eau",
@@ -29,8 +29,7 @@
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [
-    "Vansina, J. (1973). The Tio Kingdom of the Middle Congo, 1880-1892",
-    "Dupré, M-C. (1985). Le système des forces nkira chez les Teke Tsaayi"
+    "Vansina, J. (1973). The Tio Kingdom of the Middle Congo, 1880-1892"
   ],
   "notes": ""
 }

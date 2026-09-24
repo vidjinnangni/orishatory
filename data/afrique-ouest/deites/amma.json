@@ -8,7 +8,7 @@
     "Dogon"
   ],
   "resume": "Dieu créateur unique de la cosmogonie dogon, à l'origine de l'univers, de la terre et des premiers êtres vivants, dont les Nommo. Central dans le système cosmologique dogon documenté au 20e siècle par les ethnologues français.",
-  "description_detaillee": "Le récit cosmogonique dogon associé à Amma, tel que documenté par Marcel Griaule, décrit la création du monde à partir d'un œuf cosmique primordial contenant les germes de toute chose. À l'intérieur, deux paires de jumeaux devaient naître en parfaite symétrie, mais l'un des jumeaux mâles, Yurugu (le renard pâle), rompit prématurément son placenta pour s'emparer d'un fragment du monde avant sa sœur jumelle, introduisant le désordre, l'imperfection et l'incomplétude dans la création — un mythe qui structure une bonne part de la pensée dogon sur l'origine du mal et de l'imperfection humaine.\n\nAmma dut ensuite réorganiser le monde en sacrifiant l'autre jumeau, Nommo, dont le corps démembré et dispersé donna naissance à l'ordre cosmique définitif et aux structures sociales dogon (les castes, les techniques, la parole articulée). Cette trame mythologique complexe, dont les grandes lignes sont résumées ici de façon nécessairement simplifiée, a été présentée par Griaule comme receleant un savoir ésotérique dogon comparable en sophistication à une cosmologie astronomique complète.\n\nComme le signale le champ notes, la représentativité de ce récit tel que rapporté par Griaule (notamment ses éléments relatifs au système de Sirius) a fait l'objet d'un débat anthropologique majeur depuis les années 1990, certains chercheurs y voyant la vision de quelques informateurs particuliers plutôt qu'une croyance dogon largement partagée.",
+  "description_detaillee": "Amma est le dieu créateur des Dogon, peuple installé sur le plateau et les falaises de Bandiagara, au Mali. Le récit de la création du monde qui lui est attribué, tel que documenté par l'ethnologue français Marcel Griaule au milieu du vingtième siècle, compte parmi les cosmogonies africaines les plus détaillées jamais recueillies, à tel point que sa fiabilité même a fini par devenir un sujet de débat scientifique.\n\nSelon ce récit, Amma aurait créé le monde à partir d'un œuf cosmique primordial contenant les germes de toute chose à venir. Deux paires de jumeaux devaient y naître dans une parfaite symétrie, mais l'un des jumeaux mâles, Yurugu, le renard pâle, rompit prématurément son placenta pour s'emparer d'un fragment du monde avant sa sœur. Ce geste précipité introduisit le désordre et l'imperfection dans la création tout entière, et sert aujourd'hui de fondement mythologique à la pensée dogon sur l'origine du mal et des imperfections humaines.\n\nPour réparer ce désordre, Amma dut ensuite sacrifier l'autre jumeau, Nommo, dont le corps démembré et dispersé aurait donné naissance à l'ordre cosmique définitif ainsi qu'aux structures sociales dogon : les castes, les techniques, la parole articulée elle-même. Griaule a présenté cette trame complexe, ici nécessairement résumée, comme le reflet d'un savoir ésotérique dogon d'une sophistication comparable à un système cosmologique complet.\n\nCette interprétation, en particulier ses éléments relatifs au système stellaire de Sirius, a fait l'objet d'un débat anthropologique majeur depuis les années 1990. Plusieurs chercheurs y voient aujourd'hui la vision personnelle de quelques informateurs particuliers plutôt qu'une croyance dogon partagée par l'ensemble de la société, une réserve importante à garder à l'esprit en lisant ce récit.",
   "domaines": [
     "création",
     "cosmos",
@@ -19,9 +19,7 @@
   ],
   "genealogie": {
     "parents": [],
-    "conjoints": [
-      "terre (dans certaines versions du mythe)"
-    ],
+    "conjoints": [],
     "enfants": [],
     "entites_liees": [
       "nommo"

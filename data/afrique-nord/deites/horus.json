@@ -10,7 +10,7 @@
     "Égyptiens anciens"
   ],
   "resume": "Dieu-faucon du ciel et de la royauté, fils d'Isis et Osiris, vengeur de son père face à Seth. Les pharaons vivants étaient considérés comme son incarnation terrestre.",
-  "description_detaillee": "Le dieu se décline en plusieurs figures distinctes selon les contextes théologiques : Horus l'Ancien, associé au ciel et antérieur au cycle osirien, et Horus l'Enfant (Harpocrate pour les Grecs), représenté comme un nourrisson tétant Isis, popularisé plus tard dans le monde gréco-romain sous une forme largement diffusée. L'œil oudjat qui lui est associé servait par ailleurs de base à un système de fractions utilisé par les scribes égyptiens pour les mesures de grain, chaque partie stylisée de l'œil correspondant à une valeur fractionnaire précise, fusion notable entre symbolisme religieux et notation mathématique pratique.",
+  "description_detaillee": "Horus est le dieu faucon de l'Égypte ancienne, maître du ciel et garant de la royauté. Son nom, Hor en égyptien, signifie probablement « celui qui est au-dessus » ou « le lointain ». Il compte parmi les divinités les plus anciennement attestées : dès les premières dynasties, à la fin du IVe millénaire av. J.-C., le nom du roi s'inscrit dans un cadre surmonté d'un faucon, le serekh, et ce « nom d'Horus » restera jusqu'à la fin le premier titre de la titulature pharaonique. Chaque roi vivant était Horus sur terre, ce qui donne à ce dieu une place à part : la légitimité même du pouvoir passait par lui.\n\nSous ce nom se rassemblent en réalité plusieurs figures que les Égyptiens eux-mêmes distinguaient. Horus l'Ancien (Haroéris pour les Grecs) est un dieu céleste dont le soleil et la lune sont les yeux. Horus fils d'Isis (Harsiesis) est l'enfant posthume d'Osiris, qui venge son père et reprend le trône à Seth. Horus l'Enfant (Harpocrate), représenté comme un petit garçon portant le doigt à la bouche, devient très populaire aux époques tardives. Horakhty, « Horus de l'horizon », se confond avec le soleil levant et fusionne avec Rê. Les grands lieux de son culte se trouvaient à Hiérakonpolis, dans le sud du pays, puis à Edfou, dont le temple ptolémaïque, remarquablement conservé, porte sur ses murs le récit de ses victoires sur Seth.\n\nL'œil d'Horus, l'oudjat, est l'un des symboles égyptiens les plus répandus. Dans le mythe, Seth arrache ou blesse cet œil, que Thot ou Hathor guérit : l'« œil intact » devient alors l'image de ce qui est restauré, et les amulettes qui le reproduisent protégeaient vivants et morts. On lit souvent que les parties de l'œil servaient à noter les fractions du boisseau de grain chez les scribes. Cette idée, formulée par l'égyptologue Georg Möller en 1911 et longtemps reprise dans les manuels, est aujourd'hui abandonnée : les signes de fractions sont attestés bien avant les formes de l'œil censées les avoir inspirés, et le rapprochement tient davantage à une reconstruction savante qu'aux sources anciennes, comme l'a montré Jim Ritter en 2002.",
   "domaines": [
     "royauté",
     "ciel",
@@ -42,7 +42,8 @@
   "culte_contemporain": "L'œil d'Horus reste un motif iconographique largement diffusé aujourd'hui, y compris hors de tout contexte religieux (bijouterie, symboles de protection populaire).",
   "sources": [
     "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
-    "te Velde, H. (1967). Seth, God of Confusion"
+    "te Velde, H. (1967). Seth, God of Confusion",
+    "Ritter, J. (2002). Closing the Eye of Horus: the Rise and Fall of 'Horus-eye Fractions', in Steele, J.M. et Imhausen, A. (dir.), Under One Sky: Astronomy and Mathematics in the Ancient Near East"
   ],
   "notes": ""
 }

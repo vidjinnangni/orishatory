@@ -11,7 +11,7 @@
     "Égyptiens anciens"
   ],
   "resume": "Déesse protectrice à corps d'hippopotame debout, associée à la grossesse et à l'accouchement, invoquée pour protéger les femmes et les enfants contre les forces malveillantes.",
-  "description_detaillee": "Malgré son apparence composite et intimidante, mêlant traits d'hippopotame, de crocodile et de lion, Taouret est systématiquement considérée dans la religion égyptienne comme une divinité entièrement bienveillante, sans aucune dimension menaçante à l'égard des humains qu'elle protège, contraste notable avec d'autres divinités égyptiennes à l'apparence hybride, plus généralement ambivalentes entre protection et danger.",
+  "description_detaillee": "Taouret, dont le nom signifie simplement « la Grande », est une déesse égyptienne qui veillait sur les femmes enceintes, les accouchées et les nourrissons. Elle n'avait guère de grands temples : sa place se trouvait dans les maisons, sur les amulettes, les lits et les objets du quotidien. Son image est l'une des plus reconnaissables de l'art égyptien : une femelle hippopotame dressée sur ses pattes arrière, au ventre gonflé et aux seins lourds, avec des pattes de lionne et un dos qui se prolonge en queue de crocodile. Elle s'appuie souvent sur le signe sa, hiéroglyphe de la protection, ou brandit un couteau.\n\nCe corps composé de trois animaux dangereux n'a rien d'un hasard. La femelle hippopotame, qui défend ses petits avec une agressivité redoutable, offrait un modèle de mère protectrice ; lui ajouter la force du lion et du crocodile revenait à rassembler toutes les armes contre les démons qui menaçaient la mère et l'enfant, moments où la mortalité était très élevée. Taouret n'est donc pas une déesse douce : sa férocité est tournée vers l'extérieur, contre ce qui pourrait nuire à ceux qu'elle garde. On la trouve dès le Moyen Empire sur les « baguettes magiques » d'ivoire d'hippopotame, gravées de figures protectrices et probablement utilisées autour de la naissance, puis en abondance dans les amulettes et les vases du Nouvel Empire, notamment dans le village d'artisans de Deir el-Médineh. D'autres noms de déesses hippopotames, comme Ipet ou Reret, désignent des figures très proches, parfois confondues avec elle.\n\nElle travaillait souvent de concert avec Bès, le nain protecteur, dont les grimaces remplissaient une fonction analogue : effrayer les forces hostiles autour du lit de l'accouchée. Taouret avait aussi une place dans le ciel : sur les plafonds astronomiques des tombes et des temples, une constellation du nord prend la forme d'un hippopotame femelle portant un crocodile sur le dos. Son image a également voyagé hors d'Égypte. La Crète minoenne l'a adoptée au Bronze moyen et transformée en un « génie » porteur d'aiguière, et l'archéologue Judith Weingarten a montré comment ce démon crétois dérive du modèle égyptien, un bel exemple de circulation des images religieuses en Méditerranée.",
   "domaines": [
     "grossesse",
     "accouchement",
@@ -37,7 +37,8 @@
   "culte_contemporain": "",
   "sources": [
     "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
-    "Hart, G. (2005). The Routledge Dictionary of Egyptian Gods and Goddesses"
+    "Hart, G. (2005). The Routledge Dictionary of Egyptian Gods and Goddesses",
+    "Weingarten, J. (1991). The Transformation of Egyptian Taweret into the Minoan Genius: A Study in Cultural Transmission in the Middle Bronze Age"
   ],
   "notes": ""
 }

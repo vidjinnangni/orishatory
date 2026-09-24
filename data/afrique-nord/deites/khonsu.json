@@ -10,7 +10,7 @@
     "Égyptiens anciens"
   ],
   "resume": "Dieu lunaire égyptien, fils d'Amon et Mout formant avec eux la triade thébaine, associé au temps, à la guérison et au calcul du calendrier lunaire.",
-  "description_detaillee": "Un texte plus tardif connu sous le nom de stèle de Bentresh, de composition largement légendaire, raconte comment une statue de Khonsou aurait été envoyée dans le lointain pays de Bakhtan pour guérir une princesse étrangère possédée par un esprit malin, illustrant la façon dont la réputation de Khonsou comme dieu guérisseur a pu, dans la littérature religieuse égyptienne tardive, être mise en scène jusque dans des récits à portée quasi diplomatique et internationale.",
+  "description_detaillee": "Khonsou est le dieu lunaire de Thèbes, en Haute-Égypte. Son nom signifie à peu près « celui qui traverse » ou « le voyageur », allusion à la lune qui parcourt le ciel nocturne et change de visage au fil du mois. On le représente en jeune homme momiforme, portant la mèche latérale des enfants égyptiens et coiffé du disque et du croissant lunaires, ou bien avec une tête de faucon. Au Nouvel Empire, les théologiens thébains en firent le fils d'Amon et de Mout : les trois dieux formaient la triade de Thèbes, famille divine dont Khonsou était l'enfant, et les grandes processions de la ville, comme la fête d'Opet, faisaient sortir sa barque sacrée aux côtés de celles de ses parents.\n\nCe visage juvénile et apaisé n'a pas toujours été le sien. Dans les Textes des Pyramides de l'Ancien Empire, un passage célèbre, l'« hymne cannibale », le montre en exécuteur redoutable qui tranche la gorge des dieux et en retire les entrailles au profit du roi défunt. Avec le temps, sa figure s'est adoucie. Comme la lune qui rythme les mois, il fut associé au calcul du temps, ce qui le rapprocha de Thot, autre dieu lunaire, au point de former parfois un Khonsou-Thot. À Karnak, les Ramessides lui élevèrent un temple encore bien conservé, et l'on y vénérait notamment Khonsou-Neferhotep, « Khonsou en paix », à côté d'une forme plus active chargée de décider du destin et de chasser les démons. Loin de Thèbes, au temple de Kom Ombo, il tenait aussi le rôle d'enfant divin, cette fois dans une triade formée avec Sobek et Hathor.\n\nSa réputation de guérisseur est bien établie à la Basse Époque et sous les Ptolémées : Ptolémée IV, dit-on après une guérison, se proclama « aimé de Khonsou qui protège Sa Majesté et chasse les mauvais esprits ». La stèle de Bentresh, aujourd'hui au Louvre, raconte qu'une statue du dieu fut envoyée au pays lointain de Bakhtan pour délivrer une princesse possédée. Le récit se situe sous Ramsès II, mais le texte a été rédigé bien plus tard, à l'époque perse ou au début de l'époque ptolémaïque, sans doute par le clergé de Khonsou désireux de grandir le prestige de son dieu. C'est donc un témoignage précieux sur la manière dont un temple mettait en récit la puissance de sa divinité, et non la trace d'un épisode diplomatique réel.",
   "domaines": [
     "lune",
     "temps",
@@ -18,10 +18,16 @@
   ],
   "tags": [],
   "genealogie": {
-    "parents": [],
+    "parents": [
+      "amon",
+      "mut"
+    ],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": []
+    "entites_liees": [
+      "amon",
+      "mut"
+    ]
   },
   "attributs": [
     "disque et croissant lunaires sur la tête",

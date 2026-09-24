@@ -7,11 +7,10 @@
   "region": "afrique-australe",
   "categorie": "heros",
   "peuples": [
-    "Khoikhoi",
-    "San"
+    "Khoikhoi"
   ],
   "resume": "Héros culturel et figure de trickster khoikhoi, mort et ressuscité à de multiples reprises selon les récits. Ses tombes multiples, marquées par des tas de pierres le long des routes, font l'objet d'un rite de passage encore observé.",
-  "description_detaillee": "Les récits relatifs à ses morts successives varient traditionnellement selon les versions : certains le font périr lors d'affrontements avec des animaux dangereux, d'autres lors de rixes ou d'épreuves surnaturelles, chaque décès donnant naissance à un nouveau cairn distinct le long des routes fréquentées. Heitsi-eibib est également crédité d'avoir enseigné aux premiers humains certaines techniques de chasse et l'usage de plantes médicinales, renforçant son statut de héros culturel civilisateur au-delà du seul motif de la résurrection répétée.",
+  "description_detaillee": "Heitsi-eibib est le grand héros des récits khoikhoi, notamment nama, d'Afrique australe : chasseur, guerrier, magicien et rusé, il meurt et revient à la vie à de nombreuses reprises. Il est surtout connu par les récits recueillis au XIXe siècle par des missionnaires et des linguistes, dont Theophilus Hahn, et il reste attaché à un paysage précis, celui des tas de pierres qui jalonnent les chemins et passent pour ses tombes.\n\nLa tradition le fait naître d'une vache qui avait mangé une herbe aux vertus particulières. Son exploit le plus souvent raconté est sa victoire sur Ga-gorib, un être qui se tenait au bord d'un trou profond et défiait les passants de lui lancer des pierres : les projectiles rebondissaient sur lui, tuaient le lanceur et le faisaient tomber dans la fosse. Heitsi-eibib lança à son tour une pierre, frappa le monstre sous l'oreille et le fit basculer dans son propre piège. Les récits de ses morts sont nombreux et ne s'accordent pas entre eux ; ce qui compte est qu'il revient toujours.\n\nChaque cairn serait l'une de ses sépultures. En passant, les voyageurs y ajoutaient une pierre pour s'assurer une route favorable, geste encore signalé dans certaines communautés. Hahn, qui écrivait avec les catégories de son époque, rapprochait Heitsi-eibib de Tsui-goab, l'être suprême du codex khoikhoi, et la question de savoir s'il faut y voir un ancêtre divinisé, un héros culturel ou une divinité reste ouverte. Les sources dont on dispose sont presque toutes écrites par des Européens et filtrées par leurs hypothèses, ce qui invite à la prudence sur les interprétations saisonnières qu'on lui a parfois prêtées.",
   "domaines": [
     "mort et résurrection",
     "chasse",

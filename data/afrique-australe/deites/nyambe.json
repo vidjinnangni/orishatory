@@ -7,8 +7,8 @@
   "peuples": [
     "Lozi"
   ],
-  "resume": "Dieu créateur lozi (plaine inondable du Zambèze, Zambie), à l'origine du monde et des premiers hommes, ayant fui vers le ciel après que les humains eurent découvert le secret de fabriquer des armes capables de le menacer.",
-  "description_detaillee": "Le récit lozi précise généralement que ce sont les humains eux-mêmes, par leur ingéniosité technique croissante (la fabrication d'armes capables d'atteindre les hauteurs où résidait Nyambe), qui contraignirent le dieu à se retirer définitivement au ciel, structurant un récit où le progrès technique humain apparaît directement comme la cause de la rupture avec le divin plutôt que comme un simple développement neutre.",
+  "resume": "Dieu créateur lozi (plaine inondable du Zambèze, Zambie), à l'origine du monde et des premiers hommes, qui quitta la terre pour le ciel en grimpant le long d'un fil d'araignée lorsque le premier homme, Kamonu, se mit à l'imiter en tout et à tuer les animaux.",
+  "description_detaillee": "Nyambe est le dieu créateur des Lozi, peuple de la plaine d'inondation du haut Zambèze, dans l'ouest de la Zambie. Il a fait le ciel, la terre, les plantes et les animaux, puis s'est retiré dans les hauteurs, à Litooma, laissant les humains se débrouiller seuls. Son mythe est l'une des versions les plus développées, en Afrique australe, du thème du dieu qui s'éloigne, et il explique à la fois la distance entre Dieu et les hommes et l'origine de la mort.\n\nAu commencement, Nyambe vivait sur terre avec son épouse Nasilele. Parmi ses créatures se trouvait Kamonu (ou Kamunu), le premier homme, plus habile que tous les autres. Kamonu observait Nyambe et reproduisait tout ce qu'il faisait : il apprit à maîtriser le feu, à forger le fer, à façonner des pots. Mais là où Nyambe forgeait des outils, Kamonu fabriqua une lance et s'en servit pour tuer une antilope. En punition, le pot de Kamonu se brisa, son chien mourut, puis son fils : la mort entrait dans le monde humain. Lassé d'être imité et désobéi, Nyambe partit s'installer sur une île lointaine, où Kamonu finit par le rejoindre. Il finit par demander à l'araignée de tisser un fil jusqu'au ciel, y monta avec Nasilele et creva les yeux de l'araignée pour qu'elle ne révèle pas le chemin. Kamonu et les siens tentèrent alors d'élever une tour de troncs pour l'atteindre ; elle s'écroula sous son propre poids.\n\nL'ancienne version de cette fiche faisait de Nyambe un dieu menacé par des armes capables de l'atteindre. Les récits ne disent pas cela : c'est la violence de Kamonu envers les animaux, et son refus de reconnaître la différence entre lui et son créateur, qui provoquent la rupture. Selon une autre variante, la discorde naît dans le couple divin lui-même, et Nasilele meurt de remords après une querelle familiale ; les versions divergent, et une bonne part d'entre elles a été recueillie par des missionnaires, dont Adolphe Jalla, de la Mission de Paris.\n\nPlusieurs motifs de ce récit, comme la fuite du créateur par un fil d'araignée ou la tour qui s'effondre, se retrouvent ailleurs en Afrique centrale et australe : chez les Chewa du Malawi, Dieu remonte lui aussi au ciel grâce à une araignée après que les humains ont découvert le feu (voir Mulungu). La tour rappelle au lecteur européen celle de Babel, un rapprochement qui a intéressé les missionnaires et qui invite à se demander si certaines versions ont été retouchées à leur contact, sans qu'on puisse le trancher.",
   "domaines": [
     "création",
     "ciel",
@@ -28,7 +28,8 @@
   "culte_contemporain": "",
   "sources": [
     "Jalla, A. (1921). Litaba za Sicaba sa Malozi (histoire orale lozi)",
-    "Gluckman, M. (1941). Economy of the Central Barotse Plain"
+    "Gluckman, M. (1941). Economy of the Central Barotse Plain",
+    "Scheub, H. (2000). A Dictionary of African Mythology: The Mythmaker as Storyteller"
   ],
   "notes": "Le motif d'un créateur contraint de fuir au ciel face à une menace humaine se retrouve, sous des formes distinctes, dans plusieurs cosmogonies africaines de créateurs 'retirés'."
 }

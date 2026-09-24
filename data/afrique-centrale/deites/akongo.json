@@ -5,10 +5,10 @@
   "region": "afrique-centrale",
   "categorie": "deites",
   "peuples": [
-    "Mongo"
+    "Ngombe"
   ],
-  "resume": "Dieu créateur suprême dans la cosmologie mongo (bassin du fleuve Congo), retiré du monde après la création et devenu largement indifférent aux affaires humaines, laissant la gestion du quotidien aux esprits ancestraux et à la sorcellerie.",
-  "description_detaillee": "Le retrait d'Akongo après la création laisse un vide religieux que la pensée mongo comble non par un culte de substitution centralisé, mais par une attention intense portée aux esprits ancestraux (bokali) et aux accusations de sorcellerie (elima), considérés comme les véritables agents des malheurs et des bienfaits du quotidien. Cette structure théologique, où le créateur suprême devient largement une figure d'arrière-plan sans temple ni prêtrise dédiée, rejoint un schéma que l'on retrouve chez plusieurs peuples voisins d'Afrique centrale et occidentale (Nzambi a Mpungu chez les Kongo, Nyame chez les Akan), suggérant une convergence structurelle plutôt qu'une origine commune entre ces cosmologies bantoues distantes.",
+  "resume": "Dieu créateur suprême des Ngombe, peuple du nord-ouest de la République démocratique du Congo (bassin du fleuve Congo), longtemps rattaché à tort à la cosmologie mongo. Lassé des querelles humaines, il se retira de sa création, laissant la vie religieuse ordinaire aux ancêtres et aux esprits.",
+  "description_detaillee": "Akongo est le dieu créateur des Ngombe, un peuple de langue bantoue installé le long du fleuve Congo et de ses affluents, dans le nord-ouest de l'actuelle République démocratique du Congo. Les dictionnaires de mythologie le présentent comme l'être suprême de cette tradition, placé au-dessus de tous les esprits et de tous les humains, auteur du monde et des premiers ancêtres. Sa figure compte surtout pour ce qu'elle raconte de l'éloignement : Akongo est un créateur qui a choisi de quitter sa création.\n\nLe récit le plus souvent rapporté dit qu'au commencement Akongo vivait parmi les hommes, mais que leurs querelles incessantes finirent par le lasser et qu'il se retira hors de leur portée. Une autre version met en scène sa fille Mbokomu, qui semait le trouble au ciel : son père la fit descendre sur terre dans un panier, avec deux de ses enfants et des plantes cultivées (manioc, maïs, canne à sucre). Mbokomu et ses enfants devinrent les premiers habitants de la terre et les premiers cultivateurs. Pour que le jardin ait des héritiers, elle obligea son fils à s'unir à sa sœur ; la fille rencontra ensuite dans la forêt un être velu, Ebenga, par qui le mal et la sorcellerie entrèrent dans le monde. Le mythe explique ainsi d'un même geste l'origine de l'humanité, de l'agriculture et du malheur, sans en rendre le créateur responsable.\n\nUne fois Akongo retiré, la vie religieuse ordinaire se tourne vers les ancêtres et les esprits de la nature, qui servent d'intermédiaires et dont on attend protection ou réparation. Ce schéma du dieu lointain, sans culte propre, se retrouve dans d'autres fiches du codex, comme Nzambi a Mpungu chez les Kongo ou Nyame chez les Akan d'Afrique de l'Ouest ; ces rapprochements relèvent de la comparaison structurelle et ne supposent pas une origine commune, d'autant que les Akan ne sont pas un peuple bantou.\n\nCette fiche rattache Akongo aux Mongo et cite deux mongolistes, Gustaaf Hulstaert et Albert de Rop. Les ouvrages de référence consultés l'attribuent pourtant aux Ngombe, voisins des Mongo dans la province de l'Équateur, tandis que les Mongo désignent leur être suprême sous d'autres noms, comme Njakomba ou Bomóngó. L'attribution ethnique mérite donc d'être tenue pour incertaine tant qu'une source mongo explicite ne l'a pas confirmée.",
   "domaines": [
     "création",
     "retrait divin",
@@ -28,7 +28,9 @@
   "culte_contemporain": "",
   "sources": [
     "Hulstaert, G. (1938). Les Mongo: Aperçu général",
-    "de Rop, A. (1958). La création de l'homme dans les traditions mongo"
+    "de Rop, A. (1958). La création de l'homme dans les traditions mongo",
+    "Leeming, D.A. (2010). Creation Myths of the World: An Encyclopedia",
+    "Johnson, A.W. & Price-Williams, D.R. (1996). Oedipus Ubiquitous: The Family Complex in World Folk Literature"
   ],
   "notes": ""
 }

@@ -7,8 +7,8 @@
   "peuples": [
     "Kongo"
   ],
-  "resume": "Société d'initiation kongo historiquement destinée aux adolescents traversant une crise ou une maladie grave, impliquant une retraite en forêt, une 'mort' et 'renaissance' symbolique encadrée par des spécialistes rituels, restaurant l'équilibre spirituel du néophyte et de la communauté.",
-  "description_detaillee": "Les initiés du kimpasi partageaient traditionnellement un répertoire de chants et un langage rituel propre à la société, incompréhensibles pour les non-initiés, renforçant le caractère exclusif et sacré du pacte scellé lors de la cérémonie. Cette dimension de langage secret rapproche structurellement le kimpasi d'autres sociétés d'initiation ouest et centre-africaines fonctionnant sur un principe comparable de connaissance réservée, comme le Poro et le Sande de Sierra Leone et du Liberia.",
+  "resume": "Société d'initiation kongo attestée dès le 17e siècle, dont les novices, décrits selon les sources comme des jeunes gens frappés par la maladie ou choisis parmi l'élite, traversaient dans un enclos secret une « mort » et une « renaissance » symboliques. Le rite revenait surtout en période de crise, pour restaurer l'équilibre de la communauté.",
+  "description_detaillee": "Le kimpasi était une institution d'initiation du royaume du Kongo et de ses marges, répandue au sud du fleuve Congo ; au nord, une institution comparable portait le nom de kinkhimba. Elle mettait en scène la mort et la résurrection des candidats dans un enclos rituel tenu secret. Mentionné dès le XVIIe siècle dans les écrits des missionnaires, le kimpasi est l'un des rites d'Afrique centrale que l'on peut suivre sur plusieurs siècles.\n\nDans l'enclos, les novices étaient amenés à perdre connaissance, ce qui valait pour une mort, puis ramenés à eux comme membres de la société. On les appelait nkita, terme qui désigne celui qui est revenu de l'autre monde. Le rite ne se tenait pas à date fixe : selon John Janzen, sa fréquence augmentait avec les sécheresses, les désordres politiques et le sentiment d'une montée de la sorcellerie. Le kimpasi apparaît ainsi comme une réponse collective au malheur, destinée à restaurer les liens avec les ancêtres et l'équilibre de la communauté, plus que comme une simple initiation de classe d'âge.\n\nLes sources ne s'accordent pas entièrement sur le public concerné. Certaines descriptions insistent sur les jeunes gens frappés par la maladie ou une crise ; l'historienne de l'art Cécile Fromont souligne que les novices étaient choisis parmi l'élite kongo. Il est probable que la pratique ait varié selon les lieux et les époques.\n\nLes capucins chargés de la mission du Kongo aux XVIIe et XVIIIe siècles ont consacré une bonne partie de leurs efforts à extirper le kimpasi. L'usage visible d'un signe en forme de croix dans ses rites et ses objets les troublait particulièrement, car il rappelait leur propre symbole : ce signe est celui que décrit la fiche dikenga. L'institution a fortement décliné sous la pression missionnaire puis coloniale, et elle est surtout connue aujourd'hui par ces témoignages extérieurs et par les reconstructions des ethnographes.",
   "domaines": [
     "initiation",
     "guérison",
@@ -29,7 +29,9 @@
   "culte_contemporain": "",
   "sources": [
     "MacGaffey, W. (1986). Religion and Society in Central Africa: The BaKongo of Lower Zaire",
-    "Janzen, J.M. (1982). Lemba, 1650-1930: A Drum of Affliction in Africa and the New World"
+    "Janzen, J.M. (1982). Lemba, 1650-1930: A Drum of Affliction in Africa and the New World",
+    "Fromont, C. (2011). Under the Sign of the Cross in the Kingdom of Kongo: Religious Conversion and Visual Correlation in Early Modern Central Africa",
+    "Janzen, J.M. (1987). Kongo Religion"
   ],
   "notes": "Largement réprimée par les missions chrétiennes durant la période coloniale, la pratique du kimpasi a fortement décliné au 20e siècle, contrairement à d'autres institutions kongo comme le nkisi qui ont mieux survécu sous des formes adaptées."
 }

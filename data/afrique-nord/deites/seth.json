@@ -11,7 +11,7 @@
     "Égyptiens anciens"
   ],
   "resume": "Dieu du chaos, du désert, des tempêtes et des terres étrangères, meurtrier de son frère Osiris et rival de son neveu Horus pour le trône d'Égypte. Figure ambivalente, à la fois nécessaire et redoutée.",
-  "description_detaillee": "Durant la Seconde Période intermédiaire, les souverains étrangers hyksôs qui contrôlèrent une partie de l'Égypte identifièrent leur propre dieu de l'orage à Seth, renforçant ultérieurement dans la mémoire collective égyptienne l'association entre cette divinité et l'idée de domination étrangère illégitime, une connotation négative qui a pu contribuer à la dégradation progressive de son image au cours des périodes suivantes de l'histoire égyptienne.",
+  "description_detaillee": "Seth est le dieu égyptien du désordre, de la violence, des orages et du désert, ces « terres rouges » qui entourent la vallée fertile du Nil. Dans le mythe le plus célèbre qui le concerne, il tue son frère Osiris et dispute ensuite le trône à son neveu Horus. On pourrait en conclure qu'il était le mauvais dieu de l'Égypte ; la réalité est plus nuancée, et c'est ce qui le rend si intéressant. Pendant la majeure partie de l'histoire égyptienne, Seth a été un dieu pleinement honoré, dont la force brute était jugée indispensable à l'équilibre du monde.\n\nOn le représente sous les traits d'un animal que personne n'a su identifier avec certitude, au museau recourbé, aux oreilles dressées et carrées, à la queue raide et fourchue, ou sous la forme d'un homme portant cette tête. Son culte est très ancien : son principal sanctuaire se trouvait à Noubt, l'Ombos des Grecs, près de Nagada, et sous la IIe dynastie le roi Péribsen plaça même l'animal de Seth, et non le faucon d'Horus, au sommet de son nom royal. Dans la mythologie solaire, c'est lui qui se tient à la proue de la barque de Rê pour repousser chaque nuit le serpent Apophis, l'ennemi du soleil : sa violence y sert l'ordre au lieu de le menacer. Seth était aussi le dieu des pays étrangers, et à ce titre il fut assimilé à Baal et à d'autres dieux de l'orage du Proche-Orient.\n\nSon image a beaucoup varié selon les époques. Les rois hyksôs, d'origine levantine, qui dominèrent le nord de l'Égypte au XVIIe et au XVIe siècle av. J.-C., firent de lui le grand dieu de leur capitale, Avaris. Les Ramessides, originaires de la même région du Delta, lui restèrent attachés, comme en témoignent les noms de Séthi Ier et de Séthi II. Après la XXe dynastie, son culte recula nettement dans la vallée : associé aux envahisseurs et aux puissances étrangères, Seth fut progressivement écarté des temples et son image parfois martelée, tandis que les Grecs l'identifiaient au monstre Typhon. Dans les oasis du désert occidental, en revanche, notamment à Mout el-Kharab dans l'oasis de Dakhla, il resta vénéré comme seigneur de l'oasis jusqu'à l'époque ptolémaïque au moins, ce qui rappelle que sa diabolisation fut tardive et jamais complète.",
   "domaines": [
     "chaos",
     "désert",
@@ -20,7 +20,10 @@
   ],
   "tags": [],
   "genealogie": {
-    "parents": [],
+    "parents": [
+      "geb",
+      "nut"
+    ],
     "conjoints": [],
     "enfants": [],
     "entites_liees": [

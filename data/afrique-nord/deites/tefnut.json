@@ -10,7 +10,7 @@
     "Égyptiens anciens"
   ],
   "resume": "Déesse de l'humidité et de la pluie, sœur-épouse de Shou et mère de Nout et Geb, dont le départ en colère vers la Nubie puis le retour apaisé constitue le cœur du mythe de la Déesse lointaine.",
-  "description_detaillee": "Dans certaines représentations, Tefnout adopte une forme léonine plutôt que purement anthropomorphe, rejoignant ainsi Sekhmet et Hathor dans la famille plus large des déesses-lionnes égyptiennes assimilées à l'œil ardent et vengeur du soleil, capable aussi bien de protection que de destruction selon les circonstances.",
+  "description_detaillee": "Tefnout est l'une des toutes premières divinités de la cosmogonie d'Héliopolis. Née du créateur Atoum en même temps que son frère Shou, elle forme avec lui le premier couple divin, et leur union donne naissance à Geb, la terre, et à Nout, le ciel. Elle est donc la grand-mère d'Osiris, d'Isis, de Seth et de Nephtys. On la présente d'ordinaire comme la déesse de l'humidité, par symétrie avec Shou, dieu de l'air sec ; il faut savoir que les textes égyptiens la définissent rarement de façon aussi nette, et que cette lecture doit beaucoup aux reconstructions des égyptologues.\n\nCe que les sources disent plus clairement, c'est son lien avec l'ordre du monde et avec le soleil. Dans les Textes des Sarcophages, Atoum déclare que Tefnout est Maât, la justice et l'harmonie, tandis que Shou est la vie. Elle est aussi l'une des formes de l'Œil de Rê, cette puissance féminine, brûlante et protectrice, qui peut se retourner contre les ennemis du dieu comme contre lui-même. D'où son apparence fréquente de lionne, ou de femme à tête de lionne coiffée du disque et du cobra dressé : elle rejoint là Sekhmet, Bastet et d'autres déesses félines.\n\nSon récit le plus développé est celui de la Déesse lointaine. Fâchée contre son père Rê, elle s'éloigne en Nubie sous la forme d'une lionne sauvage, privant l'Égypte de sa présence. Il faut l'envoi d'un messager, Shou ou Thot selon les versions, pour la convaincre de revenir ; sur le chemin du retour, sa colère s'apaise et la lionne redevient une déesse bienveillante. La version la plus longue, un papyrus démotique d'époque romaine conservé à Leyde, fait d'ailleurs de Tefnout l'héroïne de l'histoire, là où d'autres traditions donnent le rôle à Hathor ou à Sekhmet.",
   "domaines": [
     "humidité",
     "pluie",
@@ -24,7 +24,10 @@
     "conjoints": [
       "shu"
     ],
-    "enfants": [],
+    "enfants": [
+      "geb",
+      "nut"
+    ],
     "entites_liees": [
       "shu"
     ]
@@ -36,7 +39,8 @@
   "culte_contemporain": "",
   "sources": [
     "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
-    "Junker, H. (1911). Der Auszug der Hathor-Tefnut aus Nubien"
+    "Junker, H. (1911). Der Auszug der Hathor-Tefnut aus Nubien",
+    "Cenival, F. de (1988). Le Mythe de l'œil du soleil"
   ],
   "notes": ""
 }

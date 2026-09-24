@@ -10,7 +10,7 @@
     "Égyptiens anciens"
   ],
   "resume": "Déesse à tête de chatte associée à la protection du foyer, à la fertilité et à la joie, dont le culte majeur était centré sur la ville de Bubastis. Contrepartie plus douce de la déesse lionne Sekhmet.",
-  "description_detaillee": "Le site de Bubastis a livré des centaines de milliers de momies de chats, témoignant d'une industrie religieuse organisée autour de l'élevage et du sacrifice rituel de ces animaux consacrés à la déesse. Les représentations les plus anciennes de Bastet lui donnaient des traits de lionne bien plus proches de ceux de Sekhmet, sa forme féline plus douce et domestique ne s'étant imposée que progressivement au cours de l'histoire égyptienne, à mesure que le chat lui-même se domestiquait dans la société égyptienne.",
+  "description_detaillee": "Bastet est une déesse égyptienne aujourd'hui associée à la chatte, mais dont l'histoire est plus longue et plus changeante que cette image. Son grand sanctuaire se trouvait à Bubastis (Per-Bastet, « la maison de Bastet »), dans le delta oriental du Nil, près de l'actuelle Zagazig. Fille de Rê et, comme plusieurs déesses félines, l'une des formes de l'Œil du soleil, elle était d'abord une protectrice : du roi, de la maison, des femmes enceintes et des enfants.\n\nPendant la plus grande partie de l'histoire égyptienne, Bastet est une lionne, ou une femme à tête de lionne, et elle apparaît sous cet aspect dès l'Ancien Empire, notamment dans les Textes des Pyramides. La forme de chatte ne devient dominante qu'au Ier millénaire avant notre ère, en particulier sous la XXIIe dynastie, dont les rois, d'origine libyenne, venaient de Bubastis et firent de sa déesse une figure de premier plan. Ce changement n'a rien à voir avec la domestication du chat, attestée en Égypte bien plus tôt ; il reflète plutôt une recomposition théologique, qui oppose la lionne Sekhmet, dangereuse, à la chatte Bastet, apaisée. Les figurines de bronze de cette époque la montrent souvent debout, un sistre à la main, un petit panier au bras et parfois des chatons à ses pieds.\n\nAu Ve siècle avant notre ère, Hérodote décrit la fête de Bubastis comme la plus fréquentée d'Égypte : des foules venues en bateau, hommes et femmes, chants, musique, plaisanteries lancées aux riverains, et plus de vin bu en quelques jours que dans tout le reste de l'année. À la même époque, les chats étaient momifiés en très grand nombre et déposés dans des nécropoles, à Bubastis même, à Saqqara ou à Beni Hassan (ce dernier site relevant de la déesse lionne Pakhet), où l'on en exhuma tant au XIXe siècle que des cargaisons entières furent vendues en Angleterre comme engrais. Les études sur ces momies montrent que beaucoup d'animaux étaient élevés et mis à mort jeunes pour servir d'offrandes votives, ce qui éclaire l'économie des sanctuaires plutôt qu'une vénération de chaque chat individuel.",
   "domaines": [
     "protection du foyer",
     "fertilité",
@@ -37,7 +37,8 @@
   "culte_contemporain": "Son association avec les chats domestiques reste largement diffusée dans la culture populaire contemporaine, parfois de façon anachronique par rapport à son rôle théologique d'origine.",
   "sources": [
     "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
-    "Malek, J. (1993). The Cat in Ancient Egypt"
+    "Malek, J. (1993). The Cat in Ancient Egypt",
+    "Hérodote, Histoires, livre II (source antique, Ve siècle av. J.-C.)"
   ],
   "notes": ""
 }

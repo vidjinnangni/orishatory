@@ -8,7 +8,7 @@
     "Haïtiens (vodou)"
   ],
   "resume": "Cérémonie d'initiation centrale du vodou haïtien, marquant l'engagement formel d'un pratiquant envers les loa et sa communauté religieuse, impliquant une période de retraite et une épreuve rituelle par le feu.",
-  "description_detaillee": "Le kanzo ne constitue que la première étape d'un parcours initiatique vodou qui peut se poursuivre par des degrés supplémentaires (si pwen, puis le rang le plus élevé d'asogwe) pour les pratiquants destinés à devenir prêtres (houngan) ou prêtresses (mambo) à part entière, chaque palier impliquant de nouvelles épreuves et de nouveaux engagements envers la communauté religieuse et les loa.\n\nL'épreuve du feu qui marque le kanzo proprement dit — le passage rapide des mains ou des pieds sur des braises ou une marmite chauffée — est traditionnellement interprétée non comme un simple test de courage mais comme la preuve tangible que l'initié a été rendu invulnérable par la protection des loa qu'il vient d'embrasser.",
+  "description_detaillee": "Le kanzo est le rite d'initiation du vodou haïtien, celui qui fait d'un simple fidèle un initié lié durablement aux lwa (les esprits, souvent écrits loa) et à la maison de culte qui l'a reçu. Ce n'est pas une cérémonie d'un soir : en Haïti, le processus enchaîne une série de rituels imbriqués qui peuvent s'étendre sur environ trois semaines. Pour le pratiquant, c'est le moment où la relation avec les esprits cesse d'être occasionnelle et devient un engagement reconnu par toute la communauté religieuse.\n\nLe cœur du rite est une réclusion. Les candidats sont « couchés » (kouche kanzo) dans le djèvo, la chambre d'initiation, et y restent isolés jusqu'à leur sortie publique, le leve kanzo. Plusieurs cérémonies jalonnent ce temps. Le lave tèt, lavage de la tête avec des préparations de plantes, prépare l'initié à recevoir les lwa. Le boule zen donne au kanzo son image la plus connue : des pots d'offrandes enduits d'huile sont chauffés jusqu'à ce que l'huile s'enflamme, ce qui doit « chauffer » les esprits et leur donner de la vigueur, et les initiés serrent dans leur main une boule de pâte brûlante tirée de ces pots. Les pratiquants y voient moins une preuve de courage qu'un signe de la protection des lwa. Une fois sortis, les nouveaux initiés observent le plus souvent une période d'abstinence, fréquemment fixée à quarante et un jours.\n\nLe kanzo ouvre aussi une hiérarchie. Le premier degré, celui de hounsi kanzo, fait de l'initié un membre actif de la maison, qui chante, salue les esprits et prépare les cérémonies. Les degrés suivants, sou pwen (ou si pwen) puis asogwe, concernent ceux qui deviennent houngan ou mambo : le prêtre sou pwen peut deviner et travailler pour des clients, tandis que l'asogwe, rang le plus élevé, est celui qui peut conduire d'autres personnes à recevoir l'asson, le hochet sacerdotal, et donc initier à son tour.\n\nLes étapes et leur durée varient d'une maison à l'autre, et une large part du rite reste secrète par principe. Les descriptions publiées, de l'étude d'Alfred Métraux (1959) au portrait de la mambo Mama Lola à Brooklyn par Karen McCarthy Brown, n'en donnent donc qu'une vue partielle. Le kanzo est pourtant la porte d'entrée vers le service des lwa présents dans ce codex, de Papa Legba, salué en ouverture de toute cérémonie, à Damballa ou Ezili.",
   "domaines": [
     "initiation",
     "engagement religieux",
@@ -26,12 +26,12 @@
   },
   "attributs": [
     "épreuve du feu",
-    "retraite collective (kay)"
+    "retraite collective dans la chambre d'initiation (djèvo)"
   ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [
-    "Métraux, A. (1959). Le Vaudou haïtien",
+    "Métraux, A. (1958). Le Vaudou haïtien",
     "Brown, K.M. (1991). Mama Lola: A Vodou Priestess in Brooklyn"
   ],
   "notes": ""

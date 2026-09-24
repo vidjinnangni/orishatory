@@ -8,7 +8,7 @@
     "Égyptiens anciens"
   ],
   "resume": "Cycle narratif relatant le long conflit judiciaire et physique entre Horus et Seth pour la succession d'Osiris au trône d'Égypte, tranché finalement par le tribunal des dieux en faveur d'Horus.",
-  "description_detaillee": "L'un des épisodes les plus caractéristiques du ton inhabituel de ce récit voit Seth tenter d'établir sa domination sur Horus par une agression qui se retourne contre lui grâce à une ruse d'Isis, la preuve de cette tentative ratée étant ensuite présentée comme argument décisif devant le tribunal divin pour discréditer Seth. Ce type d'épisode, mêlant grivoiserie et enjeux de légitimité politique, illustre combien la littérature religieuse égyptienne pouvait conjuguer humour cru et gravité théologique sans que les deux registres soient perçus comme contradictoires par son public antique.",
+  "description_detaillee": "Après le meurtre d'Osiris, qui doit lui succéder sur le trône d'Égypte : son fils Horus, encore jeune, ou son frère Seth, adulte et puissant ? Cette question de succession traverse toute la mythologie égyptienne, car chaque pharaon régnait en tant qu'Horus vivant. Le conflit entre les deux dieux est évoqué dès les Textes des pyramides, mais le récit suivi le plus développé qui nous soit parvenu est un conte en néo-égyptien copié sur le papyrus Chester Beatty I, sous le règne de Ramsès V (XXe dynastie, milieu du XIIe siècle av. J.-C.), provenant de la région thébaine. On le connaît sous le titre des « Contestations d'Horus et Seth ».\n\nLe texte met en scène un procès qui s'éternise depuis quatre-vingts ans devant l'Ennéade, l'assemblée des dieux présidée par Rê. Les juges hésitent, s'insultent, consultent la déesse Neith par lettre ; Rê lui-même, vexé par une insolence, part bouder et ne revient qu'après qu'Hathor l'a fait rire en se découvrant devant lui. Isis mène le jeu : déguisée en veuve, elle pousse Seth à reconnaître sans le savoir qu'il est injuste de déposséder un fils de l'héritage de son père. Les deux rivaux s'affrontent ensuite en épreuves successives. Transformés en hippopotames, ils cherchent à rester le plus longtemps sous l'eau ; Seth arrache les yeux d'Horus, qu'Hathor guérit avec du lait de gazelle ; il tente aussi de l'humilier sexuellement, mais Isis retourne la ruse en faisant manger à Seth des laitues sur lesquelles elle a déposé la semence d'Horus, si bien que devant le tribunal, c'est la semence d'Horus qui répond depuis le corps de Seth. Pour une course de bateaux de pierre, Horus fait peindre une barque de bois qui flotte tandis que celle de Seth coule.\n\nL'impasse n'est levée que par une lettre d'Osiris, qui depuis le monde des morts rappelle aux dieux qu'ils finiront tous chez lui et menace d'envoyer ses messagers. Horus est couronné ; Seth n'est pas anéanti, mais Rê le prend auprès de lui pour qu'il tonne dans le ciel, ce qui lui conserve une place dans l'ordre du monde. Le ton du conte, souvent comique et irrévérencieux envers les dieux, a beaucoup intrigué : on y voit tantôt une satire de la justice des hommes, tantôt un divertissement lettré qui n'ôtait rien au sérieux de la royauté. La Théologie memphite de la pierre de Chabaka propose une version bien plus sobre, où Geb partage d'abord l'Égypte entre les deux prétendants avant de la remettre tout entière à Horus.",
   "domaines": [
     "succession royale",
     "justice divine",
@@ -23,7 +23,8 @@
     "enfants": [],
     "entites_liees": [
       "horus",
-      "osiris"
+      "osiris",
+      "seth"
     ]
   },
   "attributs": [],
@@ -31,7 +32,8 @@
   "culte_contemporain": "",
   "sources": [
     "Papyrus Chester Beatty I (source antique, époque ramesside, ~12e siècle av. J.-C.)",
-    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions"
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "Lichtheim, M. (1976). Ancient Egyptian Literature, vol. II: The New Kingdom"
   ],
   "notes": "Ce récit, connu principalement par un papyrus de l'époque ramesside, adopte un ton étonnamment comique et satirique par endroits, contrastant avec la gravité généralement attendue d'un mythe de légitimation royale."
 }

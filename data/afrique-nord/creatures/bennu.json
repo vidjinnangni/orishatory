@@ -8,7 +8,7 @@
     "Égyptiens anciens"
   ],
   "resume": "Oiseau mythique associé au soleil, à la création et au cycle de mort et renaissance, considéré comme un précurseur du phénix des traditions grecque et occidentale ultérieures.",
-  "description_detaillee": "Le nom Bennu est étymologiquement rattaché au verbe égyptien 'ouben', signifiant 'se lever' ou 'briller', liant directement l'oiseau au phénomène du lever du soleil. Il était également associé au 'monticule primordial' émergé des eaux du chaos originel lors du 'Premier Temps' (zep tepi), moment fondateur de la création dans la cosmologie égyptienne, faisant de Bennu un symbole aussi bien temporel que solaire.",
+  "description_detaillee": "Le Bennu est un oiseau divin de l'Égypte ancienne, lié à Héliopolis, la ville du soleil, et à l'histoire de la création telle qu'on la racontait dans ses temples. On le figure le plus souvent en héron cendré, reconnaissable aux deux longues plumes qui retombent de sa nuque. Il intéresse autant les historiens des religions que le grand public, car les Grecs ont connu à Héliopolis la tradition d'un oiseau sacré dont ils ont tiré leur phénix, l'oiseau qui renaît de lui-même.\n\nSon nom se rattache au verbe égyptien *wbn*, « se lever, briller », qui sert aussi pour le lever du soleil. Selon la théologie héliopolitaine, au premier matin du monde, une butte de terre émergea des eaux primordiales et le créateur Atoum s'y manifesta ; les Textes des Pyramides associent ce moment à la pierre benben et à la « demeure du Bennu » à Héliopolis. L'oiseau passait pour être l'âme (le *ba*) de Rê, et son cri pour avoir ouvert le temps. Dans le Livre des Morts, une formule (chapitre 83) permet au défunt de « prendre la forme du Bennu », c'est-à-dire de participer à ce renouvellement quotidien ; à basse époque, l'oiseau est aussi rapproché d'Osiris et porte alors parfois la couronne atef.\n\nLe lien avec le phénix grec passe par Hérodote, qui rapporte au Ve siècle avant notre ère ce que les prêtres d'Héliopolis lui ont dit d'un oiseau venant d'Arabie tous les cinq cents ans. Mais son phénix ressemble à un aigle au plumage rouge et or, loin du héron égyptien, et le motif de l'oiseau qui brûle puis renaît de ses cendres n'apparaît que dans des textes plus tardifs. Les chercheurs y voient donc une réinterprétation grecque d'éléments égyptiens plutôt qu'un emprunt direct, ce que résume la note de cette fiche.",
   "domaines": [
     "renaissance",
     "soleil",
@@ -26,13 +26,14 @@
   },
   "attributs": [
     "forme de héron",
-    "association au pilier djed et à la ville d'Héliopolis"
+    "association à la pierre benben et à la ville d'Héliopolis"
   ],
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [
     "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
-    "Rundle Clark, R.T. (1959). Myth and Symbol in Ancient Egypt"
+    "Rundle Clark, R.T. (1959). Myth and Symbol in Ancient Egypt",
+    "Hérodote, Histoires, livre II (source antique, Ve siècle av. J.-C.)"
   ],
   "notes": "La filiation directe avec le phénix grec est débattue académiquement, davantage vue comme un parallélisme culturel que comme une transmission directe avérée."
 }

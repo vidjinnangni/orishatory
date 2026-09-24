@@ -8,7 +8,7 @@
     "Amazigh (Berbères)"
   ],
   "resume": "Nouvel an amazigh, célébré début janvier selon un calendrier agraire antérieur à l'islamisation du Maghreb, marqué par des repas familiaux copieux censés garantir l'abondance pour l'année à venir.",
-  "description_detaillee": "Dans certaines régions berbérophones, les observations météorologiques du premier jour de Yennayer donnent lieu à des pronostics populaires sur la rigueur du reste de l'hiver, une pratique de prédiction saisonnière fondée sur l'observation calendaire que l'on retrouve, sous des formes distinctes, dans plusieurs traditions agraires à travers le monde.",
+  "description_detaillee": "Yennayer est le premier jour de l'année dans le calendrier agraire suivi par les populations amazighes (berbères) d'Afrique du Nord. Ce calendrier est en réalité le calendrier julien, introduit à l'époque romaine, ce qui explique que la fête tombe avec quelques jours de décalage sur le 1er janvier grégorien : le 12, le 13 ou le 14 janvier selon les régions et les usages. Le nom lui-même vient très probablement du latin ianuarius, « janvier ». Fête domestique pendant des siècles, Yennayer est devenu depuis la fin du 20e siècle l'un des grands symboles de l'identité amazighe.\n\nAu cœur de la fête se trouve le repas du soir, où chacun doit manger à satiété pour que l'année soit abondante. Les plats varient : couscous aux sept légumes au Maroc, volaille en Kabylie, cherchem de fèves, pois chiches et blé, berkoukes la veille, fruits secs, beignets et crêpes. Dans certaines familles, une part est réservée aux absents ou aux défunts, et un coq est sacrifié pour protéger la maison du mauvais sort. On termine les travaux commencés dans l'année, comme le tissage en Kabylie, on nettoie la maison, on renouvelle ce qui est usé. D'autres gestes servent à lire l'avenir : une boulette de couscous déposée devant la porte ou des coupelles de sel dont on observe l'humidité annoncent le temps et les récoltes à venir. Selon les lieux, Yennayer est aussi le moment de la première coupe de cheveux des nouveau-nés ou de défilés d'enfants masqués qui vont de maison en maison.\n\nL'histoire de la fête est plus longue que son nom. Des « calendes de janvier » sont célébrées en Afrique romaine, et Tertullien puis Augustin les critiquent. Le mot Yannayr apparaît dans al-Andalus, chez le poète cordouan Ibn Quzman à la fin du 11e siècle, puis en Afrique du Nord au 13e siècle dans un texte des al-Azafi qui met en garde contre cette « nouveauté ». Au 16e siècle, Hassan al-Wazzan (Léon l'Africain) décrit encore à Fès des enfants masqués quêtant des fruits en chantant le premier jour de l'an. La fête a donc traversé l'islamisation, malgré des interdits répétés.\n\nLe décompte des années amazighes est, lui, une création moderne. Ammar Negadi, membre de l'Académie berbère fondée à Paris en 1967, a proposé d'en fixer le point de départ en 950 avant notre ère, date retenue pour l'avènement de Sheshonq Ier, pharaon d'origine libyenne ; janvier 2019 correspond ainsi à l'an 2969. Ce calendrier accompagne le renouveau militant de la culture amazighe, en Afrique du Nord comme dans la diaspora. L'Algérie a fait de Yennayer un jour férié à partir du 12 janvier 2018, et le Maroc l'a déclaré fête nationale en mai 2023, avec un premier jour chômé le 14 janvier 2024.",
   "domaines": [
     "nouvel an",
     "cycle agricole",
@@ -28,10 +28,12 @@
     "datation par référence à la victoire du pharaon libyen Sheshonq Ier"
   ],
   "recits_associes": [],
-  "culte_contemporain": "Officiellement reconnu comme jour férié en Algérie depuis 2018 ; célébré aussi au Maroc, en Tunisie et en Libye, avec un regain identitaire amazigh depuis les années 1990.",
+  "culte_contemporain": "Jour férié en Algérie depuis 2018 et au Maroc depuis 2024 (fête nationale décrétée en mai 2023) ; célébré aussi en Tunisie, en Libye et dans la diaspora, avec un regain identitaire amazigh depuis les années 1990.",
   "sources": [
-    "Camps, G. (1995). Yennayer, le jour de l'an berbère",
-    "Servier, J. (1985). Tradition et civilisation berbères"
+    "Servier, J. (1985). Tradition et civilisation berbères",
+    "El Briga (1996). Ennayer. Encyclopédie berbère, vol. 17",
+    "Servier, J. (1962). Les Portes de l'année",
+    "Ministère de la Culture (2019). Le Yennayer, nouvel an berbère en région parisienne (fiche d'inventaire du patrimoine culturel immatériel)"
   ],
   "notes": ""
 }

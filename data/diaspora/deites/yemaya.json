@@ -12,7 +12,7 @@
     "communautés afro-cubaines et afro-brésiliennes"
   ],
   "resume": "Orisha/orixá de la mer et de la maternité, l'une des figures féminines les plus vénérées de la santería cubaine et du candomblé brésilien, où de grandes fêtes populaires lui sont dédiées chaque année en bord de mer.",
-  "description_detaillee": "Dans la santería cubaine, Yemayá est fréquemment désignée comme la mère universelle de tous les orishas, quel que soit l'orisha tutélaire propre à chaque pratiquant — un statut qui dépasse sa seule fonction de déesse de la mer pour en faire une figure de maternité cosmique généralisée. Sa fête, fixée au 7 septembre par syncrétisme avec la Vierge de Regla dans le catholicisme populaire cubain, rassemble chaque année de nombreux pèlerins sur les rives de la baie de La Havane.\n\nLe chiffre sept, associé à Yemayá dans plusieurs traditions diasporiques, structure une bonne part de ses offrandes rituelles (sept jupes de couleurs différentes, sept types de fleurs), un système numérologique que l'on retrouve, avec des correspondances différentes, chez d'autres orishas majeurs.",
+  "description_detaillee": "Yemayá à Cuba, Iemanjá au Brésil : cette divinité compte parmi les plus populaires des religions afro-américaines. Elle vient de Yemọja, orisha yoruba dont le culte, au Nigeria, est rattaché au fleuve Ogun et à la région d'Abeokuta. En traversant l'Atlantique, la mère des eaux douces est devenue la maîtresse de la mer, protectrice des pêcheurs, des mères et des familles, et l'une des figures féminines les plus présentes du paysage religieux de Cuba et du Brésil.\n\nDans la santería cubaine (ou Regla de Ocha), elle est souvent décrite comme la mère universelle, celle qui a donné naissance à la vie et à de nombreux orishas. Elle se décline en plusieurs « chemins » (caminos), chacun avec son caractère, et porte le bleu et le blanc. Le catholicisme populaire l'a identifiée à la Vierge de Regla, patronne de la baie de La Havane : chaque 7 septembre, des fidèles venus de toute la ville se rendent en procession au sanctuaire de Regla, de l'autre côté de la baie, avec fleurs, bougies et offrandes. Le chiffre sept revient dans nombre de ses rites et offrandes.\n\nAu Brésil, Iemanjá est au centre de fêtes de plage parmi les plus grandes du pays. À Salvador de Bahia, la principale a lieu le 2 février dans le quartier de Rio Vermelho : elle remonte à 1923, lorsque des pêcheurs inquiets de la rareté du poisson décidèrent de lui porter une offrande, et elle est aujourd'hui la plus grande manifestation publique du candomblé dans l'État. À Rio de Janeiro, la nuit du 31 décembre voit des foules vêtues de blanc déposer des fleurs et de petites embarcations chargées d'offrandes dans les vagues, qu'elles soient pratiquantes ou non.\n\nCe passage du fleuve à l'océan illustre la manière dont les divinités africaines ont été recomposées dans les Amériques : c'est la mer, celle de la traversée, qui est devenue le domaine de la mère. Le codex permet de la rapprocher d'autres figures des eaux, Ọ̀ṣun, divinité yoruba des eaux douces, et Mami Wata, esprit des eaux honoré sur les côtes africaines et dans la diaspora.",
   "domaines": [
     "mer",
     "maternité",
@@ -35,10 +35,9 @@
     "éventail"
   ],
   "recits_associes": [],
-  "culte_contemporain": "La fête du Réveillon dédiée à Iemanjá sur les plages de Rio de Janeiro et Salvador de Bahia (31 décembre) rassemble chaque année des millions de participants, croyants ou non.",
+  "culte_contemporain": "La grande fête du 2 février à Salvador de Bahia (quartier de Rio Vermelho) et la nuit du 31 décembre sur les plages de Rio de Janeiro rassemblent chaque année des foules considérables, croyantes ou non ; à Cuba, la procession du 7 septembre vers le sanctuaire de la Vierge de Regla lui est associée.",
   "sources": [
-    "Verger, P. (1957). Notes sur le culte des orisa et vodun",
-    "Bahia, R.M. (2008). Iemanjá: mãe das águas (contexte brésilien contemporain)"
+    "Verger, P. (1957). Notes sur le culte des orisa et vodun"
   ],
   "notes": "Bien qu'issue du panthéon yoruba, où elle est associée aux rivières plutôt qu'à l'océan, sa fonction et son iconographie se sont largement recomposées dans le contexte diasporique atlantique."
 }

@@ -8,7 +8,7 @@
     "Égyptiens anciens"
   ],
   "resume": "Déesse cobra de la nécropole thébaine, dont le nom signifie 'celle qui aime le silence', gardienne redoutée de la Vallée des Rois punissant les profanateurs de tombes et les ouvriers malhonnêtes.",
-  "description_detaillee": "Le culte de Meretseger est particulièrement bien documenté par de nombreuses stèles votives retrouvées à Deir el-Médineh, le village où résidaient les artisans chargés de creuser et décorer les tombes royales de la Vallée des Rois : plusieurs de ces inscriptions, dédiées par des ouvriers nommément identifiés, implorent son pardon pour des fautes précises, offrant un aperçu rare et direct de la vie religieuse des gens du commun plutôt que de la seule perspective royale ou sacerdotale.",
+  "description_detaillee": "Meretseger, « celle qui aime le silence », est une déesse de la rive ouest de Thèbes, en Haute-Égypte. On la confondait avec la montagne pyramidale qui domine la Vallée des Rois, aujourd'hui appelée el-Qurn, d'où son autre nom, Dehenet-Imentet, « la Cime de l'Occident ». Représentée en cobra, parfois en femme à tête de serpent ou en serpent à tête de femme, elle veillait sur les tombes royales et frappait de son venin ceux qui troublaient la paix du lieu. Son intérêt tient surtout à ce qu'elle éclaire une religion locale, celle d'une communauté d'artisans, plutôt que la théologie officielle des grands temples.\n\nSes fidèles les mieux connus sont en effet les ouvriers de Deir el-Médineh, le village où vivaient les équipes chargées de creuser et de décorer les tombes royales. Ils lui ont consacré de petits oratoires sur le chemin de la Vallée et de nombreuses stèles votives, souvent modestes. La plus célèbre, conservée au Musée égyptien de Turin, fut dédiée sous la XIXe dynastie par le dessinateur Neferabou : il s'y décrit comme un homme ignorant qui ne savait pas distinguer le bien du mal, raconte avoir offensé « la Cime » et subi un châtiment, puis la montre venir à lui « comme une brise douce » une fois sa faute reconnue. La maladie comme sanction divine, la confession publique puis la guérison forment un schéma que l'on retrouve sur d'autres stèles du village.\n\nLe culte de Meretseger est resté étroitement lié à son territoire. Lorsque les pharaons cessèrent de se faire inhumer dans la Vallée des Rois, à la fin du Nouvel Empire, et que la communauté de Deir el-Médineh se dispersa, sa dévotion déclina à son tour. Les fouilles menées par Bernard Bruyère dans le village au cours des années 1920 et 1930 ont rendu à cette déesse une visibilité que peu de divinités mineures possèdent, et elle figure aujourd'hui parmi les meilleurs exemples de ce que les égyptologues appellent la « piété personnelle ».",
   "domaines": [
     "nécropole",
     "punition",
@@ -30,7 +30,8 @@
   "culte_contemporain": "",
   "sources": [
     "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
-    "Bruyère, B. (1930). Mert Seger à Deir el Médineh"
+    "Bruyère, B. (1930). Mert Seger à Deir el Médineh",
+    "Wilkinson, R.H. (2003). The Complete Gods and Goddesses of Ancient Egypt"
   ],
   "notes": ""
 }

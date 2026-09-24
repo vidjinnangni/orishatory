@@ -8,7 +8,7 @@
     "Hausa"
   ],
   "resume": "Héros fondateur légendaire des États haoussa, venu d'Orient selon le récit, qui aurait tué le serpent Sarki bloquant l'accès au puits de la ville de Daura, épousant ensuite la reine locale. Leurs descendants auraient fondé les sept États haoussa historiques (Hausa Bakwai).",
-  "description_detaillee": "La tradition distingue les sept États fondés par les fils légitimes de Bayajidda et de la reine Daurama, dits Hausa Bakwai ('les sept Haoussa' : Daura, Kano, Zazzau, Gobir, Katsina, Rano et Biram), des sept États dits Banza Bakwai ('les sept illégitimes'), fondés par les fils qu'il aurait eus avec une concubine, établissant ainsi une hiérarchie politique et symbolique entre cités haoussa qui a longtemps structuré les rapports de préséance régionaux.\n\nCertaines versions du récit accordent un rôle spécifique à un forgeron local qui aurait fabriqué l'épée utilisée par Bayajidda pour vaincre le serpent Sarki, associant symboliquement la légitimité politique naissante à la maîtrise technique du fer — un motif que l'on retrouve, sous d'autres formes, dans plusieurs récits fondateurs ouest-africains liant royauté et forge.",
+  "description_detaillee": "Bayajidda est le héros fondateur que la tradition place à l'origine des cités-États haoussa, dans l'actuel nord du Nigeria et le sud du Niger. Son histoire, racontée surtout à Daura, explique d'un même geste l'origine de la royauté, la parenté entre les grandes villes haoussa et le rang de chacune. Aujourd'hui encore, elle sert de récit commun à un peuple qui n'a jamais formé un État unique, et on la cite dès qu'il est question de l'histoire ancienne du pays haoussa.\n\nSelon la version la plus répandue, Bayajidda, de son vrai nom Abu Yazid, était un prince de Bagdad chassé par la guerre. Il passe d'abord par le Bornou, où il épouse Magira, fille du souverain, puis s'enfuit après un conflit avec son beau-père. À Gaya, des forgerons lui fabriquent un sabre. Il arrive enfin de nuit à Daura, alors gouvernée par une reine, Daurama, et demande de l'eau. On lui répond que le puits, Kusugu, est gardé par un serpent nommé Sarki qui ne laisse puiser qu'un jour par semaine. Bayajidda descend au puits, tue le serpent et garde sa tête comme preuve. Daurama, reconnaissante, l'épouse. Le détail n'est pas innocent : sarki signifie « roi » en haoussa, et en tuant le serpent de ce nom, l'étranger met fin au règne des reines et inaugure celui des rois. Le puits Kusugu est aujourd'hui encore montré aux visiteurs à Daura.\n\nLa généalogie qui suit fonde toute la géographie politique haoussa. De Daurama naît Bawo, dont les six fils règnent sur Daura, Kano, Katsina, Zazzau (Zaria), Gobir et Rano. Avec Biram, né de l'épouse bornouane, ils forment les Hausa Bakwai, les « sept (États) haoussa » légitimes. Un autre fils, Karbagari, né d'une concubine, est l'ancêtre des Banza Bakwai, les « sept bâtards » : Kebbi, Zamfara, Gwari, Jukun (Kwararafa), Nupe, Yauri et Ilorin. Cette classification, qui range parmi les « illégitimes » des peuples dont la langue n'est pas le haoussa, dit moins l'histoire réelle que la hiérarchie que les cités haoussa se donnaient vis-à-vis de leurs voisins.\n\nLes historiens lisent le récit de plusieurs façons. W.K.R. Hallam a proposé de rapprocher le héros d'Abu Yazid, un chef kharidjite qui combattit les Fatimides en Ifriqiya (l'actuelle Tunisie) jusqu'à sa mort en 947 : le récit garderait le souvenir de ses partisans dispersés vers le sud et de leur arrivée au Sahel. D'autres y lisent la mémoire de l'arrivée de groupes venus de l'est, par le Bornou, et de leur alliance avec des pouvoirs locaux, ou encore la transition d'une autorité féminine à une royauté masculine. L'origine bagdadienne, elle, relève d'un procédé courant dans les traditions sahéliennes islamisées, qui rattachent les dynasties au cœur du monde musulman. Le forgeron de Gaya rappelle que, dans bien des récits de fondation ouest-africains, le pouvoir politique s'appuie sur la maîtrise du fer.",
   "domaines": [
     "fondation dynastique",
     "héroïsme",
@@ -19,9 +19,7 @@
   ],
   "genealogie": {
     "parents": [],
-    "conjoints": [
-      "Reine Daurama"
-    ],
+    "conjoints": [],
     "enfants": [],
     "entites_liees": []
   },
@@ -33,7 +31,8 @@
   "culte_contemporain": "La légende reste centrale à l'identité politique et culturelle haoussa contemporaine au Nigeria et au Niger, invoquée dans la légitimation de plusieurs lignages émiraux.",
   "sources": [
     "Palmer, H.R. (1908). The Kano Chronicle",
-    "Smith, M.G. (1978). The Affairs of Daura"
+    "Smith, M.G. (1978). The Affairs of Daura",
+    "Hallam, W.K.R. (1966). The Bayajida Legend in Hausa Folklore. Journal of African History, 7(1)"
   ],
   "notes": "Comme pour Sunjata ou Sonni Ali Ber, le récit mêle éléments historiques probables et structure narrative typique des mythes fondateurs : le héros étranger, le monstre vaincu, le mariage légitimant."
 }

@@ -8,8 +8,8 @@
     "Bambara",
     "Mandingue"
   ],
-  "resume": "Principe créateur primordial dans la cosmogonie bambara, associé à la terre et à un désordre originel qu'il provoque en agissant seul avant l'intervention organisatrice de Faro. Sa graine primordiale (le 'pembele') est un motif central du récit de création.",
-  "description_detaillee": "Le récit bambara associe la graine primordiale de Pemba, le pembele, à un arbre mythique dont la germination prématurée et désordonnée aurait donné naissance à une terre encore instable et impure, nécessitant l'intervention correctrice de Faro pour devenir habitable. Cette impureté originelle du geste de Pemba, agissant seul et sans concertation, sert de fondement mythologique à l'idée bambara selon laquelle toute création individuelle et précipitée engendre le désordre, par opposition à l'action organisée et collective incarnée par Faro.\n\nLe motif du désordre initial suivi d'une réorganisation par une seconde entité divine constitue une structure narrative que l'on retrouve, sous des formes distinctes, dans plusieurs cosmogonies ouest-africaines voisines, sans qu'il faille y voir une origine commune plutôt qu'une convergence thématique indépendante.",
+  "resume": "Principe créateur primordial dans la cosmogonie bambara, associé à la terre et à un désordre originel qu'il provoque en agissant seul avant l'intervention organisatrice de Faro. Sa manifestation sous forme de graine, d'où naît un acacia dont ne subsiste qu'une pièce de bois, le Pembélé, est un motif central du récit de création.",
+  "description_detaillee": "Pemba est une figure centrale des récits de création des Bambara (Bamana) et des Malinké du Mali, là où le monde prend forme pour la première fois. Il n'est pas un dieu méchant mais le premier temps de la création, celui de la terre encore nue, d'une fécondité précipitée et d'un ordre qui n'est pas encore là. Tout le reste de la cosmogonie, et notamment l'œuvre de Faro, se définit par rapport à ce premier geste, qu'il faut ensuite corriger.\n\nDans la version bambara exposée par Germaine Dieterlen puis résumée par Dominique Zahan, le dieu suprême Bemba se manifeste d'abord sous la forme de Pemba : une graine d'où pousse un acacia, le balanza. L'arbre se dessèche, tombe et pourrit ; seule en subsiste une pièce de bois allongée, le Pembélé. Pemba pétrit ce bois pourri avec sa salive et en façonne Mousso Koroni Koundyé, « la petite vieille à la tête blanche », qui devient la première femme et son épouse. C'est d'elle que viennent les plantes, les animaux et les humains, mais dans la hâte et le désordre. Leur conflit, sa trahison, sa fuite et sa folie répandent l'impureté dans la création ; Pemba la poursuit à travers l'espace sans jamais la rattraper, et les Bambara associent Mousso Koroni à l'étoile Sirius.\n\nDans la version malinké recueillie à Kangaba et publiée par Dieterlen en 1957, Pemba devient le jumeau impatient de Faro. Voulant dominer la création, il quitte trop tôt l'œuf du monde façonné par le créateur Mangala et déchire son placenta, qui devient la terre, encore stérile. Il y sème des graines dérobées au créateur, qui germent dans l'impureté et deviennent rouges. Le sacrifice de Faro et le déluge qui suit ont précisément pour but de réparer cette faute.\n\nCes récits proviennent de l'école de Marcel Griaule, dont les reconstructions très cohérentes ont été discutées pour leur tendance à unifier des savoirs dispersés, et les versions qu'ils rapportent diffèrent sensiblement d'une région à l'autre. Le schéma d'un premier créateur trop pressé, suivi d'une seconde figure qui ordonne, se retrouve aussi chez les Dogon avec Amma, le Renard pâle et le Nommo, ce qui peut tenir à un fonds culturel commun autant qu'à la manière dont les mêmes enquêteurs ont mis ces récits en forme.",
   "domaines": [
     "terre",
     "création",
@@ -28,7 +28,9 @@
     ]
   },
   "attributs": [
-    "graine primordiale (pembele)"
+    "graine primordiale",
+    "acacia (balanza)",
+    "pièce de bois du Pembélé"
   ],
   "recits_associes": [
     "partage-monde-faro-pemba"
@@ -36,7 +38,10 @@
   "culte_contemporain": "",
   "sources": [
     "Dieterlen, G. (1951). Essai sur la religion bambara",
-    "Zahan, D. (1960). Sociétés d'initiation bambara: le N'domo, le Korè"
+    "Zahan, D. (1960). Sociétés d'initiation bambara: le N'domo, le Korè",
+    "Dieterlen, G. (1957). The Mande Creation Myth",
+    "Zahan, D. (1987). Bambara Religion",
+    "Griaule, M. & Dieterlen, G. (1950). Un système soudanais de Sirius"
   ],
   "notes": ""
 }

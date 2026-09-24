@@ -8,7 +8,7 @@
     "Herero"
   ],
   "resume": "Dieu suprême herero (Namibie), associé aux ancêtres fondateurs et au feu sacré, dont la présence est maintenue au sein de chaque communauté par le foyer rituel okuruwo, entretenu en continu par un gardien désigné.",
-  "description_detaillee": "La centralité du foyer sacré okuruwo dans le culte de Mukuru a pris une résonance particulière après le génocide perpétré par les autorités coloniales allemandes contre les Herero et les Nama entre 1904 et 1908, l'un des événements les plus meurtriers de l'histoire coloniale africaine : la transmission continue du feu rituel et de la mémoire ancestrale qui lui est associée a représenté, pour les survivants et leurs descendants, un acte de continuité culturelle face à une tentative d'anéantissement quasi total du peuple herero.",
+  "description_detaillee": "Mukuru est la figure religieuse centrale des Herero de Namibie et de leurs proches parents himba du Kaokoland. Son nom signifie à peu près « l'Ancien », et il se situe à la charnière entre deux idées que beaucoup de religions séparent : il est à la fois l'être suprême, source de toute bénédiction, et le premier ancêtre dont descendent les lignées herero. C'est par lui que se comprend le lien étroit entre culte des ancêtres, élevage et feu sacré dans ces sociétés pastorales.\n\nUn récit d'origine rapporte que le premier homme, la première femme et le bétail sont sortis d'un arbre primordial, l'omumborombonga, qui se dresserait quelque part entre le Kaokoveld et le pays ovambo ; selon les versions, ce premier homme est Mukuru lui-même ou son descendant. Les Himba le tiennent pour le créateur, qui ne fait que bénir, alors que les ancêtres défunts (ovakuru) peuvent bénir ou punir et servent d'intermédiaires entre lui et les vivants. Les missionnaires, présents chez les Herero depuis les années 1840, ont surtout retenu un autre nom, Ndjambi Karunga, pour désigner le dieu du ciel ; le second terme est apparenté au Kalunga des Ovambo voisins. Les sources ne s'accordent pas sur le rapport exact entre Mukuru et Ndjambi, et certains chercheurs pensent que la figure de Ndjambi a été enrichie au contact du christianisme.\n\nLe lien avec Mukuru passe par l'okuruwo, le feu sacré entretenu devant la maison principale de chaque groupe familial, sous la responsabilité de l'homme le plus âgé de la lignée. On y présente les nouveau-nés, on y annonce les mariages et les funérailles, on y consulte les ancêtres ; la fumée qui monte figure la communication entre les vivants, les morts et l'être suprême. En théorie, la chaîne des feux remonte jusqu'au premier ancêtre, si bien que chaque foyer rattache la famille à l'origine du peuple.\n\nCette continuité a pris un sens particulier après le génocide des Herero et des Nama par les troupes coloniales allemandes entre 1904 et 1908, qui a tué la majorité de la population herero et dispersé les survivants. Beaucoup se sont ensuite tournés vers le christianisme luthérien, mais le maintien des feux sacrés et des généalogies a servi de fil entre l'avant et l'après. Chez les Himba, restés plus à l'écart de l'administration coloniale, le culte de Mukuru et des ancêtres autour de l'okuruwo demeure une pratique quotidienne.",
   "domaines": [
     "création",
     "ancestralité",
@@ -31,7 +31,8 @@
   "culte_contemporain": "",
   "sources": [
     "Vedder, H. (1928). The Herero",
-    "Gibson, G.D. (1956). Double Descent and Its Correlates among the Herero"
+    "Gibson, G.D. (1956). Double Descent and Its Correlates among the Herero",
+    "Crandall, D.P. (2000). The Place of Stunted Ironwood Trees: A Year in the Lives of the Cattle-Herding Himba of Namibia"
   ],
   "notes": ""
 }

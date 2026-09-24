@@ -8,7 +8,7 @@
     "Nubiens (royaume de Kouch)"
   ],
   "resume": "Dieu créateur et de la fertilité dans le panthéon méroïtique (royaume de Kouch), souvent représenté aux côtés du roi dans les temples de Naga et Musawwarat, l'une des rares divinités majeures nubiennes sans équivalent égyptien direct.",
-  "description_detaillee": "Comme pour Apedemak, la vénération de Sebiumeker au sein du panthéon méroïtique s'inscrit dans un mouvement plus large d'affirmation religieuse autonome du royaume de Kouch à mesure que son indépendance politique et culturelle vis-à-vis de l'Égypte s'affirmait au cours du premier millénaire avant notre ère.",
+  "description_detaillee": "Sebiumeker est un dieu du royaume de Kouch, surtout vénéré à Méroé, dans l'actuel Soudan, à l'époque méroïtique. On le tient pour un dieu de la procréation et de la fertilité, peut-être l'une des plus anciennes figures proprement nubiennes du panthéon ; son nom est la forme égyptianisée d'un nom local que certains auteurs transcrivent Sabomakal. Avec Apedemak et Arensnuphis, il fait partie des dieux qui montrent que la religion kouchite ne se réduisait pas à une copie de celle de l'Égypte.\n\nSon image, pourtant, emprunte beaucoup aux conventions égyptiennes : il porte la double couronne, la barbe divine, l'uraeus et un pagne court. La pièce la plus connue est une statue colossale en grès d'environ 2,25 mètres, provenant du temple M 600 de Méroé et datée probablement du 1er siècle avant notre ère, aujourd'hui conservée à la Ny Carlsberg Glyptotek de Copenhague. Elle faisait apparemment pendant à une statue d'Arensnuphis de même taille, découverte au même endroit. Le visage, large et traité par grands plans, relève d'un style méroïtique reconnaissable malgré la coiffure égyptienne.\n\nSebiumeker et Arensnuphis apparaissent souvent ensemble de part et d'autre des portes des temples. On en a déduit un rôle de gardien des seuils, voire de protecteur contre les dangers venus du désert ; d'autres chercheurs lisent cette position à l'entrée comme le signe d'un dieu du passage et de la transformation, en accord avec sa fonction de dieu créateur. Aucun texte mythologique ne tranche la question, et ce que l'on sait de lui repose presque entièrement sur l'iconographie et sur l'emplacement de ses images.",
   "domaines": [
     "création",
     "fertilité",
@@ -29,7 +29,9 @@
   "culte_contemporain": "",
   "sources": [
     "Welsby, D.A. (1996). The Kingdom of Kush: The Napatan and Meroitic Empires",
-    "Rondot, V. (2012). La grande salle hypostyle du temple d'Amon à Naga"
+    "Rondot, V. (2012). La grande salle hypostyle du temple d'Amon à Naga",
+    "Kuckertz, J. & Lohwasser, A. (2019). Introduction to the Religion of Kush",
+    "Garstang, J. (1911). Meroë, the City of the Ethiopians"
   ],
   "notes": ""
 }

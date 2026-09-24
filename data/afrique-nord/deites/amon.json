@@ -1,0 +1,61 @@
+{
+  "id": "amon",
+  "nom": "Amon",
+  "variantes": [
+    "Amun",
+    "Amen",
+    "Imen",
+    "Amon-Rê",
+    "Ammon"
+  ],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": [
+    "Égyptiens anciens",
+    "Koushites (Napata, Méroé)"
+  ],
+  "resume": "Dieu de Thèbes dont le nom signifie « le caché », devenu au Nouvel Empire, sous la forme d'Amon-Rê, le « roi des dieux » et le protecteur de la monarchie égyptienne. Il forme avec Mout et Khonsou la triade thébaine et son culte s'étendit jusqu'en Nubie et à l'oasis de Siwa.",
+  "description_detaillee": "Amon est le grand dieu de Thèbes, l'actuelle Louxor, en Haute-Égypte. Son nom veut dire « le caché », et toute sa théologie tourne autour de cette idée : un dieu dont on perçoit l'action partout sans jamais pouvoir le saisir. Divinité locale assez discrète à l'origine, il devint, lorsque les rois originaires de Thèbes prirent le pouvoir, le dieu de la dynastie, puis le principal dieu de l'Égypte pendant plus d'un millénaire. Le temple de Karnak, qui lui était consacré, est le plus vaste ensemble religieux du pays.\n\nSon nom apparaît déjà dans les Textes des Pyramides, au sein de l'Ogdoade d'Hermopolis, où il forme avec Amaunet le couple primordial du caché (voir la fiche Thot). Son ascension commence au Moyen Empire avec les souverains thébains, et il est bientôt associé à Rê sous le nom d'Amon-Rê, « roi des dieux », qui unit le dieu invisible et le soleil visible. Au Nouvel Empire, il reçoit une épouse, Mout, et un fils, Khonsou ; les trois dieux forment la triade thébaine, célébrée lors de grandes processions comme la fête d'Opet ou la Belle Fête de la Vallée. On le représente en homme coiffé d'une couronne à deux hautes plumes, la peau parfois peinte en bleu, et il se manifeste aussi sous la forme d'un bélier ou d'une oie. Son clergé, enrichi par les victoires militaires dont les rois lui rendaient hommage, devint une puissance économique et politique de premier plan.\n\nCette position explique le coup de force d'Akhenaton, qui fit marteler le nom d'Amon sur les monuments et imposa le culte exclusif d'Aton. La restauration, sous Toutânkhamon, s'accompagna d'une réflexion théologique très riche : les hymnes de l'époque ramesside, étudiés par Jan Assmann, décrivent Amon comme un dieu unique dont tous les autres dieux seraient des manifestations, sans pour autant renoncer à la pluralité du panthéon. Au Ier millénaire, les « divines adoratrices d'Amon », princesses consacrées au dieu, exercèrent à Thèbes une autorité à la fois religieuse et politique.\n\nLe culte d'Amon a largement dépassé l'Égypte. En Nubie, le Gebel Barkal, près de Napata, passait pour une demeure du dieu, et les rois de Koush, qui gouvernèrent l'Égypte sous la XXVe dynastie, se présentaient comme ses fils ; Amon resta un dieu majeur du royaume de Méroé, aux côtés de divinités locales comme Apedemak. À l'ouest, l'oracle d'Amon dans l'oasis de Siwa acquit une réputation dans tout le monde grec, qui l'assimila à Zeus sous le nom de Zeus Ammon, et Alexandre le Grand vint le consulter en 331 avant notre ère. Cette figure libyenne d'Ammon, à tête de bélier, survit jusque dans la Johannide de Corippus, qui fait de lui le père du dieu berbère Gurzil.",
+  "domaines": [
+    "royauté",
+    "création",
+    "soleil (sous la forme Amon-Rê)",
+    "oracle"
+  ],
+  "tags": [
+    "royaute-sacree",
+    "creation"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [
+      "mut"
+    ],
+    "enfants": [
+      "khonsu"
+    ],
+    "entites_liees": [
+      "ra",
+      "thot",
+      "min",
+      "fete-opet",
+      "apedemak",
+      "gurzil"
+    ]
+  },
+  "attributs": [
+    "couronne à deux hautes plumes",
+    "peau bleue",
+    "bélier",
+    "oie"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Wilkinson, R.H. (2003). The Complete Gods and Goddesses of Ancient Egypt",
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "Assmann, J. (1995). Egyptian Solar Religion in the New Kingdom: Re, Amun and the Crisis of Polytheism",
+    "Kuckertz, J. & Lohwasser, A. (2019). Introduction to the Religion of Kush"
+  ],
+  "notes": "La relation entre l'Amon de Thèbes et l'Ammon libyen de Siwa reste discutée : il peut s'agir du dieu égyptien implanté dans l'oasis ou d'une divinité locale assimilée à lui."
+}

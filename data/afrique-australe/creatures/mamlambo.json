@@ -9,7 +9,7 @@
     "Xhosa"
   ],
   "resume": "Être surnaturel aquatique associé aux rivières, décrit tantôt comme un serpent gigantesque tantôt comme une créature mi-femme mi-poisson, capable d'apporter richesse à qui parvient à établir un pacte avec elle mais aussi de noyer les imprudents.",
-  "description_detaillee": "L'un des épisodes contemporains les plus médiatisés concernant Mamlambo remonte à 1997, dans la province du Cap-Oriental, où la mort d'un jeune homme retrouvé dans une rivière fut largement attribuée par la presse et la population locale à une rencontre avec la créature, donnant lieu à une intense couverture médiatique qui illustre la persistance de cette croyance dans l'Afrique du Sud contemporaine, bien au-delà des seuls récits ruraux traditionnels.",
+  "description_detaillee": "Mamlambo est un esprit des eaux connu des Zulu, des Xhosa et des Mpondo, dont le nom est souvent rapproché du mot umlambo, « rivière ». Il prend la forme d'un grand serpent ou d'une femme d'une beauté troublante, et sa singularité tient à sa double nature : il peut enrichir, mais toujours à un prix que l'on paie en vies humaines.\n\nAu cœur des récits se trouve un pacte. Un homme obtient Mamlambo, parfois acheté sous la forme d'un petit serpent ou d'une préparation auprès d'un guérisseur, et devient prospère ; en retour, la créature exige qu'un membre de sa famille meure, puis réclame d'autres victimes, et elle ne peut être ni renvoyée ni revendue sans danger. Ce motif rejoint les pratiques d'enrichissement occulte désignées en isiXhosa et en isiZulu par ukuthwala. L'ethnologue Monica Hunter l'avait déjà relevé chez les Mpondo dans les années 1930, en le rangeant parmi les esprits des eaux qui, comme l'ichanti, hantent les rivières et les mares.\n\nLa chercheuse Felicity Wood a suivi la transformation de ces serpents : dans des traditions plus anciennes du Cap-Oriental, le serpent est souvent un messager ou un guide des ancêtres, lié à la pluie ; dans les récits modernes, Mamlambo devient une puissance qui divise les familles et creuse les inégalités. On peut y lire une manière de penser l'argent rapide et l'enrichissement suspect dans une économie monétarisée.\n\nEn 1997, des journaux sud-africains comme The Star et le Cape Argus relayèrent des témoignages de villageois des environs de Mount Ayliff, dans le Cap-Oriental : un reptile géant vivrait dans la rivière Mzintlava et aurait causé jusqu'à neuf morts entre janvier et avril. La police expliqua les mutilations des corps par l'action des crabes après la noyade ; des patrouilles furent organisées sans rien trouver. L'épisode montre que la figure appartient au présent autant qu'au passé, et que sa réduction à un « monstre du Loch Ness » local laisse de côté l'essentiel, c'est-à-dire la question morale de la richesse.",
   "domaines": [
     "eau",
     "richesse",
@@ -29,7 +29,9 @@
   "culte_contemporain": "",
   "sources": [
     "Berglund, A-I. (1976). Zulu Thought-Patterns and Symbolism",
-    "Hammond-Tooke, W.D. (1989). Rituals and Medicines: Indigenous Healing in South Africa"
+    "Hammond-Tooke, W.D. (1989). Rituals and Medicines: Indigenous Healing in South Africa",
+    "Hunter, M. (1936). Reaction to Conquest: Effects of Contact with Europeans on the Pondo of South Africa",
+    "Wood, F. (2025). From rain-bringer to wealth-giver: Changing forms of the snake in southern African belief systems"
   ],
   "notes": "La figure connaît un regain de popularité contemporaine dans les récits urbains sud-africains, parfois comparée dans la presse populaire à un 'monstre du Loch Ness' local sans que cette comparaison rende justice à sa signification culturelle propre."
 }

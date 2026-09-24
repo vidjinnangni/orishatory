@@ -8,7 +8,7 @@
     "Shona"
   ],
   "resume": "Esprit-médium shona et titre porté par plusieurs prêtresses successives, dont la plus connue historiquement, Charwe Nyakasikana, dirigea une résistance armée contre la colonisation britannique lors de la première guerre Chimurenga (1896-1897) avant d'être exécutée par les autorités coloniales.",
-  "description_detaillee": "Selon plusieurs témoignages rapportés, les derniers mots attribués à Charwe Nyakasikana avant son exécution en 1898 auraient annoncé que ses os se relèveraient un jour pour continuer la lutte ('mapfihwa angu achamuka'), une formule reprise près d'un siècle plus tard comme cri de ralliement par les combattants de la guerre de libération du Zimbabwe des années 1970, offrant un exemple frappant de la façon dont une parole attribuée à une figure historique peut acquérir une seconde vie politique bien après sa mort.",
+  "description_detaillee": "Nehanda est à la fois un esprit ancestral shona, un mhondoro associé au nord du Zimbabwe, et le titre porté par les femmes que cet esprit possède. La plus célèbre d'entre elles, Charwe Nyakasikana, issue de la lignée Hwata de la haute vallée de la Mazowe, fut l'une des figures spirituelles du soulèvement de 1896-1897 contre la British South Africa Company. Elle est devenue la grande héroïne de la mémoire nationale zimbabwéenne.\n\nLors de la première Chimurenga, Charwe prêcha la résistance aux côtés de Gumboreshumba, médium de l'esprit Kaguvi, présenté dans la tradition comme l'époux spirituel de Nehanda. Capturée après l'écrasement du soulèvement, elle fut accusée d'avoir ordonné la mort du commissaire indigène Henry Hawkins Pollard. Condamnée, elle fut pendue à Salisbury, l'actuelle Harare, le 27 avril 1898, en même temps que Kaguvi. Le seul récit contemporain de ses derniers jours, dû au jésuite Francis Richartz, la décrit refusant jusqu'au bout la conversion.\n\nLa tradition orale lui prête une dernière parole, « mapfupa angu achamuka », « mes os se relèveront ». Pendant la guerre de libération des années 1970, ces mots devinrent un mot d'ordre, et la guérilla chercha le soutien d'un médium de Nehanda dans la vallée du Dande, comme l'a montré David Lan. L'historienne Ruramisai Charumbira a analysé comment cette mémoire s'est construite et remodelée au service du récit national. Une statue de Mbuya Nehanda, œuvre du sculpteur David Guy Mutasa, a été inaugurée à Harare en mai 2021, et des voix réclament le retour de restes humains qu'on dit conservés au Royaume-Uni, une affirmation difficile à vérifier.\n\nLa mémoire populaire confond souvent l'esprit, le titre et la femme exécutée. Distinguer ces trois niveaux permet de comprendre comment une institution religieuse ancienne a pu fournir à un mouvement politique moderne l'une de ses figures fondatrices. Dans le codex, Nehanda est liée à Chaminuka, l'autre grand mhondoro mobilisé par le nationalisme zimbabwéen.",
   "domaines": [
     "résistance anticoloniale",
     "prophétie",
@@ -30,7 +30,8 @@
   "culte_contemporain": "Figure centrale de la mémoire nationale zimbabwéenne, invoquée notamment durant la guerre de libération des années 1970 (seconde Chimurenga) et commémorée par une statue nationale.",
   "sources": [
     "Lan, D. (1985). Guns and Rain: Guerrillas and Spirit Mediums in Zimbabwe",
-    "Ranger, T.O. (1967). Revolt in Southern Rhodesia 1896-97"
+    "Ranger, T.O. (1967). Revolt in Southern Rhodesia 1896-97",
+    "Charumbira, R. (2015). Imagining a Nation: History and Memory in Making Zimbabwe"
   ],
   "notes": "La distinction entre Nehanda comme titre spirituel porté par une lignée de médiums et Charwe Nyakasikana comme personne historique exécutée en 1898 est parfois estompée dans la mémoire populaire, qui fusionne les deux dans une figure unique."
 }

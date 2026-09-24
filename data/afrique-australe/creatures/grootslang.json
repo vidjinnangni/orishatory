@@ -8,7 +8,7 @@
     "folklore afrikaner et khoikhoi du Cap"
   ],
   "resume": "Créature légendaire hybride, mi-éléphant mi-serpent, censée habiter une grotte près de Richtersveld (Afrique du Sud) et amasser un trésor de pierres précieuses. Syncrétise des motifs khoikhoi et des récits coloniaux afrikaners ultérieurs.",
-  "description_detaillee": "Une variante plus tardive du récit, teintée d'influences chrétiennes coloniales, affirme que Dieu, jugeant la créature originelle trop puissante et dangereuse à la fois par la force de l'éléphant et le venin du serpent réunis en un seul être, l'aurait scindée en deux espèces distinctes, l'éléphant conservant la mémoire et l'intelligence, le serpent le venin ; seul un unique grootslang aurait échappé à cette division et continuerait de hanter sa grotte du Richtersveld, expliquant à la fois l'origine des deux animaux modernes et la survivance isolée du monstre originel.",
+  "description_detaillee": "Le grootslang, littéralement « grand serpent » en afrikaans, appartient au folklore du Richtersveld, région aride et montagneuse du nord-ouest de l'Afrique du Sud, bordée par le fleuve Orange et habitée de longue date par des communautés nama. On le décrit comme un serpent démesuré, parfois doté de traits d'éléphant, qui vivrait au fond d'une caverne appelée le « Wonder Hole » ou le « trou sans fond ». Il intéresse moins par sa place dans une cosmologie que par la façon dont il condense les craintes et les convoitises d'une région devenue, au XXe siècle, terre de prospection diamantaire.\n\nLes récits recueillis au siècle dernier en font le gardien d'un trésor : la caverne serait remplie de diamants, et l'animal lui-même aurait parfois des pierres à la place des yeux. On lui attribue aussi l'enlèvement de bétail sur les berges. Le journaliste Lawrence G. Green, qui a popularisé la légende dans les années 1940, la rattachait à des observations de pythons de grande taille, amplifiées de récit en récit. Les explorations de la grotte n'y auraient trouvé que du guano de chauve-souris.\n\nLa légende s'est nourrie d'un fait divers : en 1917, le prospecteur anglais Peter Grayson disparut dans le Richtersveld alors qu'il cherchait des pierres précieuses, après que des membres de son expédition eurent été blessés par des lions, et la rumeur imputa sa disparition au grootslang. L'histoire souvent reprise en ligne d'un être primordial que les dieux auraient scindé en éléphant et en serpent, un seul spécimen échappant à la division, n'est attestée dans aucune source ancienne identifiée et relève vraisemblablement d'une invention récente. Plus largement, l'ancrage khoikhoi supposé du grootslang reste mal documenté : les textes disponibles sont surtout des récits de voyageurs et de journalistes de langue anglaise ou afrikaans, ce qui invite à le lire comme une légende de la frontière coloniale plutôt que comme un mythe précolonial établi.",
   "domaines": [
     "trésor",
     "grotte",
@@ -28,8 +28,8 @@
   "recits_associes": [],
   "culte_contemporain": "",
   "sources": [
-    "Wells, L.H. (1933). Local Legends and the Grootslang",
-    "Bell, C. & Bell, J. (2006). Guide to the Reptiles of Southern Africa (contexte naturaliste comparatif)"
+    "Bell, C. & Bell, J. (2006). Guide to the Reptiles of Southern Africa (contexte naturaliste comparatif)",
+    "Green, L.G. (1948). To the River's End"
   ],
   "notes": "Figure hybride entre traditions khoikhoi antérieures et récits coloniaux afrikaners plus tardifs, illustrant les recompositions folkloriques qui accompagnent souvent le contact colonial ; son statut de mythe 'authentiquement' précolonial est débattu par certains folkloristes."
 }
