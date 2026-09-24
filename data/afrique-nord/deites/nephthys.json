@@ -1,0 +1,62 @@
+{
+  "id": "nephthys",
+  "nom": "Nephthys",
+  "variantes": [
+    "Nephtys",
+    "Nebet-Hout",
+    "Nebthet"
+  ],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": [
+    "Égyptiens anciens"
+  ],
+  "resume": "Déesse égyptienne de l'Ennéade d'Héliopolis, fille de Geb et de Nout, sœur d'Isis, d'Osiris et de Seth, dont elle est l'épouse. Elle accompagne Isis dans la recherche et la déploration d'Osiris et compte parmi les grandes protectrices des morts.",
+  "description_detaillee": "Nephthys appartient à la famille divine qui domine la théologie d'Héliopolis : elle est la dernière des quatre enfants de Geb, la terre, et de Nout, le ciel. Son nom égyptien, Nebet-Hout, signifie « maîtresse de la maison » ou « du domaine », et elle le porte sur la tête sous la forme du hiéroglyphe correspondant, une enceinte surmontée d'une corbeille. Elle a peu de mythes à elle ; presque tout ce que l'on sait d'elle passe par sa sœur Isis, dont elle forme le double, et par le meurtre d'Osiris, qui fait d'elle l'une des figures majeures du deuil et de la protection funéraire.\n\nÉpouse de Seth, l'assassin, elle se range pourtant du côté de la victime. Dès les Textes des Pyramides, les deux sœurs cherchent le corps d'Osiris, le pleurent et le veillent, et les vignettes funéraires les montrent sous l'aspect de deux milans, rapaces dont le cri évoquait les lamentations, placés à la tête et aux pieds du défunt. Ce rôle était rejoué dans le culte : le papyrus Bremner-Rhind, du IVe siècle avant notre ère, conserve les « Chants d'Isis et de Nephthys », que deux femmes chantaient dans le temple d'Osiris lors d'une fête annuelle du dieu, et un texte voisin, les « Lamentations d'Isis et de Nephthys » du papyrus de Berlin 3008, fut aussi copié pour des défunts. Nephthys veille également sur l'un des quatre vases canopes, celui que garde Hâpy et qui recevait les poumons, aux côtés d'Isis, de Neith et de Serket. On la retrouve enfin auprès des naissances royales : dans le conte du papyrus Westcar, elle fait partie des divinités qui assistent l'accouchement des futurs rois de la Ve dynastie.\n\nSa place dans les généalogies varie. Plutarque, au IIe siècle de notre ère, raconte qu'elle conçut Anubis d'Osiris, et que l'enfant, abandonné, fut recueilli par Isis ; les sources égyptiennes plus anciennes donnent à Anubis d'autres parents, et ce récit ne s'impose que tardivement. Son culte propre reste modeste mais réel : le papyrus Wilbour, registre foncier de l'époque ramesside, mentionne à Sepermeru, en Moyenne-Égypte, un temple de Nephthys fondé sous Ramsès II, voisin de celui de Seth mais géré séparément. Jessica Lévai lui a consacré la seule monographie récente en anglais, centrée sur l'époque gréco-romaine, quand la déesse figure aux côtés d'Isis dans les temples de Dendara ou de Philae.",
+  "domaines": [
+    "deuil",
+    "protection des morts",
+    "rites funéraires",
+    "naissance"
+  ],
+  "tags": [
+    "mort-au-dela"
+  ],
+  "genealogie": {
+    "parents": [
+      "geb",
+      "nut"
+    ],
+    "conjoints": [
+      "seth"
+    ],
+    "enfants": [
+      "anubis"
+    ],
+    "entites_liees": [
+      "isis",
+      "osiris",
+      "seth",
+      "horus",
+      "neith",
+      "serqet",
+      "heqet"
+    ]
+  },
+  "attributs": [
+    "hiéroglyphe de la maison et de la corbeille sur la tête",
+    "milan",
+    "ailes déployées",
+    "vase canope de Hâpy"
+  ],
+  "recits_associes": [
+    "mythe-osiris"
+  ],
+  "culte_contemporain": "",
+  "sources": [
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions",
+    "Lévai, J. (2007). Aspects of the Goddess Nephthys, Especially During the Graeco-Roman Period in Egypt (thèse, Brown University)",
+    "Faulkner, R.O. (1936). The Bremner-Rhind Papyrus: I. A. The Songs of Isis and Nephthys. Journal of Egyptian Archaeology, 22"
+  ],
+  "notes": "La maternité d'Anubis, donnée par Plutarque (De Iside et Osiride), n'est pas la seule tradition : d'autres sources font d'Anubis le fils d'Isis ou de Bastet. La paternité, Osiris ou Seth, varie aussi selon les récits."
+}

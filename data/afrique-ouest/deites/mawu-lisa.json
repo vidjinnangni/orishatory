@@ -23,8 +23,13 @@
   "genealogie": {
     "parents": [],
     "conjoints": [],
-    "enfants": [],
-    "entites_liees": []
+    "enfants": [
+      "sakpata",
+      "xevioso"
+    ],
+    "entites_liees": [
+      "ayida-wedo"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

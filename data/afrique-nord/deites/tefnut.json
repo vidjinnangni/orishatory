@@ -20,7 +20,9 @@
     "eau"
   ],
   "genealogie": {
-    "parents": [],
+    "parents": [
+      "atoum"
+    ],
     "conjoints": [
       "shu"
     ],
@@ -29,7 +31,8 @@
       "nut"
     ],
     "entites_liees": [
-      "shu"
+      "shu",
+      "maat"
     ]
   },
   "attributs": [],

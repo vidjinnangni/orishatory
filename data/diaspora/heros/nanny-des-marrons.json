@@ -1,0 +1,51 @@
+{
+  "id": "nanny-des-marrons",
+  "nom": "Nanny des Marrons",
+  "variantes": [
+    "Queen Nanny",
+    "Granny Nanny",
+    "Nanny of the Maroons"
+  ],
+  "region": "diaspora",
+  "categorie": "heros",
+  "peuples": [
+    "Marrons de Jamaïque (Windward Maroons)"
+  ],
+  "resume": "Cheffe politique et spirituelle des Marrons du Vent (Windward Maroons), communautés d'anciens esclaves fugitifs installées dans les Blue Mountains de Jamaïque au XVIIIe siècle. Elle mena la résistance contre les troupes britanniques pendant la première guerre marronne et reçut en 1740 une concession de terres. Elle est la seule femme parmi les héros nationaux de la Jamaïque.",
+  "description_detaillee": "Nanny est la figure fondatrice des Marrons du Vent, les communautés formées dans l'est de la Jamaïque par des Africains échappés des plantations. Leur principal établissement, Nanny Town, occupait une crête des Blue Mountains au-dessus de la Stony River et servit de base pendant la première guerre marronne, dans les années 1720 et 1730. Aux côtés de chefs comme Quao, elle tint en échec les expéditions britanniques jusqu'au traité de paix signé en 1739 avec les Marrons du Vent.\n\nLes documents d'époque sont rares, ce qui explique qu'on ait parfois douté de son existence. Le plus solide est une concession de 500 acres de terre dans la paroisse de Portland, accordée en 1740 « à Nanny et aux personnes qui résident avec elle » et conservée aux archives nationales de Spanish Town ; le village qui en est issu, Moore Town, se considère comme la nouvelle Nanny Town. L'officier britannique Philip Thicknesse, qui combattit les Marrons, évoque dans ses mémoires une vieille femme redoutée, portant à la ceinture une série de couteaux, qui aurait prononcé une sentence de mort contre un prisonnier blanc. Sa date de mort reste inconnue ; la tradition de Moore Town situe sa tombe au lieu-dit Bump Grave.\n\nL'essentiel de ce que l'on raconte d'elle vient de la tradition orale des Marrons, étudiée notamment par l'anthropologue Kenneth Bilby. Tous les Marrons « de naissance » de Moore Town la revendiquent comme ancêtre. Les récits lui prêtent des pouvoirs spirituels, celui d'arrêter les balles ou de faire bouillir un chaudron sans feu où tombaient les soldats ennemis, et la rattachent aux Akan (Asante) de l'actuel Ghana, origine que plusieurs historiens jugent plausible sans pouvoir la prouver. Proclamée héroïne nationale en 1975, elle figure sur le billet de 500 dollars jamaïcains ; elle rejoint dans le codex d'autres chefs de communautés marronnes des Amériques, comme Zumbi dos Palmares au Brésil ou Benkos Biohó en Colombie.",
+  "domaines": [
+    "résistance",
+    "guerre",
+    "marronnage",
+    "autorité spirituelle"
+  ],
+  "tags": [
+    "ancetres",
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "zumbi-dos-palmares",
+      "benkos-bioho",
+      "makandal",
+      "obeah"
+    ]
+  },
+  "attributs": [
+    "abeng (corne de communication)",
+    "Nanny Town",
+    "chaudron de Nanny",
+    "billet de 500 dollars jamaïcains"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Honorée comme ancêtre par les Marrons de Moore Town, dont la cérémonie du Kromanti Play invoque les ancêtres ; le patrimoine marron de Moore Town est inscrit depuis 2008 sur la liste représentative du patrimoine culturel immatériel de l'UNESCO. Elle est aussi commémorée en Jamaïque comme héroïne nationale.",
+  "sources": [
+    "Gottlieb, K. (2000). The Mother of Us All: A History of Queen Nanny, Leader of the Windward Jamaican Maroons",
+    "Bilby, K.M. (2005). True-Born Maroons",
+    "Zips, W. (2011). Nanny's Asafo Warriors: The Jamaican Maroons' African Experience"
+  ],
+  "notes": "L'année de sa consécration comme héroïne nationale varie selon les sources : proclamation annoncée en 1975, Ordre du héros national conféré en 1976. Son origine asante, son année de naissance (vers 1686 selon certains auteurs) et sa mort (placée tantôt vers 1733, ce que contredit la concession de 1740, tantôt vers 1760) restent incertaines. Le nom Nanny a pu servir de titre honorifique (on le rapproche du titre nana donné aux chefs dans la langue kromanti), ce qui complique l'identification d'une seule personne."
+}

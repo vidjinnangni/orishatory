@@ -1,0 +1,52 @@
+{
+  "id": "khnoum",
+  "nom": "Khnoum",
+  "variantes": [
+    "Khnum",
+    "Chnoum",
+    "Chnoubis"
+  ],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": [
+    "Égyptiens anciens"
+  ],
+  "resume": "Dieu à tête de bélier, maître de la cataracte d'Éléphantine et d'Esna, qui façonne les êtres vivants sur un tour de potier. Associé à la crue du Nil, il forme à Éléphantine une triade avec les déesses Satet et Anouket.",
+  "description_detaillee": "Khnoum était l'un des grands dieux de la frontière sud de l'Égypte. Son sanctuaire principal se trouvait sur l'île d'Éléphantine, face à l'actuelle Assouan, là où le Nil franchit la première cataracte et où les Égyptiens situaient l'une des sources de la crue. Représenté en homme à tête de bélier, aux cornes horizontales ondulées, il est surtout connu comme le dieu potier : c'est lui qui modèle sur son tour le corps des enfants et leur double, le ka, avant la naissance. Le limon apporté chaque année par l'inondation, matière même de la poterie, rend l'image parlante.\n\nÀ Éléphantine, il était honoré avec Satet, déesse de l'inondation, et Anouket, déesse de la cataracte, attestées ensemble dès la XIe dynastie. Son rôle de potier apparaît dans les récits de naissance : dans le conte du papyrus Westcar, il accompagne Isis, Nephthys, Meskhenet et Héqet auprès d'une femme qui accouche des futurs rois de la Ve dynastie, et au temple d'Hatchepsout à Deir el-Bahari, il façonne l'enfant royal sous les yeux d'Héqet. En Nubie, le Nouvel Empire lui dédia aussi un temple à Koumma, face à celui de Dédoun à Semna. Son autre grand sanctuaire, à Esna, a conservé dans son pronaos d'époque romaine des hymnes publiés par Serge Sauneron : Khnoum y crée les dieux, les hommes et les animaux, et c'est lui qui donne aux peuples leurs langues différentes.\n\nLa « stèle de la Famine », gravée sur un rocher de l'île de Sehel à l'époque ptolémaïque, raconte que sous le roi Djéser, sept années de crues insuffisantes affamèrent le pays, jusqu'à ce que Khnoum, apparu en songe après une consultation d'Imhotep, promette le retour de l'eau ; le roi aurait alors donné au temple d'Éléphantine les revenus d'une vaste région au sud. Miriam Lichtheim y voit une composition des prêtres de Khnoum destinée à défendre leurs droits en les attribuant à un roi très ancien. Le prestige du dieu à Éléphantine apparaît aussi dans les papyrus araméens de l'île : en 410 avant notre ère, ses prêtres furent à l'origine de la destruction du temple de Yahou que desservait la garnison juive, épisode connu par la requête que la communauté adressa ensuite au gouverneur de Juda.",
+  "domaines": [
+    "création des êtres vivants",
+    "naissance",
+    "crue du Nil",
+    "cataracte"
+  ],
+  "tags": [
+    "creation",
+    "forge-artisanat",
+    "eau"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "heqet",
+      "nephthys",
+      "isis",
+      "imhotep",
+      "dedoun"
+    ]
+  },
+  "attributs": [
+    "tête de bélier aux cornes ondulées",
+    "tour de potier"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Sauneron, S. (1962). Esna V. Les fêtes religieuses d'Esna aux derniers siècles du paganisme",
+    "Lichtheim, M. (1980). Ancient Egyptian Literature, vol. III: The Late Period",
+    "Porten, B. (1996). The Elephantine Papyri in English: Three Millennia of Cross-Cultural Continuity and Change",
+    "Pinch, G. (2004). Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions"
+  ],
+  "notes": "Satet est tantôt présentée comme l'épouse de Khnoum, tantôt comme l'une des deux déesses qui l'entourent sans lien conjugal explicite ; la filiation d'Anouket varie aussi selon les sources. Les motifs exacts de la destruction du temple juif d'Éléphantine (sacrifice d'animaux associés au dieu bélier, rivalités locales) restent discutés."
+}

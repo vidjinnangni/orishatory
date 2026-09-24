@@ -19,7 +19,10 @@
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": []
+    "entites_liees": [
+      "ifri",
+      "dihya"
+    ]
   },
   "attributs": [
     "image de taureau portée au combat"

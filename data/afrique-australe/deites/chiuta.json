@@ -1,0 +1,45 @@
+{
+  "id": "chiuta",
+  "nom": "Chiuta",
+  "variantes": [
+    "Chauta",
+    "Mulengi"
+  ],
+  "region": "afrique-australe",
+  "categorie": "deites",
+  "peuples": [
+    "Tumbuka"
+  ],
+  "resume": "Être suprême et créateur des Tumbuka du nord du Malawi et de l'est de la Zambie. Son nom, souvent traduit par « le grand arc », renvoie à l'arc-en-ciel ; dieu de la pluie avant tout, il est approché par une hiérarchie d'esprits intermédiaires.",
+  "description_detaillee": "Chiuta est le nom que les Tumbuka, peuple de langue bantoue établi dans le nord du Malawi et l'est de la Zambie, donnent au dieu créateur. On le rattache à uta, « l'arc » : Chiuta serait « le grand arc », et l'arc-en-ciel son signe dans le ciel. Le même nom, sous la forme Chauta, désigne Dieu chez les Chewa voisins, à côté de Mulungu, et les Tumbuka l'appellent aussi Mulengi, « le créateur ». Dans une région où la sécheresse menace régulièrement les récoltes, il est d'abord celui qui envoie la pluie.\n\nLe pasteur et théologien tumbuka Stephen Kauta Msiska, qui a recueilli les souvenirs d'anciens de la région de Livingstonia, décrit un monde organisé en degrés. Au sommet se tient Chiuta ; au-dessous, les vipiri, esprits de grands chefs du passé qui restent en relation avec lui ; puis les mizimu, esprits des ancêtres ; les basofi, prêtres ou responsables rituels ; les vivants ; et enfin, sous la terre, le séjour des morts. On peut prier Chiuta, mais il reste loin des gens ordinaires, et les demandes montent de préférence par ces intermédiaires. En retour, dit Msiska, il accorde la pluie, la nourriture, les enfants, la santé et la victoire. Le récit de création place au commencement la terre et Chiuta seuls ; il fit venir les nuages et la pluie sur le sol aride, puis descendit avec les premiers humains et les animaux. Une version de l'origine de la mort, proche de celle des Chewa, raconte que Chiuta se retira au ciel après que les hommes eurent découvert le feu.\n\nAvant le 19e siècle, le culte passait aussi par Chikang'ombe, un esprit territorial que l'on disait capable de prendre la forme d'un serpent. Les conquêtes ngoni, à partir des années 1850, bouleversèrent cet ordre : Leroy Vail et Landeg White notent que le culte de Chikang'ombe disparut chez les Tumbuka soumis. L'arrivée de la mission presbytérienne de Livingstonia, en 1878, a fait du nord du Malawi une région très christianisée, où Chiuta est resté le nom de Dieu dans la Bible et les prières en tumbuka. Msiska rapporte le mot d'un vieux converti au missionnaire Robert Laws : le Créateur était connu de son peuple bien avant l'arrivée des missionnaires.",
+  "domaines": [
+    "création",
+    "pluie",
+    "ciel"
+  ],
+  "tags": [
+    "creation",
+    "eau",
+    "ancetres"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "mulungu"
+    ]
+  },
+  "attributs": [
+    "arc-en-ciel"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Chiuta est le nom de Dieu employé par les Églises de langue tumbuka, notamment presbytériennes (CCAP, synode de Livingstonia). La religion traditionnelle ne concerne plus qu'une petite minorité déclarée, mais la danse de guérison vimbuza, inscrite par l'UNESCO au patrimoine culturel immatériel en 2008, reste pratiquée.",
+  "sources": [
+    "Msiska, S.K. (1997). Golden Buttons: Christianity and Traditional Religion among the Tumbuka",
+    "Vail, L. & White, L. (1989). Tribalism in the Political History of Malawi. In Vail, L. (dir.), The Creation of Tribalism in Southern Africa",
+    "Scheub, H. (2000). A Dictionary of African Mythology: The Mythmaker as Storyteller",
+    "Soko, B. (2014). Vimbuza: The Healing Dance of Northern Malawi"
+  ],
+  "notes": "L'étymologie « grand arc » est largement reprise mais relève de l'interprétation. Plusieurs autres noms divins sont signalés dans le nord du Malawi selon les régions (Leza, Kyala près de Livingstonia), signe que la nomenclature n'a jamais été uniforme. La description hiérarchique de Msiska reconstitue un système à partir de souvenirs recueillis dans un milieu déjà christianisé, et ses catégories doivent être lues avec cette réserve."
+}

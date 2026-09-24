@@ -22,9 +22,14 @@
   ],
   "genealogie": {
     "parents": [],
-    "conjoints": [],
+    "conjoints": [
+      "baal-hammon"
+    ],
     "enfants": [],
-    "entites_liees": []
+    "entites_liees": [
+      "ifri",
+      "elissa"
+    ]
   },
   "attributs": [
     "symbole de Tanit (figure trapézoïdale surmontée d'un disque)",

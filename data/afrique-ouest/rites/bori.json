@@ -22,7 +22,9 @@
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": []
+    "entites_liees": [
+      "zar"
+    ]
   },
   "attributs": [
     "tambours",

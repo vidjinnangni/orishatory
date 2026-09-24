@@ -1,0 +1,44 @@
+{
+  "id": "lobengula",
+  "nom": "Lobengula",
+  "variantes": [
+    "Lobengula Khumalo",
+    "Lopengula"
+  ],
+  "region": "afrique-australe",
+  "categorie": "heros",
+  "peuples": [
+    "Ndebele"
+  ],
+  "resume": "Fils de Mzilikazi et second roi du royaume ndebele (Mthwakazi, ou Matabeleland) dans le sud-ouest de l'actuel Zimbabwe, de 1870 environ à sa mort vers 1894. Son règne s'acheva par la concession Rudd de 1888 et la guerre de 1893, qui livrèrent son pays à la British South Africa Company de Cecil Rhodes.",
+  "description_detaillee": "Lobengula Khumalo (vers 1835-1894) fut le second et dernier roi du royaume ndebele fondé par son père Mzilikazi sur le plateau du sud-ouest zimbabwéen. Né pendant la migration, au temps où les Ndebele vivaient encore au Transvaal, il était le fils d'une épouse de rang secondaire, ce qui pesa sur son accession. Pour les Ndebele d'aujourd'hui, il est le roi dont la chute marque la fin de l'indépendance, et sa lignée reste au cœur des débats sur la place du Matabeleland dans le Zimbabwe contemporain.\n\nÀ la mort de Mzilikazi en 1868, l'héritier désigné, Nkulumane, avait disparu depuis des années, et une partie du royaume refusa de reconnaître un autre roi. Les grands chefs finirent par choisir Lobengula ; le régiment de Zwangendaba, mené par Mbiko Masuku, contesta ce choix les armes à la main et fut vaincu. Sabelo Ndlovu-Gatsheni décrit les années 1870-1872 comme une crise pendant laquelle plusieurs hommes influents furent éliminés sous l'accusation de sorcellerie ou de complot. Le roi ndebele n'était pas seulement un chef de guerre : Julian Cobbing a montré que la fonction royale s'était fortement ritualisée, le souverain faisant office de faiseur de pluie en chef, de gardien des remèdes qui protégeaient l'État et de célébrant principal de la grande cérémonie annuelle de l'inxwala. En cas de sécheresse, on envoyait des délégations au sanctuaire de Njelele, dans les collines de Matobo, consulter Mwari. C'est aussi sous Lobengula que Pasipamire, médium de l'esprit Chaminuka, fut tué par des guerriers ndebele en 1883.\n\nÀ partir des années 1880, les demandes de concessions minières se multiplièrent. Le 30 octobre 1888, Lobengula apposa sa marque sur la concession négociée par Charles Rudd, Rochfort Maguire et Francis Thompson pour le compte de Cecil Rhodes, en échange de fusils, de munitions et d'une rente mensuelle. Le texte accordait l'exclusivité de toutes les ressources minérales du royaume, bien au-delà de ce que le roi pensait avoir concédé ; dès 1889 il la dénonça et envoya des émissaires à Londres, sans succès. La British South Africa Company, dotée d'une charte royale, occupa le Mashonaland en 1890 puis attaqua le royaume en 1893. Bulawayo tomba ; Lobengula brûla sa capitale et s'enfuit vers le nord, et une patrouille lancée à sa poursuite fut anéantie près de la rivière Shangani. Il mourut au début de 1894, dans des circonstances qui restent obscures, et sa mort fut tenue secrète pendant des mois.\n\nLa figure de Lobengula a été lue de manières opposées : roi despotique dans les récits coloniaux, souverain trompé par les agents de Rhodes pour la plupart des historiens africains. Ndlovu-Gatsheni invite à dépasser l'image d'un pouvoir de la lance et insiste sur les obligations qui liaient le roi à ses sujets, redistribution du bétail et du grain, recherche des causes des famines. Faute de successeur reconnu par les autorités coloniales, la royauté ndebele n'a jamais été restaurée, et les revendications de ses descendants suscitent encore des controverses.",
+  "domaines": [
+    "royauté",
+    "résistance à la colonisation",
+    "pluie"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
+  "genealogie": {
+    "parents": [
+      "mzilikazi"
+    ],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "chaminuka",
+      "mwari"
+    ]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Bhebe, N. (1977). Lobengula of Zimbabwe",
+    "Cobbing, J. (1976). The Ndebele under the Khumalos, 1820-1896 (thèse, Université de Lancaster)",
+    "Ndlovu-Gatsheni, S.J. (2008). Who Ruled by the Spear? Rethinking the Form of Governance in the Ndebele State. African Studies Quarterly 10(2-3)",
+    "Galbraith, J.S. (1974). Crown and Charter: The Early Years of the British South Africa Company"
+  ],
+  "notes": "La date et le lieu de sa mort, comme sa cause (on a le plus souvent évoqué la variole, d'autres récits parlent d'un poison absorbé volontairement), ne sont pas établis. La date de son installation varie entre 1869 et 1870 selon les auteurs, et le sort de Nkulumane, l'héritier disparu, a donné lieu à plusieurs prétendants et à de longues controverses."
+}

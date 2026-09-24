@@ -1,0 +1,43 @@
+{
+  "id": "lianja",
+  "nom": "Lianja",
+  "variantes": [
+    "Nsong'a Lianja (nom de l'épopée)",
+    "Lianjà"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "heros",
+  "peuples": [
+    "Mongo",
+    "Nkundo"
+  ],
+  "resume": "Lianja est le héros de la grande épopée des Mongo, peuple de la cuvette centrale du fleuve Congo (province de l'Équateur, en République démocratique du Congo). Né de façon prodigieuse après la mort de son père, tué pour quelques fruits de safoutier, il venge ce meurtre, conduit son peuple dans une longue migration puis quitte la terre pour le ciel avec sa sœur Nsongo.",
+  "description_detaillee": "Lianja donne son nom au Nsong'a Lianja, l'épopée des Mongo et en particulier des Nkundo, qui vivent dans la forêt de la cuvette centrale du Congo, autour de Mbandaka. C'est le plus long et le plus prestigieux de leurs récits : il remonte aux ancêtres du héros, raconte sa naissance, ses combats et ses errances, et s'achève sur son départ vers le ciel. Les missionnaires et linguistes qui l'ont recueilli entre les années 1920 et 1960 en ont noté plus de cinquante versions, et le récit reste l'un des monuments de la littérature orale d'Afrique centrale.\n\nDans la version recueillie chez les Bakaala et publiée par Albert De Rop et Edmond Boelaert, l'épopée commence plusieurs générations plus tôt, avec le patriarche Lonkundo. Le père de Lianja a épousé Mbombe ; enceinte, elle ne veut plus manger que des safous, les fruits du safoutier, et le premier qu'elle goûte est tombé de l'arbre de Sausau. Son mari part à la recherche de l'arbre, y retourne pour la satisfaire, et y trouve la mort. Au village, la douleur déchire Mbombe, qui met au monde des insectes, des éléphants, des perroquets, des singes, des hommes de la forêt, puis Entonto et Nsongo. Lianja naît en dernier : il refuse de sortir par la voie ordinaire et demande à sa mère d'enduire sa jambe de kaolin pour naître par là, d'où le titre que Harold Scheub donne à l'épisode, « Lianja, jailli du tibia de sa mère ». À peine né, il interroge sa mère sur la mort de son père ; la tortue finit par lui révéler que Sausau, le propriétaire du safoutier, l'a tué. Lianja lève une armée, défie Sausau et le terrasse, puis entraîne les siens dans une marche au long de laquelle il soumet et incorpore les groupes qu'il rencontre. Au terme du récit, il arrive au pied d'un palmier si haut qu'il touche le ciel, dit adieu à ses compagnons, et y monte en portant Nsongo sur sa hanche et Entonto sur ses genoux.\n\nLe récit varie beaucoup d'un narrateur à l'autre, et De Rop voyait dans le conteur lui-même la principale source des variantes. On retrouve des épisodes de Lianja hors du monde mongo, chez les Boloki ou à Upoto, sur le fleuve, dès la fin du XIXe siècle, ce qui a nourri un débat sur l'appartenance exclusive de l'épopée aux Mongo. D'autres discussions portent sur la nature du héros (De Rop s'est demandé s'il fallait y voir un dieu ou un héros) et sur ce que l'épopée conserve de l'histoire des migrations mongo, question que le linguiste Gustaaf Hulstaert a abordée avec prudence. L'épopée a aussi circulé par l'écrit : la version française de Boelaert, parue en 1949, a été plusieurs fois rééditée et traduite.",
+  "domaines": [
+    "vengeance",
+    "migration",
+    "fondation"
+  ],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [
+    "safou (fruit du safoutier)",
+    "clochette",
+    "kaolin",
+    "palmier montant au ciel"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Boelaert, E. (1949). Nsong'a Lianja, l'épopée nationale des Nkundo. Aequatoria, 12, 1-75",
+    "De Rop, A. (1964). Lianja, l'épopée des Mongo. Académie royale des sciences d'outre-mer",
+    "De Rop, A. & Boelaert, E. (1983). Versions et fragments de l'épopée mongo Nsong'a Lianja, partie II, versions 7 à 56 (Études Aequatoria 1)",
+    "Scheub, H. (2000). A Dictionary of African Mythology: The Mythmaker as Storyteller (notice « Lianja, Sprung from His Mother's Tibia, Avenges His Father's Death »)"
+  ],
+  "notes": "Le nom du père de Lianja, l'identité de son meurtrier direct et l'ordre des épisodes varient selon les versions ; celle résumée ici est la version n° 7 (Bakaala) du recueil De Rop et Boelaert. Joseph Esser a publié en 1957 une adaptation littéraire intitulée Iyanza, héros national nkundo. La vitalité de l'épopée aujourd'hui, en dehors des publications, n'a pas pu être vérifiée."
+}

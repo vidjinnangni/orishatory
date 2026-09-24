@@ -1,0 +1,52 @@
+{
+  "id": "aton",
+  "nom": "Aton",
+  "variantes": [
+    "Aten",
+    "Iten"
+  ],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": [
+    "Égyptiens anciens"
+  ],
+  "resume": "Le disque solaire divinisé, dont le pharaon Akhenaton (vers 1353-1336 avant notre ère) fit le dieu unique du culte officiel égyptien. Représenté par un disque dont les rayons se terminent en mains, il fut abandonné peu après la mort du roi, lors de la restauration des cultes traditionnels.",
+  "description_detaillee": "Le mot aton désigne d'abord, en égyptien, le disque du soleil, c'est-à-dire l'astre visible et non le dieu solaire lui-même, qui est Rê. L'emploi religieux du terme est ancien : dans le Conte de Sinouhé, au Moyen Empire, le roi défunt s'envole au ciel et « s'unit au disque solaire ». Mais ce n'est qu'au Nouvel Empire, à la fin de la XVIIIe dynastie, que ce disque devient une divinité à part entière, puis, sous Amenhotep IV, qui prend le nom d'Akhenaton, « celui qui est utile à Aton », le seul dieu auquel l'État rende un culte.\n\nLa réforme se fit par étapes. Au début du règne, le roi fait bâtir à Karnak, au cœur du domaine d'Amon, de grands sanctuaires pour le disque, dont le Gempaaton. Vers l'an 5, il fonde une nouvelle capitale en Moyenne-Égypte, Akhetaton, « l'horizon d'Aton », sur le site actuel de Tell el-Amarna. Le nom du dieu est alors écrit dans deux cartouches, comme celui d'un roi, sous une forme dite « didactique » qui explique sa nature ; il est remanié vers les années 9 à 12, pour en retirer les noms d'autres dieux, tandis que celui d'Amon est martelé sur les monuments. Aton n'a ni statue de culte, ni forme animale, ni mythe, ni famille : on le montre comme un disque dont les rayons se terminent par des mains qui tendent le signe de vie au couple royal. Ses temples, à ciel ouvert, recevaient directement la lumière. Seuls Akhenaton et sa famille servent d'intermédiaires entre lui et les hommes.\n\nLe « Grand Hymne à Aton », gravé dans la tombe d'Aÿ à Amarna, célèbre un créateur qui fait vivre tous les êtres, hommes de tous les pays et animaux compris, par la seule présence de sa lumière. Sa ressemblance avec le Psaume 104 de la Bible a souvent été relevée, sans qu'une filiation directe soit démontrée. Après la mort d'Akhenaton, Toutânkhaton devint Toutânkhamon, la cour quitta Amarna et les temples d'Aton furent démontés, leurs blocs réemployés dans d'autres constructions. Faut-il parler du premier monothéisme de l'histoire ? Erik Hornung y voit une « religion de la lumière » radicale, Jan Assmann la réponse à une crise de la théologie solaire ; d'autres préfèrent parler de monolâtrie, puisque l'existence des autres dieux n'était pas toujours niée.",
+  "domaines": [
+    "soleil",
+    "lumière",
+    "création",
+    "royauté"
+  ],
+  "tags": [
+    "royaute-sacree",
+    "creation"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "ra",
+      "amon",
+      "shu",
+      "maat"
+    ]
+  },
+  "attributs": [
+    "disque solaire",
+    "rayons terminés par des mains",
+    "signe ânkh",
+    "nom inscrit dans deux cartouches"
+  ],
+  "recits_associes": [
+    "conte-de-sinouhe"
+  ],
+  "culte_contemporain": "",
+  "sources": [
+    "Hornung, E. (1999). Akhenaten and the Religion of Light (trad. D. Lorton)",
+    "Assmann, J. (1995). Egyptian Solar Religion in the New Kingdom: Re, Amun and the Crisis of Polytheism",
+    "Lichtheim, M. (1976). Ancient Egyptian Literature, vol. II: The New Kingdom"
+  ],
+  "notes": "La nature de l'atonisme (monothéisme, monolâtrie ou hénothéisme) reste débattue, tout comme la part d'influence éventuelle sur les religions bibliques, parfois défendue depuis Freud mais sans preuve documentaire. La chronologie exacte des changements du nom didactique d'Aton varie selon les auteurs."
+}

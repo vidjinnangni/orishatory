@@ -1,0 +1,52 @@
+{
+  "id": "mukasa",
+  "nom": "Mukasa",
+  "variantes": [
+    "Mugasa",
+    "Selwanga (nom de naissance selon Roscoe)"
+  ],
+  "region": "afrique-est",
+  "categorie": "deites",
+  "peuples": [
+    "Baganda",
+    "riverains et insulaires du lac Victoria (îles Ssese)"
+  ],
+  "resume": "Mukasa est le plus élevé des lubaale, les dieux des Baganda (Ouganda), et la grande divinité du lac Victoria. Il donnait la nourriture, le bétail et les enfants, protégeait les voyageurs sur l'eau et accordait les jumeaux. Son temple principal se trouvait sur l'île de Bubembe, dans l'archipel des Ssese.",
+  "description_detaillee": "Pour les Baganda, qui vivent sur la rive nord-ouest du lac Victoria, Mukasa était le premier des lubaale, ces dieux dont beaucoup passaient pour d'anciens humains devenus divins. Maître du lac, il en réglait les tempêtes, en multipliait les poissons et accordait aux piroguiers une traversée sûre ; mais son rôle débordait largement l'eau, puisqu'on attendait de lui l'abondance des récoltes, la santé et la fécondité des femmes. John Roscoe le décrit comme un dieu bienveillant, étranger à la guerre, qui cherchait à guérir le corps et l'esprit.\n\nLes récits recueillis par Roscoe font de lui un fils de Wanema et de Nambubi, du clan du Dipneuste, et le frère aîné de Kibuka. Né sous le nom de Selwanga, l'enfant refusait toute nourriture ordinaire et ne prenait que le sang, le cœur et le foie des animaux. Il disparut un jour et fut retrouvé sur l'île de Bubembe, assis sous un grand arbre au bord du lac ; les habitants, pensant qu'il venait de l'île de Bukasa, l'appelèrent « un Mukasa ». Un homme nommé Semagumba le porta sur un rocher, lui bâtit une hutte et devint son premier prêtre. Mukasa y aurait vécu longtemps, quatorze générations selon certains, et épousé trois femmes, dont Nalwanga, qui avait son propre temple et venait en aide aux femmes stériles. Les avis divergeaient sur sa fin : pour les uns il mourut et fut enterré dans la forêt voisine, pour d'autres il disparut aussi soudainement qu'il était venu. Roscoe y voit la trace d'un homme divinisé pour sa bonté.\n\nLe sanctuaire de Bubembe n'était accessible qu'au roi, à quelques grands chefs et aux gens du dieu. Une femme y servait de médium : elle ne se montrait pas en public, fumait une pipe jusqu'à ce que le dieu vienne sur elle, puis parlait d'une voix aiguë, assise au-dessus d'un feu sacré. Chaque année, le roi envoyait neuf hommes, neuf femmes, neuf vaches blanches, neuf chèvres blanches, neuf poules blanches, des étoffes d'écorce et des cauris, pour une fête d'au moins vingt jours au cours de laquelle le prêtre appelait le roi « ton gendre ». Chaque nouveau kabaka sollicitait sa bénédiction. Dans les nombreux temples secondaires, l'emblème du dieu était une pagaie. Les jumeaux venaient de lui : les garçons recevaient le nom de Mukasa, les filles celui de Namukasa, et les danses organisées par leurs parents passaient pour répandre sa bénédiction.\n\nMichael Kenny, qui a travaillé sur les îles Mfangano et Rusinga, du côté kényan du lac, a montré que Mukasa s'inscrit dans un ensemble d'idées partagé par les peuples riverains, pour qui le lac est une source de puissance habitée à la fois par des divinités tutélaires et par des êtres redoutés comme le Lukwata. Son culte reste lié à celui de son frère Kibuka, qu'il avait envoyé combattre aux côtés du roi Nakibinge ; à l'annonce de sa mort, dit Roscoe, Mukasa fit arrêter le messager.",
+  "domaines": [
+    "lac Victoria",
+    "abondance",
+    "fécondité",
+    "santé",
+    "navigation"
+  ],
+  "tags": [
+    "eau",
+    "terre-fertilite",
+    "jumeaux",
+    "divination"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "kibuka",
+      "lukwata",
+      "katonda"
+    ]
+  },
+  "attributs": [
+    "pagaie",
+    "île de Bubembe",
+    "offrandes blanches (vaches, chèvres, poules)"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Les médiums du kusamira, rite de guérison ganda étudié par l'ethnomusicologue Peter Hoesing, invoquent encore les lubaale, dont Mukasa, dans leurs chants. Un sanctuaire consacré à Mukasa est toujours signalé sur l'île de Bubembe.",
+  "sources": [
+    "Roscoe, J. (1911). The Baganda: An Account of Their Native Customs and Beliefs",
+    "Kenny, M.G. (1977). The Powers of Lake Victoria",
+    "Hoesing, P.J. (2021). Kusamira Music in Uganda: Spirit Mediumship and Ritual Healing"
+  ],
+  "notes": "Roscoe n'a pas pu établir ce que contenait le temple de Bubembe : certains parlaient d'une grosse pierre météorique que l'on tournait selon les phases de la lune. Son père Wanema est parfois lui-même compté parmi les dieux du lac, avec Musisi. Roscoe relève que Nalwanga, l'épouse principale, passait pour une femme-python."
+}

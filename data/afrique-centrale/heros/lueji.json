@@ -1,0 +1,49 @@
+{
+  "id": "lueji",
+  "nom": "Lueji",
+  "variantes": [
+    "Rweej",
+    "Ruwej",
+    "Luéji",
+    "Lweji"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "heros",
+  "peuples": [
+    "Lunda (Ruund)"
+  ],
+  "resume": "Lueji est la souveraine fondatrice de la tradition royale lunda, dans le sud-ouest de l'actuelle République démocratique du Congo et l'est de l'Angola. Son père lui confie le lukano, le bracelet insigne du pouvoir, de préférence à ses frères ; elle le remet au chasseur étranger Chibinda Ilunga, qu'elle épouse. De cette union procède la dynastie des Mwaant Yav.",
+  "description_detaillee": "Lueji (Rweej en lunda) est l'héroïne du récit que les peuples du Kasaï et de l'est de l'Angola racontent pour expliquer la naissance de la royauté lunda. Son histoire, souvent appelée « l'histoire d'amour lunda », est l'une des légendes les plus connues d'Afrique centrale : elle justifie qu'un étranger ait pu devenir l'ancêtre des rois, et elle relie entre eux plusieurs peuples voisins qui se réclament d'elle ou de ses frères.\n\nDans la version la plus détaillée, recueillie en 1887 à la cour lunda par l'explorateur et diplomate portugais Henrique Dias de Carvalho, le souverain Yal Mak, déçu par la conduite de ses fils Kinguri et Kinyama, lègue le lukano à sa fille cadette. Un jour, les gens de Lueji surprennent des étrangers qui se baignent dans la rivière ; leur chef se présente comme un chasseur au service du roi luba Mutombo. Lueji le reçoit, l'invite à s'asseoir près d'elle sur un rocher, lui montre le bracelet hérité de son père et, pour le retenir, lui parle de chasse. Convaincue que l'esprit de son père lui a envoyé cet homme, elle réunit ses conseillers : l'étranger n'est pas de sa parenté, dit-elle, mais les enfants qu'elle aura porteront son sang et celui de son père. Les anciens approuvent, et Chibinda Ilunga reçoit le lukano, qu'il détient au nom du futur fils de Lueji, Nawej, premier Mwaant Yav. Dépossédés, Kinguri et Kinyama s'exilent ; la tradition fait du premier l'ancêtre des souverains imbangala du Kasanje et du second celui des Luvale, tandis qu'une tante ou une sœur de Lueji, Nana Cambamba, aurait donné naissance aux Chokwe. Des versions du XXe siècle, qui ne sont pas celles de Carvalho, font au contraire de Lueji une femme stérile : les rois descendraient alors de la seconde épouse de Chibinda, Kamong.\n\nLes lectures de ce récit se sont succédé. Luc de Heusch y voyait la rencontre symbolique d'une princesse stérile et d'un chasseur pourvoyeur, qui donne des enfants comme il donne du gibier, fondement d'une royauté sacrée ; Jeffrey Hoover lui a opposé en 1978 une lecture plus historique, nourrie des traditions ruund. L'historien David Gordon a montré en 2023 que la légende n'apparaît dans les documents qu'au XIXe siècle : les Portugais mentionnent le Mwaant Yav dès 1755 sans elle, et elle n'est notée sous une forme reconnaissable qu'après l'expédition de l'Allemand Paul Pogge en 1875-1876. Selon Gordon, le récit a été assemblé et remanié au temps du commerce de caravanes, chaque groupe (Lunda, Chokwe, Imbangala, Ambakista) y trouvant sa place, et Carvalho s'en est servi pour bâtir une paix régionale sous garantie portugaise. Lueji survit aussi dans des titres de cour : au XIXe siècle, les traditionalistes lunda faisaient d'elle la première détentrice des charges de lukokesha, mère symbolique du roi, et de nswan murund, gardienne des reliques royales qui remet le lukano au nouveau Mwaant Yav.",
+  "domaines": [
+    "royauté",
+    "alliance",
+    "transmission du pouvoir"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [
+      "chibinda-ilunga"
+    ],
+    "enfants": [],
+    "entites_liees": [
+      "mbidi-kiluwe"
+    ]
+  },
+  "attributs": [
+    "lukano (bracelet royal)",
+    "rocher de la rencontre",
+    "rivière"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Gordon, D.M. (2023). The Quotidian Politics of a Love Story: Researching, Assembling, and Mobilizing the Lunda Legend in the Late Nineteenth Century. Journal of African History, 64(2), 209-228",
+    "Heusch, L. de (1972). Le roi ivre ou l'origine de l'État. Mythes et rites bantous I",
+    "Hoover, J.J. (1978). Mythe et remous historique: A Lunda Response to De Heusch. History in Africa, 5, 63-80",
+    "Vansina, J. (1966). Kingdoms of the Savanna"
+  ],
+  "notes": "L'orthographe des noms varie beaucoup selon les langues et les auteurs (Lueji, Rweej, Ruwej ; Yal Mak, Yala Mwaku ; Kinguri, Cinguli). Le père de Chibinda Ilunga est Mutombo chez Carvalho, Mbidi Kiluwe dans d'autres traditions. La fertilité de Lueji et l'origine des Mwaant Yav (fils de Lueji ou de Kamong) diffèrent selon les versions. Jan Vansina a qualifié de fabrication du XIXe siècle l'épisode de l'exode de Kinguri (History in Africa, 1998), ce qui fragilise l'usage de la légende comme chronique des migrations."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "lac-fundudzi",
+  "nom": "Lac Fundudzi",
+  "variantes": [
+    "Fundudzi",
+    "Funduzi",
+    "Lake Fundudzi"
+  ],
+  "region": "afrique-australe",
+  "categorie": "rites",
+  "peuples": [
+    "Venda"
+  ],
+  "resume": "Lac du massif du Soutpansberg (Limpopo, Afrique du Sud), formé par un glissement de terrain qui barra la rivière Mutale, et l'un des principaux lieux sacrés des Venda. Demeure d'ancêtres et d'êtres protecteurs, il est placé sous la garde d'un clan chargé des rites, et son accès reste étroitement contrôlé.",
+  "description_detaillee": "Le lac Fundudzi se trouve dans les contreforts du Soutpansberg, dans le nord de l'Afrique du Sud, au cœur du pays venda. Les géologues y voient le seul véritable lac naturel intérieur du pays, né d'un glissement de terrain qui a barré le cours de la rivière Mutale ; il mesure environ cinq kilomètres sur trois quand il est plein. Pour les Venda, c'est un lieu sacré de premier ordre, associé à la forêt voisine de Thathe Vondo, et une partie d'entre eux, les Vhatavhatsindi, se nomment eux-mêmes « les gens de l'étang ».\n\nLa tradition venda donne au lac une autre origine. Un lépreux de passage, à qui les habitants d'un village des bords de la Mutale avaient refusé nourriture et abri, maudit le village, qui disparut sous les eaux du lac nouvellement formé. On dit qu'à l'aube on entend encore, venus du fond, des tambours, les cris des noyés et les mugissements du bétail. Les esprits des ancêtres habitent le lac, que garde un crocodile blanc, et un python « albinos », en réalité d'un blanc jaunâtre selon les informateurs, vit dans les forêts et les escarpements qui l'entourent. Des récits recueillis sur place situent Nwali, le dieu suprême des Venda, dans une grotte de Thathe Vondo, et disent que ses visites au lac s'accompagnent d'orages. Le niveau et la couleur de l'eau passent pour refléter l'humeur des ancêtres et annoncer la pluie.\n\nLe lac est l'objet de rites réguliers, notamment pour la pluie et les récoltes. Selon Godfrey Anyumba et Mkateko Nkuna, qui ont enquêté sur place en 2017, les offrandes aux ancêtres sont présentées par la makhadzi, la tante paternelle qui joue un rôle rituel central chez les Venda, et commencent par une offrande d'éleusine (finger millet). Le chef du clan gardien est chargé de maintenir la pureté rituelle du lac et d'en écarter ce qui pourrait la troubler. Le visiteur qui s'approche doit tourner le dos à l'eau et la regarder entre ses jambes en priant, afin que les esprits ne le punissent pas pour une faute commise sans le savoir. La danse domba des jeunes filles, qui imite l'ondulation d'un serpent, est souvent reliée au python protecteur du lac.\n\nCe statut sacré a des conséquences très concrètes. Le lac n'a jamais été aménagé pour le tourisme, les chefs refusent l'accès aux visiteurs non autorisés, et des chercheurs venus étudier l'envasement du lac se sont vu reprocher publiquement, en 2001, de ne pas avoir sollicité l'accord du chef. La garde du lac et de la forêt est elle-même disputée entre lignées lorsque le chef meurt, ce qui montre que ce lieu reste au centre d'enjeux religieux et politiques bien réels.",
+  "domaines": [
+    "ancêtres",
+    "pluie",
+    "lieu sacré"
+  ],
+  "tags": [
+    "eau",
+    "ancetres"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "domba",
+      "mwari"
+    ]
+  },
+  "attributs": [
+    "python blanc",
+    "crocodile blanc",
+    "forêt de Thathe Vondo"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Des rites continuent d'être accomplis au bord du lac par le clan gardien et les makhadzi, notamment pour la pluie et les récoltes, et l'accès au site reste soumis à l'autorisation des autorités traditionnelles.",
+  "sources": [
+    "Anyumba, G. & Nkuna, M. (2017). Lake Fundudzi: A Sacred Lake in South Africa that is not open for Tourism Development. African Journal of Hospitality, Tourism and Leisure 6(4)",
+    "Chiliza, S.G. & Diop, S. (2014). Notes on a Landslide That Formed the Only Known True Inland Lake in South Africa. In Sassa, K. et al. (dir.), Landslide Science for a Safer Geoenvironment, vol. 3"
+  ],
+  "notes": "L'identité du clan gardien varie selon les sources : Anyumba et Nkuna nomment le clan Netshidzivha (ou Nethathe) et son chef Vhatavhatshidi, tandis que d'autres récits, surtout touristiques, citent la lignée Netshiavha du village de Tshiavha ; ces divergences reflètent les contestations de la garde du lac. La relation exacte entre le python du lac, la divinité Nwali et le domba varie selon les informateurs. Nwali est le nom venda de l'être suprême que les Shona appellent Mwari."
+}

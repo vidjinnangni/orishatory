@@ -1,0 +1,46 @@
+{
+  "id": "ifri",
+  "nom": "Ifri",
+  "variantes": [
+    "Ifru",
+    "Ieru",
+    "Iyur",
+    "Dea Africa (identification discutée)"
+  ],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": [
+    "Amazighs (Numides)",
+    "Romains d'Afrique"
+  ],
+  "resume": "Nom sous lequel circule aujourd'hui une divinité amazighe des cavernes, souvent présentée comme l'origine de la déesse romaine Africa. Cette figure repose sur une ancienne lecture, « Ifru », d'une dédicace latine de Guechguech, près de Constantine, que les épigraphistes lisent désormais « Ieru ».",
+  "description_detaillee": "Dans les ouvrages et les sites consacrés au patrimoine amazigh, Ifri (ou Ifru) est présentée comme une déesse berbère antique, honorée dans les grottes, protectrice des voyageurs et de la fécondité, que les Romains auraient adoptée sous le nom d'Africa. Le mot ifri signifie bien « grotte » dans plusieurs langues berbères, et l'idée séduit, car elle relie le nom même du continent à une divinité locale. L'histoire de cette figure est pourtant d'abord celle d'une lecture épigraphique.\n\nSur le plateau de Guechguech, dans la région de Constantine (l'antique Cirta, en Numidie), une inscription latine gravée sur un rocher, recensée au Corpus des inscriptions latines (CIL VIII, 5673), accompagne l'image d'un personnage dont la tête est entourée de rayons, à la manière d'un dieu céleste. Au XIXe siècle, l'orientaliste Cherbonneau proposa d'y lire IFRU et y vit un dieu honoré dans une grotte, sur le modèle de Bacax, dont le culte est bien attesté dans la grotte du Djebel Taya, près de Guelma. Le réexamen de la pierre et des estampages a rétabli la lecture IERV : la dédicace est adressée « à Ieru Auguste ». Salem Chaker et Gabriel Camps rapprochent ce nom du berbère ayyur, qui désigne la lune et, plus largement, le disque d'un astre, ce qui s'accorde avec la tête rayonnante de la gravure. Le dieu de Guechguech serait donc un dieu masculin, astral, et non une déesse des cavernes.\n\nLa déesse Africa relève d'une autre histoire. Cette personnification, reconnaissable à sa coiffure en dépouille de tête d'éléphant, apparaît au Ier siècle avant notre ère sur les monnaies des rois numides et maurétaniens, dont Juba II, et sur celles de généraux romains ; Christine Hamdoune a montré comment elle fut ensuite intégrée au culte impérial. L'origine du mot Africa reste elle-même discutée : on le rattache le plus souvent au nom d'un peuple, les Afri, et l'étymologie par ifri n'est qu'une hypothèse parmi d'autres. Ifri illustre ainsi une difficulté fréquente pour les religions amazighes antiques, connues surtout par de brèves dédicaces latines, dont chaque lecture peut réorienter l'interprétation.",
+  "domaines": [
+    "grottes (selon la lecture ancienne)",
+    "astres (selon la lecture Ieru)",
+    "protection"
+  ],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "anzar",
+      "gurzil",
+      "tanit"
+    ]
+  },
+  "attributs": [
+    "tête rayonnante (gravure de Guechguech)",
+    "dépouille d'éléphant (iconographie de la déesse Africa)"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "La figure d'Ifri, déesse des cavernes et éponyme de l'Afrique, est aujourd'hui reprise dans des milieux militants et culturels amazighs, ainsi que dans des courants néopaïens, sous une forme qui ne tient pas compte de la relecture de l'inscription.",
+  "sources": [
+    "Chaker, S. & Camps, G. (2001). Ieru. Encyclopédie berbère, 24",
+    "Kotula, T. & Peyras, J. (1985). Afri. Encyclopédie berbère, 2",
+    "Hamdoune, C. (2008). La dea Africa et le culte impérial. Études d'Antiquités africaines, 1"
+  ],
+  "notes": "La lecture IFRU (Cherbonneau, XIXe siècle) a été corrigée en IERU après réexamen de l'inscription CIL VIII, 5673. L'identification d'Ifri à la déesse Africa et l'étymologie du nom de l'Afrique par le berbère ifri relèvent d'hypothèses modernes non démontrées ; la fiche conserve le nom Ifri parce que c'est sous ce nom que la figure est connue du public."
+}

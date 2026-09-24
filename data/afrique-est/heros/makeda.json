@@ -1,0 +1,47 @@
+{
+  "id": "makeda",
+  "nom": "Makeda",
+  "variantes": [
+    "Reine de Saba",
+    "Nigista Saba",
+    "Eteye Azeb (« reine du Sud »)"
+  ],
+  "region": "afrique-est",
+  "categorie": "heros",
+  "peuples": [
+    "Éthiopiens (Amhara, Tigréens)",
+    "Érythréens"
+  ],
+  "resume": "Makeda est le nom que la tradition éthiopienne donne à la reine de Saba de la Bible. Selon le Kebra Nagast, elle se rendit à Jérusalem auprès de Salomon, adopta le culte du Dieu d'Israël et eut de lui un fils, Ménélik Ier, fondateur de la dynastie salomonide. Elle est la figure maternelle de la légitimité royale éthiopienne.",
+  "description_detaillee": "La reine de Saba n'est qu'une visiteuse anonyme dans la Bible, venue éprouver la sagesse de Salomon. L'Éthiopie en a fait une souveraine nationale, Makeda, mère du premier roi de la dynastie qui a régné, avec des interruptions, jusqu'à la déposition de Haïlé Sélassié en 1974. Son récit, fixé au XIVe siècle dans le Kebra Nagast, fonde à la fois la filiation salomonienne des rois et la présence en Éthiopie de l'Arche d'alliance.\n\nDans le Kebra Nagast, tout commence avec Tamrin, le chef des marchands de la reine, qui revient de Jérusalem émerveillé par Salomon. Makeda part à son tour avec une grande caravane. Devant le roi, elle explique que son peuple adore le soleil, « roi des dieux », et Salomon la convainc de n'adorer que le Créateur. Au moment du départ, il lui fait jurer de ne rien prendre de force dans sa maison, en échange de sa promesse de ne pas la prendre de force ; il la fait servir de mets épicés, fait placer un vase d'eau près de son lit, et la surprend quand, assoiffée, elle se lève pour boire. Le serment rompu, il couche avec elle. Il lui remet un anneau pour que l'enfant, si c'est un fils, puisse se faire reconnaître. Makeda accouche en chemin d'un garçon, Bayna-Lehkem, le futur Ménélik. Le texte précise qu'une loi voulait alors que seule une femme vierge règne sur l'Éthiopie, et que la reine promit à Salomon que désormais seul un homme de sa descendance régnerait ; c'est elle qui, au retour de son fils, le fait roi à sa place.\n\nD'autres traditions, recueillies au début du XXe siècle dans le nord de l'Éthiopie et en Érythrée, en particulier par Enno Littmann à Aksoum, racontent autrement ses origines. La mère de Ménélik y est une jeune Tigréenne, Eteye Azeb, livrée à un serpent auquel chaque famille devait offrir sa fille aînée ; des saints tuent le monstre, mais une goutte de son sang lui déforme le talon, et c'est pour être guérie qu'elle se rend auprès de Salomon. Dans une autre version, le serpent, appelé Arwe ou Wainaba, est tué par Angabo, qui devient roi et dont Makeda est la fille ; un manuscrit d'Oxford cité par Budge place justement avant elle un règne d'Arawi long de quatre cents ans, suivi de celui d'Angabo. Ces récits se retrouvent sur les peintures populaires éthiopiennes en registres, qui déroulent toute l'histoire de la reine, du serpent jusqu'au retour de Ménélik avec l'Arche.\n\nLe Kebra Nagast lui-même explique son nom par « pas ainsi » : « pas ainsi il est bon d'adorer le soleil », dira la reine convertie, une étymologie théologique plus que linguistique. Aucune source ancienne ne permet de rattacher la reine de Saba à un règne historique, et l'on discute depuis longtemps de la localisation de Saba, royaume bien attesté en Arabie du Sud, dans l'actuel Yémen, dont l'influence se lit aussi dans le nord de l'Éthiopie antique. La figure de Makeda n'en demeure pas moins centrale : la constitution de 1931 rattachait encore l'empereur à Ménélik Ier, fils de Salomon et de la reine de Saba.",
+  "domaines": [
+    "royauté",
+    "sagesse",
+    "fondation dynastique"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [
+    "anneau de Salomon",
+    "caravane",
+    "Arche d'alliance (portée par son fils)"
+  ],
+  "recits_associes": [
+    "kebra-nagast"
+  ],
+  "culte_contemporain": "Makeda n'est pas l'objet d'un culte, mais elle reste au cœur de l'identité religieuse et nationale éthiopienne à travers le Kebra Nagast et l'Église orthodoxe éthiopienne. Elle est aussi une figure importante pour le mouvement rastafari, qui voit en Haïlé Sélassié l'héritier de sa lignée.",
+  "sources": [
+    "Budge, E.A.W. (trad.) (1922). The Queen of Sheba and Her Only Son Menyelek (traduction du Kebra Nagast)",
+    "Littmann, E. (1904). The Legend of the Queen of Sheba in the Tradition of Axum",
+    "Prouty Rosenfeld, C. (s.d.). Makeda, Dictionary of African Christian Biography",
+    "Munro-Hay, S. (2005). The Quest for the Ark of the Covenant"
+  ],
+  "notes": "Makeda est rangée parmi les héros parce que la tradition éthiopienne la traite en souveraine humaine, sans culte. Les versions divergent sur ses parents (Angabo est tantôt son père, tantôt son époux) et sur son nom. Le rapport entre la Saba biblique, le royaume sud-arabique de Saba et l'Éthiopie ancienne fait l'objet de débats qui ne permettent pas de trancher."
+}

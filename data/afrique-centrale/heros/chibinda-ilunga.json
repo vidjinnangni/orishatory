@@ -22,9 +22,13 @@
   ],
   "genealogie": {
     "parents": [],
-    "conjoints": [],
+    "conjoints": [
+      "lueji"
+    ],
     "enfants": [],
-    "entites_liees": []
+    "entites_liees": [
+      "mbidi-kiluwe"
+    ]
   },
   "attributs": [
     "arc et flèches de chasse",

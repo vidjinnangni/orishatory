@@ -1,0 +1,55 @@
+{
+  "id": "ayida-wedo",
+  "nom": "Ayida-Wédo",
+  "variantes": [
+    "Aïda-Wèdo",
+    "Aida Wedo",
+    "Ayida Ouèdo",
+    "Ayida-Weddo"
+  ],
+  "region": "diaspora",
+  "categorie": "deites",
+  "peuples": [
+    "Haïtiens (vodou)"
+  ],
+  "resume": "Lwa du vodou haïtien associée à l'arc-en-ciel et au serpent, épouse de Danbala. Le couple qu'elle forme avec lui est invoqué pour la fertilité, la chance et la prospérité. Sa figure prolonge celle du serpent arc-en-ciel des Fon du Dahomey.",
+  "description_detaillee": "Ayida-Wédo appartient aux lwa du rite rada, la branche du vodou haïtien qui rassemble les esprits venus pour l'essentiel du golfe du Bénin. On la connaît d'abord comme la compagne de Danbala : lui est le serpent, elle est l'arc-en-ciel, et les deux sont rarement servis l'un sans l'autre. Le second élément de son nom, Wédo, qu'elle partage avec son époux, rattache le couple au pays fon et à la région de Ouidah.\n\nSur les vèvè, les dessins tracés à la farine sur le sol du péristyle, le couple apparaît sous la forme de deux serpents enlacés ; Robert Farris Thompson a étudié ces diagrammes comme l'une des traces les plus nettes de l'héritage dahoméen en Haïti. Ses couleurs sont le bleu ciel et le blanc, celles du ciel et des nuages, alors que Danbala est servi avant tout en blanc. Le catholicisme populaire l'a rapprochée de l'Immaculée Conception, dont les images servent à la représenter sur les autels. Avec Danbala, elle passe pour apporter la fécondité, la chance, le bonheur et l'aisance matérielle à ceux qui la servent.\n\nLe point de départ africain est le serpent arc-en-ciel des Fon, Aido-Hwedo, qui dans la cosmogonie dahoméenne entoure la terre et en assure la cohésion. En Afrique, cette puissance est généralement décrite au masculin, ou comme un être double ; en Haïti, elle s'est dédoublée en un couple, dont Ayida tient la part féminine. Les auteurs ne s'accordent pas tous sur la façon de lire ce passage : certains décrivent Ayida et Danbala comme deux époux distincts, d'autres comme les deux faces, féminine et masculine, d'une même force.",
+  "domaines": [
+    "arc-en-ciel",
+    "fertilité",
+    "chance",
+    "prospérité",
+    "ciel"
+  ],
+  "tags": [
+    "eau",
+    "terre-fertilite",
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [
+      "damballa"
+    ],
+    "enfants": [],
+    "entites_liees": [
+      "dan-aido-hwedo",
+      "mawu-lisa"
+    ]
+  },
+  "attributs": [
+    "arc-en-ciel",
+    "serpent",
+    "couleurs bleu ciel et blanc",
+    "vèvè aux deux serpents enlacés",
+    "image de l'Immaculée Conception"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Servie aujourd'hui dans les temples vodou d'Haïti et de la diaspora haïtienne, généralement aux côtés de Danbala.",
+  "sources": [
+    "Thompson, R.F. (1984). Flash of the Spirit: African and Afro-American Art and Philosophy",
+    "Michel, C. & Daniels, K.M. (2009). Aida Wedo. In Asante, M.K. & Mazama, A. (dir.), Encyclopedia of African Religion",
+    "Rush, D. (2001). Contemporary Vodun Arts of Ouidah, Benin. African Arts, 34(4)"
+  ],
+  "notes": "Les jours qui lui sont consacrés varient selon les sources et les régions d'Haïti. Le rapport exact entre Ayida et Danbala (couple d'époux ou divinité double) reste discuté ; le passage d'un serpent arc-en-ciel fon plutôt masculin à une lwa féminine est lui aussi diversement interprété."
+}

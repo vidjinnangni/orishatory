@@ -1,0 +1,49 @@
+{
+  "id": "kibuka",
+  "nom": "Kibuka",
+  "variantes": [
+    "Kibuuka",
+    "Kyobe",
+    "Kibuuka Omumbaale"
+  ],
+  "region": "afrique-est",
+  "categorie": "deites",
+  "peuples": [
+    "Baganda"
+  ],
+  "resume": "Kibuka est le lubaale de la guerre chez les Baganda (Ouganda). Frère de Mukasa, venu des îles Ssese pour aider le roi Nakibinge contre le Bunyoro, il mourut au combat et fut vénéré dans un temple à Mbale, où l'on gardait ses reliques. Celles-ci, emportées à Cambridge par John Roscoe au début du XXe siècle, sont aujourd'hui conservées au musée national de l'Ouganda.",
+  "description_detaillee": "Kibuka appartient aux lubaale, les dieux du Buganda, et y occupe la place du dieu de la guerre. Comme la plupart d'entre eux, il passe pour un être venu vivre parmi les hommes avant de devenir dieu, et son histoire est attachée à un règne précis, celui du roi Nakibinge, que la chronologie traditionnelle place au XVIe siècle. Son sanctuaire de Mbale compta parmi les plus riches du royaume, et ses reliques ont connu au XXe siècle un destin qui en fait un cas d'école dans les débats sur les collections coloniales.\n\nLe récit rapporté par John Roscoe en 1911 fait de Kibuka, aussi appelé Kyobe, le jeune frère de Mukasa et un fils de Wanema, vivant dans les îles Ssese. Nakibinge, en difficulté face aux Banyoro, envoie deux chefs demander l'aide de Mukasa, qui lui confie son frère en lui recommandant de ne jamais révéler à l'ennemi sa position et de se garder des femmes banyoro. Kibuka monte dans un nuage d'où il fait pleuvoir flèches et lances, et les Baganda l'emportent. Mais il prend pour compagne une captive, qui s'enfuit la nuit et dévoile son secret ; le lendemain, les archers banyoro tirent dans le nuage et le blessent à mort. Il gagne Mbale, dans le Mawokota, et meurt dans un arbre. Nakibinge périt dans la même bataille. Des chefs retrouvent le corps et l'enterrent ; plus tard, le roi Mulondo fait bâtir un grand temple où sont réunis la mâchoire, le cordon ombilical, le bouclier, la cloche et la lance du dieu. Roscoe y décrit quarante médiums, dont certains suivaient l'armée pour rendre des oracles au général, un feu sacré tiré d'un rocher et entretenu pendant la vie de chaque roi, et des exécutions de prisonniers envoyés par le kabaka, un aspect qu'il faut lire en tenant compte du regard missionnaire de l'auteur.\n\nPendant les guerres civiles de la fin des années 1880, le temple fut incendié, mais un prêtre avait enterré les reliques. Roscoe les obtint en 1906 et les déposa au musée d'archéologie et d'anthropologie de Cambridge ; il affirmait les avoir mises à l'abri, tandis que des travaux récents, comme ceux du conservateur Abiti Nelson, suggèrent une acquisition sous contrainte. À la demande du gouvernement ougandais, à la veille de l'indépendance, Cambridge les confia au musée national de Kampala. L'historien Neil Kodesh a montré que le sanctuaire de Kibuka n'était pas seulement un lieu du pouvoir royal : il servait aussi la guérison publique et la cohésion des clans de la région, et les récits sur l'origine du dieu portent la trace de cette histoire locale. En 2007, des fidèles de Kibuka ont tenté de récupérer les reliques pour leur sanctuaire, rappelant qu'elles restent pour certains des objets sacrés et non des pièces de musée.",
+  "domaines": [
+    "guerre",
+    "oracles militaires",
+    "protection du royaume"
+  ],
+  "tags": [
+    "divination",
+    "royaute-sacree"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "mukasa",
+      "katonda"
+    ]
+  },
+  "attributs": [
+    "mâchoire et cordon ombilical conservés dans des étuis de cuir",
+    "bouclier Liigyamirembe",
+    "lances",
+    "nuage"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Le culte n'a pas disparu : en 2007, des fidèles de Kibuka ont réclamé pour leur sanctuaire les reliques conservées au musée national de l'Ouganda.",
+  "sources": [
+    "Roscoe, J. (1907). Kibuka, the War God of the Baganda",
+    "Roscoe, J. (1911). The Baganda: An Account of Their Native Customs and Beliefs",
+    "Kodesh, N. (2010). Beyond the Royal Gaze: Clanship and Public Healing in Buganda",
+    "Gods' Collections (s.d.). Relics of the Kibuuka shrine in present-day Uganda"
+  ],
+  "notes": "Les dates du transfert à Kampala varient selon les sources (demande en 1961, transfert en 1962). Roscoe situe la mort de Kibuka à Mbale dans le Mawokota, qui correspond à l'actuel district de Mpigi. La chronologie des rois ganda antérieurs au XIXe siècle repose sur les listes dynastiques et reste approximative."
+}

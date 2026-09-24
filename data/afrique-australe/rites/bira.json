@@ -1,0 +1,48 @@
+{
+  "id": "bira",
+  "nom": "Bira",
+  "variantes": [
+    "mapira (pluriel)"
+  ],
+  "region": "afrique-australe",
+  "categorie": "rites",
+  "peuples": [
+    "Shona"
+  ],
+  "resume": "Cérémonie nocturne des Shona du Zimbabwe au cours de laquelle une famille ou une communauté appelle ses ancêtres (vadzimu) à posséder un médium pour demander conseil. La musique des mbira dzavadzimu, les « mbira des ancêtres », accompagnée des hochets hosho, en est le moteur.",
+  "description_detaillee": "Le bira est la grande cérémonie de possession des Shona du Zimbabwe. Quand une famille élargie affronte un malheur sérieux (maladie, décès inexpliqué, conflit, sécheresse), elle convoque ses vadzimu, les esprits de ses ancêtres, pour qu'ils viennent s'exprimer par la bouche d'un médium, le svikiro, et indiquent la cause du trouble et la manière d'y remédier. Dans la religion shona, les ancêtres sont les intermédiaires naturels entre les vivants et Dieu ; le bira est le moment où cette relation devient une conversation.\n\nLa cérémonie se tient la nuit, en général dans la case ronde d'une concession familiale, et dure jusqu'à l'aube. On y boit la bière rituelle et l'on prise du tabac. Au cœur de la musique se trouvent au moins deux mbira dzavadzimu, lamellophones à clavier de métal placés dans une grande calebasse de résonance, et une paire de hochets hosho qui tiennent le rythme. Deux parties s'entrelacent, la kushaura qui mène et la kutsinhira qui lui répond, pendant que l'assistance chante, frappe des mains et danse. Chaque esprit est réputé avoir ses morceaux préférés, ceux qu'il aimait de son vivant, et c'est en les jouant, souvent pendant des heures, qu'on l'attire. Lorsque la possession survient, en général après minuit, le médium revêt les habits de l'esprit ; la musique s'interrompt pour laisser place au dialogue, puis reprend. Selon les régions, les tambours remplacent parfois la mbira.\n\nLe bira ne sert pas qu'à consulter les ancêtres familiaux. On en organise pour demander la pluie aux mhondoro, les grands esprits protecteurs d'un territoire comme Chaminuka ou Nehanda, pour marquer certaines étapes de la vie, ou pour des esprits mashave, qui ne sont pas des ancêtres (esprits d'animaux ou de personnes mortes sans sépulture convenable). L'ethnomusicologue Paul Berliner, qui a décrit ces cérémonies dans les années 1970, souligne que le lien entre la musique et la religion a préservé des répertoires très anciens : si l'on continue de jouer ces pièces, c'est parce que les ancêtres les réclament. La mbira a depuis gagné les scènes de concert et la musique populaire zimbabwéenne, et en 2020 l'UNESCO a inscrit l'art de fabriquer et de jouer la mbira/sansi, au Zimbabwe et au Malawi, sur la liste représentative du patrimoine culturel immatériel.",
+  "domaines": [
+    "possession",
+    "ancêtres",
+    "musique",
+    "guérison"
+  ],
+  "tags": [
+    "ancetres",
+    "divination"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "chaminuka",
+      "nehanda",
+      "mwari"
+    ]
+  },
+  "attributs": [
+    "mbira dzavadzimu",
+    "hosho (hochets en calebasse)",
+    "bière rituelle",
+    "tabac à priser"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Des bira sont toujours organisés au Zimbabwe, dans les campagnes comme en ville, et dans la diaspora zimbabwéenne. L'art de fabriquer et de jouer la mbira/sansi est inscrit depuis 2020 au patrimoine culturel immatériel de l'humanité (dossier conjoint du Malawi et du Zimbabwe).",
+  "sources": [
+    "Berliner, P.F. (1978). The Soul of Mbira: Music and Traditions of the Shona People of Zimbabwe",
+    "Bourdillon, M.F.C. (1976). The Shona Peoples: An Ethnography of the Contemporary Shona, with Special Reference to Their Religion",
+    "UNESCO (2020). Art of crafting and playing Mbira/Sansi, the finger-plucking traditional musical instrument in Malawi and Zimbabwe"
+  ],
+  "notes": "Le mot bira désigne parfois toute cérémonie de possession shona, parfois plus précisément celle qui est consacrée aux ancêtres familiaux. Il faut la distinguer du kurova guva, rite qui ramène l'esprit d'un défunt dans la famille en général un an environ après sa mort. Le déroulement varie selon les régions et les groupes shona (Zezuru, Korekore, Karanga...)."
+}

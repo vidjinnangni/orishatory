@@ -1,0 +1,44 @@
+{
+  "id": "yaa-asantewaa",
+  "nom": "Yaa Asantewaa",
+  "variantes": [
+    "Nana Yaa Asantewaa",
+    "Yaa Asantewa"
+  ],
+  "region": "afrique-ouest",
+  "categorie": "heros",
+  "peuples": [
+    "Akan",
+    "Asante"
+  ],
+  "resume": "Reine mère (ohemmaa) d'Ejisu, dans le royaume asante (Ghana actuel), elle est associée à la dernière guerre entre les Asante et les Britanniques, en 1900-1901, déclenchée par l'exigence du gouverneur Hodgson de se voir remettre le Tabouret d'or. Capturée puis exilée aux Seychelles, elle y meurt en 1921. Elle est devenue au Ghana une figure majeure de la résistance à la colonisation.",
+  "description_detaillee": "Yaa Asantewaa, née vers le milieu du XIXe siècle, était la reine mère d'Ejisu (Edweso), l'une des chefferies de la confédération asante. Chez les Akan, la reine mère est une autorité politique à part entière : elle propose le candidat au trône et siège au conseil. En 1896, les Britanniques exilent le roi Prempeh Ier, et avec lui le chef d'Ejisu, petit-fils de Yaa Asantewaa, qu'elle avait elle-même désigné. Elle se retrouve ainsi à la tête d'Ejisu au moment où la crise éclate.\n\nLe 28 mars 1900, à Kumasi, le gouverneur de la Gold Coast, Frederic Hodgson, réunit les chefs asante et réclame le Tabouret d'or (Sika Dwa Kofi), demandant pourquoi on ne l'a pas encore apporté pour qu'il s'y asseye. Pour les Asante, ce tabouret n'est pas un simple trône : l'anthropologue Robert S. Rattray, qui écrivait une vingtaine d'années plus tard, rappelait qu'il abrite le sunsum, l'âme de la nation. Lady Hodgson affirma ensuite que son mari n'avait pas prononcé ces mots, mais c'est ainsi qu'ils furent traduits aux chefs. La tradition attribue à Yaa Asantewaa, lors du conseil qui suivit, un discours devenu célèbre : si les hommes refusaient de se battre, les femmes le feraient à leur place. Elle prit la direction de la guerre, cas sans équivalent dans l'histoire asante, et les combattants assiégèrent pendant des mois la garnison britannique retranchée dans le fort de Kumasi.\n\nLes renforts britanniques finirent par l'emporter. Yaa Asantewaa fut capturée en 1901 et déportée aux Seychelles avec d'autres chefs ; elle y mourut le 17 octobre 1921, et ses restes furent rapatriés après le retour de Prempeh en 1924. Le Tabouret d'or, lui, ne fut jamais livré. L'historien ghanéen Albert Adu Boahen a soutenu que ce conflit n'était pas une simple rébellion mais une véritable guerre d'indépendance asante.\n\nSa figure a pris une ampleur nouvelle après sa mort. T. C. McCaskie a montré que son rôle exact en 1900 est mal documenté et que sa réputation doit beaucoup aux relectures nationalistes du Ghana indépendant, qui en ont fait un modèle de courage féminin et de résistance anticoloniale. Son nom est aujourd'hui porté par un lycée de jeunes filles de Kumasi, fondé en 1960, ainsi que par un festival et un musée à Ejisu. Le codex permet de la rapprocher de Nehanda, autre figure féminine de la résistance à la conquête britannique, au Zimbabwe.",
+  "domaines": [
+    "résistance anticoloniale",
+    "guerre",
+    "pouvoir féminin",
+    "royauté"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "nehanda"
+    ]
+  },
+  "attributs": [
+    "Tabouret d'or (Sika Dwa Kofi)"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Célébrée au Ghana comme héroïne nationale : festival Yaa Asantewaa et musée à Ejisu, lycée de jeunes filles portant son nom à Kumasi.",
+  "sources": [
+    "Boahen, A.A. (2003). Yaa Asantewaa and the Asante-British War of 1900-1",
+    "McCaskie, T.C. (2007). The Life and Afterlife of Yaa Asantewaa. Africa, 77(2)",
+    "Rattray, R.S. (1923). Ashanti"
+  ],
+  "notes": "Sa date de naissance est incertaine (entre les années 1830 et 1850 selon les auteurs). Le texte de son discours de 1900 n'est connu que par la tradition orale et ses reprises ultérieures ; McCaskie souligne l'écart entre les rares données contemporaines et la figure héroïque construite après l'indépendance. Le conflit est appelé selon les sources guerre du Tabouret d'or, guerre de Yaa Asantewaa ou guerre anglo-asante de 1900-1901."
+}

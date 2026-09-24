@@ -1,0 +1,57 @@
+{
+  "id": "omolu",
+  "nom": "Omolu",
+  "variantes": [
+    "Obaluaiê",
+    "Obaluaê",
+    "Omulu",
+    "Xapanã",
+    "Sakpatá (candomblé jeje)",
+    "Babalú-Ayé (Cuba)"
+  ],
+  "region": "diaspora",
+  "categorie": "deites",
+  "peuples": [
+    "Brésiliens (candomblé)"
+  ],
+  "resume": "Orixá du candomblé brésilien qui gouverne la variole et les maladies contagieuses, qu'il peut aussi bien envoyer que guérir. Il danse entièrement couvert de paille et reçoit du maïs éclaté en offrande. Il est l'héritier de divinités de la terre et de la maladie du golfe du Bénin, dont le Sakpata des Fon.",
+  "description_detaillee": "Omolu, que l'on appelle aussi Obaluaiê, est dans le candomblé l'orixá des maladies contagieuses, la variole en premier lieu, et de leur guérison. Pierre Verger traduit Obaluaiê par « roi, maître de la terre » et Omolu par « fils du Seigneur » ; il rappelle qu'en Afrique on évitait de prononcer son nom, tant la divinité était redoutée. Le lien avec la terre est essentiel : la maladie qu'il envoie punit les fautes, et c'est la même puissance qui en délivre.\n\nLe récit le plus connu, recueilli par Reginaldo Prandi, raconte qu'il naquit couvert de plaies. Sa mère Nanã, effrayée, l'abandonna au bord de la mer ; Iemanjá le recueillit, lava ses blessures à l'eau salée et l'éleva comme son fils. Resté marqué, il se couvrit de paille pour cacher son corps. Dans les terreiros, l'orixá manifesté porte ce costume de raphia qui descend de la tête aux pieds et dissimule le visage, et il tient le xaxará, un balai fait de nervures de feuilles de palmier qui passe pour répandre la maladie autant que pour la balayer. Ses offrandes comprennent le maïs éclaté, la pipoca, surnommée « fleur d'Omolu », et Verger note qu'aucun instrument de fer n'entre dans ses rites, indice possible d'un culte très ancien. Au mois d'août, beaucoup de maisons célèbrent l'Olubajé, un banquet où des mets destinés à l'ensemble des orixás sont servis à l'assistance, tandis qu'Omolu, manifesté, lance du maïs éclaté au-dessus des fidèles. On le salue par le cri « Atotô ! », qui demande le silence.\n\nSes origines africaines sont multiples. Verger situe le berceau de ce culte en pays nupe (Tapa), d'où il aurait gagné le pays mahi, au nord de l'ancien Dahomey ; chez les Fon, la divinité de la terre et de la variole porte le nom de Sakpata, et c'est sous ce nom que les candomblés de nation jeje le servent. Le catholicisme populaire l'a rapproché des saints protecteurs contre les épidémies, saint Lazare et saint Roch, et à Salvador des fidèles allument des bougies pour lui à la chapelle Saint-Lazare. À Cuba, la même figure est honorée sous le nom de Babalú-Ayé dans la santería.",
+  "domaines": [
+    "maladie",
+    "guérison",
+    "terre",
+    "épidémies",
+    "mort"
+  ],
+  "tags": [
+    "terre-fertilite",
+    "mort-au-dela",
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "sakpata",
+      "nana-buluku",
+      "yemaya",
+      "candomble",
+      "santeria"
+    ]
+  },
+  "attributs": [
+    "costume de paille de raphia couvrant le corps et le visage",
+    "xaxará (balai de nervures de palmier)",
+    "maïs éclaté (pipoca)",
+    "saint Lazare",
+    "saint Roch"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Honoré dans les terreiros de candomblé du Brésil, notamment lors de l'Olubajé célébré en août ; des fidèles lui rendent aussi hommage à la chapelle Saint-Lazare de Salvador.",
+  "sources": [
+    "Verger, P. (1981). Orixás: deuses iorubás na África e no Novo Mundo",
+    "Prandi, R. (2001). Mitologia dos orixás"
+  ],
+  "notes": "Omolu et Obaluaiê sont tantôt traités comme deux noms d'un même orixá, tantôt comme deux aspects distincts d'une même divinité, l'un réputé plus âgé que l'autre, sans que les maisons s'accordent sur la répartition. La filiation avec Nanã est propre à la tradition afro-brésilienne et à ses racines fon et mahi ; l'origine nupe proposée par Verger reste une hypothèse."
+}

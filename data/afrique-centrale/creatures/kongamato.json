@@ -1,0 +1,44 @@
+{
+  "id": "kongamato",
+  "nom": "Kongamato",
+  "variantes": [
+    "kongamatu"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "creatures",
+  "peuples": [
+    "Kaonde"
+  ],
+  "resume": "Le kongamato est un être redouté des Kaonde, dans le nord-ouest de l'actuelle Zambie, qui vit en aval des gués de certaines rivières et fait monter brusquement les eaux pour noyer ceux qui traversent. Son nom a été traduit par « celui qui renverse les bateaux ». Décrit en 1923 par l'administrateur colonial Frank Melland, il est devenu une célébrité de la cryptozoologie, qui en a fait un ptérosaure survivant.",
+  "description_detaillee": "Le kongamato appartient aux croyances des Kaonde, peuple de la région de Kasempa et de Mwinilunga, dans l'actuelle province du Nord-Ouest de la Zambie, près des frontières de l'Angola et de la République démocratique du Congo. On le situe en particulier dans les marais du Jiundu. Tout ce que l'on sait de la tradition locale vient d'un seul auteur, Frank Melland, magistrat du district de Kasempa en Rhodésie du Nord de 1911 à 1922, qui l'évoque dans In Witch-Bound Africa (1923), un livre consacré aux Kaonde et à leurs pratiques.\n\nMelland rencontre le kongamato en étudiant les protections rituelles contre les dangers du voyage. Les Kaonde, dit-il, n'ont aucun remède contre les crues ou les rapides, mais ils en ont un contre le kongamato, qui vit en aval de certains gués et a le pouvoir d'arrêter l'écoulement des eaux : le niveau monte soudain et submerge le voyageur. Le remède, muchi wa kongamato, se prépare avec la racine de l'arbre mulendi, broyée et délayée dans une coupe d'écorce ; on emporte en pirogue un fagot de lanières de cette racine, qu'on trempe dans la préparation pour asperger l'eau si le kongamato se manifeste. Interrogés sur la nature de l'être, ses informateurs répondent que c'est un oiseau, puis se reprennent : plutôt un lézard aux ailes membraneuses comme celles d'une chauve-souris, rouge, sans plumes, d'une envergure de quatre à sept pieds, peut-être muni de dents. Personne ne l'a vu de près et vécu pour le dire ; il est invulnérable et immortel, si bien qu'on n'en trouve jamais de restes. Les Kaonde, précise Melland, ne le tiennent pas pour un être surnaturel comme le mulombe, mais pour une chose terrible, comparable à un lion mangeur d'hommes, en bien pire. On lui attribuait la mort de quatre personnes dans la rivière Mutanda en 1911, alors que la rivière était en crue.\n\nC'est Melland lui-même qui introduit le ptérodactyle : il montre à ses interlocuteurs des images de reptiles préhistoriques, et tous, dont un chef de village du Jiundu, y reconnaissent le kongamato. Il en conclut qu'un tel animal a pu exister récemment, tout en disant ne pas croire aux pouvoirs qu'on lui prête. La question posée avec une image à l'appui oriente pourtant la réponse, et l'identification a été reprise sans ce recul par la presse, puis par la cryptozoologie : Bernard Heuvelmans range le kongamato parmi les « dragons du Congo » dans Sur la piste des bêtes ignorées (1955). Les explications proposées par les zoologues invoquent des animaux connus de la région, comme le bec-en-sabot, de grandes cigognes ou de grandes chauves-souris frugivores. Rien de cela ne rend compte de l'essentiel de la tradition kaonde, qui décrit moins un animal qu'une puissance liée aux gués et aux crues, contre laquelle on se protège par un remède rituel. Le Mokele-mbembe (voir sa fiche) a connu une récupération comparable.",
+  "domaines": [
+    "rivières",
+    "crues",
+    "dangers du passage"
+  ],
+  "tags": [
+    "eau"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "mokele-mbembe"
+    ]
+  },
+  "attributs": [
+    "gués et marais du Jiundu",
+    "ailes membraneuses",
+    "couleur rouge",
+    "remède muchi wa kongamato (racine de mulendi)"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Melland, F.H. (1923). In Witch-Bound Africa: An Account of the Primitive Kaonde Tribe and Their Beliefs (chap. XVIII-XIX)",
+    "Heuvelmans, B. (1955). Sur la piste des bêtes ignorées (source cryptozoologique, à lire avec recul critique)",
+    "Eberhart, G.M. (2002). Mysterious Creatures: A Guide to Cryptozoology (source cryptozoologique, à lire avec recul critique)"
+  ],
+  "notes": "La traduction « celui qui renverse les bateaux » est donnée par Melland lui-même avec un point d'interrogation. Les Kaonde et le Jiundu se trouvent en Zambie, à la limite de l'aire culturelle d'Afrique centrale retenue par ce codex. Aucune enquête ethnographique postérieure à Melland sur le kongamato chez les Kaonde n'a été trouvée ; les récits d'observations ultérieurs, rapportés par des voyageurs et des cryptozoologues, relèvent de la réception occidentale plus que de la tradition locale."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "kimpa-vita",
+  "nom": "Kimpa Vita",
+  "variantes": [
+    "Dona Beatriz Kimpa Vita",
+    "Beatriz Kimpa Vita",
+    "Dona Beatriz"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "heros",
+  "peuples": [
+    "Kongo"
+  ],
+  "resume": "Kimpa Vita, baptisée Dona Beatriz (vers 1684-1706), est une jeune noble du royaume de Kongo qui déclara en 1704 être possédée par saint Antoine de Padoue. Elle prêcha un christianisme pensé en termes kongo, selon lequel Jésus et Marie étaient nés au Kongo, et appela à la réunification du royaume autour de sa capitale. Condamnée comme hérétique, elle fut brûlée le 2 juillet 1706.",
+  "description_detaillee": "Kimpa Vita appartient à l'histoire du royaume de Kongo, État chrétien depuis le début du XVIe siècle, établi de part et d'autre du bas fleuve Congo. Née vers 1684 près du mont Kibangu, dans une famille de la noblesse, elle grandit dans un pays déchiré : depuis la défaite de Mbwila en 1665, plusieurs lignées se disputent le trône et l'ancienne capitale, Mbanza Kongo (São Salvador), est abandonnée. Le mouvement qu'elle lance, dit antonien, est l'un des premiers mouvements prophétiques africains bien documentés, et le principal témoignage de ce qu'était devenu le christianisme kongo deux siècles après la conversion du roi.\n\nEn 1704, au sortir d'une maladie, elle annonce que saint Antoine est entré en elle. Elle dit mourir chaque vendredi et passer la fin de la semaine au ciel, à s'entretenir avec Dieu des affaires du Kongo. Son message tient en quelques affirmations qui scandalisent les missionnaires : Jésus est né à São Salvador et a été baptisé dans la province de Nsundi, Marie était une Kongo, et Dieu regarde l'intention du fidèle plus que les sacrements. Elle compose une version kongo du Salve Regina, le Salve Antoniana, et reproche aux capucins italiens de ne pas reconnaître de saints noirs. Son projet est aussi politique : faire cesser les guerres civiles en rétablissant la capitale. Ses partisans réoccupent Mbanza Kongo, et le mouvement gagne une large audience parmi les gens du commun. Le roi Pedro IV, qui tient sa cour à Kibangu, hésite longtemps. En 1706, Kimpa Vita, qui vient d'avoir un enfant avec l'un de ses fidèles, João Barro, est arrêtée. Jugée par un tribunal royal conseillé par les capucins Bernardo da Gallo et Lorenzo da Lucca, elle est brûlée avec João Barro le 2 juillet 1706 à Evululu.\n\nSa mort n'arrête pas le mouvement, qui se maintient jusqu'à ce que Pedro IV reprenne São Salvador en 1709 et restaure l'unité du royaume. L'historien John Thornton, qui a reconstitué sa vie à partir des écrits des capucins, y voit l'aboutissement d'un christianisme kongo pensé dans les catégories locales (Dieu y porte le nom de Nzambi a Mpungu, voir sa fiche) plutôt qu'une simple révolte contre l'Église. Kimpa Vita est souvent présentée comme une précurseure des mouvements prophétiques du XXe siècle, en particulier de celui de Simon Kimbangu, et comme une figure de la résistance à l'emprise européenne, lecture qui force parfois le trait : son combat visait d'abord la réconciliation d'un royaume chrétien africain.",
+  "domaines": [
+    "prophétie",
+    "christianisme kongo",
+    "unité politique"
+  ],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "nzambi-a-mpungu"
+    ]
+  },
+  "attributs": [
+    "saint Antoine de Padoue",
+    "Salve Antoniana",
+    "Mbanza Kongo (São Salvador)"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Kimpa Vita est aujourd'hui une figure de mémoire en Angola et dans les deux Congo, célébrée comme prophétesse et héroïne de la résistance ; plusieurs églises prophétiques et auteurs panafricanistes la revendiquent comme précurseure.",
+  "sources": [
+    "Thornton, J.K. (1998). The Kongolese Saint Anthony: Dona Beatriz Kimpa Vita and the Antonian Movement, 1684-1706",
+    "Thornton, J.K. (1984). The Development of an African Catholic Church in the Kingdom of Kongo, 1491-1750. Journal of African History, 25(2)",
+    "Dictionary of African Christian Biography (s.d.). Kimpa Vita. dacb.org"
+  ],
+  "notes": "Les dates varient légèrement (naissance en 1682 ou 1684). Le sort de son enfant diffère selon les récits : des présentations anciennes affirment qu'il fut brûlé avec elle, alors que Thornton, s'appuyant sur les sources capucines, indique qu'il fut épargné et baptisé Jerónimo par Lorenzo da Lucca. La lecture de Kimpa Vita comme héroïne anticoloniale est postérieure : au début du XVIIIe siècle, le Kongo n'était pas une colonie, et les Européens présents étaient surtout des missionnaires italiens."
+}

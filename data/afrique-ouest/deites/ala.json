@@ -26,7 +26,9 @@
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": []
+    "entites_liees": [
+      "asase-yaa"
+    ]
   },
   "attributs": [
     "sanctuaires de terre (mbari)",

@@ -1,0 +1,52 @@
+{
+  "id": "makandal",
+  "nom": "François Makandal",
+  "variantes": [
+    "Macandal",
+    "Mackandal",
+    "Franswa Makandal"
+  ],
+  "region": "diaspora",
+  "categorie": "heros",
+  "peuples": [
+    "Esclaves et marrons de Saint-Domingue",
+    "Haïtiens"
+  ],
+  "resume": "Esclave d'origine africaine devenu marron dans le nord de Saint-Domingue au milieu du XVIIIe siècle, accusé par les autorités coloniales d'avoir dirigé une vaste conspiration d'empoisonnement. Brûlé vif au Cap-Français en 1758, il est resté dans la mémoire haïtienne comme un précurseur de la Révolution et une figure dotée de pouvoirs surnaturels.",
+  "description_detaillee": "François Makandal vivait comme esclave sur une plantation de la région du Limbé, dans la province du Nord de Saint-Domingue, la colonie française qui deviendra Haïti. Né en Afrique, il aurait perdu une main ou un bras dans le moulin d'une sucrerie, puis été affecté à la garde du bétail, avant de prendre la fuite vers la fin des années 1740. Pendant des années, il circula d'une habitation à l'autre et fabriqua des paquets protecteurs très recherchés. Sur ses origines, les sources se contredisent : l'historien haïtien Thomas Madiou affirme qu'il savait l'arabe, et les procès-verbaux indiquent qu'il récita la profession de foi musulmane lors de son interrogatoire, mais d'autres chercheurs proposent une origine d'Afrique centrale d'après la forme de son nom.\n\nArrêté lors d'une fête sur une plantation, il fut condamné par le Conseil supérieur du Cap et brûlé vif le 20 janvier 1758. Le récit qu'en donne Moreau de Saint-Méry à la fin du siècle, sans en avoir été témoin, est devenu canonique : Makandal aurait souvent annoncé qu'il échapperait aux Blancs sous d'autres formes, notamment celle d'une mouche ; au moment du supplice, le poteau pourri céda, il tomba du bûcher, et les esclaves présents crièrent qu'il était sauvé avant qu'on ne le rejette dans les flammes. Beaucoup restèrent persuadés qu'il n'était pas mort. Une ordonnance de mars 1758 interdit aux esclaves de détenir les paquets appelés « macandals », et le mot finit par désigner à la fois les talismans, les poisons et ceux qui les préparaient.\n\nL'historiographie a longtemps repris la version coloniale : un chef marron à la tête d'un réseau d'empoisonneurs visant les colons, et un premier pas vers l'insurrection de 1791. Carolyn Fick fait du marronnage la cellule de base de la résistance servile et voit en Makandal l'un de ceux qui, en circulant d'une habitation à l'autre, maintenaient des réseaux entre esclaves. David Geggus et Pierre Pluchon estimaient déjà que les archives ne justifiaient pas l'ampleur prêtée à son rôle. Les recherches récentes de John Garrigus nuancent fortement ce schéma : les morts soudaines d'animaux et d'hommes qui terrorisaient la province du Nord correspondent à des épidémies de charbon (anthrax), et les aveux de complot furent en grande partie obtenus sous la torture. Quelle qu'ait été la réalité des empoisonnements, Makandal est devenu une figure majeure de la mémoire haïtienne, que le romancier cubain Alejo Carpentier a mise au centre du Royaume de ce monde (1949), et on le rattache souvent au contexte religieux qui précède la cérémonie du Bois-Caïman.",
+  "domaines": [
+    "résistance",
+    "marronnage",
+    "savoirs rituels",
+    "remèdes et poisons"
+  ],
+  "tags": [
+    "metamorphose",
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "nanny-des-marrons",
+      "ceremonie-bois-caiman"
+    ]
+  },
+  "attributs": [
+    "paquets protecteurs (macandals)",
+    "mouche",
+    "bûcher de 1758"
+  ],
+  "recits_associes": [
+    "ceremonie-bois-caiman"
+  ],
+  "culte_contemporain": "Honoré en Haïti comme héros précurseur de l'indépendance ; son nom reste associé dans la culture populaire aux talismans et aux pouvoirs de transformation.",
+  "sources": [
+    "Moreau de Saint-Méry, M.L.E. (1797). Description topographique, physique, civile, politique et historique de la partie française de l'isle Saint-Domingue",
+    "Fick, C.E. (1990). The Making of Haiti: The Saint Domingue Revolution from Below",
+    "Garrigus, J.D. (2021). « Like an epidemic one could only stop with the most violent remedies »: African Poisons versus Livestock Disease in Saint Domingue, 1750-88. The William and Mary Quarterly, 78(4)",
+    "Garrigus, J.D. (2023). A Secret among the Blacks: Slave Resistance before the Haitian Revolution"
+  ],
+  "notes": "Son origine (Afrique de l'Ouest musulmane ou Afrique centrale), la durée de son marronnage, l'ampleur réelle de la conspiration et le chiffre de plusieurs milliers de victimes souvent avancé sont débattus. Le lieu d'exécution est le Cap-Français, même si certaines compilations mentionnent Port-au-Prince par erreur."
+}

@@ -1,0 +1,44 @@
+{
+  "id": "epopee-de-mwindo",
+  "nom": "Épopée de Mwindo",
+  "variantes": [
+    "Mwindo",
+    "The Mwindo Epic"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "recits",
+  "peuples": [
+    "Nyanga (Banyanga)"
+  ],
+  "resume": "L'épopée de Mwindo est un long récit chanté, déclamé et joué des Nyanga, peuple des forêts de l'est de la République démocratique du Congo. Elle raconte la vie de Mwindo, enfant prodigieux que son père a voulu tuer, qui le poursuit jusqu'au monde des morts puis apprend, au ciel, les limites de sa propre puissance. Sa version la plus complète a été publiée en 1969 par Daniel Biebuyck et Kahombo Mateene.",
+  "description_detaillee": "L'épopée de Mwindo appartient à la littérature orale des Nyanga (ou Banyanga), qui vivent dans la région forestière de Walikale, à l'est de la République démocratique du Congo. Elle est connue hors de la région grâce à l'anthropologue belge Daniel Biebuyck, qui en a enregistré plusieurs versions dans les années 1950 ; la plus longue, déclamée par le barde Shekarisi Candi Rureke et traduite avec le linguiste nyanga Kahombo Mateene, compte parmi les épopées africaines les plus étudiées. Le récit est porté par un seul interprète, qui chante, raconte et mime tous les personnages en s'accompagnant de hochets et de clochettes, tandis que l'auditoire reprend les refrains.\n\nLe chef Shemwindo, qui règne sur Tubondo, a sept épouses et décrète qu'elles ne lui donneront que des filles ; tout garçon sera tué. Six épouses mettent au monde des filles. La favorite, Nyamwindo, donne naissance à Mwindo, qui sort par son majeur, marche et parle aussitôt, et porte déjà un sceptre-chasse-mouches fait d'une queue de buffle, le conga. Son père tente de le tuer à la lance, l'enterre vivant, puis l'enferme dans un tambour qu'il jette à la rivière ; Mwindo déjoue chaque tentative et remonte les eaux jusqu'à sa tante paternelle, Iyangura. Soutenu par ses oncles maternels, il revient détruire Tubondo. Shemwindo s'enfuit dans le monde souterrain, où Mwindo le suit ; Muisa, maître du pays des morts, lui impose des épreuves et tente deux fois de le tuer, mais le conga le sauve. Retrouvé, Shemwindo demande pardon et accepte de partager son royaume ; Mwindo relève le village et ramène ses habitants à la vie. Plus tard, il tue le dragon Kirimu, ami de Nkuba, la Foudre. En punition, Nkuba l'emporte au ciel pour un an, où il endure la chaleur du soleil, le froid et la pluie, et ne revient qu'après avoir promis de ne plus tuer d'êtres vivants. Devenu chef, il enseigne aux siens à vivre sans jalousie ni haine, à accepter tous les enfants et à prendre soin des malades.\n\nLe récit contient ainsi deux leçons qui se répondent : l'échec d'un père qui prétend choisir sa descendance, puis celui d'un héros trop sûr de sa puissance, que le ciel ramène à la mesure. Biebuyck a publié en 1978, dans Hero and Chief, d'autres versions nyanga plus courtes et très différentes, qui montrent que l'épopée n'a pas de texte fixe. Les commentateurs ont relevé que Mwindo est décrit comme un petit homme, ce qui a été lu comme un regard favorable sur les chasseurs-cueilleurs de la forêt, voisins des Nyanga, lecture qui reste une interprétation.",
+  "domaines": [
+    "héroïsme",
+    "royauté",
+    "rapports père-fils",
+    "monde des morts"
+  ],
+  "tags": [
+    "mort-au-dela",
+    "foudre-orage"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [
+    "sceptre conga (chasse-mouches en queue de buffle)",
+    "tambour",
+    "hochets et clochettes du barde"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Biebuyck, D. & Mateene, K.C. (1969). The Mwindo Epic from the Banyanga (Congo Republic)",
+    "Biebuyck, D.P. (1978). Hero and Chief: Epic Literature from the Banyanga, Zaire Republic",
+    "Biebuyck, D.P. (1976). The African Heroic Epic. Journal of the Folklore Institute, 13, 5-36"
+  ],
+  "notes": "Les versions publiées par Biebuyck diffèrent sensiblement entre elles ; le résumé suit la version de Candi Rureke (1969). La date de l'enregistrement est généralement donnée comme 1956. Le barde est désigné comme Shekarisi Candi Rureke (shekarisi étant un titre lié à la pratique épique) ou Shepege Candi Rureke selon les présentations ; l'enregistrement aurait eu lieu au village de Bese, sur une douzaine de jours."
+}

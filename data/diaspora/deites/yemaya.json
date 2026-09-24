@@ -27,7 +27,12 @@
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": []
+    "entites_liees": [
+      "omolu",
+      "candomble",
+      "santeria",
+      "yemoja"
+    ]
   },
   "attributs": [
     "couleurs bleu et blanc",

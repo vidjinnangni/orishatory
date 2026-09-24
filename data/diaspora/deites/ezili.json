@@ -26,13 +26,17 @@
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": []
+    "entites_liees": [
+      "ceremonie-bois-caiman"
+    ]
   },
   "attributs": [
     "couleurs roses et bleues (Freda)",
     "cicatrice au visage (Dantor)"
   ],
-  "recits_associes": [],
+  "recits_associes": [
+    "ceremonie-bois-caiman"
+  ],
   "culte_contemporain": "",
   "sources": [
     "Métraux, A. (1958). Le Vaudou haïtien",

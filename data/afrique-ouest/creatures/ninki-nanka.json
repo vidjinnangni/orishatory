@@ -1,0 +1,46 @@
+{
+  "id": "ninki-nanka",
+  "nom": "Ninki Nanka",
+  "variantes": [
+    "Ninki-Nanka",
+    "Ninkinanka",
+    "ninkinanko"
+  ],
+  "region": "afrique-ouest",
+  "categorie": "creatures",
+  "peuples": [
+    "Mandinka"
+  ],
+  "resume": "Créature des marigots, des mangroves et des bras de fleuve de Gambie et des régions voisines du Sénégal, souvent décrite comme un grand serpent ou un dragon. La croyance la plus répandue veut que celui qui l'aperçoit meure peu après. Les descriptions varient beaucoup d'un témoin et d'un groupe à l'autre.",
+  "description_detaillee": "Le long du fleuve Gambie, et en particulier dans les mangroves et les marécages de son cours inférieur, le ninki nanka compte parmi les êtres les plus redoutés. Son nom mandinka est souvent traduit par « grand serpent » ou « dragon ». Plus qu'un animal, c'est une présence liée aux eaux stagnantes et aux zones humides, ces lieux fertiles mais dangereux où l'on pêche et où l'on circule en pirogue. L'anthropologue David P. Gamble a publié en 1976 un recueil de témoignages parus dans Kibaro, un journal en langue mandinka, qui range les ninkinanko parmi les autres êtres surnaturels de la tradition locale, esprits et hommes-animaux.\n\nLa croyance centrale tient à son regard. Voir le ninki nanka, dit-on, c'est mourir, en général dans les semaines qui suivent. Certains pêcheurs emportent un miroir pour renvoyer ce regard mortel. Au-delà de ce trait commun, les portraits divergent : tête de crocodile sur un corps d'âne pour les uns, mélange d'hippopotame et de girafe pour d'autres, simple serpent gigantesque ailleurs. D'autres récits lui prêtent une face de cheval, un long corps couvert d'écailles brillantes comme des miroirs et une crête de peau sur la tête.\n\nEn 2006, une équipe britannique du Centre for Fortean Zoology, une association de cryptozoologie, s'est rendue en Gambie pour recueillir des témoignages. Elle n'a rapporté que des récits de seconde main, contradictoires (crocodile, serpent, créature ailée crachant le feu), et un garde forestier affirmant avoir survécu à sa rencontre grâce à des remèdes de plantes ; son responsable reconnaissait lui-même que l'existence de l'animal était très improbable. L'épisode dit surtout la vitalité de la croyance. Le nom sert aujourd'hui à la promotion touristique du pays : un circuit remontant le fleuve Gambie depuis Banjul a été baptisé Ninki Nanka Trail.",
+  "domaines": [
+    "eaux stagnantes",
+    "marigots et mangroves",
+    "danger",
+    "mort"
+  ],
+  "tags": [
+    "eau",
+    "mort-au-dela"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [
+    "regard mortel",
+    "écailles brillantes",
+    "crête sur la tête",
+    "miroir (protection)"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "La croyance reste vivante en Gambie, où le nom sert aussi à la promotion touristique (Ninki Nanka Trail le long du fleuve Gambie).",
+  "sources": [
+    "Gamble, D.P. (dir. et trad.) (1976). Accounts of Supernatural Beings, Spirits, Witches, Werewolves, Ninkinanko, etc. from the Mandinka Newspaper Kibaro. Gambian Studies, n° 4",
+    "BBC News (2006). Ninki-nanka: Hunt for Gambia's mythical dragon",
+    "Patterson, J.R. (2023). Exploring the Gambia's new Ninki Nanka Trail. National Geographic"
+  ],
+  "notes": "La documentation savante est mince : l'essentiel de ce que l'on sait provient de témoignages oraux, de la presse et de récits recueillis par des cryptozoologues, qui ont pu amplifier le motif du dragon. Les sources en ligne étendent souvent sa présence à la Casamance, à la Guinée ou à la Sierra Leone, et lui attribuent une pierre précieuse dans la tête, sans référence vérifiable. Les ailes et le souffle de feu, rares dans les témoignages, rapprochent peut-être la créature des dragons de l'imaginaire occidental."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "candomble",
+  "nom": "Candomblé",
+  "variantes": [
+    "Candomblé Ketu (Nagô)",
+    "Candomblé Jeje",
+    "Candomblé Angola"
+  ],
+  "region": "diaspora",
+  "categorie": "rites",
+  "peuples": [
+    "Afro-Brésiliens (Bahia puis ensemble du Brésil)"
+  ],
+  "resume": "Religion afro-brésilienne formée à Bahia au XIXe siècle à partir des cultes yoruba, fon et bantous apportés par les Africains réduits en esclavage. Elle honore des divinités (orixás, voduns ou inquices selon les « nations ») qui se manifestent par la possession lors de cérémonies publiques, dans des maisons de culte appelées terreiros. Longtemps soumise au contrôle policier, elle est aujourd'hui reconnue comme une composante majeure du patrimoine brésilien.",
+  "description_detaillee": "Le candomblé s'est constitué dans la ville de Salvador et dans le Recôncavo bahianais, où arrivèrent en grand nombre, entre la fin du XVIIIe siècle et le milieu du XIXe, des captifs originaires du golfe du Bénin. Il repose sur l'idée d'axé, la force vitale que les rites entretiennent et font circuler, et sur le culte de divinités qui descendent dans le corps de leurs initiés pendant les fêtes. Au-dessus d'elles se tient Olorun, ou Olodumare, dieu suprême trop lointain pour recevoir un culte direct. Chaque terreiro est une communauté autonome dirigée par une mãe-de-santo ou un pai-de-santo, et organisée comme une famille religieuse.\n\nLes maisons se répartissent en « nations », qui renvoient à des héritages africains distincts. Le candomblé ketu, ou nagô, d'origine yoruba, est le plus répandu : on y sert les orixás comme Exu, Oxóssi, Iemanjá ou Omolu. Le candomblé jeje, issu des peuples de langue gbe du Dahomey, honore des voduns et reste bien implanté à Cachoeira et São Félix. Le candomblé angola, d'origine bantoue, invoque des inquices, dont le nom dérive du kikongo nkisi. Luis Nicolau Parés a montré que l'apport jeje avait été décisif dans la formation même du candomblé, contre l'idée d'une tradition essentiellement yoruba. L'entrée dans la religion passe par une initiation, la feitura : le novice, rasé et marqué pour recevoir son orixá, reste plusieurs semaines en réclusion avant d'être présenté publiquement. Il devient alors iaô, puis, au bout de sept ans, ebomi, et peut fonder sa propre maison.\n\nLa Casa Branca do Engenho Velho, fondée à Salvador dans la première moitié du XIXe siècle, passe pour l'une des plus anciennes maisons de nation ketu, et de nombreux terreiros du pays s'en réclament. Pendant des décennies, les terreiros de Bahia durent se déclarer à la police et payer des taxes pour tenir leurs fêtes, jusqu'au décret de 1976 qui mit fin à ce contrôle ; en 1984, la Casa Branca devint le premier temple afro-brésilien classé monument historique national. Stefania Capone a décrit le mouvement de « réafricanisation » par lequel certaines maisons cherchent à revenir à des pratiques jugées plus proches de l'Afrique, et à se démarquer de l'umbanda comme du catholicisme. Le candomblé partage avec la santería cubaine une large part de son panthéon d'origine yoruba.",
+  "domaines": [
+    "culte des divinités",
+    "initiation",
+    "possession",
+    "communauté religieuse"
+  ],
+  "tags": [
+    "initiation",
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "exu",
+      "oxossi",
+      "yemaya",
+      "omolu",
+      "santeria",
+      "olodumare",
+      "nkisi",
+      "sakpata"
+    ]
+  },
+  "attributs": [
+    "terreiro",
+    "axé",
+    "colliers de perles aux couleurs des orixás",
+    "atabaques (tambours)",
+    "réclusion initiatique"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Pratiqué dans tout le Brésil, particulièrement à Salvador de Bahia, Rio de Janeiro et São Paulo ; plusieurs terreiros historiques sont protégés par l'IPHAN.",
+  "sources": [
+    "Bastide, R. (1958). Le Candomblé de Bahia (rite nagô)",
+    "Capone, S. (1999). La quête de l'Afrique dans le candomblé : pouvoir et tradition au Brésil",
+    "Parés, L.N. (2013). The Formation of Candomblé: Vodun History and Ritual in Brazil"
+  ],
+  "notes": "La part respective des héritages yoruba, gbe et bantous dans la formation du candomblé est discutée : l'historiographie ancienne (Nina Rodrigues, Bastide) privilégiait le modèle nagô, que Parés et d'autres ont relativisé. L'étymologie du mot candomblé, souvent rattachée à une racine bantoue, reste incertaine."
+}

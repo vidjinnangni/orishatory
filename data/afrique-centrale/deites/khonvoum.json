@@ -1,0 +1,48 @@
+{
+  "id": "khonvoum",
+  "nom": "Khonvoum",
+  "variantes": [
+    "Khonuum",
+    "Kmvoum",
+    "Chorum"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "deites",
+  "peuples": [
+    "Mbuti (Bambuti)"
+  ],
+  "resume": "Khonvoum est présenté par les dictionnaires de mythologie africaine comme le dieu suprême et créateur des Bambuti, chasseurs-cueilleurs de la forêt équatoriale d'Afrique centrale. Grand chasseur, il porte un arc fait de deux serpents que les humains voient sous la forme de l'arc-en-ciel. Les sources ethnographiques qui fonderaient cette description restent difficiles à identifier.",
+  "description_detaillee": "Khonvoum figure dans plusieurs ouvrages de référence comme la divinité principale des Bambuti, nom collectif sous lequel on a longtemps rangé les groupes de chasseurs-cueilleurs de la forêt d'Afrique centrale, dont les Mbuti de l'Ituri, au nord-est de la République démocratique du Congo. Il y est à la fois créateur, maître du ciel et patron de la chasse. Sa fiche pose pourtant un problème rare dans ce codex : on sait ce que racontent les notices, beaucoup moins d'où elles tiennent leur récit.\n\nLe portrait qu'elles donnent est cohérent. Khonvoum est le « grand chasseur », armé d'un arc formé de deux serpents qui se montre aux hommes sous l'aspect de l'arc-en-ciel. Il veille sur la course du soleil : chaque soir, une fois l'astre couché, il ramasse des éclats d'étoiles et les lui lance pour qu'il se relève le lendemain dans tout son éclat. Il ne s'adresse pas directement aux humains mais passe par un éléphant mythique, Gor, dont la voix est le tonnerre, ou par un caméléon. Il aurait façonné l'humanité dans l'argile : l'argile noire pour les Noirs, la blanche pour les Blancs, la rouge pour les Pygmées, à qui il donna ensuite la forêt, sa végétation et son gibier. Ce dernier détail, qui fait entrer les Européens dans un récit des origines, laisse penser que la version transmise a été recueillie, ou retouchée, en situation coloniale.\n\nLes ethnographes qui ont le plus longuement travaillé en Ituri ne décrivent pas les choses ainsi. Paul Schebesta et Colin Turnbull parlent surtout de Tore (voir sa fiche) et, chez les Efe, d'Arebati. L'idée même d'un dieu créateur chez ces peuples est discutée : l'anthropologue japonais Sawada, qui a travaillé chez les Efe, soutient qu'aucun indice ne l'atteste et que Schebesta, en quête d'un monothéisme originel chez les « Pygmées », a construit ce créateur en confondant des catégories d'êtres surnaturels avec des noms de dieux. André Mary a montré de son côté comment des missionnaires comme Mgr Le Roy et le père Trilles, au Gabon, ont construit une « religion des Pygmées » au service d'une démonstration théologique. Khonvoum est sans doute à lire avec la même prudence : comme un nom que la littérature de synthèse a fixé, plus que comme une divinité dont on connaîtrait le culte.",
+  "domaines": [
+    "création",
+    "chasse",
+    "ciel",
+    "soleil"
+  ],
+  "tags": [
+    "creation"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "tore"
+    ]
+  },
+  "attributs": [
+    "arc de deux serpents (arc-en-ciel)",
+    "éclats d'étoiles",
+    "éléphant Gor (tonnerre)",
+    "caméléon",
+    "argile noire, blanche et rouge"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Lynch, P.A. & Roberts, J. (2010). African Mythology, A to Z (2e éd.), p. 67",
+    "Sawada, M. (2001). Rethinking methods and concepts of anthropological studies on African Pygmies' world view: the Creator-God and the dead. African Study Monographs, Suppl. 27, 29-42",
+    "Mary, A. (2010). La preuve de Dieu par les Pygmées. Cahiers d'études africaines, 198-199-200, 881-905"
+  ],
+  "notes": "Les notices de synthèse (et les encyclopédies en ligne qui les reprennent) ne citent pas l'enquête de terrain d'où provient la figure de Khonvoum, et ne précisent pas quel groupe de chasseurs-cueilleurs la reconnaît. Certaines présentations francophones rattachent la graphie Khmvoum aux écrits du père Henri Trilles sur les Pygmées du Gabon, ce qui situerait l'origine du nom loin de l'Ituri ; ce lien n'a pas pu être vérifié dans les textes de Trilles. Le terme « Pygmées », repris ici parce qu'il figure dans les sources, est aujourd'hui contesté par une partie des populations concernées."
+}

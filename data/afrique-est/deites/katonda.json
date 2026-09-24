@@ -1,0 +1,41 @@
+{
+  "id": "katonda",
+  "nom": "Katonda",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "deites",
+  "peuples": [
+    "Baganda"
+  ],
+  "resume": "Katonda, « le Créateur », est le dieu qui a fait toutes choses dans la religion des Baganda (Ouganda) et que l'on appelait « père des dieux ». Il recevait pourtant peu de culte comparé aux lubaale comme Mukasa ou Kibuka. Son nom a été repris par les musulmans puis par les chrétiens ganda pour désigner Dieu.",
+  "description_detaillee": "Chez les Baganda, Katonda est le créateur, celui qui a fait toutes choses. Il se tient au-dessus des lubaale, ces dieux dont la plupart passaient pour d'anciens humains divinisés, et auxquels s'adressait l'essentiel des prières et des offrandes. Son importance tient moins à son culte, resté modeste, qu'à la question qu'il pose aux historiens : les Baganda reconnaissaient-ils un dieu suprême avant l'arrivée de l'islam et du christianisme ?\n\nAu début du XXe siècle, John Roscoe lui connaît un petit temple sur la colline de Banda, dans le district de Kyagwe. Son médium, appelé Kifomusana, rendait ses oracles la nuit, et aucun feu ni aucune lumière n'était admis dans le temple. On l'appelait « père des dieux » parce qu'il avait tout créé, mais, écrit Roscoe, on savait peu de chose de lui. On lui offrait parfois du bétail : quelques bêtes étaient abattues, la plupart recevaient une clochette au cou et vivaient librement près du sanctuaire, et l'animal envoyé par le roi n'était jamais tué. Benjamin Ray ajoute qu'on le désignait comme le Maître du ciel et le Maître de la vie, que les chefs de famille le priaient chaque matin pour la protection de leur maison, et qu'il ne dispose aujourd'hui ni de sanctuaire ni de médium.\n\nLe statut de Katonda a fait débat dans l'historiographie religieuse du Buganda. Pour les uns, il n'était qu'un lubaale parmi d'autres, et plutôt effacé ; pour les autres, il avait toujours été placé au-dessus de Mukasa, de Kibuka ou de Muwanga, mais trop lointain pour susciter un culte vigoureux. L'historien Kevin Ward note que ni l'islam ni le christianisme n'eurent à importer un nom étranger pour annoncer leur Dieu, et que l'islam, arrivé au XIXe siècle, donna à Katonda une importance nouvelle sur laquelle le christianisme s'appuya ensuite. Le profil de Katonda rejoint celui de nombreux créateurs africains, puissants mais retirés, que l'on invoque peu au quotidien.",
+  "domaines": [
+    "création",
+    "ciel",
+    "vie"
+  ],
+  "tags": [
+    "creation"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "mukasa",
+      "kibuka"
+    ]
+  },
+  "attributs": [
+    "bétail portant une clochette",
+    "oracles nocturnes"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Le nom Katonda désigne aujourd'hui Dieu dans l'usage chrétien et musulman en luganda. Benjamin Ray indique qu'il n'a plus de sanctuaire ni de médium propres.",
+  "sources": [
+    "Roscoe, J. (1911). The Baganda: An Account of Their Native Customs and Beliefs",
+    "Ray, B.C. (1987). East African Religions: Northeast Bantu Religions, in Eliade, M. (dir.), The Encyclopedia of Religion",
+    "Ward, K. (1991). A History of Christianity in Uganda, in Nthamburi, Z. (dir.), From Mission to Church: A Handbook of Christianity in East Africa"
+  ],
+  "notes": "Le rapport entre Katonda et Ggulu, le roi du ciel du mythe de Kintu, n'est pas établi clairement par les sources consultées : on peut les rapprocher par le titre de Maître du ciel, sans pouvoir affirmer qu'il s'agit du même dieu. Certaines présentations récentes lui attribuent la création de Kintu et une longue liste d'épithètes qui n'apparaissent pas chez Roscoe."
+}

@@ -25,7 +25,9 @@
   ],
   "genealogie": {
     "parents": [],
-    "conjoints": [],
+    "conjoints": [
+      "ayida-wedo"
+    ],
     "enfants": [],
     "entites_liees": [
       "mbumba-luangu"

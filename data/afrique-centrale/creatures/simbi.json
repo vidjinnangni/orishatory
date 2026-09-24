@@ -1,0 +1,52 @@
+{
+  "id": "simbi",
+  "nom": "Simbi (bisimbi)",
+  "variantes": [
+    "bisimbi",
+    "nsimbi",
+    "simbi",
+    "cymbee"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "creatures",
+  "peuples": [
+    "Kongo"
+  ],
+  "resume": "Les bisimbi (singulier simbi) sont, dans la religion kongo, des esprits attachés aux lieux : sources, rivières, mares, rochers, ravins. Tenus pour les plus anciens occupants du pays, ils veillent sur la fertilité et la prospérité de ceux qui l'habitent, et animent de nombreux minkisi. La notion a traversé l'Atlantique avec les captifs originaires d'Afrique centrale.",
+  "description_detaillee": "Chez les Kongo, peuple du bas fleuve Congo réparti entre l'Angola, la République du Congo et la République démocratique du Congo, les bisimbi forment l'une des grandes catégories d'êtres invisibles, à côté des ancêtres des lignages et des morts récents. Ce ne sont pas des divinités universelles mais des puissances locales : chaque source, chaque rocher remarquable, chaque bassin d'une rivière peut avoir son simbi. Ils comptent parce qu'ils relient un groupe humain à un territoire précis, et c'est d'eux que dépendent la fécondité des femmes et des champs.\n\nL'anthropologue Wyatt MacGaffey les décrit comme les esprits tutélaires de territoires particuliers, qui s'incarnent dans les jumeaux et d'autres enfants hors du commun, et qui constituent la principale force agissante des minkisi, ces réceptacles rituels préparés par les nganga (voir la fiche nkisi). Leur rapport aux morts est ambigu : on les pense tantôt comme des ancêtres primordiaux venus du pays des morts, tantôt comme d'anciens habitants de la terre, dont le pouvoir ne dépend pas du souvenir qu'en garde une parenté. Les récits en font les gardiens des moyens de vivre, parfois d'anciens spécialistes rituels passés dans l'autre monde, les initiateurs de migrations, mais aussi les responsables de catastrophes et de maladies quand on les néglige. L'esprit arc-en-ciel Mbumba Luangu (voir sa fiche) appartient à cette famille, et le dictionnaire kikongo de Karl Laman mentionne des minkisi de la famille des simbi.\n\nL'historien Ras Michael Brown a suivi la trace de ces esprits dans les basses terres de Caroline du Sud, où arrivèrent de nombreux captifs d'Afrique centrale. Sous le nom de « cymbee », ils y habitaient les sources de la région calcaire proche de la rivière Cooper ; selon Brown, les esclaves, coupés de leurs ancêtres de sang, les ont adoptés collectivement pour s'enraciner dans un pays étranger, et ils ont gardé un rôle dans la chasse, la pêche et les cultures jusqu'à l'inondation de leurs sources au début des années 1940. Dans le vodou haïtien, une famille de lwa porte aussi le nom de Simbi, liée aux eaux douces, ce que l'on rattache généralement au même héritage kongo.",
+  "domaines": [
+    "eaux douces",
+    "lieux",
+    "fertilité",
+    "territoire"
+  ],
+  "tags": [
+    "eau",
+    "terre-fertilite",
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "mbumba-luangu",
+      "nkisi",
+      "dikenga"
+    ]
+  },
+  "attributs": [
+    "sources et mares",
+    "rochers",
+    "ravins",
+    "jumeaux"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Des lwa nommés Simbi sont servis dans le vodou haïtien. En pays kongo, la place des bisimbi dans les pratiques actuelles n'a pas pu être précisée à partir des sources consultées.",
+  "sources": [
+    "MacGaffey, W. (1986). Religion and Society in Central Africa: The BaKongo of Lower Zaire",
+    "Brown, R.M. (2012). African-Atlantic Cultures and the South Carolina Lowcountry",
+    "Wells, A.S. (2013). Spirits of the Landscape Rediscovered: Ras Michael Brown's African-Atlantic Cultures and the South Carolina Lowcountry. Southern Spaces"
+  ],
+  "notes": "L'étymologie du mot est incertaine ; un rapprochement avec le verbe kikongo simba, « tenir, garder », est parfois proposé. Le lien entre les bisimbi kongo et les lwa Simbi d'Haïti est largement admis mais repose surtout sur le nom et le domaine aquatique. La distinction entre bisimbi, ancêtres et autres morts varie selon les régions du monde kongo et selon les auteurs."
+}

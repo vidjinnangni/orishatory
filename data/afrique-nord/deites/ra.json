@@ -25,9 +25,13 @@
   "genealogie": {
     "parents": [],
     "conjoints": [],
-    "enfants": [],
+    "enfants": [
+      "maat"
+    ],
     "entites_liees": [
-      "apophis"
+      "apophis",
+      "atoum",
+      "aton"
     ]
   },
   "attributs": [

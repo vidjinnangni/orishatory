@@ -1,0 +1,44 @@
+{
+  "id": "fumo-liyongo",
+  "nom": "Fumo Liyongo",
+  "variantes": [
+    "Liongo Fumo",
+    "Liyongo",
+    "Liongo"
+  ],
+  "region": "afrique-est",
+  "categorie": "heros",
+  "peuples": [
+    "Swahili (côte nord du Kenya)",
+    "Pokomo"
+  ],
+  "resume": "Guerrier et poète légendaire de la côte swahilie, Fumo Liyongo est le plus célèbre héros d'Afrique de l'Est littorale. Privé du trône de Pate par son demi-frère Daudi Mringwari, il déjoue tous les pièges avant d'être tué par son propre fils. Les chants qui lui sont attribués comptent parmi les plus anciens textes connus en swahili.",
+  "description_detaillee": "Fumo Liyongo appartient à la mémoire de la côte nord du Kenya, entre les deltas de la Tana et de l'Ozi et l'archipel de Lamu, où se trouvait la cité-État de Pate. La tradition le dit originaire de Shaka (ou Shanga) et héritier légitime du trône de Pate ; elle en fait aussi un poète autant qu'un guerrier : plusieurs chants anciens, les tumbuizo, lui sont attribués, et ils forment les plus vieux textes swahilis dont on ait la trace. Il est pour cette raison à la fois un héros épique et une figure fondatrice de la littérature swahilie.\n\nLe récit le plus connu le montre écarté du pouvoir par son demi-frère, le sultan Daudi Mringwari, qui cherche ensuite à le faire périr. Invité à grimper à un cocotier pour y cueillir les meilleures noix d'un festin, où des archers l'attendent, Liyongo flaire le piège et abat les noix à coups de flèches depuis le sol. Jeté dans un cachot, il s'évade grâce à une lime que sa mère a cachée dans un pain. Géant invulnérable, il ne peut être tué que par une aiguille de cuivre enfoncée dans le nombril, secret que découvre son propre fils, qui le trahit. Mortellement blessé, Liyongo se traîne jusqu'à un puits et y meurt debout, armes à la main, si bien que personne n'ose d'abord s'approcher. Alice Werner fut conduite en 1913 à ce que l'on présentait comme sa tombe, à Kipini, à l'embouchure de la Tana.\n\nLa tradition circule sous plusieurs formes. Les tumbuizo, polyphoniques et souvent associés à la danse gungu ou aux mariages, ont été mis par écrit à la fin du XIXe siècle par des scribes swahilis travaillant pour William Taylor, évêque anglican de Mombasa. Le missionnaire Edward Steere en publia un récit en prose, et Muhamadi Kijuma rédigea pour Alice Werner, en 1913, l'Utenzi wa Liyongo, un poème narratif de 232 strophes publié seulement après les indépendances. La date de sa vie reste débattue : certains chercheurs la placent avant le XIIIe siècle, plusieurs historiens au XVIe ou au XVIIe siècle, et Clarissa Vierke estime que la seule certitude est que le monde décrit est antérieur au XVIIIe siècle. Pour l'historien Randall Pouwels, le conflit entre Liyongo, homme du delta de la Tana proche des chasseurs et agriculteurs du continent, et Mringwari, prince d'une élite insulaire fortement islamisée, reflète un déplacement réel du pouvoir vers Pate puis Lamu.\n\nAprès les indépendances, la Tanzanie et le Kenya ont fait de Liyongo un héros national, défenseur des opprimés face au palais, lecture qui gomme une partie de l'ambiguïté des sources anciennes. Le personnage vit aujourd'hui dans les manuels scolaires, les livres pour enfants, le théâtre et les vidéos en ligne. Des chercheurs est-africains comme Joseph Mbele, Ibrahim Noor Shariff ou Mugyabuso Mulokozi ont étudié ses différentes versions, et la question de l'identité du héros (swahili, pokomo, voire d'ascendance persane selon certaines traditions locales) reste elle-même disputée.",
+  "domaines": [
+    "poésie",
+    "guerre",
+    "résistance au pouvoir"
+  ],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [
+    "arc et flèches",
+    "aiguille de cuivre",
+    "lime cachée dans un pain",
+    "puits"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Liyongo n'est pas l'objet d'un culte, mais sa tradition reste vivante : l'Utenzi wa Liyongo a été réédité dans le cadre des canons littéraires nationaux du Kenya et de la Tanzanie, et l'histoire est régulièrement adaptée pour la scène, les livres pour enfants et Internet.",
+  "sources": [
+    "Vierke, C. (2025). A Hero's Many Worlds: The Swahili Liyongo Epic and World Literature, in Oral Literary Worlds: Location, Transmission and Circulation",
+    "Miehe, G. et al. (dir.) (2004). Liyongo Songs: Poems Attributed to Fumo Liyongo",
+    "Werner, A. (1926). The Swahili Saga of Liongo Fumo",
+    "Mbele, J. (1986). The Identity of the Hero in the Liongo Epic"
+  ],
+  "notes": "Certaines présentations font épouser à Liyongo une fille d'un chef oromo (« galla ») et font de leur fils le traître ; ce détail varie selon les versions. Le terme « Galla », employé par les anciennes sources pour désigner les Oromo, est aujourd'hui considéré comme péjoratif. La localisation de Shaka/Shanga et son rapport exact avec Pate ne sont pas établis."
+}

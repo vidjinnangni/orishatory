@@ -1,0 +1,43 @@
+{
+  "id": "walumbe",
+  "nom": "Walumbe",
+  "variantes": [
+    "Walumbe (« la Mort »)"
+  ],
+  "region": "afrique-est",
+  "categorie": "deites",
+  "peuples": [
+    "Baganda"
+  ],
+  "resume": "Dans la religion des Baganda (Ouganda), Walumbe est la Mort personnifiée, fils de Ggulu, le roi du ciel, et frère de Nnambi, l'épouse de Kintu. Le mythe de Kintu raconte comment il suivit sa sœur sur terre et commença à tuer les enfants des hommes. Il avait un temple à Ttanda, dans le Ssingo, où les âmes des morts devaient se rendre.",
+  "description_detaillee": "Walumbe est, chez les Baganda du centre de l'Ouganda, le nom de la Mort elle-même. Il n'appartient pas à la catégorie des lubaale bienfaisants que l'on consultait pour la pluie, les récoltes ou la guerre : on cherchait surtout à le tenir à distance. Sa place dans la pensée ganda vient du récit de Kintu, le premier homme, qui fait de lui un membre de la famille céleste et explique pourquoi les humains meurent.\n\nDans la version publiée par John Roscoe en 1911, Walumbe vit au ciel avec son père Ggulu. Lorsque Kintu obtient la main de Nnambi, Ggulu presse le couple de partir avant que Walumbe ne revienne, car il voudra les accompagner. Nnambi rebrousse chemin pour chercher le grain de sa poule, et son frère la suit. Sur terre, il demande à Kintu un de ses enfants pour lui servir de cuisinier ; devant les refus répétés, il annonce qu'il les tuera, et les enfants commencent à mourir. Ggulu envoie un autre de ses fils, Kaikuzi, pour le ramener. Walumbe refuse de partir sans sa sœur, échappe à l'étreinte de Kaikuzi et s'enfonce dans le sol ; lors de la dernière traque, des enfants qui le voient crient, et il disparaît à nouveau sous terre. Depuis, conclut le récit, il vit sur la terre, tue quand il le peut et se réfugie dans le sol à Ttanda, dans le Ssingo.\n\nTtanda n'était pas qu'un lieu du mythe. Roscoe y signale un temple bâti sur une crête, près d'un ravin profond où le dieu était censé habiter, desservi par un médium et par un prêtre issu du clan du Colobe. Seul le roi lui faisait des offrandes, à la demande des autres dieux, pour qu'il ne frappe pas le pays en masse, et chaque kabaka lui en envoyait une à son couronnement. Les âmes des défunts devaient aller à Ttanda rendre compte de leurs actes avant de pouvoir revenir auprès des tombes de leur clan. Quand une mort restait inexpliquée, on disait que Walumbe avait pris la personne. Un autre récit recueilli par Roscoe, celui du chasseur Mpobe, montre un homme qui suit ses chiens dans un terrier jusqu'au pays des morts, où il rencontre Walumbe ; celui-ci le laisse repartir à condition qu'il se taise, et le rattrape dès que Mpobe a parlé à sa mère.\n\nDans sa synthèse sur les religions bantoues du nord-est, Benjamin Ray résume l'épisode ainsi : la mort est entrée dans le monde par les fautes de Kintu, de Nnambi et de leurs enfants, qui ont laissé le frère de Nnambi descendre avec eux. Ggulu et Kaikuzi, eux, cherchent plutôt à l'écarter. Le récit ne fait donc pas de la mortalité une sanction décidée d'en haut ; il la présente comme le prix d'une désobéissance et d'une impatience humaines, et donne à la Mort un visage familial, celui d'un beau-frère que personne ne parvient à renvoyer chez lui.",
+  "domaines": [
+    "mort",
+    "maladie",
+    "monde des défunts"
+  ],
+  "tags": [
+    "mort-au-dela"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "kintu",
+      "nnambi"
+    ]
+  },
+  "attributs": [
+    "ravin de Ttanda (Ssingo)",
+    "séjour souterrain"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Roscoe, J. (1911). The Baganda: An Account of Their Native Customs and Beliefs",
+    "Ray, B.C. (1991). Myth, Ritual, and Kingship in Buganda",
+    "Ray, B.C. (1987). East African Religions: Northeast Bantu Religions, in Eliade, M. (dir.), The Encyclopedia of Religion"
+  ],
+  "notes": "Ggulu, son père, et Kaikuzi, son frère, n'ont pas de fiche. L'orthographe ancienne de Roscoe (Gulu, Nambi, Tanda) diffère de l'orthographe luganda actuelle (Ggulu, Nnambi, Ttanda). Selon les versions, la mort est imputée surtout à Nnambi ou à l'ensemble de la famille de Kintu."
+}

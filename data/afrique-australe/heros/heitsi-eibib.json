@@ -26,7 +26,9 @@
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": []
+    "entites_liees": [
+      "gaunab"
+    ]
   },
   "attributs": [
     "cairns de pierre (tombes multiples)",

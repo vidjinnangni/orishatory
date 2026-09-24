@@ -1,0 +1,44 @@
+{
+  "id": "qamata",
+  "nom": "uQamata",
+  "variantes": [
+    "Qamata",
+    "Qamatha",
+    "uQamatha"
+  ],
+  "region": "afrique-australe",
+  "categorie": "deites",
+  "peuples": [
+    "Xhosa"
+  ],
+  "resume": "Nom de l'être suprême chez les Xhosa d'Afrique du Sud, employé avant l'arrivée des missions et encore courant aujourd'hui. Dieu lointain, rarement prié en personne, il est traditionnellement approché par l'intermédiaire des ancêtres.",
+  "description_detaillee": "uQamata (on écrit aussi Qamatha) est l'un des noms que les Xhosa, peuple de langue nguni de l'actuel Cap-Oriental, donnent à l'être suprême. Il côtoie uThixo, le nom que les missionnaires ont retenu pour traduire « Dieu » dans la Bible xhosa, et uMdali, « le créateur ». Son intérêt tient à son origine : comme uThixo, le mot porte un clic et passe depuis longtemps pour un emprunt aux langues khoikhoi, trace des siècles de contacts, de mariages et d'échanges entre les Xhosa et les pasteurs khoikhoi qui les avaient précédés dans la région.\n\nLes témoignages recueillis à la fin du 19e siècle montrent un dieu présent dans la langue plus que dans le culte. Un informateur cité en 1880 par le Cape Monthly Magazine voyait en Qamata le « grand esprit » qui avait fait les chefs. Plusieurs auteurs notent que son nom revenait dans une formule prononcée après un éternuement, « Qamata, aide-moi », au point que certains missionnaires s'étonnaient de l'entendre employé par des gens qui disaient ne rien savoir de lui. Les sacrifices, les bières rituelles et les invocations s'adressaient d'abord aux ancêtres, les izinyanya : Janet Hodgson, dans son étude de 1982 sur le Dieu des Xhosa, décrit ces derniers comme les médiateurs obligés entre les vivants et un être suprême qu'on n'approche pas directement.\n\nHarold Scheub rapporte un récit xhosa de l'origine de la mort dans lequel Qamatha envoie le caméléon annoncer aux humains qu'ils ne mourront pas ; le messager traîne en route, et c'est un autre animal, plus rapide, qui apporte le message contraire. On retrouve la même structure chez les Zulu avec uNkulunkulu, ce qui rappelle que le récit circule dans toute l'aire nguni.\n\nPour Hodgson, les conceptions xhosa de l'être suprême sont le produit d'une histoire : l'héritage bantou, les apports khoisan puis l'œuvre des missions se sont superposés, et les noms divins en gardent la marque. Qamata a connu un regain au 20e siècle, quand des auteurs et des théologiens xhosa l'ont mis en avant contre les noms importés, à l'image de Berthold Pauw qui le présente comme « celui qui donne les bénédictions, le protecteur et celui qui reçoit les offrandes ». Le mot reste d'usage courant dans la langue parlée, dans les chants et dans la poésie.",
+  "domaines": [
+    "création",
+    "providence",
+    "protection"
+  ],
+  "tags": [
+    "ancetres"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "tsui-goab",
+      "unkulunkulu",
+      "umvelinqangi"
+    ]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "Le nom uQamata reste employé par les locuteurs xhosa, dans des exclamations, des prières et des chants, souvent comme équivalent de uThixo ; la pratique rituelle continue de passer par les ancêtres.",
+  "sources": [
+    "Hodgson, J. (1982). The God of the Xhosa: A Study of the Origins and Development of the Traditional Concepts of the Supreme Being",
+    "Scheub, H. (2000). A Dictionary of African Mythology: The Mythmaker as Storyteller",
+    "Mtshiselwa, N. (2011). Towards an Indigenous (Xhosa) South African Biblical Scholarship. Old Testament Essays 24(3)",
+    "Dictionary of South African English (s.d.). Qamata, n."
+  ],
+  "notes": "L'étymologie du nom est incertaine : l'origine khoikhoi, déjà avancée en 1905 par W.H. Tooke, est probable mais repose sur un mot khoikhoi non attesté. Des sites de vulgarisation font de Qamata le fils d'un dieu solaire Thixo et d'une déesse de la terre Djobela ; cette généalogie ne se retrouve pas dans les sources académiques consultées."
+}

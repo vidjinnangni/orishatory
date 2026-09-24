@@ -1,0 +1,58 @@
+{
+  "id": "yemoja",
+  "nom": "Yemọja",
+  "variantes": [
+    "Yemoja",
+    "Yemonja",
+    "Iemanjá",
+    "Yemayá"
+  ],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": [
+    "Yoruba",
+    "Egba"
+  ],
+  "resume": "Orisha yoruba des eaux, liée au fleuve Ogun et honorée surtout à Abeokuta, dans le sud-ouest du Nigeria. Son nom est généralement compris comme « la mère dont les enfants sont des poissons ». Divinité de la maternité et de la fécondité, elle est à l'origine des figures de Yemayá et d'Iemanjá dans les Amériques.",
+  "description_detaillee": "Yemọja est d'abord la divinité d'un peuple et d'un fleuve. Selon Pierre Verger, elle était l'orisha des Egba, établis autrefois entre Ifẹ̀ et Ibadan, dans une région où coule encore une rivière qui porte son nom. Quand les guerres entre royaumes yoruba poussèrent les Egba vers l'ouest au début du XIXe siècle, jusqu'à la fondation d'Abeokuta, ils ne pouvaient pas emporter la rivière ; ils emportèrent les objets sacrés qui portaient la force (àṣẹ) de la divinité, et le fleuve Ogun, qui traverse leur nouveau pays, devint la demeure de Yemọja. Son principal sanctuaire se trouve à Ibara, un quartier d'Abeokuta.\n\nLes récits recueillis par Verger font d'elle la fille d'Olókun, divinité de la mer, masculine à Benin, féminine à Ifẹ̀. On lui prête plusieurs unions, avec Ọ̀rúnmìlà puis avec Olofin, et une nombreuse descendance où figure, dans certaines versions, Ṣàngó. L'un des récits les plus connus explique sa nature de fleuve. Mariée à un homme qui, ivre de vin de palme, se moque de ses seins volumineux, elle frappe le sol du pied, se change en rivière et s'enfuit. Dans une autre version, elle quitte Ifẹ̀ vers l'ouest en emportant un flacon que son père lui avait confié par précaution ; rattrapée, elle le brise, et une rivière naît aussitôt pour la conduire jusqu'à l'océan, chez Olókun. On la représente en matrone à la poitrine opulente, image d'une maternité féconde et nourricière.\n\nSon culte reste vivant à Abeokuta. Chaque année, écrit Verger, les fidèles vont chercher l'eau sacrée qui sert à laver les objets du culte, non dans l'Ogun lui-même mais à la source de l'un de ses affluents, la Lakaxa ; l'eau est rapportée dans des jarres, en procession, avec des sculptures de bois et des tambours. Elle est invoquée pour la fécondité et la protection des enfants, et reste l'une des grandes divinités féminines du panthéon aux côtés d'Ọ̀ṣun et d'Ọya.\n\nLa traite atlantique a transformé cette déesse d'un fleuve en maîtresse de la mer. À Cuba comme au Brésil, Yemayá et Iemanjá règnent sur l'océan, alors qu'en pays yoruba ce domaine revient plutôt à Olókun ; ces formes américaines sont traitées dans la fiche Yemayá. Les travaux réunis par Solimar Otero et Toyin Falola montrent comment, de part et d'autre de l'Atlantique, sa figure sert aujourd'hui à penser la maternité, le genre et la sexualité.",
+  "domaines": [
+    "eaux douces",
+    "fleuve Ogun",
+    "maternité",
+    "fécondité",
+    "protection des enfants"
+  ],
+  "tags": [
+    "eau",
+    "terre-fertilite",
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [
+      "orunmila"
+    ],
+    "enfants": [
+      "shango"
+    ],
+    "entites_liees": [
+      "yemaya",
+      "oshun",
+      "oya",
+      "obatala"
+    ]
+  },
+  "attributs": [
+    "fleuve Ogun",
+    "eau recueillie dans des jarres",
+    "poitrine opulente de la mère",
+    "poissons"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Son culte se maintient à Abeokuta (quartier d'Ibara) et dans d'autres villes du sud-ouest du Nigeria, avec des fêtes annuelles de l'eau. Ses formes diasporiques, Yemayá à Cuba et Iemanjá au Brésil, comptent parmi les divinités d'origine africaine les plus populaires des Amériques.",
+  "sources": [
+    "Verger, P. (1981). Orixás: deuses iorubás na África e no Novo Mundo",
+    "Otero, S. & Falola, T. (dir.) (2013). Yemoja: Gender, Sexuality, and Creativity in the Latina/o and Afro-Atlantic Diasporas"
+  ],
+  "notes": "L'étymologie « Yèyé ọmọ ẹja », « mère dont les enfants sont des poissons », est la plus répandue mais relève d'une lecture traditionnelle du nom. Les généalogies divergent : époux (Ọ̀rúnmìlà, Olofin ou un mari resté anonyme selon les versions) et enfants varient d'un récit à l'autre, et la filiation avec Ṣàngó n'apparaît que dans certaines versions. La distinction entre Yemọja, divinité fluviale, et Olókun, divinité de la mer, est nette en pays yoruba mais s'efface dans les Amériques."
+}

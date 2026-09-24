@@ -1,0 +1,55 @@
+{
+  "id": "soucouyant",
+  "nom": "Soucouyant",
+  "variantes": [
+    "Soucriant",
+    "Soukouyan",
+    "Loogaroo",
+    "Ol' Higue",
+    "Asema",
+    "Hag"
+  ],
+  "region": "diaspora",
+  "categorie": "creatures",
+  "peuples": [
+    "Trinidadiens et Tobagoniens",
+    "Antillais créolophones (Dominique, Sainte-Lucie, Martinique, Grenade)",
+    "Guyaniens",
+    "Surinamais"
+  ],
+  "resume": "Créature du folklore des Petites Antilles : une vieille femme d'apparence ordinaire qui, la nuit, retire sa peau, se change en boule de feu et s'introduit dans les maisons pour sucer le sang des dormeurs. Des figures très proches existent sous d'autres noms dans toute la Caraïbe et sur le plateau des Guyanes.",
+  "description_detaillee": "La soucouyant est l'une des figures les plus connues du folklore de Trinité-et-Tobago et des îles de tradition créole française. De jour, c'est une femme âgée qui vit un peu à l'écart ; la nuit, elle quitte sa peau, la cache (souvent dans un mortier) et s'envole sous la forme d'une boule de feu. Elle passe par la moindre fente, un trou de serrure ou une fissure, et suce le sang de ses victimes endormies, qui se réveillent avec des marques bleues ou noires sur la peau.\n\nLa tradition connaît plusieurs moyens de la neutraliser. On répand des grains de riz autour de la maison : elle est obligée d'en compter les grains un à un, et le jour la surprend avant qu'elle ait fini. On peut aussi trouver la peau abandonnée et la frotter de gros sel, si bien qu'elle ne peut plus la remettre et périt. Lafcadio Hearn, qui séjourna en Martinique de 1887 à 1889, rapporte déjà la crainte qu'un paquet de feuilles de bananier laissé au bord d'un chemin contienne la peau d'un « soucouyan », être qui ôte et reprend sa peau à volonté ; chez lui, la figure est décrite au masculin.\n\nLa créature a de nombreux équivalents régionaux : loogaroo en Haïti et dans une partie des Petites Antilles (du français loup-garou), ol' higue en Guyana et en Jamaïque, asema au Suriname, hag aux Bahamas et à la Barbade, jusqu'à l'Ol' Hag du sud des États-Unis. Dans son étude de 2015, Giselle Liza Anatol montre que la figure cristallise dans la tradition orale une inquiétude à l'égard de la vieillesse et du pouvoir des femmes, alors que de nombreux écrivains caribéens et diasporiques des dernières décennies la reprennent au contraire pour parler d'autonomie féminine et de résistance à l'héritage colonial.",
+  "domaines": [
+    "nuit",
+    "sang",
+    "peur",
+    "vieillesse"
+  ],
+  "tags": [
+    "metamorphose",
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "la-diablesse"
+    ]
+  },
+  "attributs": [
+    "boule de feu",
+    "peau retirée cachée dans un mortier",
+    "grains de riz à compter",
+    "gros sel",
+    "marques bleues ou noires sur les victimes"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Figure toujours présente dans les récits et la littérature de Trinité-et-Tobago et des Antilles ; ce n'est pas l'objet d'un culte.",
+  "sources": [
+    "Anatol, G.L. (2015). The Things That Fly in the Night: Female Vampires in Literature of the Circum-Caribbean and African Diaspora",
+    "Besson, G.A. (1989). Folklore and Legends of Trinidad and Tobago",
+    "Hearn, L. (1890). Two Years in the French West Indies"
+  ],
+  "notes": "L'étymologie du mot soucouyant est incertaine. Les frontières entre soucouyant, loogaroo et ol' higue varient selon les îles : ce sont tantôt des synonymes, tantôt des êtres distincts. Le rattachement de ces figures à des croyances ouest-africaines sur les êtres qui se dépouillent de leur peau la nuit est souvent avancé, mais il reste difficile à documenter précisément."
+}

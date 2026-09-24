@@ -1,0 +1,52 @@
+{
+  "id": "mbidi-kiluwe",
+  "nom": "Mbidi Kiluwe",
+  "variantes": [
+    "Ilunga Mbidi Kiluwe",
+    "Ilunga Mbidi",
+    "Ilunga Mbili"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "heros",
+  "peuples": [
+    "Luba"
+  ],
+  "resume": "Mbidi Kiluwe est le chasseur venu de l'est qui, dans l'épopée luba, apporte au pays de Nkongolo Mwamba les manières d'un roi véritable. De son union avec une sœur de Nkongolo naît Kalala Ilunga, fondateur de la dynastie sacrée des Luba. Il est tenu pour la source du bulopwe, la qualité royale transmise par le sang.",
+  "description_detaillee": "Mbidi Kiluwe, « Mbidi le chasseur », est la figure fondatrice de la royauté sacrée chez les Luba du sud-est de la République démocratique du Congo. Il ne règne pas lui-même : son rôle est d'apporter une idée du pouvoir, puis de la léguer à son fils Kalala Ilunga. Par lui, la légitimité des rois luba vient de l'extérieur, d'un étranger dont la supériorité tient à la retenue plus qu'à la force.\n\nLes traditions le font venir de l'est, de l'autre rive de la Lualaba ; l'une d'elles, résumée par l'historien congolais Isidore Ndaywel è Nziem, le fait partir de la région du lac Moero après avoir laissé s'échapper par mégarde le lion de sa sœur. Dans d'autres versions, il suit la piste de son chien de chasse. Ses compagnons fondent en chemin plusieurs chefferies, dont Mutombo Mukulu. Arrivé chez Nkongolo Mwamba, il épouse deux sœurs du roi, Bulanda et Mabela, et annonce que l'enfant à la peau noire sera le sien, celui à la peau rouge celui de Nkongolo. Il se distingue de son hôte par sa conduite : il mange à l'écart, hors de la vue d'autrui, et s'indigne que Nkongolo boive et mange en public. La brouille le pousse à repartir vers l'est ; au passage de la Lualaba, il demande au chef du lieu de ne pas laisser Nkongolo traverser, ce qui sauvera plus tard son fils Kalala Ilunga, poursuivi par son oncle.\n\nCe que Mbidi transmet porte un nom, le bulopwe (voir sa fiche) : une essence royale faite de secret, de distance et de maîtrise de soi, qui passe par le sang mais doit être confirmée par les rites d'investiture. Sur les planchettes de mémoire lukasa, sa couleur est le bleu, face au rouge de Nkongolo. Le prestige de ce modèle a débordé le pays luba : certaines traditions lunda font de Mbidi le père de Chibinda Ilunga, le chasseur qui épouse la reine Lueji (voir ces fiches), alors que la version recueillie par Henrique Dias de Carvalho en 1887 donne un autre père à Chibinda. L'historien David Gordon relève que le nom de Mbidi Kiluwe s'est ainsi substitué, dans des récits plus tardifs, à des ancêtres plus locaux, signe de son autorité comme héros fondateur générique.",
+  "domaines": [
+    "royauté",
+    "chasse",
+    "conduite royale"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "nkongolo-mwamba",
+      "bulopwe",
+      "lukasa",
+      "chibinda-ilunga",
+      "lueji"
+    ]
+  },
+  "attributs": [
+    "chasse",
+    "chien de chasse",
+    "couleur bleue (lukasa)",
+    "repas pris à l'écart"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Reefe, T.Q. (1981). The Rainbow and the Kings: A History of the Luba Empire to 1891",
+    "Nooter Roberts, M. & Roberts, A.F. (1996). Memory: Luba Art and the Making of History",
+    "Scheub, H. (2000). A Dictionary of African Mythology: The Mythmaker as Storyteller (notice « Nkongolo Insults Mbidi Kiluwe »)",
+    "Ndaywel è Nziem, I. (2012). Mbidi Kiluwe. In Akyeampong, E.K. & Gates, H.L. (dir.), Dictionary of African Biography",
+    "Gordon, D.M. (2023). The Quotidian Politics of a Love Story: Researching, Assembling, and Mobilizing the Lunda Legend in the Late Nineteenth Century. Journal of African History, 64(2), 209-228"
+  ],
+  "notes": "Le motif qui pousse Mbidi à quitter l'est (lion échappé, chien de chasse perdu) et le nom de la sœur qui devient la mère de Kalala Ilunga varient selon les versions. Sa filiation avec Chibinda Ilunga n'est pas admise par toutes les traditions lunda. Les sources de synthèse le situent vers 1500, mais la plupart des historiens le considèrent comme un personnage symbolique de l'autorité royale et du rituel de cour plutôt que comme un individu historique."
+}
