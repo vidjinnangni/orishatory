@@ -1,0 +1,52 @@
+{
+  "id": "umbanda",
+  "nom": "Umbanda",
+  "variantes": [
+    "Espiritismo de Umbanda",
+    "Umbanda Branca"
+  ],
+  "region": "diaspora",
+  "categorie": "rites",
+  "peuples": [
+    "Brésiliens (Rio de Janeiro, puis ensemble du Brésil)"
+  ],
+  "resume": "Religion brésilienne apparue à Rio de Janeiro et à Niterói dans les premières décennies du 20e siècle, à la rencontre du spiritisme d'Allan Kardec, des cultes afro-brésiliens et du catholicisme. Ses médiums reçoivent lors des séances des esprits guides, surtout des caboclos (esprits indiens), des pretos-velhos (esprits d'anciens esclaves) et des exus. Elle revendique souvent le titre de religion proprement brésilienne.",
+  "description_detaillee": "L'umbanda est née dans le Brésil urbain de l'entre-deux-guerres, au croisement de deux mondes qui se tenaient jusque-là à distance : les centres spirites kardécistes, fréquentés par les classes moyennes, et les cultes d'origine africaine des quartiers populaires, candomblé et macumba. La sociologie brésilienne, avec Renato Ortiz et Diana Brown, y a vu une religion formée dans les années 1920 et 1930 à Rio de Janeiro, qui reprend au spiritisme l'idée d'une évolution des esprits par la charité et la réincarnation, et aux traditions afro-brésiliennes la transe, les tambours et une partie des orixás, dont Iemanjá.\n\nLes umbandistes racontent eux-mêmes sa naissance à travers le médium Zélio Fernandino de Moraes. Selon ce récit, le 15 novembre 1908, le jeune homme, conduit à la Fédération spirite de Niterói, y aurait reçu un esprit se présentant comme le Caboclo das Sete Encruzilhadas (« Caboclo des Sept Carrefours »), venu défendre le droit des esprits d'Indiens et de Noirs à se manifester alors que les spirites les jugeaient peu évolués ; le lendemain, il aurait annoncé la nouvelle religion et fondé la Tenda Espírita Nossa Senhora da Piedade. C'est ce récit qui a fait choisir le 15 novembre comme Journée nationale de l'umbanda, instituée par une loi fédérale de 2012. L'anthropologue Emerson Giumbelli a montré qu'il s'agit d'un récit de fondation élaboré tardivement, au sein du mouvement fédératif, bien après les faits : les registres de la fédération de Niterói ne mentionnent pas la séance, et plusieurs chercheurs pensent que l'umbanda est née de plusieurs foyers à peu près simultanés.\n\nLes séances, appelées giras, font descendre des esprits organisés en « lignes ». Les caboclos, esprits d'Indiens du Brésil, sont des chasseurs et des guerriers fiers, liés à la forêt. Les pretos-velhos, « vieux Noirs », passent pour les esprits d'Africains morts en esclavage ; patients et sages, ils consolent et conseillent. Les crianças, esprits d'enfants, complètent ce trio. Les exus et leurs équivalents féminins, les pombagiras, forment la « gauche » : esprits encore peu évolués, liés à la rue, à la nuit et aux carrefours, ils peuvent progresser moralement et rendre des services que les autres guides refusent. Cet Exu n'est plus tout à fait l'orixá messager du candomblé, mais une catégorie d'esprits, et la frontière avec la quimbanda, à qui l'on prête des travaux moralement douteux, reste disputée.\n\nL'umbanda s'est donné des institutions tôt. Une fédération fondée à la fin des années 1930 réunit en octobre 1941 à Rio le premier congrès brésilien du spiritisme d'umbanda, qui chercha à codifier la doctrine et, selon plusieurs historiens, à l'éloigner de ses racines africaines en lui cherchant des origines orientales ; Ortiz parle d'un « blanchiment » des pratiques. L'umbanda a connu son apogée dans les années 1960 et 1970, avec des estimations de dix à vingt millions de fidèles, avant de souffrir de la croissance des Églises pentecôtistes. Elle a aussi nourri un mouvement inverse de retour vers le candomblé, perçu comme plus africain.",
+  "domaines": [
+    "médiumnité",
+    "charité et guérison",
+    "communication avec les esprits",
+    "conseil spirituel"
+  ],
+  "tags": [
+    "diaspora-survivance",
+    "ancetres"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "exu",
+      "candomble",
+      "espiritismo",
+      "yemaya"
+    ]
+  },
+  "attributs": [
+    "terreiro ou tenda (lieu de culte)",
+    "gira (séance)",
+    "pipe des pretos-velhos",
+    "cigare des caboclos",
+    "images de saints catholiques et d'orixás"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Religion vivante dans tout le Brésil, surtout dans le Sud-Est et le Sud, avec de nombreuses fédérations. Le 15 novembre est la Journée nationale de l'umbanda (loi fédérale n° 12.644 du 16 mai 2012). Au recensement de 2022, umbanda et candomblé réunis étaient déclarés par environ 1 % de la population, contre 0,3 % en 2010.",
+  "sources": [
+    "Ortiz, R. (1978). A morte branca do feiticeiro negro: umbanda, integração de uma religião numa sociedade de classes",
+    "Brown, D.DeG. (1986). Umbanda: Religion and Politics in Urban Brazil",
+    "Giumbelli, E. (2002). Zélio de Moraes e as origens da umbanda no Rio de Janeiro. In Silva, V.G. da (dir.), Caminhos da alma",
+    "Hale, L. (2009). Hearing the Mermaid's Song: The Umbanda Religion in Rio de Janeiro"
+  ],
+  "notes": "Le récit de fondation autour de Zélio de Moraes (15 et 16 novembre 1908) est tenu pour véridique par de nombreux umbandistes, mais n'est pas confirmé par les archives ; Giumbelli le date d'une construction tardive du mouvement fédératif, et l'on discute pour savoir si l'umbanda a une origine unique ou plusieurs. L'étymologie du mot umbanda, souvent rattachée au kimbundu (où il désigne l'art de guérir), n'est pas établie de façon certaine. Les courants vont d'une « umbanda blanche » très proche du kardécisme à des maisons beaucoup plus proches du candomblé, et la distinction avec la quimbanda varie selon les pratiquants."
+}

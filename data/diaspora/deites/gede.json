@@ -1,0 +1,57 @@
+{
+  "id": "gede",
+  "nom": "Gede",
+  "variantes": [
+    "Guédé",
+    "Ghede",
+    "Gèdè",
+    "Les Gede"
+  ],
+  "region": "diaspora",
+  "categorie": "deites",
+  "peuples": [
+    "Haïtiens (vodou)"
+  ],
+  "resume": "Famille de lwa du vodou haïtien qui règnent sur la mort et, du même mouvement, sur la fertilité et la sexualité. Menés par Baron Samedi et sa compagne Maman Brigitte, ils se manifestent par un humour cru et moqueur et sont aussi des guérisseurs. Leur grande fête, la Fèt Gede, a lieu début novembre.",
+  "description_detaillee": "Dans le vodou haïtien, les Gede forment une nation de lwa à part, celle des morts. Ils ne se confondent pas avec les défunts de chaque famille, honorés par leurs descendants, mais gouvernent le passage de la vie à la mort et tout ce qui touche au cimetière. Leur chef est Baron Samedi, parfois dédoublé en Baron Cimetière et Baron La Croix, et sa compagne Maman Brigitte, aussi appelée Grann Brigitte, veille sur les tombes. Autour d'eux gravite une foule de Gede aux noms et aux caractères propres, dont Gede Nibo, qui conduit les âmes, ou Brav Gede, gardien du cimetière. La composition de cette famille varie selon les maisons.\n\nLeur double domaine étonne souvent. Les Gede ne sont pas seulement les maîtres de la mort : ils sont aussi ceux de la sexualité et de la reproduction, car ce qui prend la vie la renouvelle. Donald Cosentino les décrit comme des esprits de la mort et de la régénération. En possession, ils parlent d'une voix nasillarde, portent des vêtements noirs, violets ou blancs, se poudrent parfois le visage de blanc et arborent des lunettes noires. Ils dansent la banda, aux mouvements de hanches ouvertement suggestifs, et boivent ou se frottent le corps avec du clairin, le rhum de canne, dans lequel macèrent vingt et un piments. Leurs plaisanteries sexuelles, leurs insultes et leurs imitations des puissants seraient intolérables chez n'importe qui d'autre ; chez eux, elles sont attendues.\n\nKaren McCarthy Brown, qui a suivi la manbo Alourdes (Mama Lola) à Brooklyn, voit dans Gede avant tout un guérisseur. Il a le droit de briser les règles et de dire ce que personne n'ose dire, et il retourne en rire ce qui fait le plus peur ou le plus honte. On le prie en particulier pour les enfants malades, parce qu'il a pouvoir de refuser de prendre quelqu'un avant son heure. Son humour ne nie pas la mort, il la rend supportable.\n\nLa Fèt Gede tombe au début du mois de novembre, en même temps que la Toussaint et le jour des morts catholiques. Les fidèles visitent alors les cimetières, en particulier le Grand Cimetière de Port-au-Prince, où l'on salue la croix de Baron et où les Gede, montant leurs serviteurs, circulent en groupe parmi les tombes. La fête montre bien comment le vodou vit à côté du calendrier catholique. L'origine africaine du nom est souvent rapportée aux Gedevi, premiers habitants du plateau d'Abomey soumis par les rois du Danxomè, mais ce rapprochement reste une hypothèse ; dans leur forme actuelle, les Gede sont une création haïtienne.",
+  "domaines": [
+    "mort",
+    "cimetières",
+    "fertilité",
+    "sexualité",
+    "humour",
+    "guérison"
+  ],
+  "tags": [
+    "mort-au-dela",
+    "terre-fertilite",
+    "trickster",
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "baron-samedi",
+      "vodou-haitien"
+    ]
+  },
+  "attributs": [
+    "couleurs noir et violet",
+    "lunettes noires",
+    "visage poudré de blanc",
+    "clairin aux vingt et un piments",
+    "danse banda",
+    "voix nasillarde",
+    "croix de Baron au cimetière"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "La Fèt Gede, au début de novembre, rassemble chaque année des pratiquants dans les cimetières d'Haïti, notamment au Grand Cimetière de Port-au-Prince. Les Gede sont aussi servis dans les maisons vodou de la diaspora haïtienne.",
+  "sources": [
+    "Métraux, A. (1958). Le Vaudou haïtien",
+    "Brown, K.M. (1991). Mama Lola: A Vodou Priestess in Brooklyn",
+    "Cosentino, D.J. (1995). Envoi: The Gedes and Bawon Samdi. In Cosentino, D.J. (dir.), Sacred Arts of Haitian Vodou"
+  ],
+  "notes": "La liste des Gede et leurs rapports varient d'une maison à l'autre : Baron Samedi est tantôt le chef des Gede, tantôt un lwa distinct qui les commande, et Papa Gede est parfois traité comme une figure à part (le premier homme mort). Les dates exactes de la fête varient elles aussi, entre le 1er et le 2 novembre selon les sources. Le rattachement du nom aux Gedevi d'Abomey est avancé par plusieurs auteurs sans être démontré. L'origine de Maman Brigitte, parfois rapprochée de sainte Brigitte d'Irlande, est discutée (voir la fiche Baron Samedi)."
+}
