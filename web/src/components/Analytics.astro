@@ -1,22 +1,33 @@
 ---
-// Rendu uniquement si PUBLIC_GA_ID est défini (voir .env.example) : rien n'est
-// chargé ni envoyé à Google tant que la variable n'est pas configurée, donc
-// pas de tracking en développement local par défaut.
+// Rendu uniquement si PUBLIC_GA_ID est défini (voir .env.example). Contrairement
+// à l'intégration standard de gtag.js, ce composant ne charge rien tout seul :
+// il se contente de préparer window.__loadGtag(), que ConsentBanner.astro
+// appelle uniquement après consentement explicite (bandeau RGPD). Tant que
+// l'utilisateur n'a pas accepté, aucune requête ne part vers Google.
 const gaId = import.meta.env.PUBLIC_GA_ID;
 ---
 
 {
   gaId && (
-    <>
-      <script async is:inline src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`} />
-      <script is:inline define:vars={{ gaId }}>
+    <script is:inline define:vars={{ gaId }}>
+      window.__loadGtag = function () {
+        if (window.__gtagLoaded) return;
+        window.__gtagLoaded = true;
+
         window.dataLayer = window.dataLayer || [];
         function gtag() {
-          dataLayer.push(arguments);
+          window.dataLayer.push(arguments);
         }
+        window.gtag = gtag;
+
+        const script = document.createElement("script");
+        script.async = true;
+        script.src = "https://www.googletagmanager.com/gtag/js?id=" + gaId;
+        document.head.appendChild(script);
+
         gtag("js", new Date());
         gtag("config", gaId);
-      </script>
-    </>
+      };
+    </script>
   )
 }

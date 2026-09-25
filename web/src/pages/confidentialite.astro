@@ -1,0 +1,70 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Breadcrumb from "../components/Breadcrumb.astro";
+
+const repoUrl = "https://github.com/vidjinnangni/orishatory";
+---
+
+<BaseLayout title="Confidentialité" description="Politique de confidentialité et gestion des cookies d'Orishatory.">
+  <div class="container">
+    <Breadcrumb items={[{ label: "Accueil", href: "/" }, { label: "Confidentialité" }]} />
+  </div>
+
+  <article class="container prose page">
+    <h1>Confidentialité</h1>
+
+    <p>
+      Orishatory est un projet ouvert, sans compte utilisateur ni collecte de données autre que la
+      mesure d'audience décrite ci-dessous.
+    </p>
+
+    <h2>Mesure d'audience (Google Analytics)</h2>
+    <p>
+      Ce site peut utiliser Google Analytics (GA4) pour comprendre, de façon agrégée, quelles pages
+      sont consultées et d'où vient le trafic. Ce service dépose des cookies et peut transmettre des
+      données (pages visitées, type d'appareil et de navigateur, pays approximatif déduit de
+      l'adresse IP, site d'origine) à Google, qui peut les traiter en dehors de l'Union européenne.
+    </p>
+    <p>
+      Conformément au RGPD, ces cookies ne sont déposés et ces données ne sont envoyées
+      <strong> qu'après votre consentement explicite</strong>, donné via le bandeau affiché lors de
+      votre première visite. Tant que vous n'avez pas accepté, aucune requête n'est envoyée à
+      Google.
+    </p>
+    <p>
+      Vous pouvez changer d'avis à tout moment en cliquant sur « Gérer les cookies » en bas de
+      chaque page, que vous ayez précédemment accepté ou refusé.
+    </p>
+
+    <h2>Cookies déposés en cas d'acceptation</h2>
+    <ul>
+      <li><code>_ga</code> — identifiant anonyme de visite, conservé jusqu'à 2 ans.</li>
+      <li>
+        <code>_ga_&lt;id&gt;</code> — état de session Google Analytics, conservé jusqu'à 2 ans.
+      </li>
+    </ul>
+    <p>Aucun autre cookie de mesure, de publicité ou de profilage n'est utilisé sur ce site.</p>
+
+    <h2>Vos droits</h2>
+    <p>
+      Vous disposez d'un droit d'accès, de rectification et de suppression des données vous
+      concernant. Le moyen le plus simple d'exercer ce droit pour ce site est de retirer votre
+      consentement (bouton « Gérer les cookies ») et de supprimer les cookies <code>_ga</code> de
+      votre navigateur. Pour toute question, vous pouvez ouvrir une
+      <a href={`${repoUrl}/issues`} target="_blank">issue sur le dépôt GitHub</a> du projet.
+    </p>
+
+    <h2>Contenu du codex</h2>
+    <p>
+      En dehors de la mesure d'audience, Orishatory ne collecte aucune donnée personnelle : il n'y a
+      ni compte, ni formulaire, ni suivi individuel de la navigation dans les fiches du codex.
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .page {
+    padding-block: 1.5rem 4rem;
+    max-width: var(--measure);
+  }
+</style>
