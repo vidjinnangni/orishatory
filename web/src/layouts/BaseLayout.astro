@@ -1,6 +1,7 @@
 ---
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
+import Analytics from "../components/Analytics.astro";
 import "../styles/global.css";
 
 interface Props {
@@ -19,6 +20,7 @@ const { title, description = "Une base de données ouverte sur les mythologies d
     <meta name="description" content={description} />
     <meta name="generator" content={Astro.generator} />
     <title>{title} · Orishatory</title>
+    <Analytics />
   </head>
   <body>
     <a class="skip-link visually-hidden" href="#main">Aller au contenu</a>

@@ -46,3 +46,24 @@ prochain build, sans code additionnel — pour peu qu'elle respecte le schéma
 Le site est statique (`output: "static"`) : il se déploie tel quel sur Vercel
 ou Netlify en pointant le répertoire racine du build sur `web/` avec la
 commande `npm run build` et le dossier de sortie `web/dist`.
+
+## Analytics
+
+Le suivi Google Analytics (GA4) est géré par
+[`src/components/Analytics.astro`](src/components/Analytics.astro) et se
+déclenche via la variable d'environnement `PUBLIC_GA_ID` (voir
+`.env.example`) :
+
+1. Créer une propriété GA4 dans Google Analytics (Admin → Créer une
+   propriété → Flux de données web) pour obtenir un identifiant `G-XXXXXXXXXX`.
+2. En local : copier `.env.example` en `.env` et renseigner la valeur.
+3. Sur Vercel/Netlify : ajouter `PUBLIC_GA_ID` dans les variables
+   d'environnement du projet (idéalement pour l'environnement de production
+   uniquement, pour ne pas polluer les données avec le trafic des previews).
+
+Sans cette variable, aucun script n'est chargé ni aucune donnée envoyée à
+Google — c'est le comportement par défaut en développement local.
+
+À noter : GA4 dépose des cookies de mesure d'audience. Selon le trafic visé
+(notamment UE), la mise en place d'un bandeau de consentement peut être
+requise par le RGPD — non inclus ici, à ajouter si besoin.
