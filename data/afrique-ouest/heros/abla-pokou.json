@@ -1,0 +1,50 @@
+{
+  "id": "abla-pokou",
+  "nom": "Abla Pokou",
+  "variantes": [
+    "Aura Poku",
+    "Awura Pokou",
+    "Reine Pokou",
+    "Abraha Pokou"
+  ],
+  "region": "afrique-ouest",
+  "categorie": "heros",
+  "peuples": [
+    "Baoulé",
+    "Akan",
+    "Asante"
+  ],
+  "resume": "Reine fondatrice des Baoulé de Côte d'Ivoire selon leur tradition. Vers le milieu du XVIIIe siècle, à la suite d'une crise de succession dans le royaume asante, elle aurait conduit un groupe de fidèles vers l'ouest. Le récit le plus connu veut qu'elle ait sacrifié son enfant pour permettre à son peuple de franchir le fleuve Comoé, et fait venir le nom Baoulé de ba uli, « l'enfant est mort ».",
+  "description_detaillee": "Les Baoulé, aujourd'hui l'un des principaux peuples du centre de la Côte d'Ivoire, parlent une langue akan et rattachent leur origine au royaume asante, dans l'actuel Ghana. Leur tradition fait d'Abla Pokou, une femme de la famille royale, la conductrice de cet exode. L'anthropologue Fabio Viti, s'appuyant sur les travaux de l'historien Ivor Wilks, situe l'événement déclencheur vers 1750 : à la mort de l'Asantehene Opoku Ware, deux prétendants, Dako et Kusi Obodum, se disputent le trône. Pokou, que la tradition présente comme la sœur de Dako, quitte alors le pays avec ses partisans pour échapper aux représailles du vainqueur. Sa nièce et héritière, Akwa Boni, lui succède à la tête du groupe.\n\nLa version devenue classique a été publiée en 1900 par l'administrateur colonial Maurice Delafosse. Poursuivis, les fugitifs arrivent devant la Comoé en crue, infranchissable. Les devins annoncent que le fleuve exige ce que le groupe a de plus précieux. Pokou livre alors son fils unique aux eaux ; le passage s'ouvre, grâce à des hippopotames ou à un grand arbre abattu en travers du fleuve selon les variantes, et les poursuivants restent sur l'autre rive. En se retournant, la reine aurait murmuré « ba uli », « l'enfant est mort », d'où le nom de Baoulé porté depuis par ses descendants. La Comoé, souligne Viti, marquait la limite occidentale de l'influence asante : la franchir revenait à sortir de l'empire.\n\nD'autres versions racontent autre chose. Le docteur Lasnet, qui recueillit le récit dès 1896, quatre ans avant Delafosse, présente le groupe de Pokou en conquérant plutôt qu'en fugitif, fait offrir des pagnes d'or au fleuve et ouvrir les eaux à la manière d'un récit biblique. En 1933, l'administrateur Marc Ménalque fait du sacrifié le fils d'une sœur de la reine. Chez les Anyi du Ndenye, voisins des Baoulé, l'historienne Claude-Hélène Perrot a recueilli une version où la victime est une nièce, fille d'Akwa Boni. L'étymologie elle-même n'est pas acceptée partout : certains groupes baoulé, comme les Nzikpri, qui affirment avoir traversé le fleuve par leurs propres moyens, lui en opposent d'autres.\n\nViti a montré que le texte de Delafosse s'est imposé moins par son ancienneté que par l'autorité de l'écrit. Repris par les administrateurs, les manuels scolaires, les timbres et aujourd'hui les sites internet, il sert de référence aux traditions orales elles-mêmes, et il a contribué à légitimer la prééminence du groupe warebo, héritier de Pokou et d'Akwa Boni, sur les autres groupes baoulé. Le personnage a nourri une abondante littérature ivoirienne : le livre de Jean-Noël Loucou et Françoise Ligier (1977) en a fixé une version pour le grand public, et Véronique Tadjo, dans Reine Pokou, concerto pour un sacrifice (2005), reprend le récit en plusieurs variantes pour interroger le sens même du sacrifice.",
+  "domaines": [
+    "fondation d'un peuple",
+    "migration",
+    "sacrifice",
+    "royauté"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "yaa-asantewaa"
+    ]
+  },
+  "attributs": [
+    "fleuve Comoé",
+    "enfant offert au fleuve",
+    "exode vers l'ouest"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Le récit de la traversée de la Comoé est enseigné dans les écoles ivoiriennes et a été reproduit sur des timbres ; il reste une référence identitaire des Baoulé et un thème majeur de la littérature et du cinéma ivoiriens.",
+  "sources": [
+    "Viti, F. (2009). Les ruses de l'oral, la force de l'écrit. Le mythe baule d'Aura Poku. Cahiers d'études africaines, 196",
+    "Perrot, C.-H. (1982). Les Anyi-Ndenye et le pouvoir aux 18e et 19e siècles",
+    "Loucou, J.-N. & Ligier, F. (1977). La reine Pokou, fondatrice du royaume baoulé",
+    "Adou, K. (2015). Memory and Exile: The Transatlantic and Diasporic Dimensions of the Myth of Ashanti Princess Abla Pokou. Études littéraires africaines"
+  ],
+  "notes": "Les dates de sa vie et de son règne varient fortement selon les présentations (naissance vers 1700 ou vers 1730, règne vers 1730-1750 ou vers 1750-1760) ; la crise de succession qui suit la mort d'Opoku Ware, vers 1750, fournit le repère le plus solide. Certaines traditions font d'elle une nièce d'Osei Tutu, ce qui s'accorde mal avec cette chronologie. Viti souligne que la version de Loucou, présentée comme orale, reproduit pour l'essentiel celle de Delafosse, son informateur ayant été formé à l'école William-Ponty. Plusieurs auteurs attribuent l'essentiel de l'expansion territoriale baoulé à Akwa Boni plutôt qu'à Pokou, les deux reines étant souvent confondues dans les récits coloniaux et postcoloniaux."
+}

@@ -1,0 +1,57 @@
+{
+  "id": "olokun",
+  "nom": "Olókun",
+  "variantes": [
+    "Olokun",
+    "Olóòkun",
+    "Olocun"
+  ],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": [
+    "Yoruba",
+    "Edo"
+  ],
+  "resume": "Divinité des eaux profondes et de la mer, honorée chez les Yoruba et surtout dans l'ancien royaume du Bénin (Edo), au sud du Nigeria. On lui attribue la richesse, la santé et la fécondité. Selon les traditions et les lieux, elle est pensée comme masculine, féminine ou androgyne.",
+  "description_detaillee": "Olókun, dont le nom se comprend comme « maître de la mer » (olú, « maître », et òkun, « mer »), appartient au vaste ensemble des divinités aquatiques du sud du Nigeria. Deux traditions voisines lui font une place de premier plan : celle des Yoruba, qui la distinguent nettement de Yemọja, liée aux rivières, et celle des Edo de Benin City, pour qui Olokun est de loin la divinité la plus populaire du royaume.\n\nDans la cosmologie edo, Olokun est un fils d'Osanobua, le dieu créateur, et règne sur les grandes eaux depuis un palais situé sous la rivière Ethiope, que les Edo tiennent pour la source de toutes les eaux du monde. De là, il envoie la richesse et les enfants à ceux qui le servent, en particulier aux femmes qui désirent concevoir. Le roi de Benin, l'oba, est appelé « roi de la terre ferme » et se pense comme le pendant terrestre d'Olokun, « roi des eaux ». Hommes et femmes peuvent tenir chez eux un autel à Olokun. Des prêtresses y sont initiées, et les cérémonies font une large place à la craie blanche : des motifs sont tracés au sol puis effacés par les pas des danseurs, ce que Norma Rosen et Joseph Nevadomsky décrivent comme autant de messages échangés entre la terre et l'autre monde.\n\nEn pays yoruba, un récit recueilli notamment par Harold Courlander met en scène la rivalité d'Olókun avec Olọ́run, le maître du ciel. Tisserande sans égale, elle le défie dans un concours d'étoffes. Olọ́run lui envoie Agẹmọ, le caméléon, qui reproduit sur sa peau chacun des tissus qu'elle lui montre ; voyant que même le messager du ciel égale ses plus belles pièces, elle s'avoue vaincue. À Ile-Ife, un bosquet porte son nom, Igbo Olókun : c'est de là que provient la célèbre tête en alliage cuivreux révélée par Leo Frobenius en 1910, et les fouilles y ont mis au jour un important atelier de perles de verre, actif entre le XIe et le XVe siècle environ.\n\nLe genre d'Olókun n'est pas fixé. L'Olokun edo est un dieu masculin, fils d'Osanobua, quand de nombreux récits yoruba en font une déesse, et certaines communautés la conçoivent comme androgyne. La traite atlantique a porté son culte à Cuba, où la santería l'honore comme la puissance des profondeurs océanes, et au Brésil ; dans les Amériques, la frontière entre Olókun et Yemọja tend à s'estomper.",
+  "domaines": [
+    "mer",
+    "eaux profondes",
+    "richesse",
+    "fécondité",
+    "santé"
+  ],
+  "tags": [
+    "eau",
+    "royaute-sacree",
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "yemoja",
+      "olodumare",
+      "yemaya",
+      "santeria"
+    ]
+  },
+  "attributs": [
+    "craie blanche",
+    "couleur blanche",
+    "eau de rivière ou de mer",
+    "perles"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Culte toujours vivant à Benin City et dans le pays edo, où de nombreux fidèles, surtout des femmes, tiennent des autels à Olokun et où des prêtresses continuent d'être initiées. Olókun est aussi honorée dans la santería cubaine et, de façon plus discrète, dans le candomblé brésilien.",
+  "sources": [
+    "Ben-Amos, P. & Kaplan, F.E.S. (2005). Edo Religion. In Jones, L. (dir.), Encyclopedia of Religion (2e éd.)",
+    "Nevadomsky, J. & Rosen, N. (1988). The Initiation of a Priestess: Performance and Imagery in Olokun Ritual. The Drama Review, 32(2)",
+    "Rosen, N. (1989). Chalk Iconography in Olokun Worship. African Arts, 22(3)",
+    "Courlander, H. (1973). Tales of Yoruba Gods and Heroes",
+    "Babalola, A.B., McIntosh, S.K., Dussubieux, L. & Rehren, T. (2017). Ile-Ife and Igbo Olokun in the history of glass in West Africa. Antiquity, 91(357)",
+    "Clark, M.A. (2007). Santería: Correcting the Myths and Uncovering the Realities of a Growing Religion"
+  ],
+  "notes": "Le genre d'Olókun varie selon les régions et les traditions (masculin chez les Edo, souvent féminin chez les Yoruba). Chez les Edo, il est dit fils d'Osanobua, tandis que les récits yoruba le placent face à Olọ́run. Certains auteurs voient dans le culte edo l'origine de la figure, d'autres dans le pays yoruba ; la question n'est pas tranchée. La tête en alliage cuivreux dite « tête d'Olokun », trouvée à Ife en 1910, est souvent présentée comme l'effigie d'un souverain plutôt que de la divinité ; son nom vient du lieu de la découverte."
+}

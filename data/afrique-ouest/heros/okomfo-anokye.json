@@ -1,0 +1,50 @@
+{
+  "id": "okomfo-anokye",
+  "nom": "Okomfo Anokye",
+  "variantes": [
+    "Komfo Anokye",
+    "Okomfo Anotchi",
+    "Agyei Frimpon"
+  ],
+  "region": "afrique-ouest",
+  "categorie": "heros",
+  "peuples": [
+    "Akan",
+    "Asante"
+  ],
+  "resume": "Prêtre (okomfo) de la fin du XVIIe et du début du XVIIIe siècle, conseiller d'Osei Tutu, premier roi (Asantehene) de la confédération asante, dans l'actuel Ghana. La tradition lui attribue d'avoir fait descendre du ciel le Tabouret d'or (Sika Dwa Kofi), qui renferme l'âme de la nation, et d'avoir donné au royaume ses lois et ses institutions. Personnage historique, il est aussi l'une des figures les plus chargées de merveilleux de la mémoire asante.",
+  "description_detaillee": "À la fin du XVIIe siècle, les chefferies akan groupées autour de Kumasi sont tributaires du royaume de Denkyira. Leur union en une confédération, sous l'autorité d'Osei Tutu, est l'œuvre commune du roi et de son prêtre, Okomfo Anokye, à qui la tradition prête la fondation des institutions asante : Kumasi comme capitale, un conseil des chefs, une armée réorganisée, des lois durables. Ses origines sont disputées. La version recueillie par Robert S. Rattray au début des années 1920 en fait un certain Agyei Frimpon, du même clan que le roi de Denkyira Ntim Gyakari, qui aurait séduit l'une des épouses de ce roi et se serait enfui dans un pays nommé Obi, où il aurait étudié les remèdes et les savoirs rituels. Les traditions de l'Akuapem, reprises par l'historien ghanéen J. K. Fynn, le disent au contraire originaire d'Awukugua, dans l'Akuapem, au sud-est du Ghana actuel.\n\nLe récit central est celui du Tabouret d'or. Selon la tradition rapportée par Rattray, Anokye annonça qu'il avait reçu de Nyame, le dieu du ciel, la mission de faire des Asante une nation puissante. Devant une foule immense réunie à Kumasi, il fit descendre du ciel, dans un nuage noir, parmi des grondements et une poussière blanche, un tabouret de bois à trois pieds en partie couvert d'or, qui vint se poser doucement sur les genoux d'Osei Tutu. Il déclara que ce tabouret contenait le sunsum, l'âme de la nation, et que sa puissance, sa santé et son courage en dépendaient. Le roi, les chefs et les reines mères durent donner quelques cheveux et un fragment d'ongle, mêlés à une préparation dont une partie fut bue et l'autre versée sur le tabouret. Nul ne devait s'y asseoir, et il ne touchait jamais le sol. Son nom complet, Sika Dwa Kofi, signifie « tabouret d'or né un vendredi ». La victoire sur le Denkyira suivit : à Feyiase, l'armée asante l'emporta et, selon la même tradition, les entraves d'or du roi Ntim Gyakari vaincu furent ajoutées aux insignes du tabouret.\n\nD'autres récits entourent le prêtre. Rattray note qu'on lui attribue l'obligation de ne pas travailler la terre le jeudi, jour d'Asase Yaa, la déesse de la terre, et qu'il avait déjà été consulté, avant le règne d'Osei Tutu, lors d'une guerre contre l'Akyem au sujet du lac Bosomtwe. À Kumasi, un sabre qu'il aurait planté dans le sol et que nul ne pourrait arracher est toujours montré aux visiteurs, sur le terrain de l'hôpital qui porte son nom. Sa fin est racontée comme une disparition plutôt qu'une mort. D'après une tradition relayée par l'historien T. C. McCaskie, Anokye serait entré en transe pour aller chercher dans le monde des esprits un remède contre la mort, en demandant qu'on attende sept jours sans le pleurer ; un neveu pressé d'hériter aurait fait célébrer des funérailles bruyantes avant le terme, et le prêtre, apparu à un chasseur aux abords d'Agona, aurait fait savoir que le remède serait désormais refusé aux Asante.\n\nCes récits posent aux historiens un problème que Fynn résume ainsi : la part du merveilleux est telle qu'il est souvent difficile de distinguer le vrai du légendaire. McCaskie a proposé en 1986 de ne pas chercher seulement à trier les faits, mais de comprendre ce qu'Anokye signifie dans la pensée asante, comme figure à travers laquelle les Asante réfléchissent à l'origine de leur État et au sens de leur histoire. Le Tabouret d'or est resté au cœur de cette histoire : c'est l'exigence britannique de se le voir remettre qui déclencha en 1900 la guerre conduite par Yaa Asantewaa.",
+  "domaines": [
+    "fondation du royaume asante",
+    "loi et institutions",
+    "divination",
+    "pouvoirs rituels"
+  ],
+  "tags": [
+    "royaute-sacree",
+    "divination"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "yaa-asantewaa",
+      "asase-yaa",
+      "nyame"
+    ]
+  },
+  "attributs": [
+    "Tabouret d'or (Sika Dwa Kofi)",
+    "sabre planté dans le sol à Kumasi"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Le Tabouret d'or demeure le principal emblème de la royauté asante. À Kumasi, le principal hôpital universitaire porte le nom de Komfo Anokye, et le sabre qui lui est attribué est présenté aux visiteurs sur son terrain.",
+  "sources": [
+    "Rattray, R.S. (1923). Ashanti",
+    "McCaskie, T.C. (1986). Komfo Anokye of Asante: Meaning, History and Philosophy in an African Society. Journal of African History, 27(2)",
+    "McCaskie, T.C. (1995). State and Society in Pre-Colonial Asante",
+    "Fynn, J.K. (1977). Okomfo Anokye, dans Encyclopaedia Africana: Dictionary of African Biography, vol. 1"
+  ],
+  "notes": "Ses dates varient selon les auteurs : naissance vers 1655 ou 1660, mort entre 1712 et 1719 environ. Son origine est contestée entre la version asante (Agyei Frimpon, fugitif du Denkyira), celle de l'Akuapem (Awukugua) et une rattachant sa carrière au royaume d'Akwamu. La date de la descente du Tabouret d'or est placée selon les sources vers 1695 ou vers 1701. Rattray désigne Anokye comme un « fetish man », vocabulaire colonial qui n'est pas repris ici."
+}

@@ -1,0 +1,49 @@
+{
+  "id": "mmoatia",
+  "nom": "Mmoatia",
+  "variantes": [
+    "Aboatia (singulier)",
+    "Mmoetia"
+  ],
+  "region": "afrique-ouest",
+  "categorie": "creatures",
+  "peuples": [
+    "Akan",
+    "Asante"
+  ],
+  "resume": "Petits êtres de la forêt dans les croyances et les contes akan du Ghana, que les traductions anciennes rendent par « fées » ou « petit peuple ». On leur prête des pieds tournés vers l'arrière et une connaissance des plantes qu'ils peuvent transmettre aux prêtres. Ils apparaissent dans plusieurs contes, dont celui où Anansi en capture un pour acheter les histoires de Nyame.",
+  "description_detaillee": "La forêt occupe une grande place dans l'univers religieux des Akan, et elle est peuplée d'êtres qui ne sont ni des dieux ni des humains. Dans sa présentation de la religion akan, l'anthropologue Michelle Gilbert en retient deux figures : les mmoatia, petits êtres aux pieds tournés vers l'arrière, et le sasabonsam, géant redouté. Robert S. Rattray, qui publia en 1930 un grand recueil de contes asante en twi et en anglais, traduit mmoatia par « fairies » ou « little folk ». La préface de ce recueil explique d'ailleurs qu'on a confié les illustrations à des artistes de la Gold Coast plutôt qu'à des Européens : un illustrateur européen, y lit-on, aurait immanquablement projeté sur un sasabonsam ou sur les mmoatia son propre imaginaire du fantastique.\n\nLes mmoatia entretiennent un lien particulier avec les prêtres (akomfo) et les divinités. Étudiant les motifs sculptés sur les murs des anciens temples asante, Eric Appau Asante, Steve Kquofi et Stephen Larbi relèvent des figures de mmoatia qui expriment l'association entre le dieu du sanctuaire et ces êtres. Les Asante, écrivent-ils, les considèrent comme des esprits de la nature dotés de certaines formes et attitudes humaines : ils s'assoient, sifflent, communiquent et mangent. Ils aident le prêtre ou la prêtresse dans sa tâche, par exemple en lui désignant la plante dont il tirera un remède.\n\nLes contes les montrent sous un jour plus ambivalent. Dans le récit où Anansi achète à Nyame toutes les histoires, un aboatia fait partie du prix exigé : l'araignée dépose au pied d'un arbre odum, là où les mmoatia viennent jouer, une poupée enduite de glu et une purée d'igname, et la petite créature, vexée que la poupée ne réponde pas à ses remerciements, la gifle et reste collée. Un autre conte recueilli par Rattray met en scène une jeune fille, Kwaboaso, qui refuse tous les maris qu'on lui propose : au champ, le « petit peuple » descend des bananiers pour la saisir et la presser en chantant, jusqu'à ce que le chasseur qu'elle avait dédaigné vienne la délivrer. Le plus âgé des mmoatia, épargné, lui rend sa poudre et ses balles et lui conseille de semer des bananes derrière lui pour retarder les autres. Dans un troisième récit, une femme ramène chez elle une enfant trouvée dans le creux d'un arbre et lui coupe ses cheveux en désordre sans savoir qu'elle est l'une d'eux, et toute la famille dépérit à force de devoir, jour après jour, recoller cette chevelure que l'enfant arrache aussitôt.\n\nCes récits dessinent des êtres ni bons ni mauvais, qui punissent l'orgueil et l'imprudence mais récompensent ou épargnent ceux qui savent se conduire. Ils partagent avec le sasabonsam le motif des pieds retournés, qui brouille les traces, mais s'en distinguent par leur proximité avec les prêtres. Chez les Fon du Bénin voisin, les aziza, petits êtres de la forêt auxquels on attribue la transmission de la médecine par les plantes, occupent une place comparable.",
+  "domaines": [
+    "forêt",
+    "plantes médicinales",
+    "savoir caché"
+  ],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "sasabonsam",
+      "anansi",
+      "nyame",
+      "aziza"
+    ]
+  },
+  "attributs": [
+    "pieds tournés vers l'arrière",
+    "petite taille",
+    "sifflement",
+    "savoir des plantes médicinales"
+  ],
+  "recits_associes": [
+    "comment-anansi-obtint-histoires"
+  ],
+  "culte_contemporain": "",
+  "sources": [
+    "Rattray, R.S. (1930). Akan-Ashanti Folk-Tales",
+    "Gilbert, M. (1987). Akan Religion, dans Eliade, M. (dir.), The Encyclopedia of Religion",
+    "Asante, E.A., Kquofi, S. & Larbi, S. (2015). The Symbolic Significance of Motifs on Selected Asante Religious Temples. Journal of Aesthetics & Culture, 7"
+  ],
+  "notes": "Plusieurs présentations grand public donnent des détails plus précis (taille d'environ trente centimètres, nez crochu, peau jaunâtre, répartition en mmoatia noirs, rouges et blancs selon leur caractère, enlèvement de personnes qui reviennent guérisseurs après plusieurs années) sans citer de source ethnographique vérifiable ; ils ne sont pas repris ici. Le mot « fairy » employé par Rattray est une traduction commode qui ne recouvre qu'imparfaitement la notion akan."
+}

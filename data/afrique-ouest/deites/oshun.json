@@ -33,7 +33,8 @@
     "entites_liees": [
       "shango",
       "santeria",
-      "yemoja"
+      "yemoja",
+      "festival-osun-osogbo"
     ]
   },
   "attributs": [
@@ -43,7 +44,7 @@
     "couleur jaune/or"
   ],
   "recits_associes": [],
-  "culte_contemporain": "Le festival annuel Osun-Osogbo, sur les rives du fleuve Osun au Nigeria, est inscrit au patrimoine mondial de l'UNESCO. Vénérée aussi dans les Amériques sous le nom d'Ochún.",
+  "culte_contemporain": "Le festival annuel d'Osun-Osogbo se tient dans le bosquet sacré qui borde le fleuve Osun, au Nigeria ; c'est ce bosquet qui est inscrit au patrimoine mondial de l'UNESCO depuis 2005. Vénérée aussi dans les Amériques sous le nom d'Ochún.",
   "sources": [
     "Murphy, J.M. & Sanford, M.M. (2001). Osun across the Waters: A Yoruba Goddess in Africa and the Americas",
     "Olupona, J.K. (2014). African Religions: A Very Short Introduction"

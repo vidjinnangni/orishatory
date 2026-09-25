@@ -28,7 +28,9 @@
     ]
   },
   "attributs": [],
-  "recits_associes": [],
+  "recits_associes": [
+    "epopee-de-segou"
+  ],
   "culte_contemporain": "Récité par les griots (jeliw) lors de cérémonies et d'événements politiques au Mali, en Guinée et en Gambie ; sert encore de référence à la légitimité royale dans les lignages mandingues.",
   "sources": [
     "Niane, D.T. (1960). Soundjata ou l'épopée mandingue",

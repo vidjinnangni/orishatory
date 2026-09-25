@@ -1,0 +1,53 @@
+{
+  "id": "oduduwa",
+  "nom": "Odùduwà",
+  "variantes": [
+    "Oduduwa",
+    "Odudua",
+    "Oòduà",
+    "Odua"
+  ],
+  "region": "afrique-ouest",
+  "categorie": "heros",
+  "peuples": [
+    "Yoruba"
+  ],
+  "resume": "Ancêtre fondateur d'Ile-Ife et figure dont descendent, selon la tradition, les dynasties royales des principaux royaumes yoruba. Les récits le présentent tantôt comme le créateur de la terre ferme envoyé par Olódùmarè, tantôt comme un conquérant venu d'ailleurs. Les Yoruba se désignent encore comme « enfants d'Odùduwà ».",
+  "description_detaillee": "Odùduwà occupe une place double dans la mémoire yoruba. Il est à la fois une divinité, présente dans les récits de création, et le premier roi d'Ile-Ife, la ville que les Yoruba considèrent comme le berceau de leur monde. Les souverains d'Ife, qui portent le titre d'Ọọ̀ni, se réclament de lui, tout comme les dynasties de nombreux royaumes yoruba et voisins. L'expression Ọmọ Odùduwà, « enfants d'Odùduwà », sert aujourd'hui encore à dire l'appartenance commune des Yoruba.\n\nLe récit cosmogonique le plus connu le met en rivalité avec Ọbàtálá. Olódùmarè avait confié à Ọbàtálá la tâche de créer la terre ferme sur les eaux, mais celui-ci s'enivra de vin de palme en chemin ; Odùduwà prit alors les instruments de la création, la terre et la poule qui devait l'étendre, et accomplit l'œuvre à sa place, à l'endroit qui devint Ile-Ife. À côté de ce récit en existe un autre, que l'historien Samuel Johnson a consigné à la fin du XIXe siècle : Odùduwà y est le fils d'un roi de l'Est nommé Lamurudu, chassé pour avoir refusé l'islam, qui migre jusqu'à Ife. Johnson lui-même doutait de l'origine mecquoise de ce récit et situait plutôt cet « Est » en Égypte.\n\nLes historiens lisent souvent ces traditions comme la mémoire d'une conquête ou d'une recomposition politique : un groupe venu de l'extérieur aurait supplanté des communautés plus anciennes rangées derrière Ọbàtálá, avant que les deux camps ne se réconcilient. La fête d'Ìtàpá, célébrée à Ile-Ife, rejoue ce conflit entre les fidèles d'Ọbàtálá et ceux d'Odùduwà. La tradition attribue à Odùduwà des enfants ou petits-enfants partis fonder les royaumes d'Owu, Sabe, Popo, Benin, Ila, Ketu et Oyo, le dernier par Ọ̀rànmíyàn.\n\nCes généalogies ne sont pas neutres. L'historien Robin Law a montré que leurs variantes ont été retouchées aux XVIIe et XVIIIe siècles pour appuyer la prééminence du roi d'Oyo sur les autres souverains. Jacob Olupona, qui consacre un chapitre à « Odùduwà, le dieu-roi », souligne de son côté combien la figure reste au cœur des débats sur l'autorité religieuse et politique de l'Ọọ̀ni à Ile-Ife.",
+  "domaines": [
+    "royauté",
+    "fondation",
+    "création de la terre ferme",
+    "ascendance"
+  ],
+  "tags": [
+    "creation",
+    "royaute-sacree",
+    "ancetres"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "obatala",
+      "olodumare",
+      "moremi-ajasoro"
+    ]
+  },
+  "attributs": [
+    "poule",
+    "terre répandue sur les eaux",
+    "couronne perlée"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Odùduwà est honoré à Ile-Ife dans le cadre du culte royal, et la fête d'Ìtàpá y rejoue chaque année son conflit avec Ọbàtálá. Son nom sert de référence identitaire et politique commune aux Yoruba.",
+  "sources": [
+    "Johnson, S. (1921). The History of the Yorubas: From the Earliest Times to the Beginning of the British Protectorate",
+    "Law, R. (1973). The Heritage of Oduduwa: Traditional History and Political Propaganda among the Yoruba. The Journal of African History, 14(2)",
+    "Olupona, J.K. (2011). City of 201 Gods: Ilé-Ifè in Time, Space, and the Imagination",
+    "Idowu, E.B. (1962). Olódùmarè: God in Yoruba Belief",
+    "Jock, A.M. (2020). Samuel Johnson's view about Oduduwa in connection with the origins of the Yoruba. HTS Theological Studies, 76(4)"
+  ],
+  "notes": "Le rapport entre Odùduwà et Ọbàtálá varie beaucoup selon les traditions : rival qui usurpe la création, ou exécutant désigné par Olódùmarè après l'échec d'Ọbàtálá. Une tradition minoritaire, rapportée par A.B. Ellis, faisait d'Odùduwà une divinité féminine, épouse d'Ọbàtálá ; J.O. Lucas y voyait la forme ancienne de la figure. Certains auteurs pensent que « Odùduwà » a pu désigner un titre plutôt qu'un individu unique. La liste des royaumes fondés par ses descendants et l'ordre de naissance de ces fondateurs diffèrent selon les versions."
+}

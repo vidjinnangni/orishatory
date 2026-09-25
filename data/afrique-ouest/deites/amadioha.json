@@ -1,0 +1,52 @@
+{
+  "id": "amadioha",
+  "nom": "Amadioha",
+  "variantes": [
+    "Amadiọha",
+    "Amadiora",
+    "Kamalu",
+    "Kalu",
+    "Igwe"
+  ],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": [
+    "Igbo"
+  ],
+  "resume": "Divinité igbo du tonnerre et de la foudre, garant de la justice et gardien des serments. Il punit par la foudre les coupables et ceux qui jurent faussement. Son emblème est le bélier blanc, qui lui est offert en sacrifice.",
+  "description_detaillee": "Chez les Igbo du sud-est du Nigeria, Amadioha est l'une des grandes puissances religieuses reconnues bien au-delà d'une seule communauté. Son nom est généralement expliqué comme « l'homme du peuple », et on le comprend comme l'expression de la volonté collective. Il est surtout honoré dans le sud du pays igbo ; ailleurs, on l'appelle Amadiora, Kamalu ou Igwe, « le ciel ». Le philosophe Ikechukwu Anthony Kanu le présente comme un fils de Chineke, le créateur, et comme l'agent de Chukwu contre les crimes restés cachés.\n\nSa fonction première est la justice. Amadioha venge les faibles et frappe ceux qui les oppriment, et l'on jurait par lui dans les affaires graves : celui qui prêtait un faux serment s'exposait à la foudre. Quand la foudre tuait quelqu'un ou frappait une maison, l'événement était lu comme un message du dieu, et l'on faisait appel à un dibia, spécialiste rituel, pour découvrir quelle faute avait été commise. Son sanctuaire se trouve d'ordinaire dans un bosquet ; Kanu, citant Apollos, y décrit une longue perche de bambou posée à l'horizontale sur deux fourches, sous laquelle aucun malfaiteur ne pourrait passer sans être frappé. Sa couleur est le rouge, son symbole le bélier blanc, qu'on lui sacrifie de préférence, et les animaux qui lui sont voués sont intouchables.\n\nAmadioha forme couple avec Ala, la terre : dans certaines interprétations, il la féconde par la pluie, tandis qu'Ala fixe la loi morale qu'il fait respecter. Avant la colonisation, plusieurs oracles igbo étaient placés sous son nom ou sous celui de Kamalu, comme le Kamalu d'Ozuzu, dans la région d'Etche, ou l'Amadioha d'Eziama, qui rivalisaient avec l'oracle aro d'Arochukwu pour trancher les litiges. On le rapproche souvent de Ṣàngó, le dieu yoruba du tonnerre, mais les deux figures ont des origines et des récits distincts : Ṣàngó est un ancien roi divinisé, alors qu'Amadioha n'a pas d'histoire humaine connue.",
+  "domaines": [
+    "tonnerre",
+    "foudre",
+    "justice",
+    "serments",
+    "châtiment"
+  ],
+  "tags": [
+    "foudre-orage"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [
+      "ala"
+    ],
+    "enfants": [],
+    "entites_liees": [
+      "chukwu",
+      "shango"
+    ]
+  },
+  "attributs": [
+    "bélier blanc",
+    "couleur rouge",
+    "foudre",
+    "perche de bambou du sanctuaire"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Des sanctuaires d'Amadioha subsistent dans le sud du pays igbo et son nom reste invoqué dans les serments, même si la christianisation a fortement réduit le recours à ses oracles.",
+  "sources": [
+    "Kanu, I.A. (2018). Igbo-African Gods and Goddesses. Nnadiebube Journal of Philosophy, 2(2)",
+    "Njoku, N.L. (2015). The Dual Image of the Aro in Igbo Development History: An Aftermath of their Role in the Slave Trade. Journal of Retracing Africa, 2(1)"
+  ],
+  "notes": "Le jour qui lui est consacré varie selon les sources et les localités (Afọ pour Kanu, Eke pour d'autres). Le lien de filiation avec Chineke ou Chukwu et le statut d'époux d'Ala ne sont pas admis partout : Kanu précise qu'il est « parfois » appelé l'époux d'Ala. L'étymologie « homme du peuple » (ou « libre volonté du peuple ») est une interprétation courante plutôt qu'un point établi. Les noms Kamalu et Igwe désignent dans certaines régions la même puissance du ciel et du tonnerre, mais les équivalences entre ces figures locales varient."
+}
