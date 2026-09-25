@@ -1,0 +1,50 @@
+{
+  "id": "njinga-mbande",
+  "nom": "Njinga Mbande",
+  "variantes": [
+    "Nzinga",
+    "Njinga Mbandi",
+    "Ana de Sousa",
+    "Nzinga Mbande",
+    "Rainha Ginga"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "heros",
+  "peuples": [
+    "Mbundu"
+  ],
+  "resume": "Njinga Mbande (vers 1582-1663) gouverna les royaumes mbundu du Ndongo puis du Matamba, dans l'actuel Angola. Diplomate à Luanda en 1622, régente puis souveraine après la mort de son frère en 1624, elle mena pendant plus de trente ans une politique d'alliances et de guerres face aux Portugais. Elle est aujourd'hui célébrée en Angola comme une figure fondatrice de la nation.",
+  "description_detaillee": "Njinga appartient à l'histoire du Ndongo, royaume des Mbundu établi dans l'arrière-pays de Luanda, que la colonie portugaise d'Angola grignote depuis la fin du XVIe siècle. Fille d'un ngola (roi) du Ndongo, elle aurait été associée très tôt aux séances de la cour par son père. Sa longévité politique et l'abondance des sources qui la concernent, dont des lettres écrites en son nom, en font l'une des souveraines africaines du XVIIe siècle les mieux connues.\n\nEn 1622, son frère le roi Ngola Mbande l'envoie négocier la paix à Luanda. L'épisode resté le plus célèbre date de cette ambassade : comme on ne lui avait préparé qu'une natte face au fauteuil du gouverneur, elle fit agenouiller une servante et s'assit sur elle pour parler d'égal à égal. Elle y reçoit aussi le baptême sous le nom d'Ana de Sousa. Après la mort de son frère en 1624, dans des circonstances que les sources disent obscures (maladie, suicide ou empoisonnement), elle prend le pouvoir, d'abord comme régente. Contestée par Ngola a Hari, candidat soutenu par les Portugais, elle est chassée du Ndongo et conquiert vers 1631 le royaume voisin du Matamba, dont elle fait sa base. Pour tenir, elle s'allie aux Imbangala, bandes guerrières dont elle adopte les rites d'initiation, puis, entre 1641 et 1648, aux Hollandais qui ont pris Luanda. Un traité conclu en 1656 avec les Portugais reconnaît finalement son autorité sur le Matamba et une partie du Ndongo ; elle y renoue avec le catholicisme et accueille des missionnaires capucins, dont Giovanni Antonio Cavazzi et Antonio Gaeta, qui laisseront les principaux récits sur sa cour. Elle meurt le 17 décembre 1663 ; sa sœur Kambu, baptisée Barbara, lui succède.\n\nL'historien John Thornton a montré que la légitimité de Njinga était très discutée : ses rivaux la tenaient pour une usurpatrice, parce que femme et parce que sa lignée était contestée. Elle y répondit en cherchant des précédents dans l'histoire du Ndongo, en contrôlant les principaux chefs militaires et en adoptant des marques de pouvoir masculines. Selon les sources missionnaires, elle se faisait appeler roi, portait des vêtements d'homme dans certaines circonstances et entretenait des concubins, dont certains vêtus en femmes. Son règne servit ensuite de précédent : plusieurs femmes gouvernèrent le Matamba jusqu'au XVIIIe siècle.\n\nSon image a beaucoup varié. Les auteurs européens, de Cavazzi au marquis de Sade, ont insisté sur sa cruauté supposée et sur sa sexualité ; l'historiographie coloniale portugaise a retenu surtout sa conversion, et le mouvement de libération angolais des années 1960 et 1970 en a fait une héroïne de la résistance. Les biographies récentes, en particulier celle de Linda Heywood (2017), la décrivent comme une dirigeante pragmatique, qui participait aussi à la traite en vendant des captifs, et dont la politique visait d'abord la survie de son royaume. Son alliance avec les Imbangala rejoint l'histoire du Kasanje, dont les traditions lunda font remonter les souverains à Kinguri, frère de Lueji (voir sa fiche).",
+  "domaines": [
+    "royauté",
+    "diplomatie",
+    "guerre",
+    "résistance à la colonisation"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "lueji"
+    ]
+  },
+  "attributs": [
+    "ambassade de Luanda (1622)",
+    "servante agenouillée en guise de siège",
+    "nom de baptême Ana de Sousa",
+    "royaume du Matamba"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Njinga est une figure centrale de la mémoire nationale angolaise, souvent appelée « mère de la nation » : une statue lui a été élevée à Luanda en 2002, une grande artère de la capitale porte son nom et la Banque nationale d'Angola a émis en 2014 une pièce de 20 kwanzas à son effigie. L'UNESCO lui a consacré en 2014 un volume de sa série « Femmes dans l'histoire de l'Afrique ». Au Brésil, elle survit sous le nom de Rainha Ginga dans certaines fêtes afro-brésiliennes.",
+  "sources": [
+    "Heywood, L.M. (2017). Njinga of Angola: Africa's Warrior Queen",
+    "Thornton, J.K. (1991). Legitimacy and Political Power: Queen Njinga, 1624-1663. Journal of African History, 32(1), 25-40",
+    "UNESCO (2014). Njinga Mbandi, Queen of Ndongo and Matamba. Série « Women in African History »",
+    "Encyclopaedia Britannica (s.d.). Nzinga. britannica.com"
+  ],
+  "notes": "Les dates varient selon les sources : naissance vers 1581, 1582 ou 1583 ; le traité de paix avec les Portugais est daté de 1656 ou de 1657. L'orthographe du nom est très instable (Njinga, Nzinga, Ginga, Jinga). Les récits sur ses concubins et ses pratiques rituelles imbangala proviennent surtout de missionnaires qui voulaient mettre en valeur sa conversion finale, ce qui invite à la prudence. Le lien, établi dans le texte, entre les Imbangala du Kasanje et Kinguri relève des traditions lunda, dont la valeur historique est discutée (voir la fiche de Lueji)."
+}

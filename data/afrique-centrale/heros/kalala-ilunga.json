@@ -1,0 +1,52 @@
+{
+  "id": "kalala-ilunga",
+  "nom": "Kalala Ilunga",
+  "variantes": [
+    "Ilunga Kalala",
+    "Kalal Ilunga",
+    "Mwine Munza"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "heros",
+  "peuples": [
+    "Luba"
+  ],
+  "resume": "Kalala Ilunga est, dans l'épopée des Luba du Katanga, le fils du chasseur Mbidi Kiluwe et d'une sœur du roi Nkongolo Mwamba. Menacé de mort par son oncle, il s'enfuit, revient avec une armée, fait exécuter Nkongolo et devient le premier roi sacré (mulopwe) des Luba. Tous les souverains luba se réclament ensuite de sa descendance.",
+  "description_detaillee": "Kalala Ilunga occupe la place centrale de l'épopée luba, le récit d'origine de l'État qui s'est formé dans le sud-est de l'actuelle République démocratique du Congo. Son père, Mbidi Kiluwe, a apporté les manières d'un roi véritable ; son oncle maternel, Nkongolo Mwamba, incarne un pouvoir brutal. Kalala réunit en lui le sang de l'étranger et celui du pays, et c'est à lui que la société Mbudye, gardienne de la mémoire royale, rattachait tous les rois luba. Son nom est généralement compris comme « Ilunga le guerrier ».\n\nLa version que résume l'historien Thomas Reefe commence avant sa naissance : Mbidi, reparti vers l'est, annonce que l'enfant à la peau noire sera le sien et confie sa protection au devin Mijibu Kalenga. L'enfant est précoce, excellent chasseur. Nkongolo le défie à des jeux, le masoko, qui ressemble aux billes, puis le bulundu, où l'on frappe du pied une balle de latex ; Kalala gagne chaque fois avec l'aide de Mijibu. Inquiet, le roi fait creuser une fosse garnie de lances sous l'aire où son neveu doit danser. Prévenu, par un joueur de tambour selon Reefe, par le devin selon d'autres versions, Kalala déjoue le piège et s'enfuit vers l'est en franchissant la Lualaba, où le passeur, fidèle à la consigne de Mbidi, cache les pirogues à son poursuivant. Il revient avec une armée levée dans le pays de son père, capture Nkongolo et le fait exécuter ; la tête et les organes génitaux du vaincu sont déposés dans une corbeille rituelle, et la termitière qui pousse à l'endroit où elle est enterrée devient, selon la tradition, le premier kitenta, village sacré où se perpétue un règne défunt.\n\nVainqueur, Kalala établit sa cour à Mwilunde et prend le titre de Mwine Munza, « seigneur de Munza ». La suite du récit est plus sombre : il fait périr la plupart de ses fils, et c'est un enfant caché par un dignitaire, Ilunga Mwila, qui assure finalement la succession. Pour Luc de Heusch, l'opposition entre Nkongolo, roi ivre et sans retenue, et la lignée de Mbidi et de Kalala forme une réflexion africaine sur la naissance de l'État ; la qualité royale transmise par cette lignée est décrite dans la fiche bulopwe, et les planchettes lukasa servaient à réciter cette histoire.\n\nLe récit n'est pas une chronique. Les historiens discutent de la date des événements qu'il résume, et les traditions varient sur des points importants : la mère de Kalala est Bulanda dans certaines versions, Mabela dans d'autres, et plusieurs traditions lunda font de Chibinda Ilunga, l'époux de la reine Lueji, un frère cadet de Kalala, ce que d'autres ne retiennent pas (voir ces fiches).",
+  "domaines": [
+    "royauté",
+    "guerre",
+    "fondation dynastique"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
+  "genealogie": {
+    "parents": [
+      "mbidi-kiluwe"
+    ],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "nkongolo-mwamba",
+      "bulopwe",
+      "lukasa",
+      "chibinda-ilunga",
+      "lueji"
+    ]
+  },
+  "attributs": [
+    "peau noire (opposée à la peau rouge de Nkongolo)",
+    "lances",
+    "titre de Mwine Munza"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Reefe, T.Q. (1981). The Rainbow and the Kings: A History of the Luba Empire to 1891",
+    "Heusch, L. de (1972). Le roi ivre ou l'origine de l'État. Mythes et rites bantous I",
+    "Nooter Roberts, M. & Roberts, A.F. (1996). Memory: Luba Art and the Making of History",
+    "Scheub, H. (2000). A Dictionary of African Mythology: The Mythmaker as Storyteller (notice « Kalala Ilunga »)"
+  ],
+  "notes": "La mère de Kalala Ilunga est Bulanda ou Mabela selon les versions ; Scheub présente Bulanda et sa sœur comme des sœurs jumelles et épouses de Nkongolo. La manière dont Kalala apprend l'existence du piège varie (tambourinaire, devin Mijibu, esprits parlant par le tambour). Sa filiation avec Chibinda Ilunga n'est pas admise par toutes les traditions. Les dates proposées pour la fondation de l'État luba s'étalent sur plusieurs siècles, et beaucoup d'historiens lisent l'épopée comme une charte politique plutôt que comme le souvenir d'individus historiques."
+}

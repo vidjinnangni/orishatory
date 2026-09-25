@@ -1,0 +1,56 @@
+{
+  "id": "leza",
+  "nom": "Leza",
+  "variantes": [
+    "Lesa",
+    "Reza"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "deites",
+  "peuples": [
+    "Bemba",
+    "Tonga",
+    "Ila",
+    "Kaonde",
+    "Luba"
+  ],
+  "resume": "Leza est le nom de l'être suprême chez de nombreux peuples de langues bantoues de Zambie et des régions voisines, dont les Bemba, les Tonga, les Ila, les Kaonde et les Luba du Katanga. Créateur lointain, il est associé au ciel et surtout à la pluie, au point que l'on dit de la pluie qu'elle est Leza qui tombe. On s'adresse rarement à lui directement : ancêtres et esprits locaux servent d'intermédiaires.",
+  "description_detaillee": "Du plateau bemba au moyen Zambèze, le même nom revient pour désigner la puissance qui a fait le monde : Leza, ou Lesa selon les langues. On le trouve chez les Bemba du nord de la Zambie, chez les Tonga et les Ila du sud, chez les Kaonde de l'ouest et jusque chez les Luba du Katanga, dont les Bemba disent être venus (voir chitimukulu). Il ne s'agit pas d'un panthéon commun mais d'un nom partagé, dont le contenu varie d'un peuple à l'autre. Partout, pourtant, Leza est lié à la pluie, dont dépend l'agriculture de la savane.\n\nLes missionnaires Edwin Smith et Andrew Dale, qui ont enquêté chez les Ila au début du XXe siècle, ont recueilli ses noms de louange : Chilenga, « celui qui fait exister le premier », Lubumba, « le modeleur », comme la potière façonne un pot, Shakapanga, « le constructeur », Chaba, « celui qui donne », ou Ipaokubozha, « celui qui donne et fait pourrir », parce que ses dons ne durent pas. On le dit aussi Shikakunamo, « celui qui s'acharne ». Une légende ila raconte l'histoire d'une vieille femme dont Leza avait fait mourir tous les proches ; elle bâtit une tour de troncs pour monter jusqu'à lui et lui demander raison, mais les pieux du bas pourrissent et l'édifice s'écroule, deux fois. Elle part alors vers le bout du monde, sans le trouver, et les gens qu'elle croise lui répondent que Shikakunamo pèse sur le dos de chacun d'eux. Elle meurt sans réponse. Chez les Kaonde, l'administrateur Frank Melland a noté un autre récit : Lesa confie trois calebasses à l'oiseau indicateur, en lui défendant d'ouvrir la troisième ; l'oiseau cède à la curiosité et laisse s'échapper la mort, la maladie et les bêtes dangereuses.\n\nChez les Bemba, selon Audrey Richards, Leza commande la pluie et la fécondité des humains, des bêtes et des champs, et c'est de lui que vient la force des racines employées pour soigner. Il n'a ni culte organisé ni desservants : on le sollicite seulement lors de rituels collectifs, surtout en cas de grande sécheresse, et la vie religieuse ordinaire passe par les esprits des ancêtres. Le schéma est proche chez les Tonga, où Elizabeth Colson décrit les basangu, esprits de lieux et anciens chefs, comme ceux qui obtiennent la pluie auprès de Leza. Leur culte se tient dans des bosquets sacrés, et la cérémonie annuelle du lwiindi, qui demande de bonnes pluies aux ancêtres, se pratique encore chez les Tonga de Simaamba.\n\nLa légende ila de la tour qui s'effondre rejoint celle que les Lozi racontent de Kamonu cherchant à rejoindre Nyambe (voir sa fiche), et l'idée d'un créateur qui s'est éloigné des hommes se retrouve chez les Chewa avec Chiuta et Mulungu. Smith et Dale relèvent que Leza porte des titres construits sur des racines bantoues très répandues, comme -bumba ou -panga, ce qui plaide pour une notion ancienne. Chez les Luba, les sources de synthèse le placent au sommet d'un monde invisible qui comprend aussi les esprits et les ancêtres, mais d'autres noms du créateur y circulent, et la documentation consultée est bien moins riche que pour la Zambie.",
+  "domaines": [
+    "création",
+    "ciel",
+    "pluie",
+    "fécondité"
+  ],
+  "tags": [
+    "creation",
+    "foudre-orage",
+    "mort-au-dela"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "nyambe",
+      "chitimukulu",
+      "mulungu",
+      "chiuta"
+    ]
+  },
+  "attributs": [
+    "pluie",
+    "ciel",
+    "noms de louange (Chilenga, Lubumba, Shakapanga, Shikakunamo)"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "La cérémonie tonga du lwiindi, qui demande la pluie aux ancêtres placés sous l'autorité de Leza, est toujours célébrée chez les Tonga de Simaamba (Zambie), sous une forme en partie adaptée.",
+  "sources": [
+    "Smith, E.W. & Dale, A.M. (1920). The Ila-Speaking Peoples of Northern Rhodesia, vol. 2 (chapitre XXIII, « The Supreme Being: Leza »)",
+    "Melland, F.H. (1923). In Witch-Bound Africa: An Account of the Primitive Kaonde Tribe and Their Beliefs",
+    "Richards, A.I. (1987). Bemba Religion. In Eliade, M. (dir.), The Encyclopedia of Religion",
+    "Colson, E. (2006). Tonga Religious Life in the Twentieth Century",
+    "Kaoma, K.J. (2017). Towards an African theological ethic of earth care: Encountering the Tonga lwiindi of Simaamba of Zambia in the face of the ecological crisis. HTS Teologiese Studies / Theological Studies, 73(3)"
+  ],
+  "notes": "Leza est aussi le mot qui désigne la pluie dans plusieurs de ces langues, ce qui rend parfois ambiguë la traduction des expressions courantes. Smith et Dale signalent que chez les Bemba, Mulenga désigne un esprit de la nature distinct de Leza, alors que chez les Ila Chilenga est un titre de Leza lui-même. Les récits de la vieille femme et des trois calebasses ont été recueillis par des missionnaires et des administrateurs coloniaux, et leur vocabulaire (« péché », par exemple, chez Melland) porte la marque des traducteurs."
+}

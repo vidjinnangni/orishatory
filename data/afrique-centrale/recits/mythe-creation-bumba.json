@@ -22,7 +22,8 @@
     "conjoints": [],
     "enfants": [],
     "entites_liees": [
-      "bumba"
+      "bumba",
+      "woot"
     ]
   },
   "attributs": [],

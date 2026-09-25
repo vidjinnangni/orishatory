@@ -1,0 +1,44 @@
+{
+  "id": "lemba",
+  "nom": "Lemba",
+  "variantes": [],
+  "region": "afrique-centrale",
+  "categorie": "rites",
+  "peuples": [
+    "Kongo"
+  ],
+  "resume": "Le Lemba est une grande association de guérison du bas Congo, apparue au XVIIe siècle et active jusqu'au début du XXe, le long des routes commerciales qui reliaient les ports de la côte atlantique aux marchés de l'intérieur. Ses membres, souvent des marchands et des chefs aisés, y entraient à la suite d'une affliction et en ressortaient prêtres. L'anthropologue John Janzen en a fait un exemple classique de « tambour d'affliction ».",
+  "description_detaillee": "Le Lemba s'est développé au nord du fleuve Congo, dans le couloir du grand commerce qui allait des ports de Cabinda, de Loango et de Malemba jusqu'au marché de Mpumbu, en amont des rapides, près de l'actuelle Kinshasa. Né au XVIIe siècle dans le contexte de la traite atlantique, il a duré près de trois siècles. C'était à la fois une thérapie, une association de prêtres et un réseau d'alliances entre lignages influents, ce qui en fait l'une des institutions d'Afrique centrale que l'on peut suivre le plus longtemps dans les sources.\n\nLa « maladie du Lemba » n'avait pas de symptôme fixe : maux de tête, éruptions, perte de la parole, douleurs au ventre ou au cœur, impuissance, ou même désordre dans la communauté. C'est le devin ou la famille qui l'identifiait. Selon Janzen, elle frappait surtout une élite marchande qui craignait l'envie de ses dépendants et ressentait l'obligation de redistribuer ses richesses à sa parenté. On n'initiait pas un individu isolé mais un couple, souvent un foyer polygame entier. Après une purification et un premier remède, les novices restaient parfois des années sous la conduite d'un prêtre, le « Père Lemba », à analyser leurs rêves, préparer leurs chants et réunir les fonds nécessaires. La cérémonie finale, sur un jour, une nuit et un jour, comportait des sacrifices de poulets et de porcs et des chants alternés entre prêtres, prêtresses, novices et parents. Le couple repartait avec un coffret de remèdes, le nkobe, dont la composition ordonnait les oppositions entre masculin et féminin, maison et espace public, couleurs et plantes. Un chant recueilli vers 1910 résume le parcours : ce qui était une douleur est devenu le chemin de la prêtrise.\n\nJanzen voit dans le Lemba une réponse aux bouleversements du commerce côtier, qui affaiblissait les royaumes de Loango, de Kakongo, de Ngoyo et de Kongo. Là où ces États ne rendaient plus la justice, le Lemba protégeait les routes des caravanes, les marchés et les alliances matrimoniales, et il a absorbé d'autres pratiques, comme l'ordre des sages-femmes Pfemba. Son récit d'origine met en scène le personnage rusé de Moni-Mambu, qui obtient de son père, Dieu, le remède du Lemba. Les recensions du livre de Janzen ont d'ailleurs hésité sur la façon de le classer : culte, institution commerciale ou « institution thérapeutique d'alliance et d'échange ».\n\nLe Lemba s'inscrit dans la grande famille des associations de guérison décrite dans la fiche ngoma, et il partage avec le kimpasi et les minkisi (voir ces fiches) le rôle central des spécialistes rituels. Il a décliné avec la colonisation, et il est surtout connu par des descriptions rédigées en kikongo au début du XXe siècle par des auteurs congolais, comme Kwamba Elie qui décrit une assemblée du Lemba en 1912, et par les objets conservés dans les musées européens. Janzen en a aussi suivi des échos dans les religions afro-américaines, notamment en Haïti.",
+  "domaines": [
+    "guérison",
+    "commerce",
+    "alliances matrimoniales",
+    "prêtrise"
+  ],
+  "tags": [
+    "initiation"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "ngoma",
+      "nkisi",
+      "kimpasi"
+    ]
+  },
+  "attributs": [
+    "coffret de remèdes nkobe",
+    "tambour",
+    "couple initié"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Janzen, J.M. (1982). Lemba, 1650-1930: A Drum of Affliction in Africa and the New World",
+    "Janzen, J.M. (1992). Ngoma: Discourses of Healing in Central and Southern Africa",
+    "Prins, G. (1986). Capitalism and Health (compte rendu de Janzen, Lemba, 1650-1930). Journal of African History, 27(3), 578-580"
+  ],
+  "notes": "Presque tout ce que l'on sait du Lemba vient de la synthèse de Janzen, qui s'appuie notamment sur des textes rédigés en kikongo au début du XXe siècle, sur des sources européennes plus anciennes et sur les objets de musée. Les dates du titre (1650-1930) sont des bornes approximatives. Les afflictions associées au Lemba et les esprits invoqués variaient beaucoup d'une région à l'autre, et l'interprétation de Janzen, qui relie la maladie à l'envie suscitée par la richesse marchande, est une lecture d'historien plus qu'une explication donnée par les acteurs eux-mêmes."
+}

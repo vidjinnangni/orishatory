@@ -1,0 +1,56 @@
+{
+  "id": "mukanda",
+  "nom": "Mukanda",
+  "variantes": [
+    "Mukanda (école d'initiation)",
+    "Makishi (mascarade)"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "rites",
+  "peuples": [
+    "Chokwe",
+    "Luvale (Lwena)",
+    "Luchazi",
+    "Mbunda",
+    "Lunda (Ndembu)"
+  ],
+  "resume": "Le mukanda est le rite d'initiation masculine des Chokwe, Luvale, Luchazi, Mbunda et peuples apparentés, dans la région où se rejoignent l'Angola, la République démocratique du Congo et la Zambie. Il comprend la circoncision, une réclusion de plusieurs semaines ou mois dans un camp de brousse et un enseignement, sous la protection des makishi, masques qui incarnent des ancêtres. La mascarade makishi de Zambie a été proclamée par l'UNESCO en 2005 et inscrite en 2008 sur la Liste représentative du patrimoine culturel immatériel.",
+  "description_detaillee": "Le mukanda est l'institution par laquelle, chez les Chokwe, les Luvale (ou Lwena), les Luchazi, les Mbunda et leurs voisins lunda, les garçons deviennent des hommes. Ces peuples, que la Zambie désigne collectivement comme Vaka Chiyama Cha Mukwamayi, vivent dans le nord-est de l'Angola, le sud-ouest de la République démocratique du Congo et le nord-ouest de la Zambie. Le rite ne se réduit pas à la circoncision : c'est une école, où se transmettent les valeurs, les savoirs pratiques, la connaissance de la nature, de la sexualité et des croyances religieuses.\n\nUn village ouvre un mukanda lorsqu'il compte assez de garçons non circoncis, et invite les villages proches à s'y joindre. Selon Victoria Phiri Chitungu, qui s'appuie notamment sur le travail de Wele (1993), le camp est dressé à l'ouest du village, entrée tournée vers le soleil levant, et devient un espace interdit aux femmes et aux non-circoncis ; le mot se rattacherait à la racine kanda, « séparer, interdire ». Les novices, appelés tundanji, y meurent symboliquement à l'enfance pour renaître adultes. La réclusion durait autrefois jusqu'à six mois ; elle est souvent ramenée aujourd'hui à un à trois mois, en saison sèche. Le camp reste pourtant relié au village par des chants que les garçons lancent à l'aube et auxquels les mères répondent par des youyous. Un maître d'initiation (chijika mukanda) dirige l'ensemble, et chaque garçon est confié à un tuteur (chilombola) choisi par ses parents, qui restera son mentor au-delà du rite.\n\nLes makishi (singulier likishi) sont au cœur du dispositif. Ce terme désigne à la fois le masque et le costume de fibres qui font exister un personnage, et ces personnages sont tenus pour des esprits d'ancêtres revenus protéger les novices. Le conservateur Manuel Jordán en compte plus d'une centaine. Chez les Chokwe, Cikunza annonce l'ouverture du rite et vient chercher les garçons, et le masque féminin Mwana Pwo honore les mères (voir leurs fiches) ; chez les Luvale de Zambie, Chitungu cite Kayipu, roi des makishi, Chizaluke, figure de la sagesse, Chileya, le bouffon, ou Mupala, seigneur du mukanda. Les novices apprennent en réclusion à fabriquer masques et costumes. À la sortie, la mascarade publique célèbre leur retour, et tout le village peut y assister.\n\nL'anthropologue Victor Turner a consacré au mukanda des Ndembu (un groupe lunda de Zambie) une étude devenue classique de l'analyse des symboles rituels, et C. M. N. White en avait décrit dès 1953 les variantes chez les Lunda, Luvale, Luchazi et Chokwe. La pratique a beaucoup changé : l'installation en ville oblige à réduire la réclusion pour l'accorder au calendrier scolaire et rend difficile de trouver un lieu à l'écart. Les makishi dansent désormais lors de fêtes publiques et de meetings politiques. Chitungu observe que la reconnaissance par l'UNESCO a elle-même favorisé certains de ces changements, comme l'apparition des couleurs du drapeau zambien sur les costumes.",
+  "domaines": [
+    "initiation masculine",
+    "circoncision",
+    "éducation",
+    "ancêtres"
+  ],
+  "tags": [
+    "initiation",
+    "ancetres"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "cikunza",
+      "mwana-pwo",
+      "kishi"
+    ]
+  },
+  "attributs": [
+    "masques makishi",
+    "costumes de fibres tressées",
+    "camp de réclusion en brousse",
+    "circoncision"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Le mukanda et la mascarade makishi restent pratiqués en Zambie, en Angola et en République démocratique du Congo, y compris dans les villes zambiennes. Les makishi sortent aussi chaque année en août lors du Likumbi lya Mize, cérémonie des Luvale tenue dans le district de Zambezi en l'honneur de leur chef. La mascarade makishi figure sur la Liste représentative du patrimoine culturel immatériel de l'humanité (proclamée en 2005, inscrite en 2008).",
+  "sources": [
+    "UNESCO (2008). Makishi masquerade. Liste représentative du patrimoine culturel immatériel de l'humanité (proclamation de 2005)",
+    "Chitungu, V.P. (2012). Makishi Masquerade and Activities: The Reformulation of Visual and Performance Genres of the Mukanda School of Zambia. Dans Mudimbe, V.Y. (dir.), Contemporary African Cultural Productions",
+    "Jordán, M.A. (1998). Chokwe!: Art and Initiation among Chokwe and Related Peoples",
+    "Jordán, M.A. (2006). Makishi: Mask Characters of Zambia",
+    "Turner, V. (1967). Mukanda: The Rite of Circumcision. Dans The Forest of Symbols: Aspects of Ndembu Ritual",
+    "White, C.M.N. (1953). Notes on the Circumcision Rites of the Balovale Tribes. African Studies, 12(2), 41-56"
+  ],
+  "notes": "L'âge des initiés varie selon les sources : de huit à douze ans pour l'UNESCO, de huit à dix-sept ans chez Chitungu. La durée aussi : jusqu'à six mois autrefois, un mois en ville aujourd'hui. Les noms et le rôle des masques changent d'un peuple à l'autre, et la liste des makishi obligatoires n'est pas la même chez les Chokwe et chez les Luvale. Le mot makishi, qui désigne ici des masques d'ancêtres, est apparenté au kishi des contes mbundu, un ogre (voir sa fiche), mais les deux notions ne se confondent pas."
+}
