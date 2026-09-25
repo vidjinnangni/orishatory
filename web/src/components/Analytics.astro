@@ -1,0 +1,22 @@
+---
+// Rendu uniquement si PUBLIC_GA_ID est défini (voir .env.example) : rien n'est
+// chargé ni envoyé à Google tant que la variable n'est pas configurée, donc
+// pas de tracking en développement local par défaut.
+const gaId = import.meta.env.PUBLIC_GA_ID;
+---
+
+{
+  gaId && (
+    <>
+      <script async is:inline src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`} />
+      <script is:inline define:vars={{ gaId }}>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+          dataLayer.push(arguments);
+        }
+        gtag("js", new Date());
+        gtag("config", gaId);
+      </script>
+    </>
+  )
+}
