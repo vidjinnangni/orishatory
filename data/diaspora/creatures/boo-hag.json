@@ -1,0 +1,52 @@
+{
+  "id": "boo-hag",
+  "nom": "Boo hag",
+  "variantes": [
+    "Hag",
+    "Old hag",
+    "Boo-hag"
+  ],
+  "region": "diaspora",
+  "categorie": "creatures",
+  "peuples": [
+    "Gullah Geechee (côtes et îles de Caroline du Sud et de Géorgie)"
+  ],
+  "resume": "Créature du folklore gullah du Lowcountry, sur les côtes de Caroline du Sud et de Géorgie : un être qui quitte sa peau la nuit pour entrer dans les maisons et « chevaucher » les dormeurs, dont il aspire le souffle. La victime se réveille épuisée. Le sel, le poivre, un balai laissé près du lit et le bleu des portes passent pour la tenir à distance.",
+  "description_detaillee": "Le boo hag appartient aux traditions des Gullah Geechee, les descendants des Africains réduits en esclavage dans les rizières et les plantations des basses terres côtières et des Sea Islands de Caroline du Sud et de Géorgie. Leur relatif isolement a conservé une langue créole et un fonds de récits où l'on reconnaît des héritages ouest et centre-africains. Le hag y désigne un être malfaisant : une personne vivante dotée de pouvoirs nocturnes, l'esprit d'une morte, ou un esprit envoyé par un conjureur contre ses ennemis.\n\nLe jour, il porte une peau humaine et passe inaperçu. La nuit, il l'ôte, se glisse dans les maisons par les fentes, s'assoit sur la poitrine du dormeur et le « monte » comme un cheval. Il ne boit pas le sang mais le souffle et la force vitale. Celui qu'on a chevauché se réveille à bout de forces, parfois incapable de parler, et des visites répétées finiraient par le faire dépérir. Les parades sont nombreuses : jeter du sel, ou disperser un mélange de sel et de piment dans la chambre ; saler la peau abandonnée pour que le hag ne puisse plus la remettre ; laisser un balai près du lit ou devant la porte, dont il doit compter chaque brin jusqu'à ce que le jour le surprenne. On attribue la même fonction protectrice au « haint blue », le bleu dont on peint portes et encadrements dans le Lowcountry.\n\nLa croyance est attestée tôt. Jacob Stroyer, né esclave en Caroline du Sud en 1849, raconte dans ses souvenirs que les esclaves parlaient de « witches », aussi appelées « old hags », qui chevauchaient les gens pendant leur sommeil, la salive qui coule sur la joue du dormeur servant de bride ; on répandait contre elles du sel et du piment rouge pilés. Au milieu du 20e siècle, Cornelia Walker Bailey évoque encore « le hag qui vous chevauche » dans son récit d'enfance à Sapelo, en Géorgie.\n\nLe boo hag a de proches parents dans toute l'Afrique atlantique et la Caraïbe : la soucouyant de Trinité et des Petites Antilles, l'ol' higue de Guyana et de Jamaïque, le loogaroo haïtien, qui tous quittent leur peau la nuit et se laissent piéger par des grains à compter ou par le sel. Giselle Liza Anatol a étudié ces figures ensemble, du sud des États-Unis aux Antilles. L'expérience décrite, celle de se réveiller oppressé et paralysé sous un poids invisible, rejoint aussi la tradition anglo-américaine de l'« Old Hag », ce qui rend difficile de démêler ce qui vient d'Afrique et ce qui vient d'Europe dans le personnage gullah.",
+  "domaines": [
+    "nuit",
+    "sommeil",
+    "souffle vital",
+    "peur"
+  ],
+  "tags": [
+    "metamorphose",
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "soucouyant",
+      "hoodoo-rootwork",
+      "les-africains-qui-volent"
+    ]
+  },
+  "attributs": [
+    "peau retirée la nuit",
+    "« chevauchée » du dormeur",
+    "sel et piment",
+    "balai aux brins à compter",
+    "bleu des portes (haint blue)"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Figure toujours présente dans les récits, le tourisme culturel et la littérature jeunesse du Lowcountry ; ce n'est pas l'objet d'un culte.",
+  "sources": [
+    "Stroyer, J. (1885). My Life in the South",
+    "Bailey, C.W. (2000). God, Dr. Buzzard, and the Bolito Man: A Saltwater Geechee Talks about Life on Sapelo Island",
+    "Anatol, G.L. (2015). The Things That Fly in the Night: Female Vampires in Literature of the Circum-Caribbean and African Diaspora",
+    "Morris, N.M. (2016). Boo Hag. In Fee, C.R. & Webb, J.B. (dir.), American Myths, Legends, and Tall Tales: An Encyclopedia of American Folklore"
+  ],
+  "notes": "Le terme « boo hag » lui-même n'apparaît pas dans les témoignages les plus anciens, qui parlent de « hag » ou de « witch ». La part des héritages africains et européens dans la figure est discutée, la « chevauchée » nocturne ayant des équivalents dans les folklores des deux continents. Les moyens de protection varient selon les conteurs, et l'association au bleu des portes, très diffusée aujourd'hui, est surtout documentée par des sources récentes."
+}

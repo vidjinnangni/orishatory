@@ -1,0 +1,76 @@
+{
+  "id": "vodou-haitien",
+  "nom": "Vodou haïtien",
+  "variantes": [
+    "Vodou",
+    "Vaudou",
+    "Vodoun",
+    "Sèvis lwa",
+    "Voodoo (graphie anglo-saxonne)"
+  ],
+  "region": "diaspora",
+  "categorie": "rites",
+  "peuples": [
+    "Haïtiens",
+    "Diaspora haïtienne (États-Unis, Canada, France, Caraïbe)"
+  ],
+  "resume": "Religion formée dans la colonie française de Saint-Domingue à partir des cultes apportés par des captifs du golfe du Bénin et d'Afrique centrale, recomposés au contact du catholicisme. Ses fidèles servent des esprits, les lwa, par des offrandes, des chants, des danses et la possession, sous la conduite de prêtres et de prêtresses (oungan et manbo). Longtemps interdite ou combattue, elle a été reconnue comme religion par l'État haïtien en 2003.",
+  "description_detaillee": "Le vodou est la religion populaire d'Haïti, née pendant la période coloniale dans les plantations de Saint-Domingue. Son nom vient des vodun, les puissances divines des Fon et des peuples gbe du golfe du Bénin, dont une grande partie des captifs déportés dans la colonie étaient originaires ; les traditions kongo d'Afrique centrale y ont pesé d'un poids comparable, et des apports yoruba et d'autres régions s'y sont ajoutés. Les pratiquants ne disent pas qu'ils « croient » au vodou mais qu'ils servent les lwa : les esprits qui gouvernent les domaines de l'existence et qui se tiennent entre les humains et Bondye, le dieu créateur, jugé trop lointain pour qu'on s'adresse directement à lui.\n\nLes lwa sont rangés en « nations » (nanchon) qui gardent la mémoire de leur provenance. Les Rada, dont le nom renvoie au royaume d'Allada, rassemblent des esprits d'origine fon, réputés doux et fiables : Legba qui ouvre toute cérémonie, Damballa et Ayida-Wédo, les Ogou, les Ezili. Les Petwo, associés aux Kongo, sont dits chauds, prompts et exigeants. Moreau de Saint-Méry signale dès 1768, à Petit-Goâve, une « danse à Dom Pèdre » introduite par un homme venu de la partie espagnole de l'île, et l'on y voit souvent l'origine du nom ; l'histoire réelle de ce rite reste discutée. La famille des Gede, esprits des morts menés par Baron Samedi, forme un groupe à part. Le culte se tient dans l'ounfò, le temple, autour d'un poteau central (poto mitan) par où descendent les esprits. L'oungan ou la manbo y dirige une communauté d'initiés, les ounsi, formés par le kanzo ; chaque maison est autonome et il n'existe aucune autorité centrale. Au cours des cérémonies, les lwa sont appelés par les tambours et les chants et viennent « monter » leurs serviteurs, qui deviennent alors leurs « chevaux ».\n\nLe rapport au catholicisme est ancien. Le Code noir de 1685 imposait le baptême et interdisait tout autre culte, et les images des saints sont devenues des visages pour les lwa : Ogou est associé à saint Jacques le Majeur, Ezili à la Vierge. Leslie Desmangles parle de « symbiose » plutôt que de fusion : les deux systèmes coexistent, et beaucoup de pratiquants vont à la messe avant de servir les lwa. L'Église, elle, a longtemps fait du vodou son adversaire. Après la cérémonie du Bois-Caïman de 1791, souvent présentée comme le déclenchement religieux de l'insurrection, les dirigeants de l'Haïti indépendante ont eux-mêmes tenu le culte à distance. Le Code pénal de 1835 réprimait les « sortilèges », et ces dispositions, reformulées ensuite contre les « pratiques superstitieuses », sont restées en vigueur jusqu'en 1987 selon Kate Ramsey. Le concordat de 1860 fit revenir un clergé français qui mena des campagnes répétées ; sous l'occupation américaine (1915-1934), l'image du « voodoo » des zombis et de la magie noire s'est fixée dans la culture populaire des États-Unis. En 1941, avec l'appui du président Élie Lescot, la « campagne des rejetés » obligea les fidèles à abjurer publiquement, tandis que des temples étaient pillés et leurs objets brûlés. Après la chute de Jean-Claude Duvalier en 1986, des pratiquants accusés d'avoir soutenu la dictature furent lynchés.\n\nLa Constitution de 1987 a proclamé la liberté de tous les cultes et abrogé les lois contre les « pratiques superstitieuses ». Le 4 avril 2003, un arrêté du président Jean-Bertrand Aristide a reconnu le vodou comme religion à part entière et permis aux responsables de temples reconnus de célébrer baptêmes, mariages et funérailles. La reconnaissance reste fragile face à l'hostilité d'une partie des Églises catholique et protestantes. Le vodou vit aujourd'hui aussi dans la diaspora haïtienne, de Brooklyn à Montréal, et sa parenté avec le vodun du Bénin, le candomblé brésilien ou la santería cubaine fait de lui l'un des grands ensembles religieux nés de la traite atlantique.",
+  "domaines": [
+    "service des esprits",
+    "possession",
+    "guérison",
+    "ancêtres et morts",
+    "mémoire de l'esclavage"
+  ],
+  "tags": [
+    "diaspora-survivance",
+    "ancetres",
+    "initiation"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "papa-legba",
+      "damballa",
+      "ayida-wedo",
+      "ezili",
+      "ogou",
+      "baron-samedi",
+      "gede",
+      "kanzo",
+      "zombi",
+      "baka",
+      "legba-fon",
+      "dan-aido-hwedo",
+      "mawu-lisa",
+      "gu",
+      "simbi",
+      "makandal",
+      "candomble",
+      "santeria"
+    ]
+  },
+  "attributs": [
+    "ounfò (temple)",
+    "poto mitan (poteau central)",
+    "asson (hochet sacerdotal)",
+    "tambours",
+    "vèvè (dessins rituels tracés au sol)",
+    "images de saints catholiques"
+  ],
+  "recits_associes": [
+    "ceremonie-bois-caiman"
+  ],
+  "culte_contemporain": "Pratiqué dans toute Haïti et dans la diaspora haïtienne, notamment à New York, Miami et Montréal. Reconnu comme religion par l'arrêté présidentiel du 4 avril 2003, qui autorise les responsables de temples reconnus à célébrer baptêmes, mariages et funérailles.",
+  "sources": [
+    "Métraux, A. (1958). Le Vaudou haïtien",
+    "Desmangles, L.G. (1992). The Faces of the Gods: Vodou and Roman Catholicism in Haiti",
+    "Cosentino, D.J. (dir.) (1995). Sacred Arts of Haitian Vodou",
+    "Ramsey, K. (2011). The Spirits and the Law: Vodou and Power in Haiti",
+    "Hurbon, L. (2023). Haitian Vodou. In Stein, F. (dir.), The Open Encyclopedia of Anthropology"
+  ],
+  "notes": "La part respective des héritages fon et kongo fait débat, et le nombre des « nations » de lwa varie selon les maisons et les régions (on parle souvent de vingt et une nations, Rada et Petwo étant les principales). L'origine du rite Petwo est rapportée à un certain Dom Pèdre mentionné par Moreau de Saint-Méry pour 1768, mais Hurbon cite une autre figure et une autre date ; le rattachement reste incertain. Le rôle exact du vodou dans la cérémonie du Bois-Caïman dépend de sources postérieures aux faits. La graphie « voodoo » renvoie surtout aux représentations américaines et au vodou de Louisiane, distinct du vodou haïtien."
+}
