@@ -6,11 +6,16 @@ import { ALL_ENTITIES } from "../lib/data";
 
 const regionLabelsJson = JSON.stringify(REGION_LABELS);
 const categoryLabelsJson = JSON.stringify(CATEGORY_LABELS_SINGULAR);
+const breadcrumb = [{ label: "Accueil", href: "/" }, { label: "Recherche" }];
 ---
 
-<BaseLayout title="Recherche" description="Rechercher une figure, un peuple ou un récit dans le codex.">
+<BaseLayout
+  title="Recherche"
+  description="Rechercher une figure, un peuple ou un récit dans le codex."
+  breadcrumb={breadcrumb}
+>
   <div class="container">
-    <Breadcrumb items={[{ label: "Accueil", href: "/" }, { label: "Recherche" }]} />
+    <Breadcrumb items={breadcrumb} />
   </div>
 
   <section class="container intro">

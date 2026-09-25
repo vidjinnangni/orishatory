@@ -1,11 +1,15 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Breadcrumb from "../components/Breadcrumb.astro";
+
+const breadcrumb = [{ label: "Accueil", href: "/" }, { label: "À propos" }];
+const description =
+  "Le projet Orishatory : objectif du codex, découpage par grande aire culturelle, exigence de sourçage et licence.";
 ---
 
-<BaseLayout title="À propos">
+<BaseLayout title="À propos" description={description} breadcrumb={breadcrumb}>
   <div class="container">
-    <Breadcrumb items={[{ label: "Accueil", href: "/" }, { label: "À propos" }]} />
+    <Breadcrumb items={breadcrumb} />
   </div>
 
   <article class="container prose page">

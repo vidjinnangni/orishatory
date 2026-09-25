@@ -24,27 +24,27 @@ export function getStaticPaths() {
 
 const { region, categorie } = Astro.params as { region: Region; categorie: Categorie };
 const entities = getEntitiesByRegionAndCategorie(region, categorie);
+
+const description = `${CATEGORY_DESCRIPTIONS[categorie]} - ${REGION_LABELS[region]}.`;
+const breadcrumb = [
+  { label: "Accueil", href: "/" },
+  { label: REGION_LABELS[region], href: `/${region}/` },
+  { label: CATEGORY_LABELS[categorie] },
+];
 ---
 
 <BaseLayout
   title={`${CATEGORY_LABELS[categorie]} · ${REGION_LABELS[region]}`}
-  description={CATEGORY_DESCRIPTIONS[categorie]}
+  description={description}
+  breadcrumb={breadcrumb}
 >
   <div class="container">
-    <Breadcrumb
-      items={[
-        { label: "Accueil", href: "/" },
-        { label: REGION_LABELS[region], href: `/${region}/` },
-        { label: CATEGORY_LABELS[categorie] },
-      ]}
-    />
+    <Breadcrumb items={breadcrumb} />
   </div>
 
   <section class="container intro">
     <h1><CategoryIcon categorie={categorie} />{CATEGORY_LABELS[categorie]}</h1>
-    <p class="lede">
-      {CATEGORY_DESCRIPTIONS[categorie]} - {REGION_LABELS[region]}.
-    </p>
+    <p class="lede">{description}</p>
   </section>
 
   <section class="container">

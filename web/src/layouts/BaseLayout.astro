@@ -5,14 +5,57 @@ import Analytics from "../components/Analytics.astro";
 import ConsentBanner from "../components/ConsentBanner.astro";
 import "../styles/global.css";
 
-interface Props {
-  title: string;
-  description?: string;
+export interface Crumb {
+  label: string;
+  href?: string;
 }
 
-const { title, description = "Une base de données ouverte sur les mythologies du continent africain et de ses diasporas." } = Astro.props;
+interface Props {
+  title: string;
+  /** Rendu tel quel dans <title>, sans suffixe " · Orishatory" — pour la page d'accueil. */
+  appendSiteName?: boolean;
+  description?: string;
+  /** Chemin absolu (ex: "/og-image.png") ou URL complète. */
+  image?: string;
+  type?: "website" | "article";
+  /** Alimente à la fois le fil d'Ariane visuel (voir Breadcrumb.astro) et le JSON-LD BreadcrumbList. */
+  breadcrumb?: Crumb[];
+  jsonLd?: Record<string, unknown> | Record<string, unknown>[];
+}
+
+const {
+  title,
+  appendSiteName = true,
+  description = "Une base de données ouverte sur les mythologies du continent africain et de ses diasporas.",
+  image = "/og-image.png",
+  type = "website",
+  breadcrumb,
+  jsonLd,
+} = Astro.props;
+
+const pageTitle = appendSiteName ? `${title} · Orishatory` : title;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const imageURL = new URL(image, Astro.site);
 
 const googleSiteVerification = import.meta.env.PUBLIC_GOOGLE_SITE_VERIFICATION;
+
+const breadcrumbJsonLd =
+  breadcrumb && breadcrumb.length > 0
+    ? {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        itemListElement: breadcrumb.map((item, i) => ({
+          "@type": "ListItem",
+          position: i + 1,
+          name: item.label,
+          ...(item.href ? { item: new URL(item.href, Astro.site).toString() } : {}),
+        })),
+      }
+    : null;
+
+const jsonLdBlocks = [breadcrumbJsonLd, ...(jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [])].filter(
+  Boolean,
+);
 ---
 
 <html lang="fr">
@@ -20,10 +63,27 @@ const googleSiteVerification = import.meta.env.PUBLIC_GOOGLE_SITE_VERIFICATION;
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="canonical" href={canonicalURL} />
     <meta name="description" content={description} />
     <meta name="generator" content={Astro.generator} />
     {googleSiteVerification && <meta name="google-site-verification" content={googleSiteVerification} />}
-    <title>{title} · Orishatory</title>
+
+    <meta property="og:type" content={type} />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:site_name" content="Orishatory" />
+    <meta property="og:locale" content="fr_FR" />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={imageURL} />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={imageURL} />
+
+    {jsonLdBlocks.map((block) => <script type="application/ld+json" set:html={JSON.stringify(block)} />)}
+
+    <title>{pageTitle}</title>
     <Analytics />
   </head>
   <body>

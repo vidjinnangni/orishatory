@@ -8,9 +8,25 @@ const regionCounts = REGIONS.map((region) => ({
   region,
   count: getEntitiesByRegion(region).length,
 }));
+
+const description =
+  "Codex ouvert et sourcé des mythologies africaines et de leurs diasporas : divinités, héros, créatures, récits et rites, organisés par grande aire culturelle plutôt que comme un bloc uniforme.";
+
+const websiteJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: "Orishatory",
+  url: Astro.site?.toString(),
+  description,
+  potentialAction: {
+    "@type": "SearchAction",
+    target: `${Astro.site}recherche/?q={search_term_string}`,
+    "query-input": "required name=search_term_string",
+  },
+};
 ---
 
-<BaseLayout title="Accueil">
+<BaseLayout title="Orishatory — Codex des mythologies africaines et de leurs diasporas" appendSiteName={false} description={description} jsonLd={websiteJsonLd}>
   <section class="hero container">
     <!-- <p class="eyebrow">Base de données ouverte</p> -->
     <h1>Les mythologies du continent africain et de ses diasporas</h1>

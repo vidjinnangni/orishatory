@@ -24,11 +24,13 @@ const categoryCounts = CATEGORIES.map((categorie) => ({
   categorie,
   count: getEntitiesByRegionAndCategorie(region, categorie).length,
 }));
+
+const breadcrumb = [{ label: "Accueil", href: "/" }, { label: REGION_LABELS[region] }];
 ---
 
-<BaseLayout title={REGION_LABELS[region]} description={REGION_DESCRIPTIONS[region]}>
+<BaseLayout title={REGION_LABELS[region]} description={REGION_DESCRIPTIONS[region]} breadcrumb={breadcrumb}>
   <div class="container">
-    <Breadcrumb items={[{ label: "Accueil", href: "/" }, { label: REGION_LABELS[region] }]} />
+    <Breadcrumb items={breadcrumb} />
   </div>
 
   <section class="container intro">

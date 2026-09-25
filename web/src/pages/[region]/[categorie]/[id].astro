@@ -6,6 +6,7 @@ import Pill from "../../../components/Pill.astro";
 import {
   CATEGORIES,
   CATEGORY_LABELS,
+  CATEGORY_LABELS_SINGULAR,
   REGIONS,
   REGION_LABELS,
   type Categorie,
@@ -49,18 +50,35 @@ const descriptionParagraphs = entity.description_detaillee?.split(/\n{2,}/).filt
 
 const recitsAssocies = entity.recits_associes.map(relatedLink);
 const tags = entity.tags.map((id) => ({ id, label: getTagById(id)?.label ?? id }));
+
+const breadcrumb = [
+  { label: "Accueil", href: "/" },
+  { label: REGION_LABELS[region], href: `/${region}/` },
+  { label: CATEGORY_LABELS[categorie], href: `/${region}/${categorie}/` },
+  { label: entity.nom },
+];
+
+const entityJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  name: entity.nom,
+  ...(entity.variantes.length > 0 ? { alternateName: entity.variantes } : {}),
+  description: entity.resume,
+  inLanguage: "fr",
+  url: new URL(entityHref(entity), Astro.site).toString(),
+  inDefinedTermSet: Astro.site?.toString(),
+};
 ---
 
-<BaseLayout title={entity.nom} description={entity.resume}>
+<BaseLayout
+  title={`${entity.nom} — ${CATEGORY_LABELS_SINGULAR[categorie]}`}
+  description={entity.resume}
+  type="article"
+  breadcrumb={breadcrumb}
+  jsonLd={entityJsonLd}
+>
   <div class="container">
-    <Breadcrumb
-      items={[
-        { label: "Accueil", href: "/" },
-        { label: REGION_LABELS[region], href: `/${region}/` },
-        { label: CATEGORY_LABELS[categorie], href: `/${region}/${categorie}/` },
-        { label: entity.nom },
-      ]}
-    />
+    <Breadcrumb items={breadcrumb} />
   </div>
 
   <article class="container entity">

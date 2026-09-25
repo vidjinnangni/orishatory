@@ -86,3 +86,29 @@ Un sitemap XML est généré automatiquement au build par `@astrojs/sitemap`
 
 Penser à mettre à jour `site` dans `astro.config.mjs` (et le `Sitemap:` de
 `public/robots.txt`) si un domaine personnalisé remplace `orishatory.vercel.app`.
+
+## SEO (balises par page)
+
+Tout passe par les props de [`src/layouts/BaseLayout.astro`](src/layouts/BaseLayout.astro),
+que chaque page renseigne :
+
+| Prop            | Rôle                                                                 |
+| --------------- | --------------------------------------------------------------------- |
+| `title`         | Suffixé automatiquement par « · Orishatory » (sauf `appendSiteName={false}`, utilisé sur l'accueil) |
+| `description`   | `<meta name="description">` + `og:description` + `twitter:description` |
+| `image`         | `og:image` / `twitter:image` — par défaut `/og-image.png` (1200×630) |
+| `type`          | `og:type` : `website` (pages de liste) ou `article` (fiches)          |
+| `breadcrumb`    | Alimente à la fois le `<Breadcrumb>` visuel et le JSON-LD `BreadcrumbList` |
+| `jsonLd`        | Données structurées additionnelles (`WebSite`+`SearchAction` sur l'accueil, `DefinedTerm` sur chaque fiche) |
+
+Une URL canonique (`<link rel="canonical">`) est calculée automatiquement à
+partir de `site` (voir `astro.config.mjs`) et du chemin de la page — pas besoin
+de la gérer manuellement.
+
+Chaque fiche du codex est marquée en JSON-LD `DefinedTerm` (nom, variantes en
+`alternateName`, résumé, URL canonique), ce qui aide Google à comprendre qu'il
+s'agit d'entrées d'un même codex de référence plutôt que de pages isolées.
+
+`public/og-image.png` est une image de partage générique (1200×630, générée
+manuellement, pas de build automatique) : à remplacer si l'identité visuelle
+change.
