@@ -1,0 +1,46 @@
+{
+  "id": "lukeni-lua-nimi",
+  "nom": "Lukeni lua Nimi",
+  "variantes": [
+    "Nimi a Lukeni"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "heros",
+  "peuples": [
+    "Kongo"
+  ],
+  "resume": "Lukeni lua Nimi est le fondateur du royaume de Kongo selon les traditions recueillies aux XVIIe et XVIIIe siècles. Venu de Vungu, au nord du fleuve Congo, il aurait franchi le fleuve, conquis le pays et établi sa capitale à Mbanza Kongo, dans l'actuel nord de l'Angola. Les historiens le situent dans la seconde moitié du XIVe siècle, sans pouvoir séparer nettement le personnage de la légende qui l'entoure.",
+  "description_detaillee": "Lukeni lua Nimi est le héros fondateur du royaume de Kongo, l'État qui dominait le bas fleuve Congo quand les Portugais y arrivèrent au début des années 1480. Les récits de ses origines, transmis oralement puis notés par des missionnaires, ont servi pendant des siècles à dire ce qu'était un roi de Kongo et quels étaient les droits des provinces qui le reconnaissaient. Ils sont aussi, faute d'écrits antérieurs, l'une des principales sources sur la formation des premiers grands États d'Afrique centrale.\n\nLa version officielle fut notée par le jésuite Mateus Cardoso lors du couronnement de Pedro II en 1622 : le fondateur, venu de Vungu sur la rive nord, traverse le fleuve, conquiert rapidement le pays et distribue les provinces à ses compagnons. Le Mbata n'est pas conquis mais allié, et les deux souverains échangent des épouses. D'autres traditions, recueillies par le capucin Girolamo da Montesarchio et reprises par Giovanni Antonio Cavazzi, font de Lukeni le fils de Nimi a Nzima, maître du petit territoire de Mpemba Kasi, et de Lukeni lua Nsanze, fille du Nsaku Lau, la lignée régnante du Mbata. Cavazzi rapporte aussi l'épisode qui fait sa réputation : chargé d'un passage de rivière, le jeune homme tue une tante enceinte qui refuse d'acquitter le péage. En 1710, Francesco da Pavia décrit au contraire le fondateur comme un forgeron sage et habile qui règle les différends.\n\nPour l'historien John Thornton, ces écarts ne sont pas de simples variantes d'un texte originel. Chaque version exprime une conception du pouvoir propre à son époque : au temps de Cavazzi, le meurtre de la tante montre un roi assez puissant pour faire respecter la loi contre sa propre parenté ; après les guerres civiles de la fin du XVIIe siècle, le roi forgeron incarne la réconciliation. Thornton a aussi montré que le nom de Nimi a Lukeni, popularisé au XXe siècle par le missionnaire Jean Cuvelier, provient de traditions tardives, et il reconstruit plutôt celui de Lukeni lua Nimi. Dans ses travaux récents, il propose de voir dans la naissance du Kongo une conquête progressive d'un royaume plus ancien, le Mpemba, appuyée sur une série d'alliances, commencée vers 1350 et poursuivie sur plusieurs générations, plutôt que l'œuvre d'un seul conquérant.\n\nMbanza Kongo, la capitale que la tradition attribue au fondateur, est inscrite depuis 2017 sur la Liste du patrimoine mondial de l'UNESCO. Le souvenir de l'unité fondée par Lukeni a pesé longtemps dans l'histoire du royaume : lors des guerres civiles, Kimpa Vita appela à réoccuper cette capitale abandonnée pour refaire l'unité du pays (voir sa fiche).",
+  "domaines": [
+    "fondation royale",
+    "conquête",
+    "loi"
+  ],
+  "tags": [
+    "royaute-sacree",
+    "forge-artisanat"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "kimpa-vita",
+      "nzambi-a-mpungu"
+    ]
+  },
+  "attributs": [
+    "passage de rivière et péage",
+    "forge (version de Francesco da Pavia)",
+    "Mbanza Kongo"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Thornton, J.K. (2001). The Origins and Early History of the Kingdom of Kongo, c. 1350-1550. International Journal of African Historical Studies, 34(1), 89-120",
+    "Thornton, J.K. (2018). The Origins of Kongo: A Revised Vision. In Bostoen, K. & Brinkman, I. (dir.), The Kongo Kingdom: The Origins, Dynamics and Cosmopolitan Culture of an African Polity",
+    "Thornton, J.K. (2025). The Emergence of Social and Political Complexity in West Central Africa. Journal of African History, 66, e25",
+    "UNESCO (2017). Mbanza Kongo, vestiges de la capitale de l'ancien Royaume du Kongo. Liste du patrimoine mondial"
+  ],
+  "notes": "Le nom du fondateur varie selon les sources (Lukeni lua Nimi ou Nimi a Lukeni), de même que son point de départ : l'essentiel des traditions le fait venir de Vungu, au nord du fleuve, mais un récit rapporté par António de Oliveira de Cadornega en 1680 fait venir les fondateurs de l'est, du Kongo dia Nlaza. Les dates proposées (règne vers 1380-1420, ou début du processus vers 1350) reposent sur des calculs généalogiques. Le rôle du Mbata et de la lignée Nsaku Lau dans la fondation a lui aussi évolué d'une version à l'autre."
+}

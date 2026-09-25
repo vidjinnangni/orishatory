@@ -24,7 +24,9 @@
   "genealogie": {
     "parents": [],
     "conjoints": [],
-    "enfants": [],
+    "enfants": [
+      "kalala-ilunga"
+    ],
     "entites_liees": [
       "nkongolo-mwamba",
       "bulopwe",

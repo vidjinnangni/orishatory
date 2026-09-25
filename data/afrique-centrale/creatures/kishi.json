@@ -1,0 +1,46 @@
+{
+  "id": "kishi",
+  "nom": "Kishi",
+  "variantes": [
+    "Di-kishi",
+    "Dikishi",
+    "Makishi (pluriel)",
+    "Ma-kishi",
+    "Makixi"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "creatures",
+  "peuples": [
+    "Mbundu"
+  ],
+  "resume": "Le kishi (pluriel makishi) est un ogre anthropophage des contes mbundu (Kimbundu) d'Angola, connus surtout par le recueil publié par Héli Chatelain en 1894. Ces êtres vivent en communautés, ont une longue chevelure emmêlée et parfois plusieurs têtes. L'image d'un kishi à deux visages, humain et hyène, largement répandue sur Internet, ne se retrouve pas dans ces sources anciennes.",
+  "description_detaillee": "Le kishi appartient aux misoso, les contes de fiction des Mbundu (ou Ambundu), peuple de langue kimbundu établi autour de Luanda et dans la vallée du Kwanza. On le connaît principalement par les Folk-Tales of Angola du linguiste et missionnaire suisse Héli Chatelain (1894), qui donnent les textes en kimbundu avec leur traduction. Dans ces récits, les makishi forment une catégorie d'êtres plutôt qu'un personnage unique : ils ont leurs villages, leurs chefs et leurs familles, et ils mangent les humains.\n\nPlusieurs contes les mettent en scène. Dans « Ngana Samba et les makishi », un kishi trouve une jeune femme restée seule dans la savane après une chasse, la trouve à son goût et l'épouse malgré ses compagnons qui veulent la manger ; elle lui donne trois enfants, puis s'enfuit en semant derrière elle des graines que son mari s'arrête à ramasser, et traverse une rivière en crue qu'il ne peut franchir. Dans « Les jeunes filles et les makishi », des filles qui fréquentent chaque soir leurs « amis » makishi découvrent qu'ils complotent de les tuer ; réfugiées dans un arbre que les makishi abattent, elles ne sont sauvées que par un épervier qui les emporte une à une en lieu sûr, la plus jeune au moment même où l'arbre tombe. Dans le cycle du héros Sudika-mbambi, les makishi ravagent le village de Kimanaueze et le héros part les combattre. Un autre récit montre une femme enlevée par un kishi, menacée d'être mangée si elle met au monde un enfant à une seule tête.\n\nD'après les informateurs de Chatelain, on reconnaît les makishi à leurs longs cheveux emmêlés qui leur tombent sur le visage ; certains ont plusieurs têtes, et l'un d'eux en fait repousser une aussitôt qu'on la lui tranche. La folkloriste Alice Werner les range, en 1933, parmi les ogres des contes bantous, aux côtés des amazimu zoulous, et rapproche leur nom du kongo nkisi, qui désignait un esprit (voir la fiche nkisi). Chatelain avait proposé d'y voir le souvenir déformé des populations pygmées rencontrées par les premiers agriculteurs bantous ; Werner a rejeté cette hypothèse, faute de témoignages présentant les Pygmées comme anthropophages.\n\nLe kishi des contes mbundu ne doit pas être confondu avec les makishi (singulier likishi) des Chokwe, Luvale et peuples voisins : ce sont des masques incarnant des ancêtres, qui interviennent notamment dans l'initiation masculine du mukanda (voir cette fiche). La parenté des mots est réelle, mais les deux notions désignent des réalités très différentes.",
+  "domaines": [
+    "danger",
+    "savane et brousse",
+    "mariage avec l'étranger"
+  ],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "nkisi",
+      "mukanda"
+    ]
+  },
+  "attributs": [
+    "longue chevelure emmêlée",
+    "têtes multiples",
+    "anthropophagie",
+    "villages de makishi"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Chatelain, H. (1894). Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English Translation, Introduction, and Notes",
+    "Werner, A. (1933). Myths and Legends of the Bantu"
+  ],
+  "notes": "De nombreux sites et bestiaires en ligne décrivent le kishi comme un démon à deux visages, un beau visage d'homme devant et une face de hyène derrière, cachée par les cheveux, qui séduit les jeunes femmes pour les dévorer. Cette description ne figure pas dans Chatelain, qui parle de têtes multiples et de cheveux emmêlés, et aucune source ancienne vérifiée ici ne l'atteste ; son origine reste à établir. Le motif d'un prétendant ogre trahi par une seconde bouche derrière la tête existe ailleurs dans les contes bantous : Werner le signale chez les Chaga, à propos de l'irimu. Le terme kimbundu s'écrit aussi makixi dans l'orthographe portugaise."
+}

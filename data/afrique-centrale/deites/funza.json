@@ -1,0 +1,52 @@
+{
+  "id": "funza",
+  "nom": "Funza",
+  "variantes": [
+    "Funza dya Monzi",
+    "Mukwanga Funza"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "deites",
+  "peuples": [
+    "Kongo"
+  ],
+  "resume": "Funza est, dans la religion kongo, une grande puissance des eaux, présentée comme le premier et le plus grand des bisimbi, les esprits attachés aux sources et aux rivières. Les textes kongo du début du XXe siècle lui attribuent l'origine de nombreux minkisi, qu'il fait surgir de l'eau pour les donner aux humains. Il est aussi associé aux jumeaux et aux enfants nés avec des traits hors du commun, que les Kongo tiennent pour des incarnations des esprits de l'eau.",
+  "description_detaillee": "Chez les Kongo du bas fleuve Congo, Funza appartient au monde des bisimbi, les esprits des sources, des mares et des rochers (voir la fiche simbi). Il n'en est pas un parmi d'autres : les textes rédigés en kikongo au début du XXe siècle pour le missionnaire suédois Karl Laman, que l'anthropologue Wyatt MacGaffey a traduits, le désignent comme « le grand esprit simbi ». Il compte parce qu'il se tient à l'origine des minkisi, ces réceptacles rituels qui servent à soigner, protéger et rendre justice (voir la fiche nkisi).\n\nPlusieurs de ces textes racontent comment un nkisi est venu de l'eau par son intermédiaire. Pour le nkisi Nsansi, qui soignait l'épilepsie et aidait les nourrissons à reprendre le sein, Funza, voyant la maladie, s'approche d'un homme : une grande tache d'écume tourne sur la rivière, et au milieu tournoie une corbeille contenant un sac de remèdes en raphia, que l'homme rapporte au village. Pour un nkisi nkondi, Funza, voyant que les gens se « mangeaient » les uns les autres (l'image kongo des attaques invisibles), crée un tourbillon d'où sort un esprit, puis ordonne en rêve à un homme d'aller chercher la figure dans l'eau pour qu'elle garde le village ; cet homme en devient le prêtre. Le catalogue de la collection Laman recense d'ailleurs des minkisi qui portent eux-mêmes le nom de Funza.\n\nLe lien avec les jumeaux passe par cette appartenance au monde de l'eau. MacGaffey explique que les bisimbi s'incarnent dans les jumeaux et dans d'autres enfants hors du commun, et les textes de la collection Laman disent la même chose des albinos, tenus comme les jumeaux pour des incarnations des esprits de l'eau. Dans certains rituels, la mère de jumeaux avait un rôle que le spécialiste lui-même ne pouvait tenir : elle traçait les marques de bénédiction sur la patiente et devait bénir avant que le nganga puisse officier. Les présentations de synthèse font de Funza la divinité de ces naissances ; les sources primaires consultées établissent surtout le lien entre jumeaux et bisimbi, dont Funza est le chef.\n\nLa place de Funza par rapport à Nzambi a Mpungu (voir sa fiche) est discutée. Certains auteurs rapprochent les deux noms, voire les confondent, en faisant de « Nzambi-Funza » la source de tous les minkisi. MacGaffey, relisant les mêmes textes kongo, soutient que Nzambi fut d'abord une figure de la mort et que la puissance de vie revenait aux bisimbi, ce qui placerait Funza du côté de la fécondité plutôt que du dieu lointain des missionnaires.",
+  "domaines": [
+    "eau",
+    "jumeaux",
+    "naissances hors du commun",
+    "origine des minkisi"
+  ],
+  "tags": [
+    "jumeaux",
+    "eau",
+    "terre-fertilite"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "simbi",
+      "nkisi",
+      "nzambi-a-mpungu",
+      "mbumba-luangu"
+    ]
+  },
+  "attributs": [
+    "écume et tourbillon",
+    "corbeille flottante",
+    "sac de remèdes en raphia"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "MacGaffey, W. (1991). Art and Healing of the Bakongo Commented by Themselves: Minkisi from the Laman Collection",
+    "MacGaffey, W. (1986). Religion and Society in Central Africa: The BaKongo of Lower Zaire",
+    "MacGaffey, W. (2002). Twins, Simbi Spirits and Lwas in Kongo and Haiti. In Heywood, L.M. (dir.), Central Africans and Cultural Transformations in the American Diaspora",
+    "MacGaffey, W. (2022). Precolonial Beliefs in God, Nzambi, and Chthonic Beings: Evidence from Kongo Texts. Journal of Religion in Africa, 52(1-2), 1-21",
+    "Encyclopaedia Britannica (s.d.). Nkisi"
+  ],
+  "notes": "Le genre de Funza varie selon les présentations : les traductions de MacGaffey emploient le masculin, alors que certaines synthèses récentes en font un esprit féminin. L'association de Funza aux jumeaux et aux enfants malformés est courante dans la littérature de synthèse, mais elle n'a pu être vérifiée ici qu'indirectement, par le lien entre jumeaux et bisimbi. L'identification de Funza à Nzambi a Mpungu, reprise dans plusieurs ouvrages, repose sur un texte kongo du début du XXe siècle et n'est pas admise par tous les auteurs."
+}

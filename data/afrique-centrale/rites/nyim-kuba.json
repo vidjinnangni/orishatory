@@ -22,7 +22,9 @@
     "conjoints": [],
     "enfants": [],
     "entites_liees": [
-      "bumba"
+      "bumba",
+      "woot",
+      "shamba-bolongongo"
     ]
   },
   "attributs": [],

@@ -1,0 +1,54 @@
+{
+  "id": "woot",
+  "nom": "Woot",
+  "variantes": [
+    "Woto",
+    "Woot Makup",
+    "Wóót"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "heros",
+  "peuples": [
+    "Kuba",
+    "Bushoong",
+    "Lele"
+  ],
+  "resume": "Woot est l'ancêtre fondateur et héros civilisateur des traditions kuba, dans le Kasaï (République démocratique du Congo). On lui attribue l'usage des noms propres, la construction du premier village et plusieurs savoirs ; son inceste avec sa sœur provoque son départ et la dispersion de ses descendants. Les Kuba se désignent comme les « enfants de Woot ».",
+  "description_detaillee": "Woot occupe le point de départ des traditions historiques du royaume kuba, confédération de peuples établie entre le Kasaï et le Sankuru, dans le centre de l'actuelle République démocratique du Congo. Avant lui, disent les récits, tout le monde s'appelait « miim », « moi » ; c'est lui qui donna à chacun un nom propre et bâtit le premier village. Il est à la fois l'ancêtre commun des groupes kuba et de leurs voisins lele, et la référence qui fonde l'ordre politique : l'historien Jan Vansina a intitulé son histoire des Kuba « The Children of Woot ».\n\nLa version recueillie par l'ethnographe Emil Torday lors de son expédition de 1907-1909 le rattache à la création : Woot (« Woto » chez Torday) descend de Loko Yima, l'homme que Bumba laissa sur terre en se retirant (voir la fiche de Bumba). Le dieu lui révèle en rêve l'usage du fer, et on lui attribue l'introduction de la circoncision. Il s'éprend ensuite de sa propre sœur, dont le nom ne doit pas être prononcé chez Torday ; d'autres versions l'appellent Mweel. L'indignation du peuple le pousse à partir. Avant de s'en aller, il décide de transmettre la royauté au premier qui répondra à son appel au matin ; prévenu par un conseiller pygmée, son frère Nyimi Longa se présente dans la pénombre et reçoit les plumes d'aigle, insignes du pouvoir. Woot se venge en faisant mourir les poules et pourrir le millet, puis part vers le sud avec ses gens. Les six envoyés qui obtiennent de lui la levée de cette malédiction deviennent les ancêtres des grands conseillers du royaume.\n\nLes versions divergent sur plusieurs points. Chez Torday, l'enfant né de l'inceste, Nyimi Lele, s'exile et fonde le peuple lele. L'historien Isidore Ndaywel è Nziem, qui résume ces traditions, mentionne aussi un récit rapporté par Luc de Heusch : Woot, ivre, est moqué par ses fils mais recouvert par sa fille, qui s'approche de lui à reculons ; il décide alors que seuls les enfants de celle-ci hériteront, ce qui fonde la succession par les femmes. Dans d'autres variantes encore, c'est un fils-neveu, Nyimi Loong, qui l'emporte grâce à un Twa, et les héritiers écartés commencent alors leurs migrations.\n\nWoot reste présent dans l'art de cour. Selon les notices des musées qui le conservent, le masque royal mwaash aMbooy le représente et était porté par le roi (nyim) ou par des chefs lors des initiations et des funérailles ; le masque féminin ngady amwaash est souvent rapporté à sa sœur-épouse. Ces récits, transmis par les dignitaires de la cour, relèvent de la tradition orale officielle du royaume : Vansina et Ndaywel les lisent comme une construction qui justifie l'ordre politique et les institutions, plutôt que comme une chronique d'événements.",
+  "domaines": [
+    "origine des peuples",
+    "civilisation",
+    "royauté",
+    "matrilinéarité"
+  ],
+  "tags": [
+    "ancetres",
+    "royaute-sacree",
+    "forge-artisanat"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "bumba",
+      "nyim-kuba",
+      "shamba-bolongongo"
+    ]
+  },
+  "attributs": [
+    "plumes d'aigle huppé (insignes royaux)",
+    "masque mwaash aMbooy",
+    "fer"
+  ],
+  "recits_associes": [
+    "mythe-creation-bumba"
+  ],
+  "culte_contemporain": "",
+  "sources": [
+    "Vansina, J. (1978). The Children of Woot: A History of the Kuba Peoples",
+    "Torday, E. (1925). On the Trail of the Bushongo",
+    "Ndaywel è Nziem, I. (1998). Histoire générale du Congo : de l'héritage ancien à la République démocratique"
+  ],
+  "notes": "Le nom et la généalogie varient : Woto chez Torday, Woot ou Woot Makup chez les historiens ultérieurs. La sœur-épouse est anonyme chez Torday et nommée Mweel ailleurs. Le successeur de Woot est son frère Nyimi Longa chez Torday, un fils-neveu nommé Nyimi Loong dans d'autres versions, et la tradition lele fait de Nyimi Lele, né de l'inceste, l'ancêtre de ses chefs. Les descriptions diffusées sur Internet qui font naître Woot directement de Bumba ou le présentent comme fils d'un dieu du ciel ne s'appuient pas sur les sources citées ici."
+}
