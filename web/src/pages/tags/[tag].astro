@@ -10,11 +10,12 @@ export function getStaticPaths() {
 
 const { tag } = Astro.props as { tag: (typeof ALL_TAGS)[number] };
 const entities = getEntitiesByTag(tag.id);
+const breadcrumb = [{ label: "Accueil", href: "/" }, { label: "Tags", href: "/tags/" }, { label: tag.label }];
 ---
 
-<BaseLayout title={tag.label} description={`Fiches associées au tag ${tag.label}.`}>
+<BaseLayout title={tag.label} description={`Fiches associées au tag ${tag.label}.`} breadcrumb={breadcrumb}>
   <div class="container">
-    <Breadcrumb items={[{ label: "Accueil", href: "/" }, { label: "Tags", href: "/tags/" }, { label: tag.label }]} />
+    <Breadcrumb items={breadcrumb} />
   </div>
 
   <section class="container intro">

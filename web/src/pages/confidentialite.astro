@@ -3,11 +3,16 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import Breadcrumb from "../components/Breadcrumb.astro";
 
 const repoUrl = "https://github.com/vidjinnangni/orishatory";
+const breadcrumb = [{ label: "Accueil", href: "/" }, { label: "Confidentialité" }];
 ---
 
-<BaseLayout title="Confidentialité" description="Politique de confidentialité et gestion des cookies d'Orishatory.">
+<BaseLayout
+  title="Confidentialité"
+  description="Politique de confidentialité et gestion des cookies d'Orishatory."
+  breadcrumb={breadcrumb}
+>
   <div class="container">
-    <Breadcrumb items={[{ label: "Accueil", href: "/" }, { label: "Confidentialité" }]} />
+    <Breadcrumb items={breadcrumb} />
   </div>
 
   <article class="container prose page">

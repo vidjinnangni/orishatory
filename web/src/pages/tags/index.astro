@@ -7,11 +7,12 @@ const counts = getTagCounts();
 const tags = ALL_TAGS.map((tag) => ({ ...tag, count: counts.get(tag.id) ?? 0 })).sort(
   (a, b) => b.count - a.count,
 );
+const breadcrumb = [{ label: "Accueil", href: "/" }, { label: "Tags" }];
 ---
 
-<BaseLayout title="Tags" description="Motifs mythologiques récurrents à travers les régions.">
+<BaseLayout title="Tags" description="Motifs mythologiques récurrents à travers les régions." breadcrumb={breadcrumb}>
   <div class="container">
-    <Breadcrumb items={[{ label: "Accueil", href: "/" }, { label: "Tags" }]} />
+    <Breadcrumb items={breadcrumb} />
   </div>
 
   <section class="container intro">
