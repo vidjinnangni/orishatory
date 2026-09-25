@@ -1,0 +1,48 @@
+{
+  "id": "amina-de-zazzau",
+  "nom": "Amina de Zazzau",
+  "variantes": [
+    "Aminatu",
+    "Amina de Zaria",
+    "Sarauniya Amina"
+  ],
+  "region": "afrique-ouest",
+  "categorie": "heros",
+  "peuples": [
+    "Hausa"
+  ],
+  "resume": "Reine guerrière du royaume haoussa de Zazzau, dont la capitale est l'actuelle Zaria, au nord du Nigeria. La Chronique de Kano et l'ouvrage de Muhammad Bello, Infaq al-Maysur, lui prêtent des conquêtes étendues jusqu'au Nupe et au Kwararafa ; la tradition orale lui attribue aussi les murailles de terre appelées ganuwar Amina. L'époque même de son règne reste discutée, du XVe au XVIe siècle selon les historiens.",
+  "description_detaillee": "Zazzau est l'un des sept États que la tradition haoussa fait descendre du héros Bayajidda, et sa capitale moderne, Zaria, lui a donné son nom courant. Amina y tient une place singulière : dans une histoire politique dominée par les rois (sarki), elle est la reine qui a porté les armes de la cité le plus loin. Sa mémoire circule sous deux formes, qu'il vaut mieux ne pas confondre : quelques mentions dans des textes écrits en arabe ou traduits de l'arabe, et un ensemble de récits oraux beaucoup plus riches, recueillis surtout au XXe siècle.\n\nLe témoignage le plus souvent cité vient de la Chronique de Kano, compilée à la fin du XIXe siècle à partir de matériaux plus anciens et traduite en anglais par H. R. Palmer en 1908. Elle place Amina sous le règne de Dauda, roi de Kano de 1421 à 1438 selon sa propre chronologie : « Zaria, sous la reine Amina », conquiert alors toutes les villes jusqu'au Kwararafa et au Nupe, chaque ville lui paie tribut, et le roi du Nupe lui envoie quarante eunuques et dix mille noix de cola. La chronique ajoute qu'elle fut la première à posséder eunuques et colas en pays haoussa et que ses conquêtes s'étendirent sur trente-quatre ans. Au XIXe siècle, Muhammad Bello, fils du fondateur du califat de Sokoto, la mentionne à son tour dans Infaq al-Maysur comme une fille du souverain de Zazzau qui fit la guerre aux pays haoussa et imposa tribut à Kano et à Katsina, sans donner de date. Une tradition place sa mort à Atagara, près d'Idah, sur le Niger.\n\nLes historiens ne s'accordent pas sur son époque. La chronique locale de Zaria ne la nomme pas, mais la tradition orale recueillie au début du XXe siècle en fait la fille de Bakwa Turunku, dont le règne est daté par cette chronique de 1492 à 1522 ; d'autres reconstructions le font commencer vers 1535. Abdullahi Smith la place après 1576, alors que d'autres suivent la Chronique de Kano et la situent au XVe siècle. Le sexe même de Bakwa Turunku est débattu : l'historien nigérian Sa'ad Abubakar y voit une femme, première reine de Zazzau et fondatrice de la ville de Zaria, qu'elle aurait nommée d'après sa seconde fille, la sœur cadette d'Amina. La tradition attribue enfin à Amina les enceintes de terre qui entourent les villes de la région, appelées ganuwar Amina, « les murs d'Amina », sans que leur datation permette de le confirmer.\n\nLa légende a ajouté ses propres traits. S. J. Hogben rapporte le récit selon lequel elle prenait un amant dans chaque ville conquise et le faisait décapiter au matin pour qu'aucun ne puisse s'en vanter, motif qui relève davantage du conte que de l'histoire. Le contraste avec le récit de Bayajidda est frappant : ce mythe explique comment le règne des reines de Daura prit fin au profit des rois, alors que la mémoire d'Amina fait d'une femme la plus grande conquérante des cités haoussa. Au Nigeria contemporain, elle est devenue un symbole du pouvoir politique et militaire des femmes.",
+  "domaines": [
+    "guerre",
+    "conquête",
+    "pouvoir féminin",
+    "royauté",
+    "commerce"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "bayajidda"
+    ]
+  },
+  "attributs": [
+    "murailles de terre (ganuwar Amina)",
+    "cavalerie",
+    "noix de cola et eunuques reçus en tribut"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Palmer, H.R. (1908). The Kano Chronicle. Journal of the Royal Anthropological Institute, 38",
+    "Hogben, S.J. & Kirk-Greene, A.H.M. (1966). The Emirates of Northern Nigeria: A Preliminary Survey of Their Historical Traditions",
+    "Smith, A. (1970). Some Notes on the History of Zazzau under the Hausa Kings, dans Mortimore, M.J. (dir.), Zaria and Its Region",
+    "Abubakar, S. (1992). Queen Amina of Zaria, dans Awe, B. (dir.), Nigerian Women in Historical Perspective"
+  ],
+  "notes": "Les dates proposées vont du début du XVe siècle (d'après la Chronique de Kano) à la fin du XVIe siècle (Abdullahi Smith, après 1576), en passant par le début du XVIe siècle (d'après la filiation avec Bakwa Turunku). Les biographies grand public donnent souvent des dates précises (vers 1533-1610) qui dépendent de ces reconstructions. Bakwa Turunku est présenté selon les sources comme son père ou sa mère. La date d'Infaq al-Maysur est donnée tantôt vers 1812, tantôt vers 1836 selon les éditions consultées. L'étendue réelle des tributs, en particulier sur Kano et Katsina, est mise en doute par plusieurs historiens."
+}

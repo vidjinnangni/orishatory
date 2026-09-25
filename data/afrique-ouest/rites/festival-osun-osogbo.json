@@ -1,0 +1,51 @@
+{
+  "id": "festival-osun-osogbo",
+  "nom": "Festival d'Ọ̀ṣun à Osogbo",
+  "variantes": [
+    "Osun-Osogbo",
+    "Ọdún Ọ̀ṣun Òṣogbo",
+    "Osun Osogbo Festival"
+  ],
+  "region": "afrique-ouest",
+  "categorie": "rites",
+  "peuples": [
+    "Yoruba"
+  ],
+  "resume": "Fête annuelle consacrée à Ọ̀ṣun, divinité de la rivière du même nom, dans la ville d'Osogbo au sud-ouest du Nigeria. Elle se tient chaque année en août, sur environ deux semaines, et culmine par une procession vers le bosquet sacré de la déesse. Ce bosquet est inscrit au patrimoine mondial de l'UNESCO depuis 2005.",
+  "description_detaillee": "Osogbo, dans l'actuel État d'Osun, se pense comme la ville d'Ọ̀ṣun. Selon la tradition de fondation, des migrants conduits par le chef Láàróyè et le chasseur Tìmẹ́hìn s'installèrent au bord de la rivière et y rencontrèrent la déesse, qui leur promit protection et prospérité en échange d'offrandes renouvelées chaque année. On raconte qu'un poisson sortit de l'eau pour recevoir la première offrande et que Láàróyè tendit la main pour l'accueillir ; le titre du roi d'Osogbo, Àtaọ́ja, est expliqué par ce geste. Le festival renouvelle ce pacte, et l'historien des religions Jacob Olupona l'analyse comme une « religion civile », où le culte de la déesse fonde la légitimité du roi et l'identité de la ville.\n\nLe cycle s'ouvre par l'Ìwọ́pọ̀pọ̀, une purification de la ville, suivie quelques jours plus tard de l'allumage d'une lampe à seize becs, l'Ina Olójúmẹ́rìndínlógún. Une autre cérémonie, l'Ìbọrí-adé, réunit les couronnes des anciens rois pour une bénédiction. Le dernier jour, l'Àtaọ́ja conduit la procession vers le bosquet. En tête marche l'Arugbá, une jeune fille issue de la lignée royale qui porte sur la tête la calebasse d'offrandes destinée à la déesse, entourée des prêtresses, des tambours et des chants de louange.\n\nLe bosquet sacré, d'environ 75 hectares, est l'un des derniers fragments de forêt primaire du sud du Nigeria. La chasse, la pêche et l'agriculture y sont interdites. On y compte une quarantaine de sanctuaires, de sculptures et d'œuvres consacrés à Ọ̀ṣun et à d'autres orisha. Beaucoup ont été créés à partir des années 1950 et 1960 par l'artiste autrichienne Susanne Wenger (1915-2009), devenue prêtresse yoruba sous le nom d'Adunni Olorisha, et par les artistes du mouvement New Sacred Art qu'elle a réunis pour protéger le site contre les défrichements. L'UNESCO l'a inscrit au patrimoine mondial en 2005.\n\nCette patrimonialisation a transformé la fête. L'anthropologue Peter Probst montre comment le bosquet, l'iconographie du poisson et le festival lui-même sont devenus l'enjeu de l'État nigérian, de l'UNESCO, du tourisme et des pèlerinages, jusque dans les Amériques où Ọ̀ṣun est honorée sous les noms d'Ochún et d'Oxum. Le festival attire désormais chaque année des milliers de fidèles et de visiteurs.",
+  "domaines": [
+    "fécondité",
+    "royauté",
+    "protection de la ville",
+    "eau"
+  ],
+  "tags": [
+    "eau",
+    "royaute-sacree",
+    "terre-fertilite"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "oshun"
+    ]
+  },
+  "attributs": [
+    "calebasse d'offrandes portée par l'Arugbá",
+    "lampe à seize becs",
+    "poisson",
+    "bosquet sacré",
+    "rivière Ọ̀ṣun"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Le festival est célébré chaque année en août à Osogbo sous la conduite de l'Àtaọ́ja et attire des fidèles du Nigeria, de la diaspora et de nombreux visiteurs. Sa partie publique a été suspendue en 2020 en raison de la pandémie de Covid-19. Le bosquet est géré par la Commission nationale des musées et monuments du Nigeria avec la communauté locale.",
+  "sources": [
+    "UNESCO World Heritage Centre (2005). Osun-Osogbo Sacred Grove (n° 1118)",
+    "Olupona, J.K. (2001). Orisa Osun: Yoruba Sacred Kingship and Civil Religion in Osogbo, Nigeria. In Murphy, J.M. & Sanford, M.M. (dir.), Osun across the Waters: A Yoruba Goddess in Africa and the Americas",
+    "Probst, P. (2011). Osogbo and the Art of Heritage: Monuments, Deities, and Money",
+    "National Commission for Museums and Monuments (Nigeria). Osun Osogbo Sacred Grove"
+  ],
+  "notes": "L'ancienneté du festival est souvent donnée comme de plusieurs siècles (500 à 700 ans selon les sources), sans datation établie. Le nom du chasseur fondateur varie (Tìmẹ́hìn, Olútìmẹ́hìn), et l'explication du titre Àtaọ́ja relève de l'étymologie traditionnelle. Le rôle de Susanne Wenger et des artistes du New Sacred Art, décisif pour la sauvegarde du bosquet, a aussi fait débat : Probst rappelle que ces œuvres modernes ont redéfini l'apparence du lieu tout en étant intégrées au patrimoine « traditionnel » reconnu par l'UNESCO."
+}

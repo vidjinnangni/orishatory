@@ -24,7 +24,9 @@
   ],
   "genealogie": {
     "parents": [],
-    "conjoints": [],
+    "conjoints": [
+      "amadioha"
+    ],
     "enfants": [],
     "entites_liees": [
       "asase-yaa"

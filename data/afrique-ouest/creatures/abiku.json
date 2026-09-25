@@ -1,0 +1,48 @@
+{
+  "id": "abiku",
+  "nom": "Àbíkú",
+  "variantes": [
+    "Abiku",
+    "Àbíkú",
+    "Emere (figure apparentée)"
+  ],
+  "region": "afrique-ouest",
+  "categorie": "creatures",
+  "peuples": [
+    "Yoruba"
+  ],
+  "resume": "Dans la pensée yoruba, enfant-esprit qui naît, meurt en bas âge puis renaît, souvent chez la même mère, avant de mourir encore. Le nom se comprend comme « né pour mourir ». La croyance a longtemps servi à expliquer la mort répétée de nourrissons dans une même famille.",
+  "description_detaillee": "L'àbíkú appartient à la conception yoruba de l'enfance et de la mort précoce, au sud-ouest du Nigeria et au Bénin. On l'imagine comme un enfant venu du monde des esprits, lié par un engagement à revenir auprès des siens dans l'au-delà après un temps de vie fixé d'avance. D'après un devin d'Ifá cité par Douglas McCabe, les àbíkú forment une société, un ẹgbẹ́ des « gens du ciel » (ara ọ̀run), qui se glisse dans les maisons des vivants ; chaque enfant s'y fait choyer ou soigner à grands frais, puis meurt au moment convenu et rapporte dans l'autre monde la part spirituelle de ce qu'il a reçu.\n\nPour les familles, l'enjeu était de reconnaître un tel enfant et de le retenir. On le repérait à des décès antérieurs dans la fratrie, à des maladies à répétition, à une résistance aux soins, ou à des marques sur le corps : dans une enquête menée en 1999 et 2000 auprès de 1 695 femmes des États d'Ondo et d'Ekiti, le démographe Peter Ogunjuyigbe relève que certaines mères identifient un àbíkú à des traces censées correspondre aux blessures faites sur le corps d'un enfant mort avant lui. On donnait aussi à ces enfants des noms qui supplient de rester, comme Malọmọ (« ne repars pas »), Dúrósinmí (« reste pour m'enterrer ») ou Ikúdáìsí (« la mort a épargné celui-ci »). Les guérisseurs et les devins proposaient sacrifices et remèdes pour rompre le pacte avec les compagnons de l'autre monde.\n\nL'àbíkú est proche de l'ọgbanje des Igbo, sans se confondre avec lui : le psychiatre S.T.C. Ilechukwu note que les Igbo expliquent l'ọgbanje par une alliance volontaire du nouveau-né avec des puissances gardiennes du seuil de la naissance, alors que les Yoruba attribuent souvent l'àbíkú à la prise de possession d'une grossesse par des esprits facétieux, les ẹmẹ̀rẹ̀. La croyance reste répandue : dans l'enquête d'Ogunjuyigbe, 57 % des mères disaient croire à l'existence des àbíkú. Elle a aussi nourri une abondante littérature, des poèmes « Abiku » de John Pepper Clark et de Wole Soyinka au roman The Famished Road de Ben Okri, dont le narrateur est un àbíkú.",
+  "domaines": [
+    "mort des enfants",
+    "naissance",
+    "renaissance",
+    "au-delà"
+  ],
+  "tags": [
+    "mort-au-dela"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "ogbanje"
+    ]
+  },
+  "attributs": [
+    "compagnons de l'autre monde (ẹgbẹ́ ọ̀run)",
+    "noms suppliants",
+    "marques corporelles"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "La croyance reste vivante au Nigeria : une enquête publiée en 2004 dans les États d'Ondo et d'Ekiti indique qu'environ 57 % des mères interrogées croient à l'existence des àbíkú et qu'une large majorité fait confiance aux traitements traditionnels pour ces enfants. Les noms destinés à retenir l'enfant sont toujours portés.",
+  "sources": [
+    "Mobolade, T. (1973). The Concept of Abiku. African Arts, 7(1)",
+    "McCabe, D. (2002). Histories of Errancy: Oral Yoruba Àbíkú Texts and Soyinka's \"Abiku\". Research in African Literatures, 33(1)",
+    "Ogunjuyigbe, P.O. (2004). Under-Five Mortality in Nigeria: Perception and Attitudes of the Yorubas towards the Existence of \"Abiku\". Demographic Research, 11(2)",
+    "Ilechukwu, S.T.C. (2007). Ogbanje/abiku and cultural conceptualizations of psychopathology in Nigeria. Mental Health, Religion & Culture, 10(3)",
+    "Balogun, L. & Fasanu, S. (2019). Complexity and Politics of Naming in Yoruba Tradition: A Dramatic Exploration of Once Upon an Elephant. Genealogy, 3(2)"
+  ],
+  "notes": "Les traditions orales mêlent souvent les traits de l'àbíkú yoruba et de l'ọgbanje igbo, et les auteurs ne s'accordent pas sur la place des ẹmẹ̀rẹ̀, tantôt synonymes, tantôt catégorie distincte d'enfants-esprits. Comme pour l'ọgbanje, des chercheurs rapprochent la croyance de maladies héréditaires comme la drépanocytose et d'une mortalité infantile très élevée. Les pratiques de marquage du corps des enfants ont pu avoir des conséquences douloureuses, ce qui invite à ne pas traiter l'àbíkú comme une simple curiosité."
+}

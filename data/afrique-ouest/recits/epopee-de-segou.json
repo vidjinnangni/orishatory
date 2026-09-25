@@ -1,0 +1,48 @@
+{
+  "id": "epopee-de-segou",
+  "nom": "L'épopée de Ségou",
+  "variantes": [
+    "Geste de Ségou",
+    "Épopée bambara de Ségou",
+    "Épopée de Da Monzon"
+  ],
+  "region": "afrique-ouest",
+  "categorie": "recits",
+  "peuples": [
+    "Bambara"
+  ],
+  "resume": "Cycle épique en langue bambara, transmis par les griots, qui raconte l'histoire du royaume de Ségou, dans l'actuel Mali, de sa fondation au début du XVIIIe siècle à sa conquête par El Hadj Umar Tall vers 1860. Il s'organise autour des rois Biton Coulibaly, Ngolo Diarra et surtout Da Monzon, et de héros comme Bakari Dian. Recueilli par écrit à partir des années 1960, il reste l'une des principales sources sur l'histoire de ce royaume.",
+  "description_detaillee": "Le royaume bambara de Ségou domine la vallée du Niger, dans l'actuel Mali, du début du XVIIIe siècle jusqu'aux années 1860, quand il tombe devant le jihad d'El Hadj Umar Tall. Son histoire nous est connue presque entièrement par la tradition orale, et d'abord par l'épopée que chantent les griots attachés aux grandes familles. La chercheuse Tal Tamari souligne que ce récit n'est pas centré sur un héros unique, comme l'épopée de Sunjata, mais forme un cycle : une suite d'épisodes relativement autonomes, que le griot choisit et récite séparément, chaque prestation recréant le texte déclamé à partir d'un modèle partagé.\n\nLes épisodes d'ouverture concernent les fondateurs. Biton Coulibaly, fondateur de la première dynastie, y apparaît comme un adolescent puis un jeune homme turbulent, et sa réussite est attribuée à un pacte avec des puissances surnaturelles ; les génies des eaux (jidenw) interviennent dans ces premiers récits. Ngolo Diarra, qui fonde la seconde dynastie, est d'abord un enfant que son oncle a remis à Biton comme tribut ; son ascension, elle, est présentée comme l'œuvre du destin. Les guerriers du royaume, les tonjon, accompagnent toute l'épopée. Le cœur du cycle est cependant le règne de Da Monzon, petit-fils de Ngolo, au début du XIXe siècle. L'édition de Lilyan Kesteloot en rassemble les épisodes principaux : Bassi de Samaniana, Da Monzon contre Diétékoro du Kaarta, le siège de Djon Goloni (Dionkoloni), la guerre contre Koré Douga, Karta Tiéma, et surtout le combat de Bakari Dian contre le redoutable Bilissi, l'épisode le plus populaire.\n\nL'épopée n'est pas une chronique fidèle. Jean Derive observe que les griots ne chantent que les victoires : ils retiennent les batailles du Kaarta gagnées par Da Monzon et passent sous silence les échecs de Ngolo contre les Mossi ou l'impossibilité de soumettre durablement le Kaarta. Certains épisodes laissent pourtant percer une critique : dans La Prise de Dionkoloni, dite par le griot Sissoko Kabiné, le héros peul Silamaka multiplie les affronts envers Da Monzon, ce que Derive lit comme une mise en cause de la noblesse d'une dynastie issue, selon la tradition, d'un captif. Tamari note que l'historicité de ces récits, longtemps contestée par les chercheurs occidentaux, est aujourd'hui plus largement reconnue, surtout pour un passé aussi récent.\n\nLa mise par écrit commence dans les années 1960. Kesteloot publie en 1972 les récits de six griots enregistrés entre 1964 et 1971, Gérard Dumestre en donne en 1979 une édition bilingue, et David C. Conrad traduit en anglais en 1990 la version du griot Tayiru Banbera, enregistrée en 1976, qui touche aussi bien à la stratégie militaire qu'à l'impôt, au droit ou à l'art de séduire. L'épopée continue de nourrir la création malienne : en 2010, la série télévisée Les Rois de Ségou et le film Samanyana Basi en ont tiré leurs scénarios, la première associant à chaque roi un air emprunté à la musique du Komo, la grande société d'initiation bambara.",
+  "domaines": [
+    "royauté",
+    "guerre",
+    "fondation d'un État",
+    "parole des griots"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "sunjata-keita",
+      "komo",
+      "faro"
+    ]
+  },
+  "attributs": [],
+  "recits_associes": [
+    "naissance-de-sunjata"
+  ],
+  "culte_contemporain": "L'épopée est toujours dite par des griots au Mali. Elle a inspiré la série télévisée Les Rois de Ségou de Boubacar Sidibé et le film Samanyana Basi de Sidy Fassara Diabaté, présentés en 2010 pour le cinquantenaire de l'indépendance.",
+  "sources": [
+    "Kesteloot, L. (dir.) (1972). Da Monzon de Ségou, épopée bambara",
+    "Dumestre, G. (1979). La geste de Ségou, racontée par des griots bambara",
+    "Conrad, D.C. (dir.) (1990). A State of Intrigue: The Epic of Bamana Segu according to Tayiru Banbera",
+    "Tamari, T. (2014). « Les rois de Ségou » : de l'épopée à la série télévisée. Tydskrif vir Letterkunde, 51(1)",
+    "Derive, J. (2024). Interprétation des transgressions dans une épopée bambara de Ségou, La Prise de Dionkoloni, dans Heckmann, H. (dir.), La Transgression dans l'épopée"
+  ],
+  "notes": "Les dates de règne généralement retenues sont environ 1712-1755 pour Biton (Mamari) Coulibaly, à partir de 1766 pour Ngolo Diarra et 1808-1827 pour Da Monzon (Da Diarra). Une version largement diffusée, dont nous n'avons pas retrouvé la source exacte dans les éditions savantes, raconte que Biton épargna la fille de Faro, génie du fleuve, surprise à voler des aubergines dans son champ, et que Faro lui versa en récompense une goutte de lait dans chaque oreille pour qu'il entende tous les complots tramés contre lui. L'origine de Biton comme chef d'un ton, association de jeunes gens transformée en armée, relève aussi de la tradition. Les orthographes varient d'une édition à l'autre (Djon Goloni ou Dionkoloni, Bakari Dian ou Bakaridjan, Bilissi ou Billissi)."
+}

@@ -1,0 +1,55 @@
+{
+  "id": "osanyin",
+  "nom": "Ọ̀sanyìn",
+  "variantes": [
+    "Osanyin",
+    "Ọ̀sányìn",
+    "Osain",
+    "Ossaim",
+    "Ossain"
+  ],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": [
+    "Yoruba"
+  ],
+  "resume": "Orisha yoruba des feuilles, des plantes et de la médecine. Il détient le savoir des vertus de chaque plante et des paroles qui les rendent efficaces, ce qui en fait le patron des guérisseurs herboristes. Son culte s'est transmis aux Amériques sous les noms d'Osain et d'Ossaim.",
+  "description_detaillee": "Dans la religion yoruba, rien ne se fait sans les feuilles : elles entrent dans les consécrations, les bains rituels, les offrandes et la plupart des remèdes. Ọ̀sanyìn en est le maître. Il est l'orisha des plantes sauvages et de la connaissance de leurs usages, et les herboristes-guérisseurs (oníṣègùn) se placent sous sa protection. L'ethnologue Pierre Verger, qui a passé des décennies à recueillir des formules de remèdes en pays yoruba, a consacré à ce savoir un ouvrage entier, où les recettes sont liées aux incantations qui les accompagnent et aux signes de l'oracle d'Ifá.\n\nDeux récits rapportés par Verger, le premier d'après Bernard Maupoil, expliquent sa place. Dans le premier, Ọ̀rúnmìlà, le maître de la divination, achète au marché un serviteur pour défricher son champ ; c'est Ọ̀sanyìn, qui refuse d'arracher les herbes parce que chacune guérit quelque chose. Ọ̀rúnmìlà, convaincu, le garde auprès de lui, et c'est pourquoi les devins d'Ifá partagent sa science des plantes. Le second met en scène Ṣàngó, irrité de dépendre de lui : il demande à son épouse Ọya, maîtresse du vent, de déclencher une tempête le jour où Ọ̀sanyìn suspend à une branche la calebasse qui contient ses feuilles les plus puissantes. La calebasse tombe, les feuilles s'envolent et chaque orisha s'en approprie quelques-unes. Ọ̀sanyìn reste pourtant le seul à connaître le secret de leurs vertus.\n\nSon culte a des formes singulières. Robert Farris Thompson décrit un dieu infirme, comme réduit de moitié, qui ne se manifeste pas en possédant un fidèle mais par la voix d'une petite figure que des prêtres guérisseurs font parler. Ses prêtres possèdent des bâtons de fer forgé où un grand oiseau domine un cercle d'oiseaux plus petits ; Thompson y lit le signe de l'autorité et du savoir-faire du guérisseur. Aux Amériques, Osain à Cuba et Ossaim au Brésil sont restés les gardiens des feuilles, indispensables à toute initiation dans la santería comme dans le candomblé.",
+  "domaines": [
+    "plantes",
+    "feuilles",
+    "médecine",
+    "guérison",
+    "forêt"
+  ],
+  "tags": [
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "orunmila",
+      "ifa",
+      "shango",
+      "oya",
+      "santeria",
+      "candomble"
+    ]
+  },
+  "attributs": [
+    "feuilles",
+    "calebasse",
+    "bâton de fer surmonté d'oiseaux",
+    "oiseau"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Honoré par les herboristes-guérisseurs et les devins en pays yoruba, au Nigeria et au Bénin. Dans la santería cubaine (Osain) et le candomblé brésilien (Ossaim), les feuilles qui lui appartiennent restent nécessaires à toute initiation.",
+  "sources": [
+    "Verger, P. (1995). Ewé: The Use of Plants in Yoruba Society",
+    "Verger, P. (1981). Orixás: deuses iorubás na África e no Novo Mundo",
+    "Thompson, R.F. (1983). Flash of the Spirit: African and Afro-American Art and Philosophy"
+  ],
+  "notes": "Ọ̀sanyìn est souvent décrit comme n'ayant qu'une jambe, un bras ou un œil ; ces traits varient d'une source à l'autre et sont surtout mis en avant dans les traditions afro-cubaines et dans des publications de vulgarisation. Le lien avec Ọ̀rúnmìlà est expliqué différemment selon les vers d'Ifá (serviteur acheté au marché ou compagnon selon les versions). Dans le récit de la calebasse dispersée par le vent, rapporté par Verger, Ṣàngó et Ọya apparaissent sous leurs noms brésiliens (Xangô, Iansã), ce qui en fait d'abord une version conservée dans le candomblé."
+}

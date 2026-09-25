@@ -1,0 +1,51 @@
+{
+  "id": "tano",
+  "nom": "Tano",
+  "variantes": [
+    "Ta Kora",
+    "Taakora",
+    "Tando"
+  ],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": [
+    "Akan",
+    "Asante",
+    "Bono"
+  ],
+  "resume": "Divinité du fleuve Tano, au Ghana, que la religion akan compte parmi les fils de Nyame, le dieu du ciel. Au début des années 1920, l'anthropologue R. S. Rattray le présentait comme le plus grand des abosom, les divinités « sur terre », du pays asante. Son sanctuaire principal se trouve à Tano Oboase, près de la source du fleuve, et de nombreuses divinités locales dont le nom commence par Ta passent pour ses « enfants ».",
+  "description_detaillee": "Dans la religion akan, les abosom sont des puissances divines de rang inférieur à Nyame, liées le plus souvent à un lieu, et beaucoup d'entre elles sont des eaux. Rattray rapporte un mythe connu « d'un bout à l'autre de l'Ashanti » : Nyame envoya ses fils sur la terre pour qu'ils reçoivent des bienfaits des hommes et leur en accordent, et chacun porte le nom d'une eau, Tano le grand fleuve, Bosomtwe le lac proche de Kumasi, Bea une rivière, Opo la mer. Leurs affluents sont à leur tour leurs enfants. Rattray ne fait que résumer la suite, où les manœuvres d'une chèvre empêchent les eaux d'aboutir là où Nyame l'avait prévu ; depuis, la chèvre est un animal détesté du dieu et interdit à ses prêtres. Un prêtre lui résuma la logique de ces croyances : « comme une femme donne naissance à un enfant, l'eau peut donner naissance à un dieu ».\n\nRattray se rendit en mai 1922 à Tano Oboase, un village voisin de la source, où le chef, Kofi Duro, était aussi le grand prêtre de Ta Kora, l'autre nom de Tano. Le dieu y réside en trois lieux : un temple, où son sanctuaire est un bassin de laiton porté par un prêtre, un rocher que l'on salue comme la demeure du « roi de l'intérieur du rocher », et la source elle-même, à environ quatre cents mètres de là. Selon le vieux prêtre, Ta Kora vivait autrefois dans ce rocher, et l'on ne lui fit un sanctuaire en laiton et un temple qu'après la guerre du roi asante Osei Bonsu contre Adinkra, roi du Gyaman, au début du XIXe siècle ; encore n'y vient-il que lorsqu'on l'appelle, car « Tano est comme le vent ». Parlant par la bouche du prêtre en transe, le dieu expliqua son nom : on ne l'appelle pas Akora parce qu'il serait vieux, mais Ta Kora parce qu'il répare (kora) ce qui est gâté. Son temple est fermé le Kwahuo, un mercredi particulier du calendrier akan, et le jeudi, jours néfastes pour lui, et il est honoré le Fofie, un vendredi sacré.\n\nLe culte de Tano ne se limite pas au fleuve. Rattray relève que des « rejetons » du dieu sont installés dans des villages éloignés de ses eaux et que chaque gué important possède sa propre émanation de l'esprit du fleuve. À Techiman, les prêtres lui présentèrent Ta Kese, Ta Kwesi, Ta Kofi, Ta Kojo et d'autres divinités dont le nom porte le préfixe Ta, contraction de Tano. Au pied des rochers voisins de la source, on lui montra aussi le creux où se serait trouvé jadis le lac Bosomtwe, parti s'installer loin de là faute de pouvoir s'entendre avec son « frère » Tano ; dans la prière dite au même endroit, pourtant, Ta Kora est appelé le père de Bosomtwe.\n\nLa place de Tano contraste avec celle d'Asase Yaa, la déesse de la terre : elle n'a ni temple ni prêtres, alors que lui possède des sanctuaires, un clergé et une véritable descendance divine, ce qui fait de lui, selon le mot de Rattray, le grand obosom de tout l'Ashanti. L'aire de Techiman, en pays bono, reste le foyer de ses cultes : ses sanctuaires et leurs traditions orales y ont été documentés par D. Michael Warren et K. Owusu Brempong, qui les ont publiés en 1988.",
+  "domaines": [
+    "fleuve",
+    "eaux",
+    "protection",
+    "guerre"
+  ],
+  "tags": [
+    "eau"
+  ],
+  "genealogie": {
+    "parents": [
+      "nyame"
+    ],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "asase-yaa"
+    ]
+  },
+  "attributs": [
+    "sanctuaire en bassin de laiton",
+    "rocher près de la source du Tano",
+    "interdit de la chèvre",
+    "vendredi sacré (Fofie)"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "L'aire de Techiman (région Bono East, Ghana) reste le principal foyer des cultes des divinités Tano, dont Warren et Brempong ont publié en 1988 un inventaire des sanctuaires et de leurs traditions orales.",
+  "sources": [
+    "Rattray, R.S. (1923). Ashanti",
+    "Warren, D.M. & Brempong, K.O. (1988). Ghanaian Oral Histories: The Religious Shrines of Techiman Traditional State",
+    "Asante, M.K. & Mazama, A. (dir.) (2009). Encyclopedia of African Religion, notice « Tano River »"
+  ],
+  "notes": "Rattray présente Tano tantôt comme le frère, tantôt comme le père de Bosomtwe, reflet des prières et récits qu'il a recueillis. De nombreuses présentations en ligne font de Ta Kora un dieu de la guerre et du tonnerre, lui donnent pour épouse Afua Kranka, pour jumeau Bia (qu'il aurait dupé en se faisant passer pour lui auprès de Nyame, sur le conseil de la chèvre) et une trentaine d'enfants divins ; ces détails n'apparaissent pas sous cette forme chez Rattray, qui se borne à mentionner le rôle néfaste de la chèvre, et ne sont pas retenus ici. Rattray emploie le mot « fetish » pour les bassins de laiton, tout en le jugeant lui-même impropre."
+}
