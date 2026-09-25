@@ -9,9 +9,19 @@ const repoUrl = "https://github.com/vidjinnangni/orishatory";
         href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a
       >
     </p>
-    <a href={repoUrl} target="_blank">Code source & contributions</a>
+    <div class="links">
+      <a href="/confidentialite/">Confidentialité</a>
+      <button type="button" id="manage-cookies">Gérer les cookies</button>
+      <a href={repoUrl} target="_blank">Code source & contributions</a>
+    </div>
   </div>
 </footer>
+
+<script is:inline>
+  document.getElementById("manage-cookies")?.addEventListener("click", function () {
+    window.orishatoryConsent?.open();
+  });
+</script>
 
 <style>
   .site-footer {
@@ -34,12 +44,31 @@ const repoUrl = "https://github.com/vidjinnangni/orishatory";
     max-width: none;
   }
 
-  .bar a {
+  .links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1.25rem;
+  }
+
+  .bar a,
+  .bar button {
     color: var(--fg-muted);
     text-decoration-thickness: from-font;
   }
 
-  .bar a:hover {
+  .bar button {
+    font: inherit;
+    font-size: inherit;
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
+  }
+
+  .bar a:hover,
+  .bar button:hover {
     color: var(--fg);
   }
 </style>

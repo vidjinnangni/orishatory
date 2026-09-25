@@ -1,0 +1,139 @@
+---
+import { CONSENT_STORAGE_KEY } from "../lib/consent";
+---
+
+<div id="consent-banner" class="consent-banner" hidden role="dialog" aria-label="Consentement aux cookies">
+  <div class="container consent-inner">
+    <p>
+      Ce site utilise Google Analytics pour mesurer l'audience, uniquement avec votre accord. Aucun
+      cookie de mesure n'est déposé tant que vous n'avez pas accepté.
+      <a href="/confidentialite/">En savoir plus</a>.
+    </p>
+    <div class="consent-actions">
+      <button type="button" id="consent-decline" class="btn btn-ghost">Refuser</button>
+      <button type="button" id="consent-accept" class="btn btn-accent">Accepter</button>
+    </div>
+  </div>
+</div>
+
+<script is:inline define:vars={{ CONSENT_STORAGE_KEY }}>
+  (function () {
+    var banner = document.getElementById("consent-banner");
+
+    function getStored() {
+      try {
+        return localStorage.getItem(CONSENT_STORAGE_KEY);
+      } catch (e) {
+        return null;
+      }
+    }
+
+    function setStored(value) {
+      try {
+        localStorage.setItem(CONSENT_STORAGE_KEY, value);
+      } catch (e) {
+        /* stockage indisponible (navigation privée, etc.) : le choix ne sera
+           simplement pas mémorisé d'une visite à l'autre */
+      }
+    }
+
+    function apply(value) {
+      if (value === "granted" && window.__loadGtag) {
+        window.__loadGtag();
+      }
+    }
+
+    function open() {
+      banner.hidden = false;
+    }
+
+    function close() {
+      banner.hidden = true;
+    }
+
+    var stored = getStored();
+    if (stored) {
+      apply(stored);
+    } else {
+      open();
+    }
+
+    document.getElementById("consent-accept").addEventListener("click", function () {
+      setStored("granted");
+      apply("granted");
+      close();
+    });
+
+    document.getElementById("consent-decline").addEventListener("click", function () {
+      setStored("denied");
+      close();
+    });
+
+    window.orishatoryConsent = { open: open };
+  })();
+</script>
+
+<style>
+  .consent-banner {
+    position: fixed;
+    inset-inline: 0;
+    bottom: 0;
+    z-index: 50;
+    background: var(--bg-elevated);
+    border-top: 1px solid var(--border);
+    padding-block: 1rem;
+    box-shadow: 0 -4px 16px oklch(0 0 0 / 0.06);
+  }
+
+  .consent-inner {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem 1.5rem;
+  }
+
+  .consent-inner p {
+    margin: 0;
+    max-width: 60ch;
+    font-size: 0.85rem;
+    color: var(--fg-muted);
+  }
+
+  .consent-inner a {
+    color: var(--accent);
+    text-decoration-thickness: from-font;
+  }
+
+  .consent-actions {
+    display: flex;
+    gap: 0.6rem;
+    flex-shrink: 0;
+  }
+
+  .btn {
+    font: inherit;
+    font-size: 0.85rem;
+    font-weight: 600;
+    padding: 0.55rem 1.1rem;
+    border-radius: var(--radius);
+    cursor: pointer;
+    border: 1px solid var(--border);
+    background: var(--bg);
+    color: var(--fg);
+  }
+
+  .btn-ghost:hover {
+    border-color: var(--fg-muted);
+  }
+
+  .btn-accent {
+    background: var(--accent);
+    color: var(--accent-fg);
+    border-color: var(--accent);
+  }
+
+  .btn-accent:hover {
+    opacity: 0.92;
+  }
+</style>
