@@ -64,6 +64,25 @@ déclenche via la variable d'environnement `PUBLIC_GA_ID` (voir
 Sans cette variable, aucun script n'est chargé ni aucune donnée envoyée à
 Google — c'est le comportement par défaut en développement local.
 
-À noter : GA4 dépose des cookies de mesure d'audience. Selon le trafic visé
-(notamment UE), la mise en place d'un bandeau de consentement peut être
-requise par le RGPD — non inclus ici, à ajouter si besoin.
+Le RGPD est géré par [`src/components/ConsentBanner.astro`](src/components/ConsentBanner.astro) :
+`gtag.js` n'est chargé qu'après un clic explicite sur « Accepter » (voir aussi
+`/confidentialite/`). Conséquence : les outils de vérification automatique de
+Google (qui ne cliquent pas sur le bandeau) peuvent signaler à tort une balise
+« non détectée » — la seule vérification fiable est de regarder les rapports
+temps réel de GA4 après avoir soi-même accepté le bandeau sur le site publié.
+
+## Search Console
+
+La vérification de propriété (méthode « balise HTML ») passe par la variable
+`PUBLIC_GOOGLE_SITE_VERIFICATION` (voir `.env.example`), injectée dans le
+`<head>` par [`src/layouts/BaseLayout.astro`](src/layouts/BaseLayout.astro).
+Cette balise n'a aucune implication RGPD (aucune donnée envoyée, aucun
+cookie) : elle peut rester chargée en permanence, sans passer par le bandeau
+de consentement.
+
+Un sitemap XML est généré automatiquement au build par `@astrojs/sitemap`
+(config dans `astro.config.mjs`, référencé dans `public/robots.txt`) et peut
+être soumis dans Search Console une fois la propriété vérifiée.
+
+Penser à mettre à jour `site` dans `astro.config.mjs` (et le `Sitemap:` de
+`public/robots.txt`) si un domaine personnalisé remplace `orishatory.vercel.app`.

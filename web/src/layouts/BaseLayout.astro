@@ -11,6 +11,8 @@ interface Props {
 }
 
 const { title, description = "Une base de données ouverte sur les mythologies du continent africain et de ses diasporas." } = Astro.props;
+
+const googleSiteVerification = import.meta.env.PUBLIC_GOOGLE_SITE_VERIFICATION;
 ---
 
 <html lang="fr">
@@ -20,6 +22,7 @@ const { title, description = "Une base de données ouverte sur les mythologies d
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="description" content={description} />
     <meta name="generator" content={Astro.generator} />
+    {googleSiteVerification && <meta name="google-site-verification" content={googleSiteVerification} />}
     <title>{title} · Orishatory</title>
     <Analytics />
   </head>
