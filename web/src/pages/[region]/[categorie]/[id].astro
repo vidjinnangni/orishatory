@@ -4,6 +4,7 @@ import Breadcrumb from "../../../components/Breadcrumb.astro";
 import CategoryBadge from "../../../components/CategoryBadge.astro";
 import Pill from "../../../components/Pill.astro";
 import SupportCard from "../../../components/SupportCard.astro";
+import ContributeCard from "../../../components/ContributeCard.astro";
 import {
   CATEGORIES,
   CATEGORY_LABELS,
@@ -226,6 +227,7 @@ const entityJsonLd = {
   <aside class="entity-sidebar" aria-label="Actions">
     <div class="sidebar-sticky">
       <SupportCard />
+      <ContributeCard />
     </div>
   </aside>
   </div>
@@ -243,6 +245,12 @@ const entityJsonLd = {
     .entity-layout {
       grid-template-columns: minmax(0, 1fr) 280px;
     }
+  }
+
+  .sidebar-sticky {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
   }
 
   @media (min-width: 1000px) {
