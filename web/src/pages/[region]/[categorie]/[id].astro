@@ -3,6 +3,7 @@ import BaseLayout from "../../../layouts/BaseLayout.astro";
 import Breadcrumb from "../../../components/Breadcrumb.astro";
 import CategoryBadge from "../../../components/CategoryBadge.astro";
 import Pill from "../../../components/Pill.astro";
+import SupportCard from "../../../components/SupportCard.astro";
 import {
   CATEGORIES,
   CATEGORY_LABELS,
@@ -81,7 +82,8 @@ const entityJsonLd = {
     <Breadcrumb items={breadcrumb} />
   </div>
 
-  <article class="container entity">
+  <div class="container entity-layout">
+  <article class="entity">
     <header class="entity-head">
       <div class="title-row">
         <h1>{entity.nom}</h1>
@@ -220,14 +222,41 @@ const entityJsonLd = {
       </ul>
     </section>
   </article>
+
+  <aside class="entity-sidebar" aria-label="Actions">
+    <div class="sidebar-sticky">
+      <SupportCard />
+    </div>
+  </aside>
+  </div>
 </BaseLayout>
 
 <style>
-  .entity {
+  .entity-layout {
     padding-block: 1.5rem 4rem;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+  }
+
+  @media (min-width: 1000px) {
+    .entity-layout {
+      grid-template-columns: minmax(0, 1fr) 280px;
+    }
+  }
+
+  @media (min-width: 1000px) {
+    .sidebar-sticky {
+      position: sticky;
+      top: 2rem;
+    }
+  }
+
+  .entity {
     display: flex;
     flex-direction: column;
     gap: 2rem;
+    min-width: 0;
   }
 
   .entity-head {
