@@ -1,0 +1,65 @@
+---
+const supportUrl = "https://buymeacoffee.com/vidjinnangnig";
+---
+
+<div class="support-card">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+    <path d="M4 9h13v5.5A4.5 4.5 0 0 1 12.5 19h-4A4.5 4.5 0 0 1 4 14.5V9Z" />
+    <path d="M17 10.5h1.5a2.5 2.5 0 1 1 0 5H17" />
+    <path d="M8 3.5c0 .9-1 .9-1 1.8M12 3.5c0 .9-1 .9-1 1.8" />
+  </svg>
+  <h2>Soutenir le projet</h2>
+  <p>
+    Orishatory est un projet bénévole et sans publicité. Un café offert aide à continuer à sourcer
+    et documenter de nouvelles fiches.
+  </p>
+  <a class="support-cta" href={supportUrl} target="_blank" rel="noopener">Faire un don</a>
+</div>
+
+<style>
+  .support-card {
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    padding: 1.25rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--bg-elevated);
+  }
+
+  .support-card svg {
+    width: 1.5rem;
+    height: 1.5rem;
+    color: var(--accent);
+  }
+
+  .support-card h2 {
+    margin: 0;
+    font-size: 1rem;
+  }
+
+  .support-card p {
+    margin: 0;
+    max-width: none;
+    font-size: 0.85rem;
+    color: var(--fg-muted);
+  }
+
+  .support-cta {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0.4rem;
+    padding: 0.6rem 1rem;
+    border-radius: var(--radius);
+    background: var(--accent);
+    color: var(--accent-fg);
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .support-cta:hover {
+    opacity: 0.92;
+  }
+</style>
