@@ -57,9 +57,17 @@ const supportUrl = "https://buymeacoffee.com/vidjinnangnig";
     font-size: 0.85rem;
     font-weight: 600;
     text-decoration: none;
+    transition:
+      opacity var(--duration-fast) var(--ease-out),
+      transform 100ms var(--ease-out);
   }
 
   .support-cta:hover {
     opacity: 0.92;
+  }
+
+  .support-cta:active {
+    transform: scale(0.96);
+    transition-duration: 100ms;
   }
 </style>

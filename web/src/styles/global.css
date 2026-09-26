@@ -13,6 +13,13 @@
 
   --measure: 68ch;
   --radius: 0.5rem;
+
+  /* Easing proche de celle d'Apple (décélération franche, sans rebond) : à
+     réserver aux interactions non liées au geste (hover, apparitions),
+     jamais à du contenu que l'utilisateur traîne à l'écran. */
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --duration-fast: 150ms;
+  --duration-base: 250ms;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -107,6 +114,11 @@ ul {
   color: var(--accent);
   text-decoration-thickness: from-font;
   text-underline-offset: 0.15em;
+  transition: opacity var(--duration-fast) var(--ease-out);
+}
+
+.prose a:hover {
+  opacity: 0.75;
 }
 
 .prose ul {
@@ -143,4 +155,18 @@ ul {
 :focus-visible {
   outline: 2px solid var(--accent);
   outline-offset: 2px;
+}
+
+/* Filet de sécurité : quasi tout le monde utilise des transitions CSS sur cet
+   écran (hover, press, bandeau de cookies) — on les réduit à un instantané
+   plutôt que de les couper composant par composant. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }

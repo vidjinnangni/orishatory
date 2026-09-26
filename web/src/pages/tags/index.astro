@@ -68,11 +68,21 @@ const breadcrumb = [{ label: "Accueil", href: "/" }, { label: "Tags" }];
     background: var(--bg-elevated);
     text-decoration: none;
     color: var(--fg);
-    transition: border-color 0.15s ease;
+    transition:
+      border-color var(--duration-fast) var(--ease-out),
+      transform var(--duration-fast) var(--ease-out),
+      box-shadow var(--duration-fast) var(--ease-out);
   }
 
   .tag-card:hover {
     border-color: var(--accent);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px oklch(0 0 0 / 0.07);
+  }
+
+  .tag-card:active {
+    transform: translateY(-1px) scale(0.99);
+    transition-duration: 100ms;
   }
 
   .count {

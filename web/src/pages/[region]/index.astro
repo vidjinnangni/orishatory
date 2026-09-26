@@ -104,17 +104,32 @@ const breadcrumb = [{ label: "Accueil", href: "/" }, { label: REGION_LABELS[regi
     background: var(--bg-elevated);
     text-decoration: none;
     color: var(--fg);
-    transition: border-color 0.15s ease;
+    transition:
+      border-color var(--duration-fast) var(--ease-out),
+      transform var(--duration-fast) var(--ease-out),
+      box-shadow var(--duration-fast) var(--ease-out);
   }
 
   .category-card:hover {
     border-color: var(--accent);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px oklch(0 0 0 / 0.07);
+  }
+
+  .category-card:active {
+    transform: translateY(-1px) scale(0.99);
+    transition-duration: 100ms;
   }
 
   .category-card :global(svg) {
     width: 1.75rem;
     height: 1.75rem;
     color: var(--fg-muted);
+    transition: transform var(--duration-fast) var(--ease-out);
+  }
+
+  .category-card:hover :global(svg) {
+    transform: scale(1.08);
   }
 
   .category-card h2 {

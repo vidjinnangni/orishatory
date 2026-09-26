@@ -31,11 +31,21 @@ const { entity, showCategory = true } = Astro.props;
     text-decoration: none;
     color: var(--fg);
     height: 100%;
-    transition: border-color 0.15s ease;
+    transition:
+      border-color var(--duration-fast) var(--ease-out),
+      transform var(--duration-fast) var(--ease-out),
+      box-shadow var(--duration-fast) var(--ease-out);
   }
 
   .card:hover {
     border-color: var(--accent);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px oklch(0 0 0 / 0.07);
+  }
+
+  .card:active {
+    transform: translateY(-1px) scale(0.99);
+    transition-duration: 100ms;
   }
 
   .card-head {

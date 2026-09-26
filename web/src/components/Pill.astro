@@ -22,10 +22,19 @@ const Tag = href ? "a" : "span";
     color: var(--fg-muted);
     text-decoration: none;
     background: var(--bg-elevated);
+    transition:
+      color var(--duration-fast) var(--ease-out),
+      border-color var(--duration-fast) var(--ease-out),
+      transform 100ms var(--ease-out);
   }
 
   a.pill:hover {
     color: var(--accent);
     border-color: var(--accent);
+  }
+
+  a.pill:active {
+    transform: scale(0.96);
+    transition-duration: 100ms;
   }
 </style>
