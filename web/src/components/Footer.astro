@@ -69,6 +69,7 @@ const supportUrl = "https://buymeacoffee.com/vidjinnangnig";
   .bar button {
     color: var(--fg-muted);
     text-decoration-thickness: from-font;
+    transition: color var(--duration-fast) var(--ease-out);
   }
 
   .bar button {
@@ -95,5 +96,10 @@ const supportUrl = "https://buymeacoffee.com/vidjinnangnig";
 
   .icon-link svg {
     flex-shrink: 0;
+    transition: transform var(--duration-fast) var(--ease-out);
+  }
+
+  .icon-link:hover svg {
+    transform: scale(1.1);
   }
 </style>

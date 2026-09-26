@@ -57,9 +57,17 @@ const repoUrl = "https://github.com/vidjinnangni/orishatory";
     font-size: 0.85rem;
     font-weight: 600;
     text-decoration: none;
+    transition:
+      border-color var(--duration-fast) var(--ease-out),
+      transform 100ms var(--ease-out);
   }
 
   .contribute-cta:hover {
     border-color: var(--fg-muted);
+  }
+
+  .contribute-cta:active {
+    transform: scale(0.96);
+    transition-duration: 100ms;
   }
 </style>

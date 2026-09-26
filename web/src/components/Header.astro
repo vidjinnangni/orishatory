@@ -53,6 +53,11 @@ const currentPath = Astro.url.pathname;
     font-weight: 700;
     text-decoration: none;
     letter-spacing: -0.02em;
+    transition: opacity var(--duration-fast) var(--ease-out);
+  }
+
+  .wordmark:hover {
+    opacity: 0.75;
   }
 
   nav ul {
@@ -67,6 +72,9 @@ const currentPath = Astro.url.pathname;
     color: var(--fg-muted);
     padding-block: 0.25rem;
     border-bottom: 1px solid transparent;
+    transition:
+      color var(--duration-fast) var(--ease-out),
+      border-bottom-color var(--duration-fast) var(--ease-out);
   }
 
   nav a:hover {
