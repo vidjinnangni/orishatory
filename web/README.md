@@ -77,8 +77,10 @@ Un sitemap XML est généré automatiquement au build par `@astrojs/sitemap`
 (config dans `astro.config.mjs`, référencé dans `public/robots.txt`) et peut
 être soumis dans Search Console une fois la propriété vérifiée.
 
-Penser à mettre à jour `site` dans `astro.config.mjs` (et le `Sitemap:` de
-`public/robots.txt`) si un domaine personnalisé remplace `orishatory.vercel.app`.
+Le site tourne sur le domaine personnalisé `orishatory.com` (configuré côté
+Vercel) ; `site` dans `astro.config.mjs` et le `Sitemap:` de
+`public/robots.txt` pointent dessus. En cas de nouveau changement de domaine,
+mettre à jour ces deux fichiers.
 
 ## SEO (balises par page)
 
