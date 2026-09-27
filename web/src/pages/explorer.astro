@@ -1,0 +1,36 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { ALL_ENTITIES, entityHref } from "../lib/data";
+
+// Liste légère (juste les URLs) embarquée directement dans la page : le
+// choix au hasard et la redirection se font côté client, sans appel réseau
+// supplémentaire ni détour serveur — la seule option possible sur un site
+// statique.
+const hrefs = ALL_ENTITIES.map((entity) => entityHref(entity));
+---
+
+<BaseLayout title="Explorer" description="Découvrir une fiche au hasard dans le codex." noindex>
+  <section class="container explorer">
+    <p>Redirection vers une fiche au hasard…</p>
+    <noscript>
+      <p>
+        Cette fonctionnalité nécessite JavaScript. <a href="/">Retourne à l'accueil</a> pour explorer
+        le codex par région.
+      </p>
+    </noscript>
+  </section>
+</BaseLayout>
+
+<script define:vars={{ hrefs }}>
+  const target = hrefs[Math.floor(Math.random() * hrefs.length)];
+  if (target) {
+    location.replace(target);
+  }
+</script>
+
+<style>
+  .explorer {
+    padding-block: 3rem;
+    color: var(--fg-muted);
+  }
+</style>

@@ -21,6 +21,8 @@ interface Props {
   /** Alimente à la fois le fil d'Ariane visuel (voir Breadcrumb.astro) et le JSON-LD BreadcrumbList. */
   breadcrumb?: Crumb[];
   jsonLd?: Record<string, unknown> | Record<string, unknown>[];
+  /** Pour les pages utilitaires sans contenu propre à indexer (ex: le redirecteur "Explorer"). */
+  noindex?: boolean;
 }
 
 const {
@@ -31,6 +33,7 @@ const {
   type = "website",
   breadcrumb,
   jsonLd,
+  noindex = false,
 } = Astro.props;
 
 const pageTitle = appendSiteName ? `${title} · Orishatory` : title;
@@ -67,6 +70,7 @@ const jsonLdBlocks = [breadcrumbJsonLd, ...(jsonLd ? (Array.isArray(jsonLd) ? js
     <link rel="alternate" type="application/rss+xml" title="Orishatory — Nouveautés" href="/rss.xml" />
     <meta name="description" content={description} />
     <meta name="generator" content={Astro.generator} />
+    {noindex && <meta name="robots" content="noindex, follow" />}
     {googleSiteVerification && <meta name="google-site-verification" content={googleSiteVerification} />}
 
     <meta property="og:type" content={type} />
