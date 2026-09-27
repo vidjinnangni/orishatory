@@ -1,0 +1,92 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Breadcrumb from "../components/Breadcrumb.astro";
+import EntityCard from "../components/EntityCard.astro";
+import { getRecentEntities } from "../lib/data";
+
+const recent = getRecentEntities(60);
+
+const groups = Array.from(
+  recent.reduce((map, entity) => {
+    const day = entity.dateAjout.slice(0, 10);
+    if (!map.has(day)) map.set(day, []);
+    map.get(day)!.push(entity);
+    return map;
+  }, new Map<string, typeof recent>()),
+).map(([day, entities]) => ({
+  day,
+  label: new Intl.DateTimeFormat("fr-FR", { dateStyle: "long", timeZone: "UTC" }).format(new Date(day)),
+  entities,
+}));
+
+const breadcrumb = [{ label: "Accueil", href: "/" }, { label: "Nouveautés" }];
+const description = "Les dernières fiches ajoutées.";
+---
+
+<BaseLayout title="Nouveautés" description={description} breadcrumb={breadcrumb}>
+  <div class="container">
+    <Breadcrumb items={breadcrumb} />
+  </div>
+
+  <section class="container intro">
+    <h1>Nouveautés</h1>
+    <p class="lede">
+      {description} <a href="/rss.xml">S'abonner par RSS</a>.
+    </p>
+  </section>
+
+  <section class="container groups">
+    {
+      groups.length === 0 ? (
+        <p class="empty">Aucune nouveauté détectée pour le moment.</p>
+      ) : (
+        groups.map((group) => (
+          <div class="group">
+            <h2>{group.label}</h2>
+            <ul class="grid">
+              {group.entities.map((entity) => (
+                <li>
+                  <EntityCard entity={entity} />
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))
+      )
+    }
+  </section>
+</BaseLayout>
+
+<style>
+  .intro {
+    padding-block: 1rem 2rem;
+  }
+
+  .lede {
+    max-width: 60ch;
+    color: var(--fg-muted);
+  }
+
+  .groups {
+    display: flex;
+    flex-direction: column;
+    gap: 2.5rem;
+    padding-bottom: 4rem;
+  }
+
+  .group h2 {
+    font-size: 1.05rem;
+    color: var(--fg-muted);
+    margin-bottom: 1rem;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+    gap: 1.25rem;
+  }
+
+  .empty {
+    color: var(--fg-muted);
+  }
+</style>

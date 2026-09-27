@@ -1,5 +1,6 @@
 import { readFileSync, readdirSync } from "node:fs";
 import { resolve } from "node:path";
+import { getAddedDate } from "./added-dates";
 import { CATEGORIES, REGIONS, type Categorie, type Region } from "./constants";
 
 // Resolved from the working directory (the `web/` package root) rather than
@@ -38,6 +39,9 @@ export interface Tag {
   label: string;
 }
 
+/** Chemin du fichier source de chaque fiche, relatif à la racine du dépôt (ex: "data/afrique-ouest/deites/shango.json") — utilisé pour retrouver sa date d'ajout dans l'historique git. */
+const FILE_PATH_BY_ID = new Map<string, string>();
+
 function loadEntities(): Entite[] {
   const entities: Entite[] = [];
   for (const region of REGIONS) {
@@ -51,7 +55,9 @@ function loadEntities(): Entite[] {
       for (const file of files) {
         if (!file.endsWith(".json")) continue;
         const raw = readFileSync(`${DATA_DIR}/${region}/${categorie}/${file}`, "utf-8");
-        entities.push(JSON.parse(raw) as Entite);
+        const entity = JSON.parse(raw) as Entite;
+        entities.push(entity);
+        FILE_PATH_BY_ID.set(entity.id, `data/${region}/${categorie}/${file}`);
       }
     }
   }
@@ -137,6 +143,25 @@ export function getRelatedEntities(entity: Entite, limit = 4): Entite[] {
   scored.sort((a, b) => b.score - a.score || a.candidate.nom.localeCompare(b.candidate.nom, "fr"));
 
   return scored.slice(0, limit).map((item) => item.candidate);
+}
+
+export interface EntiteDatee extends Entite {
+  /** Date ISO 8601 du premier commit ayant ajouté la fiche. */
+  dateAjout: string;
+}
+
+/** Fiches triées par date d'ajout décroissante (déduite de l'historique git — voir added-dates.ts). Les fiches sans date résolue (historique indisponible) sont exclues plutôt que de fausser le classement. */
+export function getRecentEntities(limit: number): EntiteDatee[] {
+  const dated: EntiteDatee[] = [];
+  for (const entity of ALL_ENTITIES) {
+    const path = FILE_PATH_BY_ID.get(entity.id);
+    const dateAjout = path && getAddedDate(path);
+    if (dateAjout) {
+      dated.push({ ...entity, dateAjout });
+    }
+  }
+  dated.sort((a, b) => b.dateAjout.localeCompare(a.dateAjout));
+  return dated.slice(0, limit);
 }
 
 export interface SearchEntry {
