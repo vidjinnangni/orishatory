@@ -54,7 +54,7 @@ const descriptionParagraphs = entity.description_detaillee?.split(/\n{2,}/).filt
 
 const recitsAssocies = entity.recits_associes.map(relatedLink);
 const tags = entity.tags.map((id) => ({ id, label: getTagById(id)?.label ?? id }));
-const relatedEntities = getRelatedEntities(entity);
+const relatedEntities = getRelatedEntities(entity, 3);
 
 const breadcrumb = [
   { label: "Accueil", href: "/" },
@@ -217,21 +217,6 @@ const entityJsonLd = {
       )
     }
 
-    {
-      relatedEntities.length > 0 && (
-        <section>
-          <h2>À lire aussi</h2>
-          <ul class="related-grid">
-            {relatedEntities.map((related) => (
-              <li>
-                <EntityCard entity={related} />
-              </li>
-            ))}
-          </ul>
-        </section>
-      )
-    }
-
     <section class="sources">
       <h2>Sources</h2>
       <ul class="plain-list">
@@ -240,6 +225,24 @@ const entityJsonLd = {
         ))}
       </ul>
     </section>
+
+    {
+      relatedEntities.length > 0 && (
+        <>
+          <hr class="section-sep" />
+          <section>
+            <h2>À lire aussi</h2>
+            <ul class="related-grid">
+              {relatedEntities.map((related) => (
+                <li>
+                  <EntityCard entity={related} />
+                </li>
+              ))}
+            </ul>
+          </section>
+        </>
+      )
+    }
   </article>
 
   <aside class="entity-sidebar" aria-label="Actions">
@@ -374,5 +377,13 @@ const entityJsonLd = {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
     gap: 1rem;
+  }
+
+  .section-sep {
+    width: 100%;
+    height: 1px;
+    margin: 0;
+    border: none;
+    background: var(--border);
   }
 </style>
