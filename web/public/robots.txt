@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://orishatory.vercel.app/sitemap-index.xml
+Sitemap: https://orishatory.com/sitemap-index.xml
