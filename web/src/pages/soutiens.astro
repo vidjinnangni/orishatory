@@ -1,0 +1,88 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Breadcrumb from "../components/Breadcrumb.astro";
+// Section "Merci à" désactivée en attendant d'avoir de premiers soutiens (voir plus bas).
+// import { SOUTIENS } from "../lib/soutiens";
+
+const supportUrl = "https://buymeacoffee.com/vidjinnangnig";
+const repoUrl = "https://github.com/vidjinnangni/orishatory";
+const breadcrumb = [{ label: "Accueil", href: "/" }, { label: "Soutiens" }];
+const description = "Les personnes qui soutiennent financièrement Orishatory.";
+---
+
+<BaseLayout title="Soutiens" description={description} breadcrumb={breadcrumb}>
+  <div class="container">
+    <Breadcrumb items={breadcrumb} />
+  </div>
+
+  <article class="container prose page">
+    <h1>Soutiens</h1>
+
+    <p>
+      Orishatory est un projet bénévole et sans publicité, maintenu sur du temps libre. Les dons,
+      ponctuels ou réguliers, aident à continuer à sourcer et documenter de nouvelles fiches.{" "}
+      <a href={supportUrl} target="_blank" rel="noopener">Soutenir le projet sur Buy Me a Coffee</a>.
+    </p>
+
+    {
+      /*
+      Désactivé en attendant d'avoir de premiers soutiens à afficher (voir
+      src/data/soutiens.json). Décommenter une fois la liste alimentée.
+
+      <h2>Merci à</h2>
+
+      {SOUTIENS.length === 0 ? (
+        <p class="empty">
+          Personne pour l'instant — sois le·la premier·ère à apparaître ici en soutenant le projet.
+        </p>
+      ) : (
+        <ul class="soutiens-list">
+          {SOUTIENS.map((soutien) => (
+            <li>
+              {soutien.url ? (
+                <a href={soutien.url} target="_blank" rel="noopener">
+                  {soutien.nom}
+                </a>
+              ) : (
+                soutien.nom
+              )}
+            </li>
+          ))}
+        </ul>
+      )}
+      */
+    }
+
+    <p class="note">
+      Tu soutiens le projet et tu veux apparaître ici ? Précise-le en message avec ton don, ou{" "}
+      <a href={`${repoUrl}/issues`} target="_blank" rel="noopener">ouvre une issue sur GitHub</a>{" "}
+      pour te signaler.
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .page {
+    padding-block: 1.5rem 4rem;
+    max-width: var(--measure);
+  }
+
+  .soutiens-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem 1.5rem;
+    list-style: none;
+    padding: 0;
+    margin: 0 0 1.5rem;
+  }
+
+  .soutiens-list li {
+    font-weight: 600;
+  }
+
+  .empty,
+  .note {
+    color: var(--fg-muted);
+    font-size: 0.95rem;
+  }
+</style>

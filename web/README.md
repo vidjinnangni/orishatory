@@ -8,9 +8,9 @@ aucune base de données ni API ne sont nécessaires en production.
 
 Depuis ce dossier (`web/`) :
 
-| Commande          | Action                                               |
-| ----------------- | ----------------------------------------------------- |
-| `npm install`     | Installe les dépendances                              |
+| Commande          | Action                                                 |
+| ----------------- | ------------------------------------------------------ |
+| `npm install`     | Installe les dépendances                               |
 | `npm run dev`     | Lance le serveur de développement sur `localhost:4321` |
 | `npm run build`   | Génère le site statique dans `./dist/`                 |
 | `npm run preview` | Prévisualise le build de production en local           |
@@ -55,23 +55,13 @@ commande `npm run build` et le dossier de sortie `web/dist`.
 Le suivi Google Analytics (GA4) est géré par
 [`src/components/Analytics.astro`](src/components/Analytics.astro) et se
 déclenche via la variable d'environnement `PUBLIC_GA_ID` (voir
-`.env.example`) :
-
-1. Créer une propriété GA4 dans Google Analytics (Admin → Créer une
-   propriété → Flux de données web) pour obtenir un identifiant `G-XXXXXXXXXX`.
-2. En local : copier `.env.example` en `.env` et renseigner la valeur.
-3. Sur Vercel/Netlify : ajouter `PUBLIC_GA_ID` dans les variables
-   d'environnement du projet (idéalement pour l'environnement de production
-   uniquement, pour ne pas polluer les données avec le trafic des previews).
-
-Sans cette variable, aucun script n'est chargé ni aucune donnée envoyée à
-Google — c'est le comportement par défaut en développement local.
+`.env.example`).
 
 Le RGPD est géré par [`src/components/ConsentBanner.astro`](src/components/ConsentBanner.astro) :
 `gtag.js` n'est chargé qu'après un clic explicite sur « Accepter » (voir aussi
 `/confidentialite/`). Conséquence : les outils de vérification automatique de
 Google (qui ne cliquent pas sur le bandeau) peuvent signaler à tort une balise
-« non détectée » — la seule vérification fiable est de regarder les rapports
+« non détectée ». La seule vérification fiable est de regarder les rapports
 temps réel de GA4 après avoir soi-même accepté le bandeau sur le site publié.
 
 ## Search Console
@@ -95,17 +85,17 @@ Penser à mettre à jour `site` dans `astro.config.mjs` (et le `Sitemap:` de
 Tout passe par les props de [`src/layouts/BaseLayout.astro`](src/layouts/BaseLayout.astro),
 que chaque page renseigne :
 
-| Prop            | Rôle                                                                 |
-| --------------- | --------------------------------------------------------------------- |
-| `title`         | Suffixé automatiquement par « · Orishatory » (sauf `appendSiteName={false}`, utilisé sur l'accueil) |
-| `description`   | `<meta name="description">` + `og:description` + `twitter:description` |
-| `image`         | `og:image` / `twitter:image` — par défaut `/og-image.png` (1200×630) |
-| `type`          | `og:type` : `website` (pages de liste) ou `article` (fiches)          |
-| `breadcrumb`    | Alimente à la fois le `<Breadcrumb>` visuel et le JSON-LD `BreadcrumbList` |
-| `jsonLd`        | Données structurées additionnelles (`WebSite`+`SearchAction` sur l'accueil, `DefinedTerm` sur chaque fiche) |
+| Prop          | Rôle                                                                                                        |
+| ------------- | ----------------------------------------------------------------------------------------------------------- |
+| `title`       | Suffixé automatiquement par « · Orishatory » (sauf `appendSiteName={false}`, utilisé sur l'accueil)         |
+| `description` | `<meta name="description">` + `og:description` + `twitter:description`                                      |
+| `image`       | `og:image` / `twitter:image` — par défaut `/og-image.png` (1200×630)                                        |
+| `type`        | `og:type` : `website` (pages de liste) ou `article` (fiches)                                                |
+| `breadcrumb`  | Alimente à la fois le `<Breadcrumb>` visuel et le JSON-LD `BreadcrumbList`                                  |
+| `jsonLd`      | Données structurées additionnelles (`WebSite`+`SearchAction` sur l'accueil, `DefinedTerm` sur chaque fiche) |
 
 Une URL canonique (`<link rel="canonical">`) est calculée automatiquement à
-partir de `site` (voir `astro.config.mjs`) et du chemin de la page — pas besoin
+partir de `site` (voir `astro.config.mjs`) et du chemin de la page ; pas besoin
 de la gérer manuellement.
 
 Chaque fiche du codex est marquée en JSON-LD `DefinedTerm` (nom, variantes en
@@ -125,8 +115,18 @@ l'historique git (premier commit ayant créé le fichier), calculée par
 build, puis exposée par `getRecentEntities()` dans
 [`src/lib/data.ts`](src/lib/data.ts).
 
-Ça suppose que l'environnement de build a accès à l'historique git complet du
-dépôt (pas un clone shallow tronqué). Si ce n'est pas le cas, les fiches
-concernées n'ont simplement pas de date détectée et sont exclues de ces deux
-pages plutôt que de fausser le classement — à vérifier après un déploiement
-sur une nouvelle plateforme.
+## Page "Soutiens"
+
+`/soutiens/` liste les personnes qui soutiennent financièrement le projet
+(Buy Me a Coffee, GitHub Sponsors...). La liste vient de
+[`src/data/soutiens.json`](src/data/soutiens.json), à éditer manuellement :
+
+```json
+[{ "nom": "Nom affiché", "url": "https://... (optionnel)" }]
+```
+
+Il n'y a pas d'intégration automatique avec Buy Me a Coffee ou GitHub
+Sponsors (ces plateformes n'exposent pas d'API que ce site statique pourrait
+interroger au build). Plus important : un don ne vaut pas consentement à être
+nommé publiquement. N'ajouter quelqu'un que s'il l'a explicitement demandé
+(un message avec le don, une issue GitHub, etc.).
