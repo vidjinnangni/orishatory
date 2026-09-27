@@ -21,8 +21,9 @@ Depuis ce dossier (`web/`) :
 web/
 ├── src/
 │   ├── lib/
-│   │   ├── constants.ts   # libellés des régions/catégories, couleurs par catégorie
-│   │   └── data.ts        # lecture des fiches JSON depuis ../data au build
+│   │   ├── constants.ts    # libellés des régions/catégories, couleurs par catégorie
+│   │   ├── data.ts         # lecture des fiches JSON depuis ../data au build
+│   │   └── added-dates.ts  # date d'ajout de chaque fiche, déduite de l'historique git
 │   ├── layouts/           # gabarit de page commun (header, footer, styles)
 │   ├── components/        # cartes, badges, pastilles, fil d'Ariane
 │   ├── styles/global.css  # tokens de design (couleurs OKLCH, typographie)
@@ -33,7 +34,9 @@ web/
 │       ├── [region]/[categorie]/[id].astro      # fiche détaillée
 │       ├── tags/, tags/[tag].astro               # motifs transversaux
 │       ├── recherche.astro                       # recherche côté client
-│       └── search-index.json.ts                  # index consommé par la recherche
+│       ├── search-index.json.ts                  # index consommé par la recherche
+│       ├── nouveautes.astro                      # dernières fiches ajoutées
+│       └── rss.xml.ts                            # flux RSS des nouveautés
 └── astro.config.mjs
 ```
 
@@ -112,3 +115,18 @@ s'agit d'entrées d'un même codex de référence plutôt que de pages isolées.
 `public/og-image.png` est une image de partage générique (1200×630, générée
 manuellement, pas de build automatique) : à remplacer si l'identité visuelle
 change.
+
+## Nouveautés & RSS
+
+`/nouveautes/` et `/rss.xml` listent les fiches les plus récemment ajoutées.
+Le schéma des fiches n'a pas de champ « date d'ajout » : la date vient de
+l'historique git (premier commit ayant créé le fichier), calculée par
+[`src/lib/added-dates.ts`](src/lib/added-dates.ts) via `git log` au moment du
+build, puis exposée par `getRecentEntities()` dans
+[`src/lib/data.ts`](src/lib/data.ts).
+
+Ça suppose que l'environnement de build a accès à l'historique git complet du
+dépôt (pas un clone shallow tronqué). Si ce n'est pas le cas, les fiches
+concernées n'ont simplement pas de date détectée et sont exclues de ces deux
+pages plutôt que de fausser le classement — à vérifier après un déploiement
+sur une nouvelle plateforme.
