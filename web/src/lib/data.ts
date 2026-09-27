@@ -103,6 +103,42 @@ export function entityHref(entity: Pick<Entite, "region" | "categorie" | "id">):
   return `/${entity.region}/${entity.categorie}/${entity.id}/`;
 }
 
+/**
+ * Suggestions "à lire aussi" calculées à partir des tags et peuples partagés
+ * (les liens explicites de généalogie/récits associés ont déjà leur propre
+ * section, donc on les exclut ici pour ne pas répéter la même fiche deux fois).
+ * Un partage de région seul ne suffit pas à qualifier une suggestion : ça
+ * reviendrait à lister "tout ce qui vient de la même aire", pas à trouver un
+ * vrai rapprochement thématique.
+ */
+export function getRelatedEntities(entity: Entite, limit = 4): Entite[] {
+  const excludeIds = new Set<string>([
+    entity.id,
+    ...entity.genealogie.parents,
+    ...entity.genealogie.conjoints,
+    ...entity.genealogie.enfants,
+    ...entity.genealogie.entites_liees,
+    ...entity.recits_associes,
+  ]);
+
+  const tagSet = new Set(entity.tags);
+  const peupleSet = new Set(entity.peuples.map((p) => p.toLowerCase()));
+
+  const scored = ALL_ENTITIES.filter((candidate) => !excludeIds.has(candidate.id))
+    .map((candidate) => {
+      const sharedTags = candidate.tags.filter((t) => tagSet.has(t)).length;
+      const sharedPeuples = candidate.peuples.filter((p) => peupleSet.has(p.toLowerCase())).length;
+      const sameRegion = candidate.region === entity.region ? 1 : 0;
+      const score = sharedTags * 3 + sharedPeuples * 2 + sameRegion;
+      return { candidate, sharedTags, sharedPeuples, score };
+    })
+    .filter((item) => item.sharedTags > 0 || item.sharedPeuples > 0);
+
+  scored.sort((a, b) => b.score - a.score || a.candidate.nom.localeCompare(b.candidate.nom, "fr"));
+
+  return scored.slice(0, limit).map((item) => item.candidate);
+}
+
 export interface SearchEntry {
   id: string;
   nom: string;

@@ -2,6 +2,7 @@
 import BaseLayout from "../../../layouts/BaseLayout.astro";
 import Breadcrumb from "../../../components/Breadcrumb.astro";
 import CategoryBadge from "../../../components/CategoryBadge.astro";
+import EntityCard from "../../../components/EntityCard.astro";
 import Pill from "../../../components/Pill.astro";
 import SupportCard from "../../../components/SupportCard.astro";
 import ContributeCard from "../../../components/ContributeCard.astro";
@@ -19,6 +20,7 @@ import {
   entityHref,
   getEntitiesByRegionAndCategorie,
   getEntityById,
+  getRelatedEntities,
   getTagById,
 } from "../../../lib/data";
 
@@ -52,6 +54,7 @@ const descriptionParagraphs = entity.description_detaillee?.split(/\n{2,}/).filt
 
 const recitsAssocies = entity.recits_associes.map(relatedLink);
 const tags = entity.tags.map((id) => ({ id, label: getTagById(id)?.label ?? id }));
+const relatedEntities = getRelatedEntities(entity);
 
 const breadcrumb = [
   { label: "Accueil", href: "/" },
@@ -214,6 +217,21 @@ const entityJsonLd = {
       )
     }
 
+    {
+      relatedEntities.length > 0 && (
+        <section>
+          <h2>À lire aussi</h2>
+          <ul class="related-grid">
+            {relatedEntities.map((related) => (
+              <li>
+                <EntityCard entity={related} />
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+
     <section class="sources">
       <h2>Sources</h2>
       <ul class="plain-list">
@@ -350,5 +368,11 @@ const entityJsonLd = {
   .genealogie a {
     color: var(--accent);
     text-decoration-thickness: from-font;
+  }
+
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+    gap: 1rem;
   }
 </style>
