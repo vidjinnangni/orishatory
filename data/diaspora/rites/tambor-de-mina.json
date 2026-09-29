@@ -1,0 +1,61 @@
+{
+  "id": "tambor-de-mina",
+  "nom": "Tambor de Mina",
+  "variantes": [
+    "Mina",
+    "Mina-jeje (Casa das Minas)",
+    "Mina-nagô (Casa de Nagô)",
+    "Querebentã de Zomadônu (nom de la Casa das Minas)"
+  ],
+  "region": "diaspora",
+  "categorie": "rites",
+  "peuples": [
+    "Afro-Brésiliens du Maranhão (São Luís)",
+    "Afro-Brésiliens de l'Amazonie (Belém et autres villes)"
+  ],
+  "resume": "Religion afro-brésilienne du Maranhão, dans le nord du Brésil, dont São Luís est le foyer. Ses deux maisons fondatrices, apparues au XIXe siècle, sont la Casa das Minas, de tradition jeje (fon) et consacrée aux voduns, et la Casa de Nagô, de tradition yoruba. Au son des tambours, divinités et esprits s'y manifestent dans le corps d'initiées, en grande majorité des femmes.",
+  "description_detaillee": "Le nom de tambor de mina réunit deux termes. « Mina » renvoie à la Costa da Mina, nom que les Portugais donnaient au littoral ouest-africain du fort d'Elmina jusqu'au golfe du Bénin, et par extension aux captifs qui en venaient ; « tambor », le tambour, désigne à la fois l'instrument et la cérémonie elle-même. La religion s'est formée à São Luís, capitale du Maranhão, au cours du XIXe siècle, autour de deux maisons qui passent pour les matrices de toutes les autres, la Casa das Minas et la Casa de Nagô. Elle s'est ensuite étendue à l'intérieur de l'État et jusqu'à Belém et à d'autres villes d'Amazonie.\n\nLa Casa das Minas, dont le nom rituel est Querebentã de Zomadônu, se trouve rue de São Pantaleão. La tradition orale en attribue la fondation à Maria Jesuína, vouée au vodun Zomadônu ; Sergio Ferretti la situe dans la première moitié du XIXe siècle, sans doute entre les années 1820 et 1840, et le plus ancien document connu sur la maison est un acte de 1847. On y sert exclusivement des voduns d'origine fon, répartis en familles : celle de Davice, famille royale que dirige Zomadônu ; celle de Dambirá, qui réunit les voduns de la terre et de la maladie autour d'Acossi Sapatá, le Sakpata du Bénin ; celle de Quevioso, famille du tonnerre, rattachée au Xevioso fon et dite d'origine nagô, où figurent Nanã, Sobô, Badé, Lissá ou Averequete ; enfin celle de Savaluno, voduns non jeje reçus en hôtes de la maison. Seules des femmes, les vodunsis, reçoivent les voduns ; les hommes servent comme tambourinaires et assistants. Les voduns s'y manifestent en adultes, mais la maison connaissait aussi les tobossis, entités féminines d'allure enfantine qui ne descendaient que sur les initiées du plus haut degré ; la dernière initiation de ce degré, celui des vodunsis-gonjaí, remonte à 1913 ou 1914, et les tobossis ont cessé de venir dans les années 1970, à la mort des dernières gonjaí. L'orchestre se compose de trois tambours, le hum, le humpli et le gumpli, d'une cloche de fer, le gã, et de calebasses.\n\nEn 1952, Pierre Verger remarqua que plusieurs noms de voduns de la famille de Davice correspondaient à ceux de membres de la dynastie royale d'Abomey, divinisés au Dahomey sous forme de tohosu ou d'ancêtres royaux. Il en tira l'hypothèse que le culte avait été apporté à São Luís par Nã Agontimé, veuve du roi Agonglo et mère du futur roi Guézo, vendue en esclavage par le roi Adandozan au tout début du XIXe siècle. La Casa de Nagô, fondée vers la même époque par deux Africaines de tradition yoruba, Josefa, dite Zefa de Nagô, et Maria Joana Travassos, avec l'aide de la fondatrice de la Casa das Minas, sert pour sa part des orixás yoruba et des voduns, mais reçoit aussi des gentis, esprits de nobles, et des caboclos. Elle a influencé la formation de nombreux autres terreiros de la ville.\n\nLes encantados constituent la grande originalité du tambor de mina au-delà des deux maisons fondatrices. Ce sont des esprits qui ne passent pas pour des divinités africaines : nobles et rois, « Turcs », caboclos, esprits des eaux et des forêts, dont beaucoup auraient disparu sans mourir. Le plus célèbre est le roi Sebastião de Portugal, disparu au Maroc en 1578, que la tradition du Maranhão dit vivre enchanté sur l'île des Lençóis, à Cururupu, où il apparaîtrait sous la forme d'un taureau noir. Mundicarmo Ferretti a décrit ces familles d'encantados, comme celle de Codó, que dirige Légua Boji Buá, et leur place dans les maisons de mina plus récentes. La Casa das Minas, elle, ne les reçoit pas. Avec le candomblé jeje de Bahia, étudié par Luis Nicolau Parés, le tambor de mina est l'un des témoignages les plus directs du culte des vodun fon dans les Amériques.",
+  "domaines": [
+    "possession",
+    "ancestralité royale",
+    "voduns",
+    "encantados"
+  ],
+  "tags": [
+    "diaspora-survivance",
+    "royaute-sacree",
+    "initiation",
+    "ancetres"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "sakpata",
+      "xevioso",
+      "mawu-lisa",
+      "legba-fon",
+      "dan-aido-hwedo",
+      "nana-buluku",
+      "candomble",
+      "vodou-haitien"
+    ]
+  },
+  "attributs": [
+    "tambours hum, humpli et gumpli",
+    "cloche de fer (gã)",
+    "calebasses",
+    "rue de São Pantaleão (Casa das Minas)"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "La Casa das Minas et la Casa de Nagô sont toujours en activité à São Luís, avec un nombre réduit d'initiées ; le classement de la Casa das Minas au patrimoine national a été décidé par l'IPHAN en 2002 et inscrit aux livres du Tombo en 2005. De nombreux terreiros de mina, qui font une large place aux encantados, existent au Maranhão, au Pará et dans d'autres villes du Brésil.",
+  "sources": [
+    "Pereira, M.N. (1947). A Casa das Minas: contribuição ao estudo das sobrevivências do culto dos voduns, do panteão daomeano, no Estado do Maranhão, Brasil",
+    "Verger, P. (1952). Le culte des vodoun d'Abomey aurait-il été apporté à Saint-Louis de Maranhon par la mère du roi Ghézo ? Études dahoméennes, 8",
+    "Ferretti, S.F. (1996). Querebentã de Zomadônu: etnografia da Casa das Minas do Maranhão (2e éd. ; 1re éd. 1985)",
+    "Ferretti, M.M.R. (2000). Desceu na guma: o caboclo do Tambor de Mina em um terreiro de São Luís, a Casa Fanti-Ashanti",
+    "Parés, L.N. (2013). The Formation of Candomblé: Vodun History and Ritual in Brazil"
+  ],
+  "notes": "L'attribution de la fondation de la Casa das Minas à Nã Agontimé reste une hypothèse : elle repose sur la concordance des noms de voduns avec ceux de la famille royale d'Abomey, sans document attestant sa présence à São Luís. Les dates de fondation des deux maisons sont approximatives : l'année 1840 souvent citée pour la Casa das Minas n'est qu'un ordre de grandeur. La composition des familles de voduns varie selon les auteurs, et la correspondance avec les divinités du Bénin n'est que partielle : Legba, par exemple, est connu à la Casa das Minas mais, selon Sergio Ferretti, n'y a ni autel ni culte organisé : on y chante au début des cérémonies pour qu'il s'éloigne, et le rôle de messager y revient aux toquens, de jeunes voduns ; et le rapprochement de Lissá avec la moitié masculine du couple Mawu-Lisa ou de Nanã avec Nana Buluku relève de la comparaison. La place des hommes dans la possession, exclue à la Casa das Minas, est plus variable dans les autres maisons de mina."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "junkanoo",
+  "nom": "Junkanoo",
+  "variantes": [
+    "John Canoe",
+    "Jonkonnu (Jamaïque)",
+    "John Connu",
+    "Wanaragua ou Jankunu (Garifuna)",
+    "John Kuner (Caroline du Nord)"
+  ],
+  "region": "diaspora",
+  "categorie": "rites",
+  "peuples": [
+    "Bahaméens",
+    "Jamaïcains",
+    "Garifuna (Belize, Honduras)",
+    "Afro-Américains de Caroline du Nord (tradition historique)"
+  ],
+  "resume": "Mascarade de rue d'origine afro-caribéenne, célébrée aux Bahamas le lendemain de Noël et le jour de l'an, et connue sous d'autres formes en Jamaïque (Jonkonnu), chez les Garifuna d'Amérique centrale et, autrefois, dans le sud des États-Unis. Née dans les plantations, où les esclaves disposaient de quelques jours de congé à Noël, elle associe costumes, masques, tambours et cuivres. L'origine de son nom et ses racines africaines précises restent discutées.",
+  "description_detaillee": "Le Junkanoo appartient à la famille des fêtes de Noël des plantations des Antilles britanniques. Pendant les deux ou trois jours de repos accordés aux esclaves à la fin de l'année, des danseurs masqués parcouraient les domaines et les villes au son des tambours. L'historien Edward Long en donne en 1774 l'une des premières descriptions, pour la Jamaïque : des hommes masqués, coiffés de cornes de bœuf, dansant de maison en maison sous le nom de John Connu, qu'il rapporte lui-même au souvenir de John Conny, un chef de la Côte-de-l'Or. Dans les années 1830, le peintre jamaïcain Isaac Mendes Belisario en fixe plusieurs figures dans ses lithographies, dont un danseur portant sur la tête une maison miniature. En Caroline du Nord, Harriet Jacobs évoque encore en 1861 les « Johnkannaus » qui venaient réclamer quelques pièces à Noël.\n\nAux Bahamas, le Junkanoo est devenu une fête nationale. Dans la nuit du 25 au 26 décembre et dans celle du 31 décembre au 1er janvier, de grands groupes rivaux défilent dans Bay Street, à Nassau, jusqu'au lever du jour, en concourant pour des prix. Les costumes sont faits de milliers de franges de papier crépon collées sur des armatures de carton et de fil de fer, et la musique mêle tambours en peau de chèvre, que l'on retend en les chauffant au feu, cloches de vache, sifflets, trompettes et cuivres. Cette forme spectaculaire s'est largement fixée au XXe siècle, et Clement Bethel en a retracé l'histoire dans un livre achevé par sa fille Nicolette.\n\nEn Jamaïque, le Jonkonnu a gardé ses personnages masqués traditionnels : Pitchy-Patchy couvert de lambeaux de tissu, la Tête de cheval, la Tête de vache, le Diable, la Femme enceinte (Belly Woman) ou le Roi et la Reine, accompagnés de fifres et de tambours. Kenneth Bilby a montré qu'il n'est pas qu'un divertissement : dans certaines communautés, comme celle de Coker, dans la paroisse de Saint Elizabeth, ou dans la paroisse de Saint Thomas, la fête reste liée au culte des ancêtres : on leur fait des offrandes avant de sortir, les morts sont réputés assister aux danses, et la possession par leurs esprits peut y intervenir. Chez les Garifuna du Belize et du Honduras, la danse masquée du Wanaragua, liée au même ensemble, appartient à l'ensemble de la langue, de la danse et de la musique garifuna proclamé chef-d'œuvre du patrimoine oral et immatériel par l'UNESCO en 2001.\n\nL'origine du nom est l'objet de plusieurs hypothèses. La plus citée, déjà avancée par Long, le rattache à John Conny, chef ahanta de la Côte-de-l'Or qui tint jusqu'en 1724 contre les Hollandais le fort brandebourgeois de Groß Friedrichsburg, près du cap des Trois Pointes, et dont la renommée aurait passé l'Atlantique avec les captifs. Maureen Warner-Lewis propose une origine kikongo, nza a nkunu, « monde des esprits ancestraux », que Bilby juge la plus convaincante ; d'autres ont pensé au dieu igbo de l'igname Njoku Ji, ou encore, selon une étymologie populaire, au français « gens inconnus », en référence aux masques. Quant aux racines de la fête, on les cherche dans les mascarades d'Afrique de l'Ouest, dont celles des egungun yoruba, mais les chercheurs soulignent aussi l'apport des traditions britanniques de Noël, comme le mumming, avec lesquelles le Junkanoo a pu se composer. Il partage avec le Jab Jab et le Moko Jumbie des carnavals de Trinité la mémoire d'une mascarade née dans l'esclavage.",
+  "domaines": [
+    "mascarade",
+    "fête de Noël et du nouvel an",
+    "musique",
+    "mémoire de l'esclavage"
+  ],
+  "tags": [
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "jab-jab",
+      "moko-jumbie",
+      "egungun"
+    ]
+  },
+  "attributs": [
+    "costumes en papier crépon",
+    "tambours en peau de chèvre",
+    "cloches de vache",
+    "masques de Pitchy-Patchy et de Tête de cheval (Jamaïque)",
+    "coiffe en forme de maison (représentations anciennes)"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Le Junkanoo est célébré chaque année à Nassau et dans les autres îles des Bahamas le 26 décembre et le 1er janvier, avec des défilés qui attirent des milliers de participants, et il a été inscrit en 2023 sur la liste représentative du patrimoine culturel immatériel de l'humanité de l'UNESCO ; le Jonkonnu jamaïcain survit dans quelques communautés, et le Wanaragua reste pratiqué chez les Garifuna d'Amérique centrale.",
+  "sources": [
+    "Long, E. (1774). The History of Jamaica",
+    "Bettelheim, J. (1979). The Afro-Jamaican Jonkonnu Festival: Playing the Forces and Operating the Cloth (thèse, Yale University)",
+    "Bethel, E.C. (1991). Junkanoo: Festival of the Bahamas (éd. par N. Bethel)",
+    "Bilby, K. (2010). Surviving Secularization: Masking the Spirit in the Jankunu (John Canoe) Festivals of the Caribbean. New West Indian Guide, 84 (3-4)"
+  ],
+  "notes": "Aucune des étymologies proposées n'est démontrée : le rapprochement avec John Conny remonte à Edward Long et reste plausible sans être documenté, la piste kikongo est récente, et le « gens inconnus » français relève de l'étymologie populaire. La part des héritages africains et celle des coutumes britanniques de Noël sont débattues, de même que le degré de continuité entre les descriptions du XVIIIe siècle et les formes actuelles, très transformées aux Bahamas au XXe siècle. Les graphies varient beaucoup (Junkanoo, Jonkonnu, John Canoe, Jankunu), et les traditions locales ne se laissent pas réduire à un modèle unique."
+}

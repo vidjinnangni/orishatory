@@ -1,0 +1,65 @@
+{
+  "id": "iansa",
+  "nom": "Iansã",
+  "variantes": [
+    "Yansã",
+    "Iansan",
+    "Oiá",
+    "Oyá",
+    "Matamba (équivalent en candomblé angola)"
+  ],
+  "region": "diaspora",
+  "categorie": "deites",
+  "peuples": [
+    "Brésiliens (candomblé, umbanda)"
+  ],
+  "resume": "Orixá afro-brésilienne des vents, des tempêtes et de la foudre, forme brésilienne de l'Ọya des Yoruba. Guerrière et épouse de Xangô, elle est aussi l'orixá qui commande les eguns, les esprits des morts. Honorée dans le candomblé comme dans l'umbanda, elle est rapprochée de sainte Barbe.",
+  "description_detaillee": "Iansã est le nom sous lequel l'Ọya des Yoruba est servie au Brésil. Il vient d'un nom de louange que la tradition yoruba lui donne déjà, Ìyáńsàn, compris comme « mère de neuf », en souvenir des neuf enfants qu'elle aurait mis au monde. En passant l'Atlantique, la divinité a perdu son ancrage géographique, le fleuve Niger qui porte son nom en Afrique, mais a gardé l'essentiel de sa personnalité : une femme guerrière, maîtresse des vents qui plient les arbres, des tempêtes et des éclairs, prompte à la colère et à la passion. Elle compte parmi les orixás les plus populaires du candomblé de nation ketu. On la salue par le cri « Eparrei ! », et le mercredi, qu'elle partage avec son époux Xangô, lui est consacré.\n\nDans les terreiros, l'orixá manifestée danse en tournoyant, les bras lancés comme pour soulever le vent. Elle tient d'une main une épée ou un sabre et de l'autre l'eruexim, un chasse-mouches fait de crins, qui sert à écarter les morts. Sa couleur est le plus souvent le rouge. Les récits recueillis par Pierre Verger et Reginaldo Prandi reprennent ceux de l'Afrique de l'Ouest. Dans l'un, elle est la femme-buffle qu'un chasseur contraint au mariage en cachant sa peau, et des cornes de buffle figurent sur ses autels. Dans un autre, Xangô l'envoie chercher une préparation magique qui lui permet de cracher du feu ; elle la goûte en chemin et acquiert ainsi le même pouvoir. On lui offre l'acarajé, beignet de haricots frit dans l'huile de palme, devenu à Salvador l'emblème des baianas qui le vendent dans les rues.\n\nLe trait le plus marqué de l'Iansã brésilienne est son autorité sur les eguns, les esprits des morts. Là où les autres orixás les craignent, elle seule peut les affronter et les conduire, et l'on distingue une Iansã Igbalé, ou de Balé, plus particulièrement liée à ce domaine. Ce rôle prolonge le lien que plusieurs traditions yoruba établissent entre Ọya et les mascarades egungun, dont un culte s'est maintenu au Brésil dans les terreiros de l'île d'Itaparica, en face de Salvador. Il la rapproche aussi d'Omolu, maître de la terre et des maladies : un récit répandu dans les terreiros raconte que le vent d'Iansã souleva le capuchon de paille qui cachait le corps d'Omolu et révéla sa beauté, et plusieurs maisons voient en eux les deux puissances qui se partagent le monde des morts.\n\nLe catholicisme populaire l'a identifiée à sainte Barbe, patronne invoquée contre la foudre, dont la fête du 4 décembre donne lieu à Salvador à une messe, à une procession et au caruru offert à Iansã, où beaucoup de fidèles s'habillent de rouge et de blanc. L'umbanda l'a intégrée parmi les orixás qui président à ses « lignes », en insistant sur son rôle auprès des âmes des défunts, et beaucoup de centres l'y associent au jaune plutôt qu'au rouge. Dans le candomblé angola, on rapproche d'elle l'inquice Matamba. À Cuba, la même divinité est honorée sous le nom d'Oyá dans la santería, où elle est associée à la Vierge de la Chandeleur.",
+  "domaines": [
+    "vents",
+    "tempêtes",
+    "foudre",
+    "morts",
+    "guerre",
+    "transformation"
+  ],
+  "tags": [
+    "foudre-orage",
+    "mort-au-dela",
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [
+      "shango"
+    ],
+    "enfants": [],
+    "entites_liees": [
+      "oya",
+      "shango",
+      "omolu",
+      "egungun",
+      "candomble",
+      "umbanda",
+      "santeria"
+    ]
+  },
+  "attributs": [
+    "eruexim (chasse-mouches en crins)",
+    "épée ou sabre",
+    "cornes de buffle",
+    "acarajé",
+    "rouge",
+    "mercredi",
+    "sainte Barbe"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Honorée dans les terreiros de candomblé et les centres d'umbanda de tout le Brésil ; la fête de sainte Barbe, le 4 décembre, est l'occasion à Salvador de célébrations publiques où Iansã est au centre de la dévotion populaire.",
+  "sources": [
+    "Verger, P. (1981). Orixás: deuses iorubás na África e no Novo Mundo",
+    "Prandi, R. (2001). Mitologia dos orixás",
+    "Bastide, R. (1958). Le Candomblé de Bahia (rite nagô)",
+    "Gleason, J. (1987). Oya: In Praise of the Goddess"
+  ],
+  "notes": "L'étymologie « mère de neuf » (Ìyá mẹ́sàn) est la plus courante mais reste discutée : on rapporte le chiffre neuf tantôt à ses enfants, tantôt aux bras du delta du Niger, et certains lisent Ìyá Mẹ́sàn Ọ̀run, « mère des neuf cieux ». Les maisons distinguent plusieurs « qualités » (qualidades) d'Iansã, dont Igbalé, liée aux morts, et Onira, proche des eaux douces, sans s'accorder sur leur nombre ni sur leurs noms. Son union avec Xangô est la plus citée, mais certains récits la marient d'abord à Ogum. Le récit où elle découvre Omolu circule sous plusieurs versions et n'est pas propre à une maison. À Cuba, Oyá est aussi rapprochée de sainte Thérèse d'Avila. La couleur varie en umbanda selon les maisons, du jaune au rouge ou au corail. Le rapprochement avec sainte Barbe tient à la foudre, qui selon la légende chrétienne frappa le père de la sainte."
+}

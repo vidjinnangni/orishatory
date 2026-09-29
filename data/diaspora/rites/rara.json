@@ -1,0 +1,54 @@
+{
+  "id": "rara",
+  "nom": "Rara",
+  "variantes": [
+    "Ra-ra",
+    "Gagá (forme apparentée en République dominicaine)"
+  ],
+  "region": "diaspora",
+  "categorie": "rites",
+  "peuples": [
+    "Haïtiens",
+    "Diaspora haïtienne (New York, Miami)",
+    "Dominicains d'ascendance haïtienne (gagá)"
+  ],
+  "resume": "Festival haïtien de processions musicales qui se déroule pendant le carême et culmine pendant la semaine sainte, jusqu'à Pâques. Des bandes jouant des trompes de bambou (vaksen), des tambours et des percussions parcourent routes et quartiers en chantant et en dansant. Sous son aspect festif, le rara engage le travail religieux du vodou et porte une parole politique.",
+  "description_detaillee": "La saison du rara s'ouvre au lendemain du carnaval, le mercredi des Cendres, et monte en intensité jusqu'à la semaine sainte : du Vendredi saint au lundi de Pâques, les bandes sortent jour et nuit. Elles sont particulièrement nombreuses dans les campagnes et les bourgs, Léogâne ayant la réputation d'accueillir les plus grandes, mais aussi dans les quartiers populaires de Port-au-Prince. Une bande peut compter des dizaines, voire des centaines de participants, qui marchent des kilomètres en saluant les notables et les maisons amies, dont ils attendent quelques pièces, et en défiant les autres bandes qu'ils croisent.\n\nChaque bande a sa hiérarchie, souvent calquée sur des grades militaires ou politiques : un président, des colonels qui dirigent la marche au sifflet et au fouet, un majò jon qui fait tournoyer un bâton de métal, des reines qui chantent et dansent. La musique repose sur les vaksen, tubes de bambou produisant chacun une seule note, que les joueurs combinent en courtes figures entrelacées tout en frappant le tube d'une baguette, auxquels s'ajoutent des trompes de métal (kònè), des tambours, des grattoirs et des hochets. Les chansons, souvent composées pour la saison, passent du registre grivois au commentaire moqueur.\n\nElizabeth McAlister a montré que le rara est aussi une affaire religieuse. Beaucoup de bandes sont liées à un oungan et à un lwa protecteur, et leur sortie est précédée d'un service dans l'ounfò. Les chefs s'assurent la protection des esprits, y compris celle de morts engagés par un travail magique, contre les attaques des bandes rivales, et certaines bandes s'arrêtent aux carrefours ou au cimetière pour saluer Baron et les Gede. Le temps même du rara est chargé : la semaine sainte, où le Christ est mis au tombeau, est un moment où l'on dit les forces invisibles particulièrement actives. Certaines bandes fabriquent aussi pendant la semaine sainte une effigie de paille du « Juif », tenu pour responsable de la mort du Christ par la piété populaire, qu'elles promènent dans les rues, battent puis brûlent. McAlister rattache ce motif à l'antijudaïsme chrétien de l'Europe médiévale et ibérique, et relève que certains chefs de rara revendiquent à l'inverse une identité de « Juif » face à l'élite catholique ; Jeroen Dewulf conteste cette lecture et y voit un héritage du catholicisme afro-ibérique.\n\nLa dimension politique est tout aussi ancienne. Les chansons chargées de pwen, allusions piquantes adressées à un rival ou à un puissant sans le nommer, permettent de dire publiquement ce qui ne peut l'être autrement. Les pouvoirs ont cherché à encadrer ou à s'approprier les bandes, et des candidats font composer des chansons à leur gloire ; à l'inverse, chants et cortèges de rara ont accompagné à Miami et à New York les manifestations contre le régime de Jean-Claude Duvalier au début des années 1980, puis, après sa chute en 1986, le mouvement Lavalas. Le rara a suivi l'émigration haïtienne : des bandes jouent à New York, notamment le dimanche dans Prospect Park, à Brooklyn, depuis les années 1990, et à Miami, et le gagá des bateyes sucriers de République dominicaine en est une forme apparentée, portée par les travailleurs haïtiens et leurs descendants.",
+  "domaines": [
+    "musique processionnelle",
+    "semaine sainte",
+    "protection rituelle",
+    "contestation politique"
+  ],
+  "tags": [
+    "diaspora-survivance",
+    "mort-au-dela"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "vodou-haitien",
+      "gede",
+      "baron-samedi",
+      "zombi",
+      "jab-jab"
+    ]
+  },
+  "attributs": [
+    "vaksen (trompes de bambou)",
+    "kònè (trompes de métal)",
+    "tambours",
+    "fouet et sifflet des colonels",
+    "bâton du majò jon"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Le rara reste chaque année l'une des grandes fêtes populaires d'Haïti, en particulier à Léogâne pendant la semaine sainte, et des bandes jouent aussi dans la diaspora haïtienne de New York et de Miami.",
+  "sources": [
+    "McAlister, E. (2002). Rara! Vodou, Power, and Performance in Haiti and Its Diaspora",
+    "Averill, G. (1997). A Day for the Hunter, a Day for the Prey: Popular Music and Power in Haiti",
+    "Dewulf, J. (2023). Why Rara Burns Judas during Lent: Rethinking the Origins of Catholic Elements in Haitian Culture from an Afro-Iberian Perspective. The Americas, 80 (1)"
+  ],
+  "notes": "L'origine du rara est mal documentée. On le rattache aux fêtes que les esclaves de Saint-Domingue pouvaient tenir pendant les jours chômés de Pâques, et McAlister y relève des traits qu'elle rapproche des cultures kongo. L'étymologie du mot, rapportée au yoruba ràrà, que l'on glose tantôt comme un genre de poésie chantée, tantôt comme « bruyant », reste une hypothèse. L'utilisation de certaines bandes par le régime des Duvalier, parfois évoquée, n'a pas pu être vérifiée pour cette fiche. Le degré d'engagement religieux varie beaucoup d'une bande à l'autre, certaines se voulant avant tout festives. Le rapport entre le rara et le gagá dominicain, souvent décrit comme une filiation, est discuté dans le détail."
+}
