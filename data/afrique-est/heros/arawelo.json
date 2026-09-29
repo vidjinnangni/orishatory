@@ -1,0 +1,44 @@
+{
+  "id": "arawelo",
+  "nom": "Arawelo",
+  "variantes": [
+    "Caraweelo",
+    "Araweelo",
+    "Arraweelo",
+    "Arawailo",
+    "Caroweelo"
+  ],
+  "region": "afrique-est",
+  "categorie": "heros",
+  "peuples": [
+    "Somali"
+  ],
+  "resume": "Arawelo est une reine légendaire des traditions orales somalies, réputée avoir régné très anciennement dans le nord de l'actuelle Somalie et avoir persécuté les hommes, souvent en les castrant. Les récits varient beaucoup selon les régions et les narrateurs. Longtemps racontée comme l'histoire d'une souveraine cruelle, elle est aujourd'hui aussi relue comme une figure de résistance féminine.",
+  "description_detaillee": "Arawelo appartient au répertoire oral des Somali, dont la langue n'a reçu d'écriture officielle qu'en 1972. Aucune source ne permet de la situer dans l'histoire : elle est connue par des contes, par des chansons et par un lieu de sépulture supposé. Son intérêt tient à la manière dont chaque génération de conteurs, puis d'intellectuels, a réinterprété le récit d'une femme au pouvoir.\n\nLa première mention publiée par un Européen se trouve dans British Somaliland (1912) de l'administrateur Ralph Drake-Brockman. Il rapporte qu'une grande reine nommée Arawailo, crainte pour ses excentricités, aurait vécu il y a des milliers d'années à Murihi, dans le territoire des Habr Toljaala (Habr Je'lo), dans l'actuelle région du Sanaag ; un grand tas de pierres, sous lequel elle serait enterrée, marquerait l'emplacement de sa capitale. Vers la fin de sa vie, dit-il, elle aurait favorisé les femmes et montré une grande animosité envers les hommes. Le linguiste Abdirachid M. Ismail résume la version la plus répandue : la reine castre les hommes, y compris ses propres fils ; sa fille s'enfuit avec son enfant pour le soustraire à la mutilation, et le mari d'Arawelo, Biiqi, s'échappe lui aussi. Biiqi, dont l'intelligence est devenue proverbiale, déjoue les pièges de la reine et entraîne son petit-fils, qui finit par la tuer d'un coup de lance. Son corps, traîné à travers le pays, est lapidé par ceux qui le voient passer, et chaque endroit où il perd un morceau devient une montagne ou un cairn. Dans une version publiée par Ahmed Artan Hanghe, c'est un vieil homme caché qui aide les hommes à accomplir les tâches imposées par la reine, puis a un fils avec la fille d'Arawelo, et ce fils tue la souveraine.\n\nLes lectures modernes ont inversé le sens du récit. En 1995, Ladan Affi présentait Arawelo comme un modèle pour les femmes somalies : une reine lassée des guerres entre clans et des mauvaises décisions des conseils d'anciens, qui confie le pouvoir aux femmes et ramène la paix. Selon ces lectures, les épisodes de cruauté seraient des ajouts de conteurs masculins destinés à discréditer son pouvoir. Le romancier Nuruddin Farah l'associe, dans Secrets, à une ancienne tradition matriarcale que les hommes auraient renversée. Ismail propose une piste différente, qu'il présente lui-même comme une hypothèse : le nom pourrait venir de caro, « terre, pays », et de Welo, région d'Éthiopie, et le personnage garderait le souvenir déformé d'une reine agaw comme Gudit, qui ravagea le royaume d'Aksoum au Xe siècle.",
+  "domaines": [
+    "pouvoir féminin",
+    "rapports entre hommes et femmes",
+    "royauté"
+  ],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [
+    "tas de pierres de Murihi (tombeau supposé)",
+    "lance du petit-fils qui la tue"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Drake-Brockman, R.E. (1912). British Somaliland",
+    "Laurence, M. (1954). A Tree for Poverty: Somali Poetry and Prose",
+    "Hanghe, A.A. (1988). Folktales from Somalia",
+    "Affi, L. (1995). Arraweelo: A Role Model for Somali Women, in Abdi, M.M. (dir.), Pour une culture de la paix en Somalie",
+    "Ismail, A.M. (2014). Caroweelo: When an Abyssinian Queen Dominates the Horn of Africa, Ten Centuries Ago"
+  ],
+  "notes": "Les versions divergent sur presque tout : l'époque du règne, l'identité de l'homme qui résiste (mari, vieil homme caché ou père du meurtrier), la nature des violences infligées aux hommes (castration, humiliations, travaux domestiques imposés). Des récits en ligne affirment qu'autour d'un tombeau supposé, près d'Erigavo, les hommes jetteraient des pierres et les femmes déposeraient des fleurs ; cette pratique n'a pas été vérifiée dans une source académique. Des sources de vulgarisation ajoutent que son nom sert encore à désigner une femme autoritaire, ce qui n'a pas été vérifié dans une étude publiée. Les dates avancées dans des ouvrages de vulgarisation (règne au Ier siècle, par exemple) ne reposent sur aucune source ancienne. L'étymologie par caro et Welo et le rapprochement avec Gudit sont des hypothèses d'Ismail. Le texte de Drake-Brockman n'a pu être consulté que par l'extrait cité dans d'autres travaux ; la version de Margaret Laurence (1954), signalée par plusieurs sources, n'a pas été consultée."
+}
