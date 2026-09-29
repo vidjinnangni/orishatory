@@ -1,0 +1,41 @@
+{
+  "id": "kalanoro",
+  "nom": "Kalanoro",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "creatures",
+  "peuples": [
+    "Malgaches"
+  ],
+  "resume": "Le kalanoro est un petit être des forêts, des rochers et des cours d'eau de Madagascar, souvent décrit avec de longs cheveux, de longs ongles et des pieds tournés vers l'arrière. Selon les régions et les récits, il égare ou enlève les humains, ou bien leur enseigne l'usage des plantes et s'allie à des devins-guérisseurs. La croyance en son existence est répandue dans toute l'île.",
+  "description_detaillee": "On rencontre le kalanoro dans les croyances de toute l'île de Madagascar, des hautes terres de l'Imerina aux forêts du nord-est. Ce n'est pas un ancêtre mais un esprit de la nature : un être discret, qui vit en forêt, sous les rochers ou près de l'eau, et ne se montre que s'il le veut. Il compte parce qu'il relie la forêt, la connaissance des plantes et la guérison, et que sa figure se transforme encore aujourd'hui.\n\nLes descriptions anciennes, réunies par l'anthropologue Delphine Burguet, en font un petit être aux longs cheveux, à la barbe fournie, aux ongles longs et crochus et aux pieds inversés ; d'autres parlent de « petits êtres noirs » ou de petits hommes aux cheveux touffus qui apparaissent en rêve. Dans le nord-est, autour du parc naturel de Makira, les chercheurs Christopher Golden et Jean Comaroff ont recueilli des descriptions d'êtres bienveillants vivant dans les rivières ou les grottes, imaginés comme des femmes de très petite taille aux cheveux et aux ongles très longs, qui mangent des crabes et ont les talons devant et les orteils derrière. Leur rôle varie : ils enlèvent des enfants, égarent les promeneurs en forêt, conseillent sur les plantes médicinales ou dictent des interdits (fady) à certaines personnes, par des visions ou des rêves. Dès le XIXe siècle, des auteurs les décrivaient comme de « savants médecins » connaissant la vertu des herbes, des arbres et des pierres ; d'autres auteurs en font les maîtres du sel, de l'eau et du miel, capables de favoriser la fécondité.\n\nLeurs rapports avec les humains passent souvent par des devins-guérisseurs, qui tiennent d'eux une partie de leur savoir. Burguet a étudié entre 2001 et 2006, dans le Vonizongo (hautes terres centrales), un jeune guérisseur allié à une kalanoro qu'il appelait « Sainte Nika » : claire de peau, vêtue d'une robe de baptême, elle refusait les remèdes végétaux et les charmes (ody), imposait des interdits de porc et d'alcool et s'était unie au jeune homme par une bague. Cet exemple montre comment le culte des esprits de la nature intègre des éléments chrétiens et des objets de consommation modernes. Dans le nord-est, on dit aussi que les kalanoro quittent la forêt lorsqu'elle est détruite ou dégradée, ce qui a conduit des chercheurs en conservation à s'intéresser à ces croyances.",
+  "domaines": [
+    "forêt",
+    "cours d'eau et grottes",
+    "plantes médicinales",
+    "interdits (fady)"
+  ],
+  "tags": [
+    "divination"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [
+    "pieds tournés vers l'arrière",
+    "longs cheveux",
+    "longs ongles",
+    "petite taille"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Des devins-guérisseurs malgaches se disent encore alliés à des kalanoro, comme le jeune guérisseur du Vonizongo étudié par Delphine Burguet au début des années 2000. Dans le nord-est de l'île, on attribue aux kalanoro des interdits alimentaires transmis en rêve.",
+  "sources": [
+    "Burguet, D. (2012). Le jeune guérisseur et la sainte kalanoro : l'innovation rituelle du culte aux esprits de la nature, Journal des anthropologues, 128-129",
+    "Golden, C.D. & Comaroff, J. (2015). The human health and conservation relevance of food taboos in northeastern Madagascar, Ecology and Society, 20 (2)",
+    "Holmes, G., Smith, T.A. & Ward, C. (2018). Fantastic beasts and why to conserve them: animals, magic and biodiversity conservation, Oryx, 52 (2)"
+  ],
+  "notes": "Les sources ne concordent pas sur l'apparence du kalanoro (homme barbu ou femme minuscule, être noir ou invisible) ni sur son caractère, bienveillant ou dangereux. Des sites de vulgarisation et de cryptozoologie ajoutent des crocs, des yeux rouges ou le goût de la viande crue ; ces traits n'ont pas été retrouvés dans les travaux académiques consultés. Le sens du nom (parfois traduit « voix des ancêtres ») n'a pas été vérifié. Les descriptions anciennes (Flacourt, Grandidier, Mellis) et l'étude de Philippe Beaujard sur les Tanala ne sont connues ici qu'à travers l'article de Burguet."
+}

@@ -1,0 +1,59 @@
+{
+  "id": "chwezi",
+  "nom": "Chwezi",
+  "variantes": [
+    "Bachwezi",
+    "Bacwezi",
+    "Cwezi",
+    "Abacwezi"
+  ],
+  "region": "afrique-est",
+  "categorie": "deites",
+  "peuples": [
+    "Banyoro (Bunyoro, Ouganda)",
+    "Banyankore (Nkore, Ouganda)",
+    "Batooro (Ouganda)",
+    "Haya (Kagera, Tanzanie)"
+  ],
+  "resume": "Les Chwezi sont, selon les traditions du Bunyoro et des pays voisins, une dynastie de rois du Kitara, dans l'ouest de l'Ouganda, qui auraient disparu mystérieusement avant l'arrivée des rois biito. Ils sont surtout connus comme un ensemble d'esprits (emandwa), honorés dans les cultes de possession du type kubandwa, de l'Ouganda occidental jusqu'au nord-ouest de la Tanzanie. Leur existence historique en tant que dynastie est discutée depuis les années 1950.",
+  "description_detaillee": "Dans l'ouest de l'Ouganda et les régions voisines de la Tanzanie, les Chwezi occupent deux places à la fois. Les traditions dynastiques du Bunyoro en font les souverains d'un ancien royaume du Kitara, venus après les Batembuzi et avant les Biito, la dynastie qui régnait encore au XIXe siècle. Les cultes de possession de la région les honorent comme des esprits, les emandwa, que des médiums reçoivent et font parler. Pour l'anthropologue John Beattie, ces cultes centrés sur les Chwezi forment le noyau des religions bantoues de la région des Grands Lacs.\n\nLe récit, mis par écrit au XXe siècle par des auteurs nyoro comme John Nyakatura, rattache les Chwezi à Isimbwa et à Nyinamwiru, fille de Bukuku, un usurpateur qui avait pris la place du dernier roi tembuzi. Leur fils Karubumbi tue son grand-père et devient roi sous le nom de Ndahura ; la tradition lui prête des conquêtes très étendues et fait de Mubende sa capitale. La tradition compte aussi parmi les rois chwezi Mulindwa, demi-frère de Ndahura, et Wamara, son fils, présenté comme le dernier d'entre eux et installé sur la colline de Masaka, dans le Bwera. Le règne se défait : un devin venu du nord, Nyakoka, retrouve les entrailles d'un veau sacrifié dans le crâne et les sabots de l'animal et y lit l'annonce du départ des Chwezi. Ceux-ci quittent le pays, disparaissant sous terre ou dans un lac selon les versions, et laissent derrière eux la médiumnité. Rukidi, premier roi biito, vient ensuite négocier avec les médiums restés au sanctuaire de Wamara.\n\nComme esprits, les Chwezi ont chacun leur domaine. Beattie associe Wamara à la pluie et aux rivières, Kagoro à la foudre, Mulisa au bétail, Mugasa aux grands lacs ; on les appelle les emandwa « blancs », le blanc signifiant la pureté et la bénédiction. Au Bunyoro comme au Rwanda, la famille royale était tenue à l'écart des cultes de médiums. Au Rwanda et au Burundi, l'ensemble correspondant s'organise autour de Ryangombe, que Luc de Heusch rapproche lui aussi des héros chwezi.\n\nL'historicité de cette dynastie fait débat. En 1958, Christopher Wrigley soutenait que les Chwezi n'avaient jamais été que des esprits et qu'aucun empire chwezi n'avait existé. L'archéologie a longtemps paru dire le contraire, car les sites de Bigo bya Mugenyi, de Ntusi et de Mubende passaient pour leurs capitales. John Sutton a montré en 1993 que ces sites avaient été occupés entre le XIe et le XVe siècle environ et y voit la trace de transformations économiques plutôt que d'un empire ; Peter Robertshaw date le creusement des fossés de Munsa et de Kibengo des XVe ou XVIe siècles, peut-être un peu plus tôt à Bigo, et conclut qu'il ne s'agissait pas des capitales d'un empire chwezi mais de plusieurs entités contemporaines. Shane Doyle a enfin mis en garde contre l'idée d'un culte chwezi uniforme, qui aurait partout servi de refuge aux femmes ou de contre-pouvoir aux rois : ses sources nyoro montrent des pratiques très diverses.",
+  "domaines": [
+    "pluie et rivières",
+    "foudre",
+    "bétail",
+    "grands lacs",
+    "médiumnité",
+    "légitimité royale"
+  ],
+  "tags": [
+    "initiation",
+    "royaute-sacree"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "ryangombe",
+      "mukasa",
+      "nyabingi"
+    ]
+  },
+  "attributs": [
+    "couleur blanche (emandwa « blancs »)",
+    "sanctuaires de collines (Mubende, Masaka)",
+    "veau sacrifié du présage de Nyakoka"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Sur la colline de Mubende, l'arbre de Nakayima, que la tradition relie à une médium de Ndahura, reste un lieu de pèlerinage où des visiteurs déposent argent, animaux, grain et produits laitiers en espérant guérison, fécondité ou prospérité.",
+  "sources": [
+    "Wrigley, C.C. (1958). Some Thoughts on the Bacwezi, Uganda Journal, 22",
+    "Berger, I. (1981). Religion and Resistance: East African Kingdoms in the Precolonial Period",
+    "Beattie, J. (1987). Interlacustrine Bantu Religions, in Eliade, M. (dir.), The Encyclopedia of Religion",
+    "Sutton, J.E.G. (1993). The Antecedents of the Interlacustrine Kingdoms, Journal of African History, 34 (1)",
+    "Robertshaw, P. (2002). The Ancient Earthworks of Western Uganda: Capital Sites of a Cwezi Empire?, Uganda Journal, 48",
+    "Doyle, S. (2007). The Cwezi-Kubandwa Debate: Gender, Hegemony and Pre-Colonial Religion in Bunyoro, Western Uganda, Africa, 77 (4)",
+    "Schoenbrun, D. (2013). A Mask of Calm: Emotion and Founding the Kingdom of Bunyoro in the Sixteenth Century, Comparative Studies in Society and History, 55 (3)"
+  ],
+  "notes": "Les listes de rois varient : certaines ne retiennent que trois souverains (Ndahura, Mulindwa, Wamara), d'autres ajoutent des parents comme Mugenyi, dont le nom est attaché au site de Bigo bya Mugenyi. Dans certaines versions du présage, l'animal vide d'entrailles appartient à Mugenyi et non à Wamara. Les datations proposées pour une « période chwezi » divergent fortement (du XIIIe au XVIIe siècle selon les auteurs), et plusieurs historiens, dont David Henige, estiment que l'idée même d'une dynastie a été projetée sur des figures plus anciennes à l'époque biito. Le Mugasa des cultes nyoro porte le nom du grand dieu ganda du lac Victoria (voir Mukasa). La présence du culte chwezi chez les Haya et au Karagwe (Tanzanie) repose ici sur les synthèses générales d'Iris Berger ; des sources secondaires y font de Wamara le souverain des autres esprits et des morts, ce qui n'a pas été vérifié dans une étude de première main."
+}

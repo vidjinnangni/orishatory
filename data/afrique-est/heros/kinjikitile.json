@@ -1,0 +1,48 @@
+{
+  "id": "kinjikitile",
+  "nom": "Kinjikitile Ngwale",
+  "variantes": [
+    "Kinjeketile",
+    "Bokero (titre)"
+  ],
+  "region": "afrique-est",
+  "categorie": "heros",
+  "peuples": [
+    "Matumbi (sud-est de la Tanzanie)"
+  ],
+  "resume": "Kinjikitile Ngwale est un médium de Ngarambe, dans le pays matumbi (sud-est de l'actuelle Tanzanie), dont l'enseignement et la distribution d'une eau protectrice, le maji, ont préparé le soulèvement Maji Maji contre la domination allemande (1905-1907). Arrêté dès le début des combats, il est pendu par les Allemands le 4 août 1905. La Tanzanie indépendante en a fait une figure fondatrice de la résistance nationale.",
+  "description_detaillee": "Kinjikitile vivait depuis quelques années à Ngarambe, au pied des collines matumbi, dans l'arrière-pays de Kilwa, lorsqu'il devint célèbre comme médium en 1904. La région subissait alors une sécheresse (1903) et, surtout, le programme allemand de culture forcée du coton, dont les paiements promis n'arrivaient pas. Son importance tient au mouvement qu'il a rendu possible : le soulèvement Maji Maji, qui s'étendit du sud et de l'est de l'Afrique orientale allemande sur plus de 250 000 km² et fit, selon l'estimation officielle allemande, 75 000 morts africains, pour la plupart de faim et de maladie ; des historiens retiennent aujourd'hui des chiffres bien plus élevés.\n\nSon autorité s'appuyait sur un culte régional plus ancien. Selon l'historien tanzanien G.C.K. Gwassa, dont les enquêtes orales sont à la base de la plupart des récits, Kinjikitile était possédé par Hongo, un esprit subordonné à Bokero, divinité dont le grand sanctuaire se trouvait à Kibesa sur le Rufiji. John Iliffe, qui s'appuie davantage sur les archives, rattache ce centre au culte de Kolelo, un grand serpent logé dans une grotte des monts Uluguru, auquel les Zaramo et les Luguru s'adressaient pour la pluie et les récoltes : Bokero serait le titre du desservant de sa branche de Ngarambe, et hongo celui des émissaires qui allaient distribuer le maji. À Ngarambe, Kinjikitile fit bâtir une grande « maison de Dieu » (kijumba-nungu) pour les ancêtres, annonça qu'ils étaient rassemblés là pour aider leurs descendants, et distribua une eau-médecine qui devait changer les balles allemandes en eau. Les pèlerins la rapportaient chez eux, ce qui permit au message de franchir les frontières entre peuples.\n\nLes combats commencèrent dans les collines matumbi dans la nuit du 31 juillet 1905, sans que l'ordre en soit venu de lui. Kinjikitile fut arrêté aussitôt et pendu avec un assistant le 4 août 1905, premier chef exécuté de la guerre, qui dura jusqu'en 1907. Son rôle est discuté. Iliffe voyait dans le mouvement une révolte paysanne sanctifiée ensuite par la prophétie, puis retombée dans les solidarités locales ; l'historienne Marcia Wright jugeait qu'il faudrait examiner de plus près l'idée de Gwassa selon laquelle il aurait forgé une religion à vocation universelle ; Jamie Monson a replacé le soulèvement, dans les hautes terres du sud, au milieu de rivalités locales plus anciennes. Sa mémoire a pris une autre dimension avec la pièce en swahili Kinjeketile d'Ebrahim Hussein (1969), longtemps inscrite aux programmes scolaires en Tanzanie et au Kenya, et Kinjikitile reste l'une des figures de la résistance anticoloniale en Afrique de l'Est, aux côtés de Mekatilili wa Menza.",
+  "domaines": [
+    "résistance anticoloniale",
+    "médiumnité",
+    "protection rituelle",
+    "culte des ancêtres"
+  ],
+  "tags": [
+    "ancetres"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "mekatilili-wa-menza",
+      "nyabingi"
+    ]
+  },
+  "attributs": [
+    "maji (eau-médecine protectrice)",
+    "kijumba-nungu, « maison de Dieu » de Ngarambe",
+    "kanzu blanc"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Kinjikitile n'est pas l'objet d'un culte. Il est commémoré en Tanzanie comme héros de la résistance au colonialisme, notamment à travers la pièce Kinjeketile d'Ebrahim Hussein.",
+  "sources": [
+    "Iliffe, J. (1967). The Organization of the Maji Maji Rebellion, Journal of African History, 8 (3)",
+    "Gwassa, G.C.K. (1972). Kinjikitile and the Ideology of Maji Maji, in Ranger, T.O. & Kimambo, I.N. (dir.), The Historical Study of African Religion",
+    "Wright, M. (1987). Kinjikitile, in Eliade, M. (dir.), The Encyclopedia of Religion",
+    "Monson, J. (1998). Relocating Maji Maji: The Politics of Alliance and Authority in the Southern Highlands of Tanzania, 1870-1918, Journal of African History, 39 (1)",
+    "Hussein, E.N. (1969). Kinjeketile"
+  ],
+  "notes": "Sa biographie est très mal connue : seule sa mort par pendaison le 4 août 1905 est bien établie. Les sources ne s'accordent pas sur Hongo et Bokero : pour Gwassa et Wright, Hongo est l'esprit qui possède Kinjikitile et Bokero la divinité supérieure ; pour Iliffe, Bokero est le titre du desservant du culte de Kolelo à Ngarambe et hongo celui de ses émissaires, et son article de 1967 ne désigne Kinjikitile que sous ce titre. Des récits de vulgarisation précisent la composition du maji (eau, huile de ricin, millet) et parlent d'une disparition de Kinjikitile en 1904 suivie de sa possession ; ces détails n'ont pas été vérifiés dans les sources académiques consultées. L'estimation des morts varie de 75 000 (chiffre officiel allemand) à plus de 250 000 selon les historiens. Le lien avec la fiche Nyabingi tient à un motif commun, la promesse que les balles européennes se changeraient en eau."
+}

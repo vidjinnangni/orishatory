@@ -1,0 +1,51 @@
+{
+  "id": "famadihana",
+  "nom": "Famadihana",
+  "variantes": [
+    "Retournement des morts",
+    "Mamadika razana"
+  ],
+  "region": "afrique-est",
+  "categorie": "rites",
+  "peuples": [
+    "Merina",
+    "Betsileo"
+  ],
+  "resume": "Le famadihana est une cérémonie des hautes terres de Madagascar, surtout pratiquée par les Merina et les Betsileo, au cours de laquelle on sort du tombeau familial les restes de défunts pour les envelopper dans de nouveaux linceuls de soie (lamba mena) avant de les y replacer. Grande fête de parenté, souvent coûteuse, elle a lieu pendant la saison sèche, plusieurs années après le décès. Sa forme actuelle s'est largement fixée au XIXe siècle.",
+  "description_detaillee": "Le famadihana est pratiqué par les Merina et les Betsileo, les peuples des hautes terres centrales de Madagascar ; chez les Merina, Maurice Bloch y voyait la cérémonie la plus importante de la vie paysanne. Le mot vient du verbe mamadika, « retourner » ; on parle couramment de mamadika razana, « retourner les morts », même si le corps n'est jamais retourné au sens propre. Tous les rites qui portent ce nom, selon Bloch, comportent trois étapes : exhumer un parent une fois la chair entièrement décomposée, l'envelopper dans des linceuls de soie colorés appelés lamba mena, puis le replacer dans le tombeau familial, situé sur la terre des ancêtres (tanindrazana).\n\nBloch, qui en a observé huit en Imerina dans les années 1960, distingue plusieurs cas : le transfert d'un corps d'une sépulture provisoire vers le tombeau ancestral, le plus fréquent ; la sortie et le retour des corps d'un même tombeau ; le passage d'un tombeau ancien à un nouveau. La cérémonie ne peut avoir lieu qu'au moins deux ans après la mort, et la loi la limitait alors aux mois de juillet à septembre, période creuse pour l'agriculture. Elle pouvait réunir de 165 à plus de 500 personnes et exigeait des dépenses considérables. Le lamba mena, littéralement « étoffe rouge », n'est pas forcément rouge : il est rayé de couleurs vives, et certains groupes à qui les couleurs sont interdites utilisent des linceuls blancs. David Graeber, qui a assisté à plusieurs famadihana près d'Arivonimamo en 1989 et 1990, décrit la consultation d'un astrologue pour fixer la date, l'ouverture de la porte de pierre du tombeau, tournée vers l'ouest, et les corps sortis des banquettes de pierre, aspergés de rhum puis posés sur les genoux des femmes, qui les tiennent « comme un enfant ». Les hommes serrent ensuite les nouveaux linceuls avec des cordes, et l'on danse avec les défunts avant de les reporter dans le tombeau. Après des années, les restes de plusieurs personnes finissent parfois réunis dans un même linceul.\n\nLe rite rappelle d'autres secondes funérailles, mais Bloch souligne qu'il n'est pas nécessaire à tous les morts et qu'un même corps peut être exhumé plusieurs fois. Il y voit surtout l'affirmation de l'appartenance à un groupe de parenté attaché à un tombeau et à une terre. Graeber insiste plutôt sur la mémoire et sur la violence contenue dans le rapport aux ancêtres. L'historien Pier Larson a montré que la pratique a une histoire : au début du XIXe siècle, les rites funéraires portaient surtout sur la première inhumation, et c'est à partir des années 1820, avec le rapatriement des restes de soldats morts au loin et le transfert des morts vers de nouveaux tombeaux de pierre, que les secondes funérailles se sont développées, au point d'entrer en conflit avec la royauté merina dès Radama Ier. Le rite éclaire le partage raconté dans le mythe de création de Zanahary et de Ratovoantany, où le corps revient à la terre.",
+  "domaines": [
+    "ancêtres",
+    "funérailles",
+    "parenté",
+    "terre ancestrale"
+  ],
+  "tags": [
+    "ancetres",
+    "mort-au-dela"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "zanahary",
+      "ratovoantany"
+    ]
+  },
+  "attributs": [
+    "lamba mena (linceuls de soie)",
+    "tombeau familial de pierre",
+    "tanindrazana (terre des ancêtres)",
+    "rhum",
+    "musique et danse"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Le famadihana reste pratiqué sur les hautes terres pendant la saison sèche. Pendant l'épidémie de peste de 2017, les autorités sanitaires ont rappelé qu'une personne morte de la peste ne devait pas être exhumée avant sept ans et qu'un protocole datant de 1932 permettait d'inhumer les victimes à l'écart des tombeaux familiaux, mesure jugée controversée et difficile à appliquer.",
+  "sources": [
+    "Bloch, M. (1971). Placing the Dead: Tombs, Ancestral Villages and Kinship Organization in Madagascar",
+    "Graeber, D. (1995). Dancing with Corpses Reconsidered: An Interpretation of Famadihana (in Arivonimamo, Madagascar), American Ethnologist, 22 (2)",
+    "Larson, P.M. (2001). Austronesian Mortuary Ritual in History: Transformations of Secondary Burial (Famadihana) in Highland Madagascar, Ethnohistory, 48 (1-2)",
+    "Heitzinger, K. et al. (2018). Using evidence to inform response to the 2017 plague outbreak in Madagascar: a view from the WHO African Regional Office, Epidemiology and Infection"
+  ],
+  "notes": "La périodicité varie selon les familles et les tombeaux : Graeber rapporte un intervalle idéal de six ou sept ans, Bloch un délai minimal de deux ans après la mort. Une traduction française ancienne propose « transférer les morts » plutôt que « retourner les morts », ce que Bloch conteste. Bloch estime que le famadihana avait moins d'importance autrefois et qu'il ne relevait pas d'un culte propitiatoire des ancêtres. Les pratiques betsileo, mentionnées par Larson, ne sont pas décrites en détail ici ; elles diffèrent sur plusieurs points de celles de l'Imerina."
+}
