@@ -1,0 +1,60 @@
+{
+  "id": "contes-d-anancy",
+  "nom": "Les contes d'Anancy",
+  "variantes": [
+    "Anancy stories (Jamaïque)",
+    "Anansi-tori (Suriname)",
+    "Nancy stories (Petites Antilles anglophones)",
+    "Kuentanan di Nanzi (Curaçao, Aruba, Bonaire)"
+  ],
+  "region": "diaspora",
+  "categorie": "recits",
+  "peuples": [
+    "Jamaïcains",
+    "Caribéens anglophones",
+    "Surinamais (Créoles et Marrons)",
+    "Antillais néerlandophones (Curaçao, Aruba, Bonaire)"
+  ],
+  "resume": "Répertoire de contes centrés sur l'araignée Anancy (Anansi), transmis depuis l'époque de l'esclavage dans la Caraïbe anglophone, au Suriname et aux Antilles néerlandaises. Issus des anansesem akan de la Côte-de-l'Or, ces récits mettent en scène un petit personnage rusé qui triomphe de plus forts que lui. Ils ont été lus comme une école de survie et de résistance face au système des plantations.",
+  "description_detaillee": "Les contes d'Anancy sont arrivés dans les Amériques avec les captifs de la Côte-de-l'Or, l'actuel Ghana, que les colons anglais appelaient « Coromantee » et qui furent très nombreux en Jamaïque au XVIIIe siècle. Chez les Akan, tous les contes s'appellent anansesem, « histoires d'araignée », et le récit où Anansi achète les histoires au dieu du ciel Nyame explique cette appellation. En Jamaïque, Anansi est devenu Anancy, ou Bredda Anancy ; Tacoomah, qui porte le nom de Ntikuma, le fils d'Ananse chez les Akan, y est tantôt son fils, tantôt son ami ou son voisin, et le léopard des versions africaines a cédé la place à Bredda Tiger, dupe favorite de l'araignée, aux côtés de Bredda Dog, Bredda Rat ou Bredda Monkey.\n\nLes conteurs jamaïcains prêtaient à Anancy une voix particulière, zézayante et nasillarde, et terminaient souvent leur récit par la formule « Jack Mandora, me no choose none », par laquelle, selon Jekyll, le conteur assurait à ses auditeurs qu'il ne les visait pas et déclinait toute responsabilité dans ce qui venait d'être raconté. On contait le soir, et en particulier lors des veillées funéraires comme la nine-night. Walter Jekyll en 1907 puis Martha Warren Beckwith, qui enquêta dans l'île en 1919 et en 1921, ont publié les premiers grands recueils. On y retrouve des récits connus en Afrique, comme celui de la poupée enduite de glu, que le folklore afro-américain des États-Unis raconte à propos de Br'er Rabbit.\n\nAu Suriname, les Anansi-tori se racontent en sranan tongo, et les Herskovits, qui les recueillirent à Paramaribo à la fin des années 1920, notèrent qu'elles avaient leur place principale dans les rites funéraires, en particulier la veillée du huitième jour après le décès, et qu'on ne devait pas les raconter le jour, car les morts seraient alors venus s'asseoir auprès des conteurs et auraient causé leur mort. Chez les Saramaka, descendants de Marrons de l'intérieur, Richard et Sally Price ont décrit ces soirées de contes, entrecoupées de chants et de réponses de l'assistance, qui accompagnent les rites funéraires. À Curaçao, Aruba et Bonaire, Nanzi, en papiamento, affronte le plus souvent Shon Arey, le roi, et Tigre.\n\nEmily Zobel Marshall a lu ces contes comme un instrument de résistance culturelle. Anancy, faible et affamé, ne l'emporte jamais par la force mais par la parole, la ruse et la connaissance des faiblesses de plus puissants que lui ; Tiger, massif et vaniteux, a été vu comme une figure du maître ou du planteur. Pour les esclaves, ces histoires enseignaient des manières de survivre, de feinter et de conserver une dignité hors de portée du système des plantations. Le personnage reste pourtant ambigu : égoïste et gourmand, il trompe aussi ses proches, et la Jamaïque indépendante a parfois dénoncé sous le nom d'« anancyisme » la débrouille malhonnête ou la ruse politique. Louise Bennett, qui publia des contes d'Anancy en créole et les porta à la radio, puis des écrivains comme Andrew Salkey, en ont fait l'une des figures majeures de la littérature caribéenne.",
+  "domaines": [
+    "ruse",
+    "survie",
+    "résistance",
+    "conte oral",
+    "veillée funéraire"
+  ],
+  "tags": [
+    "trickster",
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "anansi",
+      "nyame",
+      "brer-rabbit",
+      "nine-night",
+      "winti"
+    ]
+  },
+  "attributs": [
+    "araignée",
+    "voix zézayante (Jamaïque)",
+    "formule finale « Jack Mandora, me no choose none »"
+  ],
+  "recits_associes": [
+    "comment-anansi-obtint-histoires"
+  ],
+  "culte_contemporain": "Les contes d'Anancy restent racontés dans la Caraïbe, notamment en Jamaïque et au Suriname, et sont transmis par l'école, le théâtre, la radio et l'édition jeunesse ; Anancy est devenu une figure de référence de la culture populaire et de la littérature caribéennes.",
+  "sources": [
+    "Jekyll, W. (1907). Jamaican Song and Story: Annancy Stories, Digging Sings, Ring Tunes, and Dancing Tunes",
+    "Beckwith, M.W. (1924). Jamaica Anansi Stories",
+    "Herskovits, M.J. & Herskovits, F.S. (1936). Suriname Folk-Lore",
+    "Price, R. & Price, S. (1991). Two Evenings in Saramaka",
+    "Marshall, E.Z. (2012). Anansi's Journey: A Story of Jamaican Cultural Resistance"
+  ],
+  "notes": "La lecture des contes comme instrument de résistance, développée notamment par Marshall, est une interprétation : les conteurs eux-mêmes y voyaient d'abord un divertissement et une école de la parole, et le personnage n'a rien d'un héros exemplaire. Les graphies varient selon les îles et les langues (Anancy, Anansi, Nansi, Nanzi). L'interdit surinamais de conter le jour est rapporté par les enquêteurs du XXe siècle et n'est pas observé partout aujourd'hui. Les contes d'Anancy ont intégré des récits d'autres origines, européennes notamment, et tous ne remontent pas à l'Afrique."
+}

@@ -31,14 +31,17 @@
     "enfants": [],
     "entites_liees": [
       "nyame",
-      "mmoatia"
+      "mmoatia",
+      "contes-d-anancy"
     ]
   },
   "attributs": [
     "toile d'araignée",
     "forme d'araignée ou d'homme"
   ],
-  "recits_associes": [],
+  "recits_associes": [
+    "contes-d-anancy"
+  ],
   "culte_contemporain": "Personnage central des contes oraux, largement transmis dans les Caraïbes (Anansi stories) via la traite transatlantique, notamment en Jamaïque.",
   "sources": [
     "Rattray, R.S. (1930). Akan-Ashanti Folk-Tales",
