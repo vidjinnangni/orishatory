@@ -1,0 +1,52 @@
+{
+  "id": "gudit",
+  "nom": "Gudit",
+  "variantes": [
+    "Yodit",
+    "Judith",
+    "Esato (« le feu »)",
+    "Isat",
+    "Gwedit",
+    "Ga'ewa"
+  ],
+  "region": "afrique-est",
+  "categorie": "heros",
+  "peuples": [
+    "Éthiopiens (traditions tigréennes et amhara)",
+    "Beta Israel"
+  ],
+  "resume": "Gudit, ou Yodit (Judith), est la reine à qui la tradition éthiopienne attribue la ruine d'Aksoum vers le Xe siècle : églises incendiées, palais et stèles abattus, lignée royale décimée. Deux sources extérieures, l'Histoire des patriarches d'Alexandrie et le géographe arabe Ibn Hawqal, confirment qu'une reine combattait alors le roi d'Abyssinie et qu'une femme y régnait. Son origine et sa religion, juive, païenne ou chrétienne, restent débattues.",
+  "description_detaillee": "Dans la mémoire chrétienne éthiopienne, Gudit est la reine qui interrompit la lignée royale d'Aksoum, persécuta l'Église et dévasta la vieille capitale. Chroniques tardives et traditions orales du nord du pays racontent encore ses destructions, et l'historien Paul Henze notait qu'on en parlait toujours dans les campagnes. La plupart des chercheurs la tiennent aujourd'hui pour une souveraine historique de la seconde moitié du Xe siècle, mais presque tout ce qui touche à ses origines reste incertain.\n\nDeux sources extérieures à l'Éthiopie fondent cette historicité. L'Histoire des patriarches d'Alexandrie, chronique copte en arabe dont la partie concernée serait due à Mawhub ibn Mansur ibn Mufarrij, rapporte une lettre adressée vers 980 par un roi d'Abyssinie au roi Georges II de Nubie, pour qu'il intercède auprès du patriarche Philothée. Le roi s'y plaint d'une reine des Banu al-Hamwiyah qui s'est soulevée contre lui, a emmené de nombreux captifs, incendié des villes, détruit des églises et le pourchasse de lieu en lieu ; il y voit une punition divine, dans un royaume privé de métropolite. La chronique ne donne pas son nom. Le géographe Ibn Hawqal, au même siècle, écrit de son côté que l'Abyssinie est gouvernée depuis de nombreuses années par une femme qui a tué le roi, appelé hadani.\n\nLes récits éthiopiens, rassemblés notamment par l'historien Sergew Hable Selassie, sont bien plus romanesques. Dans l'un d'eux, Gudit est une princesse déchue réduite à se prostituer à Aksoum ; un jeune prêtre vole pour elle une étoffe d'or du sanctuaire de Sion, les juges la tiennent seule pour coupable, lui font couper un sein et l'exilent. Recueillie par Zenobis, prince juif du pays de Sham (la Syrie), elle l'épouse, adopte sa religion, débarque près de Massaoua, s'empare d'Aksoum, brûle le palais et l'église attribuée aux rois Abreha et Atsbeha, renverse les stèles et fait fermer les églises. L'arche de Sion aurait alors été cachée pendant quarante ans à Zuway, jusqu'à sa mort. D'autres versions la font petite-fille d'un roi aksoumite, lui donnent Hahaylé, dans le Tigré, pour patrie, ou la font mourir après avoir pillé une église. Les noms mêmes portent un jugement : Esato signifie « le feu », et Gudit est rapproché de gud, « monstre », en face de Yodit, « Judith ».\n\nLes interprétations divergent. Conti Rossini lisait dans les Banu al-Hamwiyah une province du Damot, ce qui faisait de Gudit une reine païenne du sud ; Halévy y voyait des Agaw. Knud Tage Andersen soutient au contraire qu'elle était une chrétienne de la famille royale, arrivée au pouvoir à la faveur d'une lutte de succession ; B. Hendrickx accepte qu'elle soit la reine de la chronique copte mais juge cette parenté royale non démontrée, et place sa mort vers 979. Selon une lecture attribuée à l'historien Steven Kaplan, la tradition chrétienne aurait transformé une reine païenne en juive pour l'inscrire dans ses propres catégories, tandis que les Beta Israel, les Juifs d'Éthiopie, la revendiquent comme une héroïne. Sa figure se lit aussi en miroir de celle de Makeda : le Kebra Nagast fait promettre à la reine de Saba que seul un homme de sa descendance régnerait, et Gudit incarne la reine qui brise cette lignée et fait fuir l'arche d'Aksoum. Plusieurs auteurs la relient enfin à l'avènement de la dynastie zagwé, que les rois dits salomonides évincèrent en 1270.",
+  "domaines": [
+    "royauté",
+    "guerre",
+    "rupture dynastique"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "makeda"
+    ]
+  },
+  "attributs": [
+    "incendie des églises et du palais d'Aksoum",
+    "stèles renversées",
+    "arche de Sion cachée à Zuway"
+  ],
+  "recits_associes": [
+    "kebra-nagast"
+  ],
+  "culte_contemporain": "",
+  "sources": [
+    "Steyn, R. (2019). Gudit, a Jewish Queen of Aksum? Some Considerations on the Sources and Modern Scholarship, and the Use of Legends, Journal for Semitics, 28 (1)",
+    "Andersen, K.T. (2000). The Queen of the Habasha in Ethiopian History, Tradition and Chronology, Bulletin of the School of Oriental and African Studies, 63 (1)",
+    "Belaynesh Michael (s.d.). Gudit, Dictionary of African Christian Biography",
+    "Sergew Hable Selassie (1972). Ancient and Medieval Ethiopian History to 1270"
+  ],
+  "notes": "Aucune source contemporaine ne la nomme : l'identification de Gudit avec la reine des Banu al-Hamwiyah et avec la souveraine d'Ibn Hawqal est une hypothèse, largement admise mais discutée, et le nom des Banu al-Hamwiyah n'a pas été identifié avec certitude. Les chroniques éthiopiennes qui la décrivent sont tardives et leurs listes royales peu fiables ; les dates proposées vont d'environ 960 à la fin du Xe siècle. Sa religion (juive, païenne, chrétienne, ou convertie par son mari) reste l'objet de débats que Steyn résume sans trancher. La thèse de Kaplan n'est connue ici que par un résumé de seconde main (Wikipédia). Les travaux de Sergew Hable Selassie, d'Andersen et de Hendrickx ont été consultés à travers la synthèse de Steyn et, pour Andersen, un extrait de son résumé. Le lien avec l'avènement des Zagwé est une interprétation, défendue notamment par Andersen, et non un fait établi."
+}

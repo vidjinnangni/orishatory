@@ -1,0 +1,48 @@
+{
+  "id": "forets-kaya",
+  "nom": "Forêts sacrées kaya des Mijikenda",
+  "variantes": [
+    "Kaya",
+    "Sacred Mijikenda Kaya Forests"
+  ],
+  "region": "afrique-est",
+  "categorie": "rites",
+  "peuples": [
+    "Mijikenda (Giriama, Digo, Duruma, Rabai, Kauma, Ribe, Jibana, Kambe, Chonyi)"
+  ],
+  "resume": "Les kaya sont des forêts sacrées de l'arrière-pays côtier du Kenya qui abritent, au centre d'une clairière, l'emplacement des anciens villages fortifiés des neuf peuples mijikenda. Abandonnés comme lieux d'habitation entre le XIXe siècle et les années 1940, ils sont restés des lieux de prière et de sépulture, gardés par des conseils d'anciens qui en font respecter les interdits. Une série de ces forêts est inscrite au patrimoine mondial de l'UNESCO depuis 2008.",
+  "description_detaillee": "Les Mijikenda, littéralement « les neuf peuples » (Giriama, Digo, Duruma, Rabai, Kauma, Ribe, Jibana, Kambe et Chonyi), parlent des langues bantoues très proches et vivent dans l'arrière-pays de la côte kényane. Pour chacun d'eux, le kaya est le village d'origine, la « maison » de la communauté au sens propre comme au figuré. Ces villages palissadés, bâtis dans des clairières au cœur de forêts épaisses qu'on ne traversait que par quelques sentiers, sont devenus avec le temps des sanctuaires, et c'est ce caractère sacré qui a préservé les forêts qui les entourent : dans un paysage largement défriché, les kaya forment aujourd'hui des îlots boisés de quelques dizaines à quelques centaines d'hectares.\n\nSelon les traditions orales, les ancêtres des Mijikenda vivaient autrefois ensemble à Singwaya, ou Shungwaya, au nord de la Tana, et descendirent vers le sud à partir du XVIe siècle sous la pression de peuples pasteurs, oromo en particulier. Ils fondèrent alors les kaya et enterrèrent dans chacun le fingo, charme protecteur rapporté de Singwaya, dont l'emplacement, « la forêt dans la forêt », ne doit jamais être révélé. On pénètre dans un kaya par l'un des sentiers traditionnels, en passant par l'emplacement des anciennes portes ; le long du chemin se trouvent des cimetières et des autels (kiza) où l'on dépose parfois de la nourriture dans une petite hutte, la kadzumba ka Mulungu, pour détourner les esprits malveillants. Dans la clairière, les anciens savent situer le quartier de chaque clan et le moro, la case où se débattaient les affaires communes. À Kaya Giriama, appelée aussi Kaya Fungo, deux huttes rituelles abritent encore les objets secrets de la communauté, dont ceux qui servent à prêter serment. Les anciens y conduisent des prières pour la pluie, des bénédictions des récoltes, des purifications de la terre et des règlements de conflits, avec des sacrifices dont rien ne doit sortir de la forêt.\n\nLes règles protègent autant le lieu que son mystère : interdiction de couper les arbres vivants, de faire paître le bétail, de verser le sang ou d'y pratiquer la sorcellerie, obligation d'emprunter les seuls sentiers reconnus, et, dans certains kaya, de se déchausser. Les infractions se paient d'une amende en bétail ou en volailles, sacrifiés pour apaiser les esprits. Selon le dossier présenté à l'UNESCO, les kaya digo et rabai commencèrent à se vider dès les années 1830 et 1840, d'autres au début du XXe siècle, et vers les années 1940 presque tous n'étaient plus habités que par quelques anciens. L'historien Thomas Spear liait ce départ à l'essor du commerce au XIXe siècle, qui permit aux jeunes hommes de s'affranchir de l'autorité des aînés ; les famines de la fin du siècle et la baisse des raids ont aussi joué. Ils gardaient pourtant un rôle politique au début du XXe siècle : en juillet et août 1913, c'est à Kaya Fungo que Mekatilili wa Menza et les anciens giriama réunirent l'assemblée où furent prêtés les serments de refus de coopérer avec l'administration britannique.\n\nLe récit de Singwaya est aujourd'hui discuté. Le même dossier résume les critiques : pour l'historien Willis, l'idée d'une origine commune a pu servir, à l'époque coloniale, à forger une identité mijikenda, et les fouilles de Mutoro et de Richard Helm montrent une occupation de la région bien antérieure, au moins depuis 600 environ, sans trace de l'arrivée massive d'une population nouvelle. Les kaya apparaissent alors comme l'aboutissement d'une longue évolution locale plutôt que comme des fondations d'immigrants. À partir de 1992, le gouvernement kényan a classé une grande partie de ces forêts comme monuments nationaux, et les Musées nationaux du Kenya ont créé une unité chargée de les protéger avec les communautés. Les botanistes y voient des réservoirs de biodiversité : sept des vingt sites côtiers de plus haute valeur de conservation recensés au début des années 1990 étaient des kaya.",
+  "domaines": [
+    "lieux sacrés",
+    "ancêtres",
+    "pluie",
+    "conservation de la forêt"
+  ],
+  "tags": [
+    "ancetres"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "mekatilili-wa-menza"
+    ]
+  },
+  "attributs": [
+    "fingo (charme protecteur enterré)",
+    "moro (case de réunion)",
+    "sentiers traditionnels et emplacements des anciennes portes",
+    "kadzumba ka Mulungu (hutte à offrandes)",
+    "interdiction de couper les arbres vivants"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Les kaya restent des lieux rituels actifs, surtout dans les zones rurales : les conseils d'anciens y célèbrent prières pour la pluie, bénédictions et purifications, et veillent sur les interdits. Leur protection s'appuie depuis les années 1990 sur leur statut de monuments nationaux et sur l'action des Musées nationaux du Kenya, face au défrichement, à l'exploitation du bois, aux mines, aux projets hôteliers de la côte sud et à la désaffection d'une partie des jeunes générations.",
+  "sources": [
+    "National Museums of Kenya (2008). The Sacred Mijikenda Kaya Forests: Nomination Dossier for Inscription on the World Heritage List, UNESCO",
+    "Githitho, A.N. (2003). The Sacred Mijikenda Kaya Forests of Coastal Kenya and Biodiversity Conservation, in Lee, C. & Schaaf, T. (dir.), The Importance of Sacred Natural Sites for Biodiversity Conservation, UNESCO",
+    "Spear, T. (1978). The Kaya Complex: A History of the Mijikenda Peoples of the Kenya Coast to 1900",
+    "Carrier, N. & Nyamweru, C. (2016). Reinventing Africa's National Heroes: The Case of Mekatilili, a Kenyan Popular Heroine"
+  ],
+  "notes": "Le chiffre de onze forêts réparties sur environ 200 km, souvent donné pour le bien inscrit en 2008, n'a pu être lu que sur des sites reprenant la notice de l'UNESCO, la page officielle étant inaccessible ; le dossier de candidature de janvier 2008 regroupe les sites en huit entrées (dont « les kaya rabai » et « les kaya duruma »). Githitho signale plus de cinquante kaya identifiés sur la côte, dont quarante reconnus monuments nationaux au début des années 2000. Le dossier donne aussi la thèse de Morton, pour qui le récit de Singwaya serait en partie une construction arabo-swahilie de la fin du XIXe siècle. Le livre de Spear n'a pas été lu directement : ses thèses sont citées d'après le dossier de candidature."
+}

@@ -1,0 +1,49 @@
+{
+  "id": "tromba",
+  "nom": "Tromba",
+  "variantes": [
+    "Trumba (Mayotte)"
+  ],
+  "region": "afrique-est",
+  "categorie": "rites",
+  "peuples": [
+    "Sakalava"
+  ],
+  "resume": "Le tromba est, à Madagascar, la possession d'un médium par l'esprit d'un membre défunt de la famille royale sakalava. Pratique centrale de la religion des Sakalava de l'ouest et du nord-ouest de l'île, le mot désigne à la fois ces esprits, l'expérience de possession et l'institution qui l'encadre. Les esprits, rangés selon les généalogies royales, reviennent parler aux vivants lors de cérémonies accompagnées de musique, et la pratique s'est diffusée bien au-delà du pays sakalava.",
+  "description_detaillee": "Les Sakalava, peuple de la côte ouest et du nord-ouest de Madagascar longtemps organisé en une chaîne de royaumes, appellent tromba les esprits de leurs souverains et des membres défunts de la dynastie royale. Le mot sert aussi à nommer la possession elle-même, les médiums qui la vivent et l'institution religieuse qui l'entoure. Comme chaque esprit est un personnage connu, avec son nom, sa lignée et son histoire, la possession fonctionne selon l'anthropologue Lesley Sharp comme une forme de mémoire : c'est à travers elle que se conservent les généalogies royales et que les Sakalava se racontent leur passé. L'un des plus anciens témoignages écrits vient d'un jésuite portugais, Luís Mariano, qui décrivit la possession par les morts lors de son passage dans l'île en 1616.\n\nLes esprits se répartissent entre deux grands groupes de descendance royale : les Zafin'i'mena, « petits-enfants de l'or », qui se vêtent de rouge, et les Zafin'i'fotsy, « petits-enfants de l'argent », qui portent le blanc. À l'intérieur de chaque lignée, on distingue trois générations, Grands-Parents, Enfants et Petits-Enfants. À Ambanja, dans la vallée du Sambirano où elle a enquêté en 1987, Sharp montre qu'elles correspondent à trois époques : avant la conquête française de 1896, la période coloniale, puis l'après-indépendance. Les Grands-Parents portent le lamba mena et un long bâton à pommeau d'argent, emblème royal ; les Enfants, à l'allure de fonctionnaires coloniaux, arborent la chemise blanche à quatre poches ; les Petits-Enfants, souvent morts jeunes dans un accident, aiment la bière et les cigarettes. Chaque esprit a ses interdits (fady) et ses goûts, miel, vin de palme ou rhum pour les plus anciens. Pour en appeler un, on récite sa généalogie en partant des ancêtres d'en haut, les Zanahary, puis en descendant de lignée en lignée jusqu'à lui : une cérémonie est, en somme, la mise en scène de tout le système généalogique. Les plus grands tromba ne possèdent qu'un seul médium, appelé saha, qui réside près des tombeaux royaux ; pour les Bemazava du Sambirano, c'est l'île de Nosy Faly, où les souverains envoient leurs conseillers consulter les ancêtres, puisqu'il leur est interdit d'approcher des tombeaux royaux de leur vivant.\n\nDans les villes, les séances ont lieu chez des particuliers, au son de l'accordéon ou de la valiha et des hochets de bambou (faray), et durent souvent du jour au lendemain. Une femme malade peut y apprendre qu'un esprit l'a choisie ; elle devient alors son « épouse », et un médium âgé accumule au fil des ans des esprits de plus en plus anciens. La grande majorité des médiums sont des femmes (quatre hommes seulement parmi les 98 que Sharp a rencontrés), tandis que les hommes jouent la musique et servent d'interprètes aux esprits. Sharp estimait qu'environ la moitié des femmes d'Ambanja étaient possédées, dont beaucoup de migrantes venues d'autres régions, que le tromba intègre à la société sakalava par une parenté fictive. Elle distingue ces esprits des njarinintsy, qui s'emparent surtout d'adolescentes et que l'on cherche à chasser comme une maladie.\n\nLe tromba déborde largement le pays sakalava. Élisabeth Rossé rappelle que sa présence est attestée ailleurs dans l'île, aux Comores et à Zanzibar dès la seconde moitié du XIXe siècle, et elle en suit l'appropriation par les Tandroy du sud, migrants entre leur terre d'origine et la ville de Toliara, qui ont fini par considérer ces esprits comme les leurs. Les possédés restent souvent attachés au grand rituel du bain des reliques royales, dont Michael Lambek a fait l'un des objets de son étude sur Mahajanga, ancienne capitale royale. Le codex présente ailleurs le famadihana des hautes terres et le mythe où Zanahary et Ratovoantany se partagent le souffle et le corps des humains ; le tromba en offre un autre versant, puisque ce sont ici les ancêtres royaux eux-mêmes qui reviennent habiter le corps des vivants.",
+  "domaines": [
+    "possession",
+    "ancêtres royaux",
+    "mémoire historique",
+    "guérison"
+  ],
+  "tags": [
+    "ancetres",
+    "royaute-sacree"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "famadihana",
+      "zanahary",
+      "ratovoantany"
+    ]
+  },
+  "attributs": [
+    "couleurs rouge (or) et blanc (argent) des deux groupes royaux",
+    "lamba mena et bâton royal à pommeau d'argent (mapingo)",
+    "accordéon, valiha et hochets de bambou (faray)",
+    "kaolin (tany malandy)",
+    "tombeaux royaux de Nosy Faly"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Le tromba reste très pratiqué dans le nord-ouest de Madagascar : Sharp décrivait à la fin des années 1980 une forte hausse du nombre de médiums à Ambanja depuis les années 1940 et 1950. Les possédés participent au grand rituel du bain des reliques royales de Mahajanga, et la pratique s'est implantée chez des groupes non sakalava comme les Tandroy de Toliara. L'Église catholique locale la tolère, alors que des groupes protestants y voient une affaire d'exorcisme.",
+  "sources": [
+    "Sharp, L.A. (1993). The Possessed and the Dispossessed: Spirits, Identity, and Power in a Madagascar Migrant Town",
+    "Lambek, M. (2002). The Weight of the Past: Living with History in Mahajanga, Madagascar",
+    "Rossé, É. (2021). Possession par esprit tromba et reconfiguration de rituels ancestraux en contexte de mobilité à Madagascar, Cahiers d'études africaines, 241"
+  ],
+  "notes": "La terminologie varie selon les régions et les auteurs : Raymond Kent (1968) et d'autres réservent le mot dady au culte royal des ancêtres et tromba aux autres esprits, alors qu'à Ambanja dady désigne simplement les esprits les plus anciens et les plus puissants (Sharp). Les récits de vie des esprits diffèrent aussi d'une région à l'autre : Sharp signale les écarts entre ses informateurs du Sambirano et le catalogue établi par Estrade ailleurs dans l'île. Rossé juge l'origine de la pratique « probablement » située sur la côte est-africaine, sans trancher. Chez Sharp, Zanahary désigne au pluriel les ancêtres d'en haut invoqués en tête des généalogies, un emploi plus large que celui du dieu créateur présenté dans la fiche Zanahary. Le livre de Lambek n'a été consulté ici que par sa présentation éditoriale et par les citations qu'en donne Rossé ; les données chiffrées de Sharp datent de 1987."
+}
