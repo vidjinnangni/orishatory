@@ -1,0 +1,53 @@
+{
+  "id": "raluvhimba",
+  "nom": "Raluvhimba",
+  "variantes": [
+    "Raluvhimbi",
+    "Nwali",
+    "Mwali",
+    "Khuzwane"
+  ],
+  "region": "afrique-australe",
+  "categorie": "deites",
+  "peuples": [
+    "Venda"
+  ],
+  "resume": "Raluvhimba est le nom que les Venda du nord de l'Afrique du Sud donnent à l'être suprême, confondu depuis au moins la fin du 19e siècle avec Nwali, le Mwari des Shona. Associé au ciel, à la pluie et à tous les grands phénomènes naturels, il se manifestait selon la tradition par le tonnerre, les étoiles filantes ou une flamme apparaissant sur un rocher, et le chef s'adressait à lui au nom de son peuple.",
+  "description_detaillee": "Chez les Venda (Vhavenda), établis au nord du Soutpansberg dans l'actuelle province du Limpopo, Raluvhimba est l'un des trois noms de l'être suprême, avec Nwali et Khuzwane. Selon l'analyse reprise par Schapera et Eiselen, le préfixe ra- est honorifique et se rattache peut-être à l'idée de père, tandis que luvhimba désigne un aigle, l'oiseau qui plane au plus haut du ciel. Le missionnaire berlinois Beuster, dans un rapport de 1878 cité par Alan Kirkaldy, le présentait déjà comme le dieu par qui arbres, buissons et toutes choses avaient été faits et continuaient d'être maintenus, et lui connaissait les noms d'éloge de Muhali-muhulu, « le grand ».\n\nRaluvhimba habite le ciel et se révèle dans les phénomènes qui touchent le peuple entier : une étoile filante, c'est lui qui voyage ; sa voix s'entend dans le tonnerre, et les comètes, les séismes, les sécheresses prolongées, les inondations, les nuées de sauterelles ou les épidémies passent pour ses messages. D'après Hugh Stayt, qui publia en 1931 la grande monographie sur les Venda, il apparaissait dans l'orage comme un grand feu près de l'enclos du chef, feu qui s'éteignait avant qu'on puisse l'atteindre ; le chef entrait alors dans sa hutte et conversait avec lui en l'appelant Makhulu, « grand-père », la réponse venant du chaume ou d'un arbre voisin. Il se montrait aussi sous la forme d'une flamme sur une plate-forme de rocher au-dessus d'une grotte, dans un bruit de fers entrechoqués, que la population accueillait par des cris de joie ; le chef y montait remercier le dieu et lui demander la pluie et la paix. Quand il était irrité contre le chef, il frappait le pays de sécheresse, d'inondation, ou lâchait sur lui les sauterelles. En 1917, un météore qui éclata en plein jour au-dessus du Soutpansberg fut salué, selon un missionnaire luthérien, par des cris de joie plutôt que par la peur, épisode que rapporta Henri-Alexandre Junod.\n\nLa relation entre Raluvhimba et Nwali est au cœur des débats. Stayt jugeait probable qu'il s'agissait à l'origine de deux divinités, devenues si complètement identifiées qu'on employait indifféremment l'un ou l'autre nom. L'historien David Beach rattachait plus précisément Raluvhimba aux Mbedzi, une des composantes anciennes de la population venda, et à un culte rendu dans une grotte ; les Mbedzi et les Dzivha passent pour avoir apporté des collines de Matopo l'expertise des prêtres de Nwali, ce qui relie ce culte aux sanctuaires de Mwari au Zimbabwe (voir la fiche Mwari). L'emplacement des lieux de manifestation est lui-même contesté : Stayt parle d'une grotte à Luvhimbi, que le théologien venda Alidzulwi Simon Munyai, s'appuyant sur les recherches de Ralushai, tient pour une confusion née du nom même du dieu, le site principal étant selon lui le mont Makonde. Dans le codex, Raluvhimba se rattache aussi au lac Fundudzi, où des récits placent les visites orageuses de Nwali, et par lui au domba.",
+  "domaines": [
+    "ciel",
+    "pluie",
+    "phénomènes célestes",
+    "création",
+    "royauté"
+  ],
+  "tags": [
+    "foudre-orage",
+    "royaute-sacree",
+    "creation"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "mwari",
+      "lac-fundudzi",
+      "domba"
+    ]
+  },
+  "attributs": [
+    "aigle (luvhimba)",
+    "étoile filante",
+    "tonnerre",
+    "flamme sur un rocher"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Stayt, H.A. (1931). The BaVenda. Londres, Oxford University Press / International Institute of African Languages and Cultures",
+    "Munyai, A.S. (2007). Understanding the Christian Message in Venda: A Study of the Traditional Concepts of God and of Life Hereafter among the Venda. Mémoire de master, University of Pretoria",
+    "Munyai, A.S. (2016). The Tenacity of African Traditional Religion in Venda Christianity: A Missional Investigation. Thèse de doctorat, University of Pretoria"
+  ],
+  "notes": "Les descriptions de Stayt (1931), de Junod (1920, « Some Features of the Religion of the Bavenda », South African Journal of Science 17) et de Schapera et Eiselen n'ont pas pu être consultées directement : elles sont citées ici à travers les deux travaux de Munyai, qui les reproduisent. L'étymologie par « aigle » vient de Schapera et Eiselen et n'est pas discutée par d'autres sources consultées. Junod refusait de traduire Raluvhimba par « créateur », faute selon lui d'une idée de création ex nihilo ; Munyai et J.A. van Rooy le contestent en invoquant le titre venda Musiki, « créateur ». L'attribution de Raluvhimba aux seuls Mbedzi (Beach 1980) est rejetée par Munyai, pour qui il était le dieu de tous les Venda. Aucun culte contemporain spécifiquement adressé à Raluvhimba n'a pu être vérifié ; Munyai montre toutefois que la figure de Nwali reste présente dans la religion des Venda chrétiens."
+}

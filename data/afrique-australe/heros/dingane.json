@@ -1,0 +1,41 @@
+{
+  "id": "dingane",
+  "nom": "Dingane kaSenzangakhona",
+  "variantes": [
+    "Dingane",
+    "Dingaan"
+  ],
+  "region": "afrique-australe",
+  "categorie": "heros",
+  "peuples": [
+    "Zulu"
+  ],
+  "resume": "Dingane kaSenzangakhona (vers 1795-1840) fut roi des Zulu de 1828 à 1840, après avoir participé à l'assassinat de son demi-frère Shaka. Son règne est dominé par la confrontation avec les Voortrekkers : il fit tuer Piet Retief et ses compagnons en février 1838, puis son armée fut défaite à la rivière Ncome (Blood River). Renversé par son demi-frère Mpande allié aux Boers, il fut tué peu après dans sa fuite vers les monts Lubombo.",
+  "description_detaillee": "Dingane, fils du chef zulu Senzangakhona et de Mpikase, une de ses épouses, régna sur le royaume fondé par Shaka entre 1828 et 1840. Il accéda au pouvoir en septembre 1828 en assassinant Shaka avec son demi-frère Mhlangana et le serviteur Mbopha, avant d'éliminer Mhlangana. Son règne coïncide avec l'arrivée en nombre des Européens au Natal, et c'est cette rencontre, en particulier le massacre de Piet Retief, qui a fixé son image, sombre dans l'historiographie afrikaner et coloniale, plus nuancée dans les travaux récents.\n\nDingane installa sa capitale à uMgungundlovu, près de la rivière Mfolozi blanche, dont le nom est souvent rattaché au complot contre Shaka. Selon la South African History Online, il assouplit certaines contraintes imposées aux régiments, en permettant aux guerriers de se marier plus tôt, et développa le commerce avec les Portugais et les marchands de Port Natal pour obtenir des armes à feu. En 1832, ses régiments attaquèrent les Ndebele de Mzilikazi, ancien commandant de Shaka, jusque dans le Magaliesberg. Il signa en 1835 un accord avec les colons britanniques de Port Natal et reçut à sa cour le missionnaire Francis Owen. Quand Piet Retief vint lui demander des terres fin 1837, il exigea d'abord qu'on lui ramène le bétail volé par le chef tlokwa Sekonyela. Le 6 février 1838, après la signature d'un acte de cession, il fit saisir et tuer Retief et environ soixante-dix Voortrekkers, avec une trentaine de serviteurs, venus prendre congé sans armes dans son enclos ; ses régiments attaquèrent ensuite les campements boers, et la ville de Weenen garde le souvenir de ces tueries. Le 16 décembre 1838, son armée, conduite par Ndlela kaSompisi, fut écrasée par le commando d'Andries Pretorius sur la rivière Ncome, rebaptisée Blood River.\n\nLes motifs du massacre de 1838 restent discutés. Pour l'historien zulu J.S.M. Maphalala, cité par Jackie Grobler, un roi ne pouvait pas céder la terre, simple dépôt qu'il gardait au nom des ancêtres ; Grobler rappelle que Dingane venait d'apprendre la défaite des Ndebele de Mzilikazi face aux Boers et la manière dont Retief avait repris le bétail de Sekonyela. Grobler juge authentique le traité de cession, longtemps contesté, mais estime que Dingane ne l'avait signé que pour endormir la méfiance de ses hôtes. Dès 1969, Felix Okoye proposait une réévaluation du roi, reprochant à ses devanciers de juger une société qu'ils ne comprenaient pas.\n\nLa fin du règne fut rapide. En 1839, son demi-frère Mpande passa au Natal avec une partie de ses partisans et s'allia aux Voortrekkers. Au début de 1840, l'armée de Mpande, commandée par Nongalaza, battit celle de Dingane à Maqongqo ; Dingane fit exécuter Ndlela, puis s'enfuit au nord du Phongolo, vers les monts Lubombo, où il fut tué par des Nyawo et des Swazi. Sa tombe est située dans la forêt de Hlatikhulu, près d'Ingwavuma. Dans le codex, sa figure est inséparable de celles de Shaka, qu'il remplaça, et de Mzilikazi, qu'il combattit.",
+  "domaines": [
+    "royauté",
+    "guerre",
+    "relations avec les Voortrekkers"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "shaka-zulu",
+      "mzilikazi"
+    ]
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Okoye, F.N.C. (1969). Dingane: A Reappraisal. Journal of African History 10(2)",
+    "Grobler, J. (2011). The Retief Massacre of 6 February 1838 Revisited. Historia 56(2)",
+    "Laband, J. (1995). Rope of Sand: The Rise and Fall of the Zulu Kingdom in the Nineteenth Century. Johannesburg, Jonathan Ball"
+  ],
+  "notes": "La date de la mort de Dingane varie selon les sources : Wikipédia la place au 29 janvier 1840, jour qu'elle donne aussi pour la bataille de Maqongqo, tandis que la South African History Online situe la bataille et la mort en février 1840 ; la fiche s'en tient à « début 1840 ». L'étymologie de uMgungundlovu (« le lieu secret de l'éléphant », allusion au complot contre Shaka) et la politique intérieure attribuée à Dingane reposent sur la South African History Online, site non académique. L'ouvrage de Laband n'a pas été consulté directement ; l'article d'Okoye ne l'a été qu'à travers son résumé. L'article de Grobler a été lu dans sa partie consacrée au déroulement et aux motifs du massacre. L'historiographie a longtemps suivi les récits de voyageurs et de missionnaires européens (Owen, Gardiner, Isaacs) et la tradition afrikaner de la commémoration du 16 décembre ; ces sources doivent être lues avec la même prudence que pour Shaka."
+}

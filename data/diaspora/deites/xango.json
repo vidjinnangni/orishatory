@@ -1,0 +1,65 @@
+{
+  "id": "xango",
+  "nom": "Xangô",
+  "variantes": [
+    "Xangô Airá",
+    "Xangô Aganju",
+    "Obá Kossô",
+    "Sàngó"
+  ],
+  "region": "diaspora",
+  "categorie": "deites",
+  "peuples": [
+    "Brésiliens (candomblé, umbanda)",
+    "Afro-Pernambucains (Xangô de Recife)"
+  ],
+  "resume": "Orixá afro-brésilien du tonnerre, de la foudre et de la justice, forme brésilienne du Ṣàngó des Yoruba, ancien roi d'Oyó. On lui offre l'amalá, plat de gombos, et son jour est le mercredi. Au Pernambouc et en Alagoas, son nom a aussi désigné l'ensemble des cultes d'orixás, d'où l'expression « Xangô de Recife ».",
+  "description_detaillee": "Xangô est au Brésil l'héritier direct de Ṣàngó, le dieu du tonnerre d'Oyó. Luis Nicolau Parés rappelle que la longue domination de ce royaume sur le pays yoruba, du XVIIe siècle aux premières décennies du XIXe, avait déjà fait de son culte un emblème de l'autorité royale ; nombre de captifs déportés vers Bahia venaient de cet espace. Xangô est devenu l'un des orixás les plus populaires du candomblé. Il est le patron de l'Ilê Axé Opô Afonjá, fondé à Salvador en 1910 par Mãe Aninha, où la maison de Xangô représente symboliquement le royaume d'Oyó. Un corps d'obás, des « ministres » de Xangô choisis parmi des personnalités amies de la maison, y a été institué dans les années 1930.\n\nPierre Verger a décrit ce qui, du culte africain, a traversé l'Atlantique : les mêmes rythmes vifs et guerriers, l'alujá, accompagnés du bruit des xerés ; la danse où Xangô brandit son oxê, la hache double, puis fait le geste de saisir des pierres de foudre imaginaires pour les jeter sur la terre. Il note qu'on disait à Bahia qu'il existe douze Xangôs, parmi lesquels Aganju, Obá Kossô et plusieurs Airás, Xangôs très vieux vêtus de blanc et portant des perles bleues au lieu du corail rouge, peut-être venus de la région de Savé. Le catholicisme populaire l'a identifié à saint Jérôme. À l'Opô Afonjá, l'ethnographie de Rafael Camaratta Santos décrit un cycle de fêtes de douze jours, le nombre de l'orixá, où l'amalá, préparé avec des gombos et de l'huile de palme, est partagé entre tous les présents, puisque Xangô aime les festins ; le mercredi, jour qui lui est consacré, on lui en sert aussi. Le bélier est son animal de prédilection, mais c'est un interdit pour Iansã, son épouse la plus citée avec Oxum et Obá.\n\nDans le Nordeste, le nom de l'orixá a fini par désigner la religion elle-même. À Recife, on appelle « Xangô » les cultes d'orixás que Roberto Motta décrit comme proches du candomblé bahianais : sacrifices, fêtes, transe et danse, et, dans les années 1970, cinq nations principales (nagô, jeje, xambá, angola et congo), la nation nagô étant de loin la plus nombreuse. La maison de référence est l'Ilê Obá Ogunté, ou Sítio de Pai Adão, fondée en 1875 dans le quartier d'Água Fria par une Africaine, Inês Joaquina da Costa, puis dirigée par Felippe Sabino da Costa, Pai Adão, mort en 1936 ; l'IPHAN l'a reconnue comme patrimoine culturel du Brésil en 2018. L'anthropologue Olavo de Souza Pinto Filho note pourtant que les descendants de Pai Adão rejettent le mot « xangô », perçu comme un « nom de Blanc » donné de l'extérieur, et parlent de nagô ou de candomblé nagô. En Alagoas, l'appellation est restée liée à la « Quebra de Xangô » de février 1912 : des dizaines de maisons de Maceió furent saccagées par une milice politique, et Ulisses Neves Rafael a montré comment les pratiquants se replièrent ensuite sur un culte discret, le « xangô rezado baixo », « xangô prié à voix basse ».",
+  "domaines": [
+    "tonnerre et foudre",
+    "justice",
+    "royauté",
+    "feu"
+  ],
+  "tags": [
+    "foudre-orage",
+    "royaute-sacree",
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [
+      "iansa",
+      "oxum"
+    ],
+    "enfants": [],
+    "entites_liees": [
+      "shango",
+      "iansa",
+      "oxum",
+      "candomble",
+      "umbanda",
+      "santeria",
+      "shango-baptist"
+    ]
+  },
+  "attributs": [
+    "oxê (hache double)",
+    "pierres de foudre",
+    "rouge et blanc",
+    "amalá (gombos à l'huile de palme)",
+    "bélier",
+    "mercredi",
+    "saint Jérôme"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Honoré dans les terreiros de candomblé et les centres d'umbanda de tout le Brésil ; à l'Ilê Axé Opô Afonjá de Salvador, dont il est le patron, son cycle de fêtes annuel rassemble la communauté. À Recife, le Sítio de Pai Adão reste en activité et reçoit fidèles et visiteurs.",
+  "sources": [
+    "Verger, P. (1981). Orixás: deuses iorubás na África e no Novo Mundo",
+    "Motta, R. (2020). Xangô, Jurema e Umbanda: anotações sobre três formas de religião popular na região do Recife. Revista del CESLA, 26",
+    "Pinto Filho, O. de S. (2017). O coincidir dos santos: imagens e reversões no candomblé nagô do Recife. Revista de @ntropologia da UFSCar, 9(2)",
+    "Santos, R.C. (2023). A circulação de axé através do movimento da comida: uma etnografia em um terreiro de candomblé da Bahia. [Syn]thesis, 16(1)",
+    "Rafael, U.N. (2012). Xangô rezado baixo: religião e política na Primeira República"
+  ],
+  "notes": "Le passage de Verger (Orixás) est lu à travers la citation qu'en donne un article universitaire goianiense (Santos, C. de M., « Os filhos de Xangô »), et la mention de Parés à travers l'article de R.C. Santos. La fondation de l'Opô Afonjá en 1910 et la date de 1936 pour le corps des obás de Xangô et le rôle de Martiniano Eliseu do Bonfim dans sa création reposent sur Wikipédia et sur le site Geledés. La date de reconnaissance du Sítio de Pai Adão par l'IPHAN (2018) vient de la presse pernamboucaine ; l'origine de sa fondatrice est donnée tantôt comme Oyó, tantôt comme Egbá. L'identification à saint Jérôme est la plus citée ; saint Jean-Baptiste est aussi mentionné par des sources de pratiquants. Le mot « Xangô » pour désigner le culte d'Alagoas et du Pernambouc est un terme d'usage extérieur, contesté par une partie des pratiquants."
+}
