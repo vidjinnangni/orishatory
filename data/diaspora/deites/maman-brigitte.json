@@ -1,0 +1,57 @@
+{
+  "id": "maman-brigitte",
+  "nom": "Maman Brigitte",
+  "variantes": [
+    "Grann Brigitte",
+    "Grann Brijit",
+    "Manman Brijit",
+    "Grande Brigitte",
+    "Madame Brigitte"
+  ],
+  "region": "diaspora",
+  "categorie": "deites",
+  "peuples": [
+    "Haïtiens (vodou)"
+  ],
+  "resume": "Lwa du vodou haïtien qui règne sur les cimetières avec son époux Baron Samedi et passe pour la mère des Gede. Elle veille sur les tombes, que l'on marque d'un tas de pierres en son honneur, et elle est identifiée à sainte Brigitte d'Irlande. Elle se manifeste rarement par la possession.",
+  "description_detaillee": "Maman Brigitte, que l'on appelle aussi Grann Brigitte, appartient à la famille des Gede, les lwa de la mort du vodou haïtien. Elle y occupe la place de l'aïeule : Benjamin Hebblethwaite la présente comme « la mère des Gede », aussi puissante que son mari, Baron Samedi. Avec lui, elle est responsable du passage entre la vie et la mort, et l'historien des religions Terry Rey rapproche ce couple de celui d'Adam et Ève. Les cimetières sont son domaine. Maya Deren observait au début des années 1950 que chaque cimetière haïtien a sa croix de Baron, et que les tombes placées sous la protection de sa compagne sont marquées d'un monticule de pierres sacrées. Selon une croyance répandue, la première femme enterrée dans un nouveau cimetière devient la manifestation de Brigitte, comme le premier homme devient celle du Baron.\n\nHebblethwaite la décrit comme une très vieille femme noire, qui réside dans un arbre, un cirouellier ou un figuier maudit. Le lundi et le vendredi lui sont consacrés, et sa couleur est le noir. Elle monte rarement quelqu'un, et la possession prend alors la forme d'une mort mimée : on attache la mâchoire de la personne avec un foulard noir, on lui bouche les oreilles et les narines avec du coton, comme on le fait pour un cadavre, on la couvre d'un drap blanc, on l'asperge de rhum blanc et l'on chante pour elle. Son repas rituel réunit patates, bananes plantains, hareng saur, morue grillée, maïs, arachides grillées et un poulet noir sacrifié. Ce tableau diffère de celui que donnent beaucoup de sources de pratiquants, qui l'associent au violet et au blanc et la décrivent volontiers comme une femme au teint clair.\n\nLa tradition l'identifie à sainte Brigitte de Kildare, patronne de l'Irlande. Cette correspondance, unique parmi les Gede, a nourri l'hypothèse d'un apport de travailleurs irlandais ou écossais dans les Antilles coloniales, qui en ferait une figure d'origine européenne ; aucune source solide ne l'établit. Comme Baron Samedi et les autres Gede, elle est particulièrement présente pendant la Fèt Gede, au début de novembre, quand les fidèles envahissent les cimetières. Sans elle, le Baron ne peut accomplir seul son travail, et c'est à deux qu'ils gouvernent le seuil entre les vivants et les morts.",
+  "domaines": [
+    "mort",
+    "cimetières",
+    "tombes",
+    "passage entre la vie et la mort"
+  ],
+  "tags": [
+    "mort-au-dela",
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [
+      "baron-samedi"
+    ],
+    "enfants": [],
+    "entites_liees": [
+      "gede",
+      "baron-samedi",
+      "vodou-haitien"
+    ]
+  },
+  "attributs": [
+    "tas de pierres sur les tombes",
+    "arbre du cimetière",
+    "noir",
+    "lundi et vendredi",
+    "rhum blanc",
+    "poulet noir",
+    "sainte Brigitte"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Servie dans le vodou haïtien, en Haïti et dans la diaspora, au sein du culte des Gede, en particulier lors de la Fèt Gede, au début de novembre, dans les cimetières comme le Grand Cimetière de Port-au-Prince.",
+  "sources": [
+    "Deren, M. (1953). Divine Horsemen: The Living Gods of Haiti",
+    "Hebblethwaite, B. (2012). Vodou Songs in Haitian Creole and English",
+    "Rey, T. (2024). Zombie Apocalypse: Holy Land, Haiti, Hollywood (chapitre 7, Death, Dying, and the Soul in Haitian Vodou)"
+  ],
+  "notes": "Les descriptions de Deren et de Hebblethwaite sont lues à travers les citations qu'en donne Terry Rey (2024), seul texte consulté en entier. La croyance selon laquelle la première femme inhumée dans un cimetière devient Brigitte, reprise dans la fiche Baron Samedi, n'est attestée ici que par des sources non académiques et par Wikipédia. Les attributs varient nettement selon les sources : noir chez Hebblethwaite, violet, blanc ou gris ailleurs ; très vieille femme noire chez Hebblethwaite, femme blanche ou au teint clair dans une partie de la littérature populaire. L'hypothèse d'une origine irlandaise ou écossaise, liée à l'identification à sainte Brigitte, reste non démontrée. On lui rattache parfois Gede Nibo comme fils adoptif, sans source académique vérifiée ici. Le rapprochement avec Adam et Ève est avancé par Rey."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "nandi",
+  "nom": "Nandi kaBhebhe",
+  "variantes": [
+    "Nandi"
+  ],
+  "region": "afrique-australe",
+  "categorie": "heros",
+  "peuples": [
+    "Zulu",
+    "Langeni (Mhlongo)"
+  ],
+  "resume": "Nandi kaBhebhe (vers 1760-1827), fille d'un chef des Langeni, est la mère de Shaka, fondateur du royaume zulu. Écartée par Senzangakhona, le père de Shaka, elle éleva seule son fils en exil chez les Langeni puis chez les Mthethwa, avant de devenir une figure influente de la cour. Sa mort, en octobre 1827, et le deuil que Shaka imposa ensuite sont parmi les épisodes les plus racontés, et les plus discutés, de l'histoire zulu.",
+  "description_detaillee": "Nandi, fille de Bhebhe, un chef des Langeni (clan Mhlongo), est la mère de Shaka et la figure féminine la plus connue des débuts du royaume zulu. Longtemps mentionnée seulement comme mère de son fils, elle fait depuis quelques années l'objet de travaux qui s'appuient sur la tradition orale pour restituer son rôle propre, comme ceux de Maxwell Shamase (2014) puis de Butholezwe Mtombeni et Muzi Shoba (2024), qui la présentent comme la « mère oubliée de la nation zulu ».\n\nSa liaison avec Senzangakhona, fils du chef zulu Jama, eut lieu hors des règles du mariage. Une tradition souvent rapportée veut que le nom de Shaka vienne de l'excuse donnée par la famille de Senzangakhona : la grossesse de Nandi n'aurait été qu'un trouble intestinal causé par un insecte, iShaka. Senzangakhona finit par faire de Nandi l'une de ses épouses, mais le couple se défit, et Nandi quitta la cour avec ses enfants. Elle revint chez les Langeni, où Shaka grandit en enfant sans père et, selon les récits, maltraité, puis trouva refuge, lors d'une famine, chez les Mthethwa, dont le roi Dingiswayo accueillit le jeune homme. Elle eut aussi une fille de Senzangakhona, Nomcoba, et d'une autre union un fils, Ngwadi. Quand Shaka prit le pouvoir chez les Zulu vers 1816, elle devint une personnalité de premier plan à la cour.\n\nNandi mourut en octobre 1827, d'une dysenterie selon la plupart des récits, dans l'établissement d'emKindini, près de l'actuelle Eshowe, où se trouve sa tombe. Les récits du deuil qui suivit, rapportés par le marchand Henry Francis Fynn, parlent de milliers de personnes tuées pour n'avoir pas montré assez de chagrin, d'interdictions de cultiver et de boire du lait pendant un an, et de femmes enceintes exécutées. Dan Wylie et, avant lui, Julian Cobbing ont montré combien ces témoignages étaient suspects : Nathaniel Isaacs pressait Fynn de rendre Shaka aussi sanguinaire que possible, et les chiffres du deuil de Nandi relèvent au moins en partie de cette construction. La figure de Nandi reste ainsi prise entre deux images, celle d'une mère courage restaurée par la mémoire zulu et celle, héritée des récits coloniaux, d'un prétexte aux excès prêtés à son fils. Dans le codex, sa fiche complète celle de Shaka, où elle n'apparaît qu'en passant.",
+  "domaines": [
+    "maternité royale",
+    "influence politique",
+    "mémoire dynastique"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [
+      "shaka-zulu"
+    ],
+    "entites_liees": []
+  },
+  "attributs": [],
+  "recits_associes": [],
+  "culte_contemporain": "Sa tombe, près d'Eshowe au KwaZulu-Natal, est un lieu de mémoire visité, et sa figure est régulièrement célébrée dans la mémoire royale zulu comme mère de la nation.",
+  "sources": [
+    "Shamase, M.Z. (2014). The Royal Women of the Zulu Monarchy through the Keyhole of Oral History: Queens Nandi (c. 1764-c. 1827) and Monase (c. 1797-1880). Inkanyiso: Journal of Humanities and Social Sciences",
+    "Mtombeni, B. & Shoba, M. (2024). Queen Nandi ka Bhebhe: The Forgotten Mother of the Zulu Nation. African Identities 23(4)",
+    "Wylie, D. (2006). Myth of Iron: Shaka in History"
+  ],
+  "notes": "Les dates de naissance varient (vers 1760 selon Wikipédia, vers 1764 selon Shamase). Le jour exact de sa mort (10 octobre 1827) n'est donné que par Wikipédia ; les autres sources consultées disent « octobre 1827 » ou « début octobre ». L'anecdote de l'insecte iShaka, le détail des séjours chez les Langeni et les Mthethwa et le nom du lieu de sa mort (emKindini) reposent, parmi les sources consultées, sur la South African History Online, Wikipédia et un site touristique d'Eshowe, sources non académiques. Wikipédia rapporte que Nandi aurait elle-même exigé 55 têtes de bétail en compensation ; ce détail n'a pas été vérifié ailleurs et n'est pas repris. Les articles de Shamase et de Mtombeni et Shoba n'ont été consultés qu'à travers leurs résumés, l'ouvrage de Wylie à travers un compte rendu du Mail & Guardian (2006). Les chiffres du deuil (7 000 morts selon Fynn) sont à considérer comme non fiables."
+}

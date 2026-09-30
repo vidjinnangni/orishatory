@@ -1,0 +1,48 @@
+{
+  "id": "tilo",
+  "nom": "Tilo",
+  "variantes": [
+    "Tilwen (locatif, « au ciel »)"
+  ],
+  "region": "afrique-australe",
+  "categorie": "deites",
+  "peuples": [
+    "Tsonga (Thonga)",
+    "Ronga"
+  ],
+  "resume": "Tilo, « le ciel », désigne chez les Tsonga du sud du Mozambique et du nord-est de l'Afrique du Sud à la fois la voûte bleue et une puissance céleste qui règne sur la pluie, l'orage, la foudre, la mort soudaine et la naissance des jumeaux. Distinct des ancêtres (swikwembu), qui reçoivent l'essentiel du culte, Tilo n'a ni prêtres ni sacrifices réguliers, mais il est au centre de plusieurs rites de pluie et de gémellité décrits par Henri-Alexandre Junod au début du 20e siècle.",
+  "description_detaillee": "Chez les Tsonga (ou Thonga) de la région de la baie de Delagoa et du Transvaal septentrional, le mot tilo sert dans la langue courante à nommer le ciel bleu. Il désigne aussi une puissance placée au-dessus des ancêtres, que l'ethnographe et missionnaire suisse Henri-Alexandre Junod a tenté de décrire dans The Life of a South African Tribe (1912-1913). Il y voyait une seconde série d'idées religieuses, parallèle au culte des ancêtres mais bien moins formalisée : pas de prières codifiées, pas de sacrifices propres, et des informateurs qui parlaient tantôt d'un être, tantôt d'une force impersonnelle, parfois appelée « seigneur ». Une paroissienne de Lourenço Marques lui résuma la chose ainsi : les Ronga savaient qu'il existait un ciel, mais ignoraient s'il y avait quelqu'un dedans.\n\nTilo se manifeste surtout par ce qui frappe brusquement. On dit « Tilo dji djuma », « le ciel gronde », quand il tonne, et la foudre est l'œuvre d'un oiseau, ndlati, que les Ronga appellent aussi « coq du ciel ». Le ciel envoie les convulsions mortelles des jeunes enfants (« il est malade du ciel », a ni Tilo), et l'on disait autrefois « le ciel est tombé sur tel village » là où l'on accuse aujourd'hui les sorciers ou les ancêtres. Il préside surtout à la naissance des jumeaux : leur mère est elle-même appelée Tilo, et les enfants « Bana ba Tilo », les enfants du ciel. Cette naissance était traitée comme une souillure grave, entourée de rites de purification ; en temps de sécheresse, les femmes arrosaient les tombes des jumeaux et plaçaient une mère de jumeaux dans un trou rempli de l'eau des puits pour faire tomber la pluie. Quand l'orage menaçait, on demandait à un jumeau de sortir parler au ciel pour l'éloigner. Les contes gardent la même figure : une jeune fille qui a cassé sa jarre grimpe au ciel le long d'une corde, y est accueillie pour sa douceur, tandis que sa sœur méchante y est foudroyée. Un devin pouvait aussi invoquer Tilo, « toi qui vois la nuit comme le jour », pour que la foudre frappe un voleur.\n\nL'interprétation de Tilo porte la marque de son principal témoin. Junod le rapprochait des noms de l'être suprême ailleurs en Afrique bantoue (Nyambe, Leza, Mulungu, Nkulunkulu) et y voyait le reste à demi effacé d'un ancien monothéisme, une lecture diffusionniste que le missionnaire Theodor Schneider jugeait dès 1970 largement conjecturale. La question avait des enjeux pratiques : lors de la traduction de l'Ancien Testament, après la parution du Nouveau Testament tsonga en 1894, les missionnaires suisses envisagèrent Tilo pour rendre « Dieu », avant de conserver Xikwembu, le singulier du mot qui désigne les ancêtres (voir la fiche swikwembu). Selon Junod lui-même, la facilité avec laquelle les Tsonga adoptèrent le Dieu chrétien venait de la rencontre de ces deux notions, l'une personnelle mais proche, l'autre lointaine mais impersonnelle.",
+  "domaines": [
+    "ciel",
+    "pluie",
+    "orage et foudre",
+    "naissance des jumeaux",
+    "mort soudaine"
+  ],
+  "tags": [
+    "foudre-orage",
+    "jumeaux"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "swikwembu",
+      "mulungu"
+    ]
+  },
+  "attributs": [
+    "ciel bleu",
+    "foudre",
+    "oiseau-éclair ndlati",
+    "corde menant au ciel"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Junod, H.A. (1913). The Life of a South African Tribe, vol. 2: The Psychic Life. Neuchâtel, Attinger Frères",
+    "Schneider, T. (1970). The Divine Names in the Tsonga Bible. The Bible Translator 21(2)"
+  ],
+  "notes": "Presque tout ce que l'on sait de Tilo vient de Junod, qui écrivait en missionnaire et reconnaissait lui-même le caractère « vague » et « incohérent » des idées recueillies ; il note aussi des variations entre clans (chez les Nkuna, le lien entre jumeaux et ciel n'était pas attesté). Il est difficile de dire si Tilo était pensé comme une personne divine ou comme une puissance de la nature, et les informateurs eux-mêmes hésitaient. Des sites de vulgarisation font de Tilo un « dieu créateur » ; les sources consultées ne lui attribuent pas de mythe de création. Aucune pratique contemporaine centrée sur Tilo n'a pu être vérifiée."
+}

@@ -31,7 +31,8 @@
   "genealogie": {
     "parents": [],
     "conjoints": [
-      "shango"
+      "shango",
+      "xango"
     ],
     "enfants": [],
     "entites_liees": [
@@ -41,7 +42,9 @@
       "egungun",
       "candomble",
       "umbanda",
-      "santeria"
+      "santeria",
+      "xango",
+      "oxum"
     ]
   },
   "attributs": [

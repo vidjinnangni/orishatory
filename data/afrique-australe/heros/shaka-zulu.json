@@ -18,11 +18,14 @@
     "royaute-sacree"
   ],
   "genealogie": {
-    "parents": [],
+    "parents": [
+      "nandi"
+    ],
     "conjoints": [],
     "enfants": [],
     "entites_liees": [
-      "izibongo"
+      "izibongo",
+      "dingane"
     ]
   },
   "attributs": [],
