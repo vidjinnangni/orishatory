@@ -1,0 +1,48 @@
+{
+  "id": "gihanga",
+  "nom": "Gihanga",
+  "variantes": [
+    "Kihanga"
+  ],
+  "region": "afrique-est",
+  "categorie": "heros",
+  "peuples": [
+    "Banyarwanda (Rwanda)"
+  ],
+  "resume": "Gihanga, « celui qui invente » ou « qui crée », est le héros fondateur du royaume du Rwanda dans la tradition dynastique des Nyiginya. On lui attribue l'installation du premier tambour royal et du premier feu sacré, et, avec sa sœur ou sa fille, la venue du bétail. Son existence historique n'est pas établie.",
+  "description_detaillee": "Gihanga est le second des deux héros qui ouvrent la liste des rois du Rwanda, après Kigwa, « celui qui est tombé » du ciel. L'historien Jean-Pierre Chrétien rappelle que les généalogistes de la cour (abacurabwenge) plaçaient en tête de la chronologie royale deux séries de noms appartenant à ce monde mythique : Kigwa, le céleste, et Gihanga, le terrestre et le conquérant. Son nom vient d'un verbe qui signifie « façonner, créer », et la tradition fait de lui l'ancêtre de la dynastie nyiginya.\n\nLes traditions lui prêtent un rôle d'inventeur et de fondateur. Il aurait installé Rwoga, le premier tambour royal, et allumé le premier feu sacré du pays ; les trois grandes familles de ritualistes royaux (abiru) se rattachaient à lui, sa tombe comptait dans les rites du code ésotérique de la royauté (ubwiru), et les abiru l'honoraient dans une case votive de la capitale. Plusieurs clans, dont les Nyiginya, les Shambo, les Hondogo et les Tsobe, se disaient ses descendants. Le bétail, selon les versions, fut découvert dans la forêt par sa sœur Nyirarucyaba ou apporté par sa fille, blessée, du même nom. Un récit très répandu fait de lui le père de Gatwa, Gahutu et Gatutsi, qu'il met à l'épreuve en confiant à chacun une jarre de lait pour la nuit : Gatwa la boit, Gahutu en renverse une partie, Gatutsi la garde intacte et reçoit le commandement. D'autres versions attribuent la même épreuve à Kigwa. La tradition scolaire et populaire situe l'établissement de Gihanga à Gasabo, près du lac Muhazi, colline d'où viendrait le nom même du Rwanda.\n\nCes récits ont été lus de manières très opposées. L'abbé Alexis Kagame voyait déjà dans le mythe de Gihanga une invention des Nyiginya destinée à justifier leur primauté sur les autres clans, et Jan Vansina tient les traditions sur Kigwa et Gihanga pour des légendes sans fondement historique direct. Pierre Smith a relevé qu'aucune version ne parle d'une arrivée des Tutsi venus d'ailleurs, contrairement à ce que l'historiographie coloniale en a tiré. Chrétien souligne que ces mythes reflètent la place des clans au XIXe siècle, figée dans une sorte de charte orale, et le récit des trois fils a servi au XXe siècle à présenter les hiérarchies sociales comme des différences d'essence ; la thèse de Jean-Damascène Gasanabo montre comment les manuels scolaires rwandais l'ont transmis entre 1962 et 1994. Le culte royal de Gihanga, confié aux abiru et tourné vers la dynastie, se distinguait du kubandwa de Ryangombe, ouvert à tous ; Imana, le dieu suprême, avec qui Gihanga a parfois été confondu, restait pour sa part sans culte propre.",
+  "domaines": [
+    "fondation du royaume",
+    "royauté",
+    "bétail",
+    "tambour et feu royaux"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "imana",
+      "ryangombe"
+    ]
+  },
+  "attributs": [
+    "tambour Rwoga",
+    "feu sacré de la cour",
+    "vaches",
+    "jarres de lait (épreuve des trois fils)"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Le culte royal a disparu avec la monarchie rwandaise, abolie en 1961. Gihanga reste une figure de l'histoire enseignée et de la poésie en kinyarwanda, où les Rwandais sont parfois appelés « les enfants de Gihanga » (abagihanga).",
+  "sources": [
+    "Werner, A. (1933). Myths and Legends of the Bantu",
+    "Gasanabo, J.-D. (2004). Mémoires et histoire scolaire : le cas du Rwanda de 1962 à 1994, thèse, Université de Genève",
+    "Byanafashe, D. (dir.) (2006). The Teaching of History of Rwanda: A Participatory Approach, Human Rights Center, University of California, Berkeley et National Curriculum Development Centre",
+    "Adekunle, J.O. (2007). Culture and Customs of Rwanda",
+    "Chrétien, J.-P. (2010). Les aventures de la conscience historique au Rwanda, Esprit, mai 2010"
+  ],
+  "notes": "Selon l'article Wikipédia consacré à Gihanga, qui renvoie à Vansina (Antecedents to Modern Rwanda, 2004, p. 56-57), le « feu de Gihanga » était entretenu en permanence à la cour, des tributs étaient envoyés à Muganza, dans le Rukoma, lieu présenté comme sa tombe, et le roi Ruganzu Ndori (XVIIe siècle) aurait réintroduit ce culte à la cour ; ces précisions n'ont pas été vérifiées dans l'ouvrage de Vansina. L'étude de référence de Chrétien sur ces mythes (« Mythes et stratégies autour des origines du Rwanda : Kigwa et Gihanga », 1999) et le travail de Maquet n'ont pas été consultés directement ; la version où Kigwa fait passer l'épreuve du lait est rapportée d'après Lemarchand (1970). Nyirarucyaba est la sœur de Gihanga chez Bigirumwami (cité par Gasanabo), sa fille chez Werner."
+}

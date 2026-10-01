@@ -1,0 +1,51 @@
+{
+  "id": "mvemba-a-nzinga",
+  "nom": "Mvemba a Nzinga",
+  "variantes": [
+    "Afonso Ier du Kongo",
+    "Dom Afonso",
+    "Nzinga Mbemba",
+    "Mbemba a Nzinga",
+    "Affonso"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "heros",
+  "peuples": [
+    "Kongo"
+  ],
+  "resume": "Mvemba a Nzinga, baptisé Afonso, fut roi de Kongo d'environ 1509 jusqu'à sa mort vers 1542-1543. Fils du premier roi converti au christianisme, il s'imposa contre son demi-frère Mpanzu a Kitima et fit du catholicisme la religion du royaume. Ses lettres en portugais aux rois Manuel Ier et João III, en particulier celles de 1526 contre l'asservissement illégal de ses sujets, comptent parmi les plus anciens écrits d'un souverain africain conservés.",
+  "description_detaillee": "Mvemba a Nzinga règne sur le royaume de Kongo, l'État qui dominait le bas fleuve Congo, une génération après l'arrivée des Portugais à l'embouchure du fleuve dans les années 1480. Il est le fils de Nzinga a Nkuwu, le roi qui accepta le baptême sous le nom de João Ier. Presque tout ce que l'on sait du Kongo à son époque vient de ses propres lettres, écrites en portugais et adressées aux rois de Portugal, ce qui fait de lui l'un des souverains africains de son siècle dont la voix nous parvient le plus directement.\n\nConverti dans les années qui suivent le baptême de son père et baptisé Afonso, il gouverne la province de Nsundi, au nord-est du royaume, quand son père s'éloigne du christianisme ; il y accueille les missionnaires écartés de la cour. À la mort de João Ier, son demi-frère Mpanzu a Kitima lui dispute le trône. Afonso l'emporte dans une bataille livrée près de la capitale, Mbanza Kongo, avec une petite troupe comprenant des Portugais armés. Dans le récit qu'il envoie au Portugal vers 1508-1509 par son ambassadeur Pedro de Sousa, il attribue sa victoire à l'apparition de saint Jacques dans le ciel. Devenu roi, il fait détruire des objets de culte anciens, construit des églises et des écoles, envoie de jeunes nobles étudier au Portugal ; l'un de ses fils, Henrique, est consacré évêque en 1518. Avec les lettrés kongo et les missionnaires, il fixe aussi le vocabulaire chrétien en kikongo, où Dieu prend le nom de Nzambi a Mpungu (voir sa fiche).\n\nSes lettres montrent un souverain qui négocie pied à pied. En 1514, il se plaint auprès de Manuel Ier de prêtres et d'artisans portugais qui délaissent leur tâche pour faire le commerce des captifs, et rappelle que les Portugais n'ont le droit d'acheter que des hommes, pas des femmes kongo. En juillet et octobre 1526, il écrit à João III que des marchands, avec la complicité de certains de ses vassaux, enlèvent chaque jour des hommes libres, des fils de nobles et jusqu'à des membres de sa famille ; il menace de mettre fin à la traite si ces abus continuent. L'historienne Linda Heywood souligne que ces protestations ne visaient pas l'esclavage en lui-même : Afonso vendait aux Portugais des captifs pris dans ses guerres, notamment contre le Ndongo, et défendait avant tout la règle kongo selon laquelle un sujet né libre ne pouvait être vendu. Selon les biographies disponibles, il échappe en 1540 à une tentative d'assassinat ourdie par des Portugais de la capitale pendant la messe de Pâques. Il meurt vers 1542-1543 ; son fils Pedro lui succède, avant d'être renversé par un petit-fils d'Afonso, Diogo.\n\nLongtemps présenté comme un roi naïf manipulé par le Portugal, ou à l'inverse comme le pionnier d'une résistance à la traite, Afonso apparaît chez John Thornton comme un homme d'État avisé, qui a donné au Kongo un christianisme dont les Kongo gardaient la maîtrise. Les rois suivants se réclameront de lui, et le christianisme kongo qu'il a fondé se prolonge jusqu'au mouvement de Kimpa Vita au début du XVIIIe siècle (voir sa fiche).",
+  "domaines": [
+    "royauté",
+    "christianisation",
+    "diplomatie",
+    "écriture"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "lukeni-lua-nimi",
+      "kimpa-vita",
+      "nzambi-a-mpungu"
+    ]
+  },
+  "attributs": [
+    "lettres aux rois de Portugal",
+    "apparition de saint Jacques",
+    "Mbanza Kongo (São Salvador)"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Thornton, J.K. (2023). Afonso I Mvemba a Nzinga, King of Kongo: His Life and Correspondence (trad. des lettres par L. Madureira). Hackett",
+    "Heywood, L.M. (2009). Slavery and its Transformation in the Kingdom of Kongo: 1491-1800. Journal of African History, 50(1), 1-22",
+    "Thornton, J.K. (1984). The Development of an African Catholic Church in the Kingdom of Kongo, 1491-1750. Journal of African History, 25(2), 147-167",
+    "Brockman, N.C. (s.d.). Afonso I. Dictionary of African Christian Biography. dacb.org"
+  ],
+  "notes": "Le début du règne est daté de 1506 dans les ouvrages anciens et dans plusieurs notices (dont le Dictionary of African Christian Biography), de 1509 chez Heywood et dans les travaux récents, qui placent plus tard la mort de João Ier ; la mort d'Afonso est datée de fin 1542 ou de 1543. L'apparition de saint Jacques provient du récit d'Afonso lui-même, destiné à la cour portugaise. La tentative d'assassinat de 1540, la consécration d'Henrique en 1518 et la succession de Pedro puis de Diogo ne sont attestées ici que par des notices de référence (DACB, encyclopédies), non par une source primaire consultée. Le livre de Thornton (2023) n'a été consulté qu'à travers sa présentation éditoriale ; l'article de 1984 à travers son résumé et ses notes. Les détails sur les lettres de 1514 et de 1526 viennent de Heywood (2009), qui cite l'édition de Brásio (Monumenta missionaria africana)."
+}

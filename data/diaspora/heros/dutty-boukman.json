@@ -1,0 +1,54 @@
+{
+  "id": "dutty-boukman",
+  "nom": "Dutty Boukman",
+  "variantes": [
+    "Boukman",
+    "Boukman Dutty",
+    "Bouckman (graphie de Victor Hugo)",
+    "Zamba Boukman"
+  ],
+  "region": "diaspora",
+  "categorie": "heros",
+  "peuples": [
+    "Esclaves de Saint-Domingue",
+    "Haïtiens"
+  ],
+  "resume": "Esclave de l'habitation Clément, dans la paroisse de l'Acul, au nord de Saint-Domingue, Boukman fut le premier chef identifié de l'insurrection d'août 1791 qui ouvrit la Révolution haïtienne. Tué au combat début novembre 1791, sa tête fut exposée au Cap-Français. La tradition haïtienne fait de lui l'officiant et l'orateur de la cérémonie du Bois-Caïman, rôle que les historiens discutent.",
+  "description_detaillee": "On sait peu de chose de Boukman avant l'été 1791. Les archives coloniales le situent sur l'habitation Clément, à l'Acul-du-Nord, où il avait été commandeur puis cocher, des fonctions qui permettaient de circuler d'une plantation à l'autre et de tisser des liens avec les esclaves d'autres ateliers. Il passait pour un « mauvais sujet » et avait déjà été signalé pour marronnage. Son origine reste incertaine : Laurent Dubois le dit probablement venu des Antilles britanniques, et l'idée d'une naissance jamaïcaine a été largement popularisée par Bug-Jargal, le premier roman de Victor Hugo, où paraît un « Bouckmann, chef des cent vingt noirs de la Montagne Bleue à la Jamaïque ». Le surnom lui-même, lu comme l'anglais « book man », a donné lieu à une hypothèse musulmane (l'« homme du livre ») que rien dans les archives ne permet de trancher.\n\nCarolyn Fick reconstitue ainsi la séquence d'août 1791. Le dimanche 14, quelque deux cents meneurs venus des habitations de la plaine du Nord (cochers, commandeurs, domestiques) se réunissent au Morne-Rouge, près de l'habitation Lenormand de Mézy, pour fixer la date du soulèvement ; une cérémonie vodou, probablement dans la nuit du 21, vient ensuite sacraliser la décision. Dans la nuit du 22 au 23, Boukman soulève l'habitation Clément, dont le propriétaire est tué, et l'insurrection gagne en quelques jours toute la plaine. Elle échoue devant le Cap-Français mais ne s'éteint pas. Début novembre, Boukman est tué en combattant les troupes coloniales près de son camp ; les autorités brûlent son corps et exposent sa tête au Cap pour montrer aux insurgés que leur chef n'était pas invulnérable. Jean-François et Biassou prennent alors la tête des révoltés ; Toussaint Louverture sert à leurs côtés.\n\nLe Boukman que retient la mémoire haïtienne est d'abord celui du Bois-Caïman. La prière qu'on lui prête, où le « bon Dieu » des esclaves ordonne la vengeance et invite à rejeter l'image du dieu des Blancs, n'est connue que par la version que l'écrivain Hérard Dumesle publia en 1824, plus de trente ans après les faits, dans une langue travaillée. David Geggus estime que ce texte, s'il est authentique, n'a pas été prononcé au Bois-Caïman, et doute que Boukman ait été un houngan, faute de toute mention en ce sens avant les récits de la cérémonie ; d'autres auteurs, comme Celucien Joseph, voient au contraire dans cette prière la preuve du rôle mobilisateur de la religion dans la révolte. Au-delà de ces débats, le personnage a pris place parmi les figures fondatrices de la nation, aux côtés de Makandal, dont il prolonge dans l'imaginaire la lutte menée à la fois par la parole religieuse et par les armes.",
+  "domaines": [
+    "révolution",
+    "insurrection",
+    "parole et serment",
+    "mémoire nationale"
+  ],
+  "tags": [
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "ceremonie-bois-caiman",
+      "makandal",
+      "vodou-haitien"
+    ]
+  },
+  "attributs": [
+    "serment et prière du Bois-Caïman",
+    "habitation Clément (Acul-du-Nord)",
+    "tête exposée au Cap-Français (1791)"
+  ],
+  "recits_associes": [
+    "ceremonie-bois-caiman"
+  ],
+  "culte_contemporain": "Commémoré en Haïti comme l'initiateur de l'insurrection de 1791, notamment lors de l'anniversaire du Bois-Caïman. Le groupe de mizik rasin Boukman Eksperyans, formé à Port-au-Prince, a pris son nom.",
+  "sources": [
+    "Fick, C.E. (1990). The Making of Haiti: The Saint Domingue Revolution from Below",
+    "Geggus, D.P. (2002). Haitian Revolutionary Studies",
+    "Dubois, L. (2004). Avengers of the New World: The Story of the Haitian Revolution",
+    "Joseph, C.L. (2011). The Rhetoric of Prayer: Dutty Boukman, the Discourse of \"Freedom from Below,\" and the Politics of God. Journal of Race, Ethnicity, and Religion, 2(9)",
+    "Fondation pour la mémoire de l'esclavage (s.d.). Boukman, notice biographique"
+  ],
+  "notes": "La date de sa mort est généralement donnée comme le 7 novembre 1791 ; le lieu exact du combat (camp de l'Acul, ou Fond-Bleu selon certaines compilations) varie selon les sources. L'origine jamaïcaine, l'étymologie musulmane du surnom (« book man ») et celle de « Dutty » (rapporté au nom d'une habitation) sont des hypothèses non vérifiées dans les archives ; le surnom de « Zamba » ne figure que dans des sources tardives. Son statut de houngan est contesté (Geggus). La présence de la prêtresse Cécile Fatiman à ses côtés repose sur une source familiale de 1954 (voir la fiche du Bois-Caïman). L'origine du nom de Boukman Eksperyans n'est attestée que par des sources non académiques."
+}

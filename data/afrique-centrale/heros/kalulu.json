@@ -22,7 +22,9 @@
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": []
+    "entites_liees": [
+      "contes-de-compere-lapin"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

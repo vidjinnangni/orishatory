@@ -1,0 +1,50 @@
+{
+  "id": "ggulu",
+  "nom": "Ggulu",
+  "variantes": [
+    "Gulu",
+    "Mugulu"
+  ],
+  "region": "afrique-est",
+  "categorie": "deites",
+  "peuples": [
+    "Baganda"
+  ],
+  "resume": "Dans la tradition des Baganda (Ouganda), Ggulu est le roi du ciel, père de Nnambi, de Walumbe (la Mort) et de Kaikuzi. Il soumet Kintu à des épreuves avant de lui donner sa fille, et le met en garde contre Walumbe. On lui prêtait aussi un pouvoir sur la foudre, et son identité avec Katonda, le créateur, est discutée.",
+  "description_detaillee": "Ggulu, dont le nom signifie « le ciel » en luganda, occupe dans la religion des Baganda une place double. Il est d'abord un personnage du récit d'origine du royaume, le souverain céleste chez qui Kintu, le premier homme, va chercher une épouse. Il est aussi un dieu que l'on craignait pour la foudre et qui, selon Roscoe, n'a reçu un médium qu'à une époque récente. Le rapprocher de Katonda, le créateur, ou l'en distinguer, change la manière de lire toute la religion ganda.\n\nLes deux grandes versions publiées au début du XXe siècle font de lui le père de Nnambi et de ses frères. Dans celle que John Roscoe publie en 1911, il décide d'éprouver Kintu en lui volant sa vache, puis lui impose un repas démesuré, du bois à couper dans la roche avec une hache de cuivre, une jarre à remplir de rosée et la reconnaissance de sa vache dans un immense troupeau. Satisfait, il lui donne Nnambi en pressant le couple de partir avant le retour de Walumbe et de ne pas revenir s'ils oublient quelque chose ; quand la Mort s'est installée sur terre, il envoie son autre fils, Kaikuzi, pour la ramener. La version recueillie auprès de paysans par J. F. Cunningham et publiée par Harry Johnston en 1902 l'appelle Mugulu, « le Ciel, ce qui est en haut ». Elle diffère sur plusieurs points : Mugulu confie au couple un bananier, une patate, un haricot, du maïs, une arachide et une poule, et c'est Kintu, non Nnambi, qui remonte chercher le grain oublié et ramène Walumbe avec lui.\n\nRoscoe traite aussi Gulu comme un dieu parmi les lubaale. Avec Musoke, il commandait les éléments ; par gros orage, on battait les tambours pour qu'il sache où se trouvaient les gens et ne les frappe pas de la foudre. Longtemps sans prêtre ni temple, il fut ensuite honoré par un médium du clan de la Sauterelle, surnommé Kinyanganjovu, « celui qui mange comme un éléphant », qui avertissait le roi des guerres et des épidémies à venir. Roscoe le distingue ainsi nettement de Katonda, qui avait son propre petit temple dans le Kyagwe. D'autres lectures les confondent : Benjamin Ray note que Katonda était appelé « Maître du ciel », et certaines présentations récentes parlent de « Katonda-Ggulu ». Johnston, de son côté, doutait que les Baganda aient reconnu un dieu suprême avant l'islam et le christianisme, et désignait plutôt Kazoba comme le dieu du firmament. Les sources ne permettent pas de trancher entre un seul dieu à plusieurs noms et plusieurs puissances célestes distinctes.",
+  "domaines": [
+    "ciel",
+    "foudre",
+    "épreuve et alliance"
+  ],
+  "tags": [
+    "foudre-orage",
+    "mort-au-dela"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [
+      "nnambi",
+      "walumbe"
+    ],
+    "entites_liees": [
+      "kintu",
+      "katonda"
+    ]
+  },
+  "attributs": [
+    "ciel",
+    "foudre",
+    "troupeau céleste",
+    "tablier de peau de chèvre blanche et coiffe de peau de chacal de son médium"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Johnston, H. (1902). The Uganda Protectorate, vol. 2",
+    "Roscoe, J. (1911). The Baganda: An Account of Their Native Customs and Beliefs",
+    "Ray, B.C. (1987). East African Religions: Northeast Bantu Religions, in Eliade, M. (dir.), The Encyclopedia of Religion"
+  ],
+  "notes": "L'expression « Katonda-Ggulu » n'a été trouvée que dans une présentation missionnaire récente (Missionnaires comboniens, 2018), non académique. L'ouvrage de Benjamin Ray, Myth, Ritual, and Kingship in Buganda (1991), n'a pas pu être consulté sur ce point. Le détail de l'épreuve de la vache varie : une abeille chez Roscoe, un frelon dans la version de Johnston. Kaikuzi, fils de Ggulu, n'a pas de fiche."
+}

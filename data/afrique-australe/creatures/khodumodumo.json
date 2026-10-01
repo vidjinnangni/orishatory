@@ -1,0 +1,48 @@
+{
+  "id": "khodumodumo",
+  "nom": "Khodumodumo",
+  "variantes": [
+    "Kholumolumo",
+    "Kgodumodumo",
+    "Kammapa",
+    "Khamapa",
+    "Khanyapa"
+  ],
+  "region": "afrique-australe",
+  "categorie": "creatures",
+  "peuples": [
+    "Basotho"
+  ],
+  "resume": "Monstre des récits basotho qui avale tous les êtres vivants, hommes, bétail, chiens et volailles, jusqu'à ne plus pouvoir franchir un col de montagne. Il est tué par Litaolane (Moshanyana oa Senkatana), l'enfant né de la seule femme épargnée, qui libère vivants tous ceux qu'il avait engloutis.",
+  "description_detaillee": "Khodumodumo est la bête dévoreuse du récit basotho de Litaolane, l'un des contes d'Afrique australe les plus anciennement publiés. Le missionnaire Eugène Casalis l'appelait Kammapa ; Édouard Jacottet, qui donna en 1908 le texte sesotho et sa traduction, écrit Kholumolumo et signale aussi les formes Khamapa et Khanyapa, ce dernier nom passant pour désigner un grand serpent d'eau fabuleux. Alice Werner emploie Khodumodumo, et la pièce de S. M. Mofokeng, Senkatana (1952), Kgodumodumo, selon l'orthographe du sesotho d'Afrique du Sud. Jacottet hésitait sur le sens du nom, qui pourrait évoquer un « grand bruit ».\n\nLes conteurs décrivent moins une forme qu'une démesure. Chez Casalis, d'une extrémité à l'autre de son corps, la distance est telle que les yeux les plus perçants peuvent à peine l'embrasser, et sa voix fait trembler les rochers. Chez Jacottet et Werner, il avale les gens d'un village après l'autre, avec le bétail, les chiens et les poules, puis enfle au point de rester coincé dans le col par lequel il était entré ; la mère du héros le désigne comme une chose grande comme une montagne qui bouche le passage. Il n'est pas très clairvoyant : il prend pour une pierre la femme enceinte couverte de cendres qui s'est cachée dans un enclos à veaux. Dans la seconde version de Jacottet, il tire trois langues l'une après l'autre contre l'enfant, qui les tranche avant de le tuer. Sa mort ne détruit rien de ce qu'il a pris : les hommes et les bêtes sortent vivants de son ventre, et certains crient lorsque la lame du héros les frôle.\n\nJacottet voyait dans ce monstre une figure très répandue chez les peuples de langue bantoue et en dressait la liste : Isikqukqumadevu chez les Zulu dans le recueil de Callaway, l'inabulele chez les Xhosa dans celui de Theal, Seedimwe chez les Subiya du Zambèze, ainsi qu'un monstre san cité d'après Wilhelm Bleek. Dans tous ces contes, notait-il, les victimes sont retrouvées vivantes dans le ventre de la bête. Casalis, de son côté, proposait d'y voir une image de Satan, lecture chrétienne que ses informateurs ne reprenaient pas. Des commentaires récents, surtout en ligne, lisent la bête qui enfle à mesure qu'elle dévore comme une figure de l'avidité ; cette interprétation appartient aux lecteurs d'aujourd'hui et non aux versions anciennes.",
+  "domaines": [
+    "dévoration",
+    "catastrophe originelle",
+    "démesure"
+  ],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "litaolane",
+      "hlakanyana"
+    ]
+  },
+  "attributs": [
+    "taille démesurée",
+    "langues multiples (seconde version de Jacottet)",
+    "voix qui fait trembler les rochers",
+    "col de montagne obstrué"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Casalis, E. (1859). Les Bassoutos, ou vingt-trois années de séjour et d'observations au sud de l'Afrique. Paris, Meyrueis (« Kammapa et Litaolané », p. 363-365)",
+    "Jacottet, E. (1908). The Treasury of Ba-Suto Lore, vol. 1. Morija, Sesuto Book Depot (contes XI et XII et notes)",
+    "Werner, A. (1933). Myths and Legends of the Bantu. Londres, Harrap (chapitre XIV, « The Swallowing Monster »)",
+    "Mofokeng, S.M. (1952). Senkatana. Johannesburg, Witwatersrand University Press"
+  ],
+  "notes": "Le sens du nom reste incertain : Jacottet propose « grand bruit » avec réserve, en remarquant que la forme attendue serait alors Kholomolumo. Il tient Kammapa pour une graphie fautive de Casalis et préfère Khamapa. Werner la qualifie de « shapeless », sans forme ; les versions de Casalis et de Jacottet ne la décrivent pas davantage, sinon par sa taille et, chez Jacottet, par le col qu'elle ne peut plus franchir après avoir trop mangé. Les lectures morales (avidité, ambition) proposées par des sites de vulgarisation ne reposent sur aucune source ancienne consultée. Le rapprochement avec Isikqukqumadevu et les autres monstres avaleurs est celui de Jacottet ; aucune de ces créatures n'a encore de fiche dans le codex."
+}

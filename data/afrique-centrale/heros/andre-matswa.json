@@ -1,0 +1,44 @@
+{
+  "id": "andre-matswa",
+  "nom": "André Matswa",
+  "variantes": [
+    "André Grenard Matswa",
+    "André Matsoua",
+    "André Grenard Matsoua",
+    "Matsoua",
+    "Grenard"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "heros",
+  "peuples": [
+    "Kongo (Lari)"
+  ],
+  "resume": "André Grenard Matswa (1899-1942), originaire de la région du Pool au Congo français, fonda à Paris en 1926 l'Amicale des originaires de l'Afrique-Équatoriale française, association d'entraide qui devint un mouvement de revendication contre l'ordre colonial. Condamné et déporté à plusieurs reprises, il mourut en détention à Mayama en janvier 1942. Après sa mort, une partie de ses fidèles fit de lui un messie dont on attendait le retour : c'est le matswanisme.",
+  "description_detaillee": "André Matswa est l'une des premières grandes figures de l'anticolonialisme en Afrique-Équatoriale française. Né en 1899 dans le district de Kinkala, au sud-ouest de Brazzaville, dans le groupe kongo des Lari (Balali), il a mené son combat surtout depuis Paris, sur le terrain de la citoyenneté et de l'égalité des droits. Sa mort en détention a ensuite fait de lui une figure religieuse, au point que son nom désigne aujourd'hui à la fois un militant politique et l'objet d'un culte.\n\nPassé par l'école de la mission catholique de Brazzaville, il est catéchiste, puis employé des douanes, avant de partir pour la France, où il sert comme tirailleur. À Paris, il fonde en 1926 une association d'entraide destinée aux Africains de l'AEF, l'Amicale des originaires de l'Afrique-Équatoriale française. L'association gagne rapidement de très nombreux adhérents au Congo et devient un mouvement de masse, que l'administration finit par traiter comme une affaire « balali », alors que l'Amicale réunissait au départ des membres de plusieurs peuples. Arrêté à Paris à la fin de 1929, Matswa est jugé à Brazzaville et condamné le 2 avril 1930, puis envoyé au Tchad. Il s'évade de Fort-Lamy en septembre 1935, gagne le Dahomey sous de faux noms et regagne Paris au début de 1937. Revenu à Brazzaville en 1940, il est de nouveau condamné, le 6 février 1941, à la réclusion à perpétuité pour rupture de ban et escroquerie, au terme d'un procès sans témoins ni avocat. Promené d'une prison à l'autre dans le Pool, il meurt à Mayama le 13 janvier 1942. L'administration invoque la dysenterie, mais aucun acte de décès régulier ne fut dressé et le corps ne fut pas rendu à sa famille ; un témoignage recueilli par l'historien Didier Gondola fait état de coups reçus la veille.\n\nCette disparition sans corps nourrit la conviction qu'il n'était pas mort. Entre 1942 et 1946, le mouvement politique, l'amicalisme, se transforme en culte : on prie Matswa à la lueur des bougies devant sa photographie, on attend son retour pour libérer le pays, et les autorités poursuivent ces réunions comme des sociétés secrètes. Des imposteurs se présentent même comme Matswa revenu. Les fidèles en deuil, vêtus de sacs noirs, sont surnommés les « corbeaux ». Gondola insiste sur le contraste entre ce culte, replié sur l'identité kongo, et le projet de Matswa, qui se voulait panafricain et moderniste.\n\nLe matswanisme est souvent étudié avec le mouvement de Simon Kimbangu (voir sa fiche), né quelques années plus tôt sur l'autre rive du fleuve Congo : le sociologue Martial Sinda y voyait deux expressions politico-religieuses de la situation coloniale chez les Kongo. La mémoire officielle du Congo-Brazzaville lui fait une place modeste, ce que Gondola souligne en comparant son sort à celui de Savorgnan de Brazza, à qui un mausolée a été élevé à Brazzaville en 2006.",
+  "domaines": [
+    "anticolonialisme",
+    "citoyenneté",
+    "messianisme"
+  ],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "simon-kimbangu"
+    ]
+  },
+  "attributs": [
+    "Amicale des originaires de l'AEF",
+    "prison de Mayama",
+    "bougies et photographie (culte matswaniste)"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Des communautés matswanistes, dont une Église dite Ngunza Matsoua, célèbrent encore sa mémoire dans la région du Pool et à Brazzaville, notamment pour l'anniversaire de sa naissance ; ces informations proviennent de la presse en ligne et n'ont pas été vérifiées dans des travaux académiques récents.",
+  "sources": [
+    "Gondola, D. (2021). Matswa vivant : anticolonialisme et citoyenneté en Afrique-Équatoriale française. Paris, Éditions de la Sorbonne",
+    "Sinda, M. (1972). Le messianisme congolais et ses incidences politiques. Paris, Payot"
+  ],
+  "notes": "La date de fondation de l'Amicale varie : 1926 dans la plupart des notices, mais un rapport administratif cité par Gondola fait état d'une autorisation à Paris le 31 juillet 1927. La date d'arrestation à Paris (décembre 1929) ne provient que de notices encyclopédiques. Les circonstances de la mort restent discutées : Gondola évoque plusieurs hypothèses, dont des violences en détention, la présence du gouverneur général Félix Éboué à Mayama le matin du décès et des rumeurs de transfert secret, sans trancher. L'orthographe varie entre Matswa et Matsoua. Le livre de Gondola a été consulté par chapitres (1, 24, 29, 33, 35, 36) ; l'ouvrage de Sinda à travers le compte rendu de M. Palau-Marti (Revue de l'histoire des religions, 1974)."
+}

@@ -18,10 +18,14 @@
     "creation"
   ],
   "genealogie": {
-    "parents": [],
+    "parents": [
+      "mebeghe"
+    ],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": []
+    "entites_liees": [
+      "mebeghe"
+    ]
   },
   "attributs": [],
   "recits_associes": [

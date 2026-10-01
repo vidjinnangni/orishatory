@@ -22,7 +22,9 @@
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": []
+    "entites_liees": [
+      "umkhosi-wokweshwama"
+    ]
   },
   "attributs": [],
   "recits_associes": [],

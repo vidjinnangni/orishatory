@@ -1,0 +1,51 @@
+{
+  "id": "kinguri",
+  "nom": "Kinguri",
+  "variantes": [
+    "Quinguri",
+    "Kinguli",
+    "Cinguli",
+    "Chingud",
+    "Quingure"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "heros",
+  "peuples": [
+    "Imbangala",
+    "Lunda (Ruund)"
+  ],
+  "resume": "Kinguri est, dans les traditions lunda recueillies au XIXe siècle, le frère aîné de Lueji, écarté du pouvoir au profit de sa sœur et parti en exil vers l'ouest, où il serait devenu l'ancêtre des souverains imbangala du Kasanje, dans l'actuel Angola. Son nom est aussi celui d'un titre politique imbangala. Les historiens tiennent aujourd'hui le récit de son exode pour un ajout tardif aux traditions lunda, né dans les milieux du commerce caravanier.",
+  "description_detaillee": "Kinguri appartient au cycle de récits qui raconte la naissance de la royauté lunda et rattache à elle plusieurs peuples voisins de l'est de l'Angola et du Kasaï. Dans ce cycle, il est le prince dépossédé : celui qui aurait dû régner et que l'arrivée du chasseur Chibinda Ilunga a fait partir. Sa figure a longtemps compté pour les historiens, qui s'appuyaient sur son départ supposé pour dater l'histoire de toute la région, avant que cette lecture ne soit abandonnée.\n\nDans la version que l'explorateur portugais Henrique Dias de Carvalho rassemble entre 1885 et 1887, le souverain Yal Mak, déçu par la conduite de ses fils Kinguri et Kinyama, remet le lukano, le bracelet du pouvoir, à sa fille Lueji. Quand celle-ci veut confier le bracelet à Chibinda Ilunga, les anciens l'approuvent, notamment parce qu'ils redoutent le caractère emporté de Kinguri et le craignent capable de s'emparer du pouvoir. Dépossédés, les deux frères s'exilent : Kinguri fonde la lignée des chefs imbangala, Kinyama celle des Luvale. Les versions plus anciennes diffèrent nettement. En 1850, à Cassange, António Rodrigues Neves note que Kinguri, héritier de son père, est écarté par sa sœur aînée Manhungo, soutenue par son amant, le Mwaant Yav ; chassé pour sa cruauté, il passe chez les Chokwe, envoie des chasseurs vers l'ouest qui lui rapportent que des Européens chargés de marchandises sont arrivés au pays de la reine Njinga, puis il est tué par ses propres compagnons, enfermé dans une maison et privé de nourriture, au bord du Kwanza. Le récit transmis à l'Allemand Paul Pogge en 1875-1876 fait de lui un chef lunda refusant de se soumettre, qui obtient des Portugais, au temps de leur guerre contre Njinga, la terre où s'établira le Kasanje.\n\nLa mention la plus ancienne est d'une autre nature. Vers 1655-1660, à la cour du Kasanje, le capucin Giovanni Antonio Cavazzi recueille les chants des Imbangala : un certain Quinguri y succède à Culembe, guerrier si féroce que son nom viendrait de nguri, « lion » ; il entre dans le Ndongo et y meurt au combat. Il n'y est question d'aucune migration depuis le pays lunda. Joseph Miller, qui voyait dans Kinguri un titre transmis de détenteur en détenteur plutôt qu'un individu, situait encore l'arrivée de ce titre en Angola vers le milieu du XVIe siècle. Jan Vansina a renversé la perspective en 1998 : selon lui, l'exode de Kinguri est une construction des commerçants ambakistas et imbangala, apparue dans les années 1840 aux terminus des routes de traite (Cassange, pays songo, Bihé), puis introduite à la cour lunda, peut-être par le marchand Lourenço Bezerra, avant de se répandre dans toute la région au début du XXe siècle. David Gordon a montré en 2023 que le détenteur du titre de Kinguri, un traitant imbangala, est lui-même venu confirmer le récit à Carvalho en décembre 1885, en insistant sur sa route vers l'ouest et ses liens anciens avec les Portugais ; sa caravane voyageait alors sous la protection de l'expédition. Pour Gordon, il n'existait pas de récit lunda central auquel Kinguri aurait été ajouté : chaque titulaire régional y inscrivait sa propre histoire.\n\nKinguri relie ainsi la légende de Lueji et de Chibinda Ilunga (voir leurs fiches) à l'histoire des Imbangala, ces bandes guerrières avec lesquelles Njinga Mbande s'allia au XVIIe siècle (voir sa fiche). La valeur de ce lien est généalogique et politique plutôt qu'historique : il disait, au XIXe siècle, qui était parent de qui le long des routes du commerce.",
+  "domaines": [
+    "fondation dynastique",
+    "exil",
+    "royauté"
+  ],
+  "tags": [
+    "royaute-sacree",
+    "ancetres"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "lueji",
+      "chibinda-ilunga",
+      "njinga-mbande"
+    ]
+  },
+  "attributs": [
+    "titre politique imbangala",
+    "lion (nguri, selon Cavazzi)",
+    "exil vers l'ouest"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Vansina, J. (1998). It Never Happened: Kinguri's Exodus and Its Consequences. History in Africa, 25, 387-403",
+    "Gordon, D.M. (2023). The Quotidian Politics of a Love Story: Researching, Assembling, and Mobilizing the Lunda Legend in the Late Nineteenth Century. Journal of African History, 64(2), 209-228",
+    "Miller, J.C. (1972). The Imbangala and the Chronology of Early Central African History. Journal of African History, 13"
+  ],
+  "notes": "L'orthographe varie selon les langues et les auteurs (Kinguri, Quinguri, Cinguli, Chingud en ruund). Le sens de « lion » donné par Cavazzi correspond à un mot ovimbundu ; en kimbundu moderne, kinguri désigne plutôt l'ancêtre ou la souche d'une lignée, selon Vansina. Jeffrey Hoover (1978) a montré que les noms de Kinguri et de Kinyama sont des emprunts dans la langue ruund, et Luc de Heusch (1972) rejetait déjà l'historicité de l'ensemble des traditions lunda anciennes. La chronologie de Miller (arrivée en Angola vers 1550, départ du pays lunda avant 1500) est aujourd'hui abandonnée. La date de fondation du Kasanje varie selon les sources consultées (vers 1620 ou vers 1630). L'article de Miller n'a été consulté qu'à travers son résumé et la discussion qu'en donne Vansina ; Gordon n'a été lu que pour les passages consacrés à Kinguri et à Carvalho."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "imana",
+  "nom": "Imana",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "deites",
+  "peuples": [
+    "Banyarwanda (Rwanda)",
+    "Barundi (Burundi)"
+  ],
+  "resume": "Imana est le nom de l'être suprême dans les religions anciennes du Rwanda et du Burundi. Créateur et source de tout bien, il passait pour bienveillant mais lointain : on ne lui bâtissait pas de sanctuaire et les offrandes allaient plutôt aux esprits des morts. Son nom, très présent dans les proverbes et les prénoms, désigne aujourd'hui aussi le Dieu chrétien.",
+  "description_detaillee": "Dans l'ensemble religieux de la région des Grands Lacs, l'anthropologue John Beattie distingue un être suprême qui porte trois noms selon les régions : Imana au sud, c'est-à-dire au Rwanda et au Burundi, Ruhanga dans le nord de langue nyoro, Katonda au Buganda. Imana est donc l'équivalent rwandais et burundais du Katonda ganda. Il se distingue nettement de Ryangombe, le héros divinisé qui règne sur les esprits imandwa, et des abazimu, les esprits des défunts. Cette position au sommet, jointe à une grande distance, explique qu'il soit à la fois partout dans la langue et presque absent du culte.\n\nLes sources décrivent un dieu créateur qui habite le ciel. Julius Adekunle rapporte qu'on le voit comme un potier qui façonne les enfants avant de les placer dans le ventre de leur mère, et que son nom entre dans des prénoms comme Bizimana, « Dieu sait tout ». Il n'avait ni temple, ni autel, ni sacrifice : Imana possède tout et n'a besoin de rien, si bien que les offrandes de lait, de bière de sorgho ou de sang allaient aux abazimu. Alice Werner, s'appuyant sur les recueils de missionnaires du début du XXe siècle (Johanssen, Hurel), note qu'on ne le priait pas directement : on formulait des souhaits conditionnels, du type « si Imana était avec moi, il m'aiderait ». Les proverbes qu'elle cite disent sa générosité (« Imana te donne, ce n'est pas une chose achetée »), sa puissance (« Imana a les bras longs ») et son unicité (« Nul n'est égal à Imana ») ; un autre, très connu, affirme qu'« Imana passe la journée ailleurs mais revient dormir au Rwanda ». Plusieurs contes le mettent en scène. Dans l'un, Imana annonce à un homme qu'il viendra de nuit lui apporter une bonne nouvelle ; l'homme s'endort, un serpent caché dans la case répond à sa place et reçoit la promesse de mourir et de renaître en changeant de peau, tandis que les humains sont condamnés à la mort définitive. Dans un autre, une femme sans enfant qui a repoussé le petit de sa sœur couvert de boue se voit refuser la maternité. Un récit recueilli par le père Hurel associe enfin Imana à la foudre.\n\nAu Burundi, les synthèses générales présentent de même Imana comme la source de toute vie et de tout bien, et les rites les plus visibles s'adressaient à d'autres puissances : Kiranga, nom burundais de Ryangombe, lors du kubandwa, ou la fécondité des récoltes lors de l'umuganuro. Au Rwanda, la royauté entretenait avec Imana un lien particulier ; Adekunle cite la formule selon laquelle le roi « n'est pas un homme, il est Imana ». Le fondateur mythique Gihanga a parfois été confondu avec lui, son nom dérivant d'un verbe qui signifie « façonner, créer » ; Werner écartait déjà ce rapprochement. Le mot lui-même dépasse la personne divine : Adekunle le traduit aussi par « chance », signe qu'Imana désignait une puissance de bonne fortune autant qu'un créateur.",
+  "domaines": [
+    "création",
+    "providence",
+    "fécondité",
+    "bonne fortune"
+  ],
+  "tags": [
+    "creation",
+    "mort-au-dela"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "ryangombe",
+      "katonda",
+      "gihanga"
+    ]
+  },
+  "attributs": [
+    "ciel (demeure)",
+    "absence de sanctuaire et de sacrifice"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Imana ne reçoit plus de culte propre, mais le nom reste d'usage courant en kinyarwanda et en kirundi, dans les proverbes, les salutations et de nombreux prénoms (Bizimana, par exemple). Il sert aussi à désigner le Dieu chrétien, ce que les sources académiques consultées ne documentent pas en détail.",
+  "sources": [
+    "Werner, A. (1933). Myths and Legends of the Bantu",
+    "Beattie, J. (1987). Interlacustrine Bantu Religions, in Eliade, M. (dir.), The Encyclopedia of Religion",
+    "Adekunle, J.O. (2007). Culture and Customs of Rwanda",
+    "Stanford, E. (2001). Burundi, in Ember, M. et Ember, C. (dir.), Countries and Their Cultures"
+  ],
+  "notes": "Les récits cités par Werner proviennent de missionnaires (Johanssen, 1912 ; Hurel) et le livre de Werner lui-même emploie un vocabulaire racial daté (« influence hamitique ») : ils doivent être lus avec prudence, notamment le conte du serpent, où Werner croyait voir une influence étrangère. Un autre récit très diffusé, où Imana chasse la Mort et où une vieille femme la cache sous sa jupe, n'a été retrouvé que sur Wikipédia (qui renvoie à Lessa et Vogt, Reader in Comparative Religion) et n'a pas été vérifié dans une source de première main. La présentation d'Imana au Burundi repose ici sur une encyclopédie générale ; des études burundaises (Zuure, 1926 ; Ntabona, 1986 ; Mworoha) n'ont pas pu être consultées. L'usage missionnaire du mot pour le Dieu biblique a fait débat en raison de ses sens multiples, selon un article de la Revue d'histoire de la Shoah (2009) qui n'a pas pu être lu en entier."
+}

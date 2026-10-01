@@ -1,0 +1,54 @@
+{
+  "id": "juok",
+  "nom": "Juok",
+  "variantes": [
+    "Jwok",
+    "Jok (Acholi, Lango, Alur)",
+    "Jo-uk"
+  ],
+  "region": "afrique-est",
+  "categorie": "deites",
+  "peuples": [
+    "Shilluk (Chollo, Soudan du Sud)",
+    "Anuak",
+    "Acholi et Lango (Ouganda)",
+    "Jopadhola (Ouganda)"
+  ],
+  "resume": "Juok (Jwok) est chez les Shilluk du Nil Blanc le nom de la puissance suprême, créatrice, lointaine et redoutée, que l'on approche surtout à travers le héros fondateur Nyikang. Le mot, présent sous des formes voisines dans les autres langues luo, désigne aussi l'esprit, la maladie ou toute force extraordinaire. Son interprétation comme « Dieu » a été contestée.",
+  "description_detaillee": "Chez les Shilluk, qui se nomment eux-mêmes Chollo et vivent sur la rive occidentale du Nil Blanc, Juok est l'être qui se tient au-dessus de tout, y compris de Nyikang, leur roi fondateur. Le linguiste Diedrich Westermann, qui publie en 1912 une étude de leur langue et de leurs traditions, en fait l'un des trois piliers de leur religion, avec Nyikang et les devins (ajwogo). Le même mot existe sous des formes proches dans toutes les langues nilotiques, et sa portée va bien au-delà du nom d'un dieu.\n\nWestermann décrit un Juok qui réside « en haut », sans temple ni symbole visible. On lui sacrifie parfois un bœuf, moins souvent qu'à Nyikang, et il ne reçoit qu'une seule prière, enseignée par Nyikang, dite et non chantée par le chef ou un ancien lors des famines, des guerres ou des maladies : « Il n'y a personne au-dessus de toi, Juok ». On l'invoque dans les salutations (« tu as apporté Juok »), mais il est surtout la puissance incontrôlable qui frappe : un malade « a Juok », une mort soudaine vient de lui, et les morts sont « les gens du village de Juok ». Le missionnaire Wilhelm Hofmayr relève que le mot recouvre Dieu, l'esprit, la force cachée, le mystère, la maladie et le tourbillon, et que des qualificatifs le précisent : le créateur, le protecteur, l'esprit du fleuve ou de la forêt. Les récits d'origine lui donnent un rôle de créateur. Dans l'un, recueilli par Hofmayr et repris par James Frazer, Juok parcourt le monde et façonne les hommes avec la terre de chaque pays : terre blanche pour les Blancs, limon du Nil pour les Égyptiens, terre noire pour les Shilluk. Dans un autre, publié par Westermann, Juok crée une grande vache blanche sortie du Nil, qui enfante l'ancêtre dont descendra Nyikang.\n\nLe rapport entre Juok et Nyikang est au cœur de la royauté shilluk. Les administrateurs Howell et Thomson écrivaient en 1946 que « Nyikang est Juok, mais Juok n'est pas Nyikang », et que le roi (reth) est l'intermédiaire par lequel on approche l'un et l'autre ; David Graeber a souligné que Juok se manifeste surtout dans la violence imprévisible, celle que le rituel d'intronisation met en scène. L'extension de ce modèle aux autres peuples luo a été discutée. Bethwell Ogot voyait dans le jok une notion commune à tous les Nilotes ; l'écrivain et anthropologue ougandais Okot p'Bitek a rejeté l'idée qu'il s'agisse, chez les Acholi et les Lango, d'un dieu suprême, y voyant plutôt une multiplicité de puissances et reprochant aux missionnaires et aux ethnographes d'avoir plaqué sur ce mot leur propre théologie. Westermann lui-même doutait que l'idée d'un Juok créateur soit ancienne. Chez les Luo du Kenya, le nom de Dieu est plutôt Nyasaye, tandis que juogi désigne des esprits qui possèdent les vivants.",
+  "domaines": [
+    "puissance suprême",
+    "création",
+    "maladie et mort",
+    "esprit"
+  ],
+  "tags": [
+    "creation",
+    "royaute-sacree"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "nyikang",
+      "nyasaye"
+    ]
+  },
+  "attributs": [
+    "absence de temple et d'effigie",
+    "sacrifice d'un bœuf",
+    "tourbillon de vent"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Chez les Jopadhola de l'est de l'Ouganda, l'anthropologue Hanne Mogensen a montré au début des années 2000 que la notion de juok restait la réponse ordinaire aux questions sur le malheur et la maladie, en concurrence et en combinaison avec le christianisme et la biomédecine.",
+  "sources": [
+    "Westermann, D. (1912). The Shilluk People: Their Language and Folklore",
+    "Hofmayr, W. (1925). Die Schilluk: Geschichte, Religion und Leben eines Niloten-Stammes",
+    "Frazer, J.G. (1918). Folk-lore in the Old Testament, vol. 1",
+    "Graeber, D. et Sahlins, M. (2017). On Kings",
+    "Mogensen, H.O. (2002). The Resilience of Juok: Confronting Suffering in Eastern Uganda, Africa, 72 (3)",
+    "Orawo, C.N. (2012). Healing Dances: A Case Study of the Luo Juogi and the Dawida Mwazindika Dances, International Journal of Business and Social Science, 3 (2)"
+  ],
+  "notes": "Les positions d'Ogot (1961, « The concept of jok », African Studies) et de p'Bitek (1971, Religion of the Central Luo) sont rapportées ici d'après Orawo (2012) et Graeber (2017), sans consultation directe de leurs textes. La citation de Howell et Thomson (1946) l'est d'après Graeber. Le récit des terres de couleur, connu par Hofmayr (Anthropos, 1911) et Frazer, et celui des deux enfants noir et blanc publié par Westermann portent la marque de l'époque coloniale et de ses hiérarchies ; Westermann lui-même soupçonnait une influence musulmane ou chrétienne sur l'idée d'un Juok créateur. Westermann signale un nom plus ancien du créateur, Kelge, qu'il n'a jamais entendu lui-même."
+}
