@@ -1,0 +1,52 @@
+{
+  "id": "imbalu",
+  "nom": "Imbalu",
+  "variantes": [
+    "Embalu",
+    "Khushina imbalu (« danser l'imbalu »)"
+  ],
+  "region": "afrique-est",
+  "categorie": "rites",
+  "peuples": [
+    "Gisu (Bagisu ou Bamasaba, Ouganda)"
+  ],
+  "resume": "L'imbalu est la circoncision rituelle des garçons chez les Gisu, ou Bamasaba, qui vivent sur les pentes du mont Elgon dans l'est de l'Ouganda. Elle n'a lieu que les années paires et fait des garçons (basinde) des hommes (basani), aptes à se marier et à recevoir sa part des terres paternelles. Le mot désigne à la fois l'opération et tout le cycle de chants, de danses et de rites qui l'entoure.",
+  "description_detaillee": "Chez les Gisu de l'est de l'Ouganda, qui se nomment eux-mêmes Bamasaba d'après leur ancêtre Masaba, l'imbalu est le passage obligé de l'enfance à l'âge d'homme. Les Gisu se désignent comme basani, « les hommes », par opposition aux basinde, les garçons non circoncis, terme qu'ils appliquent aussi aux peuples voisins qui ne circoncisent pas ; l'anthropologue Suzette Heald a montré combien l'idée d'une nation d'hommes circoncis reste forte dans l'Ouganda contemporain. Le rite ouvre l'accès au mariage et à l'héritage : c'est après l'imbalu seulement qu'un fils reçoit sa part des biens de son père.\n\nLes cérémonies se tiennent un an sur deux, les années paires, que les Gisu associent à l'abondance des récoltes et à la fécondité. Le cycle, qui s'étend sur près d'une année, commence par l'annonce de sa candidature par le garçon, puis par les danses isonja et par des visites aux parents, en particulier au clan de la mère, au son des chants et des tambours. Les jours précédant l'opération, un ancien choisi pour sa bonté et sa descendance l'enduit chaque soir d'une pâte de levure de brassage (khuakha kamamela) en invoquant les ancêtres ; il est aussi couvert de l'argile d'un marais sacré, censée le mettre en communion avec l'esprit de l'imbalu. L'opération a lieu en public, dans la cour du père ou du chef de clan. Debout devant la foule, le candidat doit supporter sans broncher la coupe du prépuce par le circonciseur (umushebi) ; Heald voit dans cette épreuve, à laquelle le garçon se soumet volontairement, la production du lirima, une émotion violente dont l'homme accompli doit être capable. Viennent ensuite une période de convalescence, des rites de purification, la sortie de réclusion et la danse finale de l'inemba, du nom d'un grand tambour. La saison s'ouvre en août à Mutoto, près de Mbale, où sont d'abord circoncis les garçons du clan Bamutoto, tenu pour le plus ancien ; les élèves passent souvent en décembre, pendant les vacances scolaires.\n\nPlusieurs récits rattachent l'origine du rite à Masaba, fils de Mundu et de Seera, sortis d'un trou au sommet du mont Elgon. Masaba aurait accepté la circoncision pour épouser Nabarwa, une jeune fille kalenjin elle-même circoncise, et promis que ses descendants la pratiqueraient. Dans une version reprise par le romancier Timothy Wangusa et par Wotsuna Khamalwa, le frère de Masaba, Kundu, part vers l'ouest et devient Kintu, le fondateur du Buganda présenté dans une fiche distincte du codex. Un autre récit veut que le rite, abandonné un temps, ait été rétabli par Fuuya, du clan Bamutoto, dont les fils étaient tourmentés par l'esprit de la circoncision venu du clan de leur mère.\n\nL'imbalu a son équivalent chez les Bukusu, voisins luhya du Kenya, qui le nomment embalu et pour qui le dieu Wele est représenté dans le rite ; il se rapproche aussi de l'ulwaluko xhosa ou de l'eunoto maasai, autres rites masculins présentés dans le codex, même si les Gisu insistent sur l'épreuve publique du couteau plutôt que sur une longue réclusion. Le rite a été beaucoup étudié, par Jean La Fontaine, Victor Turner et Suzette Heald, puis plus récemment par Khamalwa et par Dominic Makwa, lui-même gisu. Toutes relèvent des transformations : circoncisions à l'hôpital, débats de santé publique liés au VIH, et cas, rapportés chaque saison par la presse, d'hommes circoncis de force.",
+  "domaines": [
+    "initiation masculine",
+    "passage à l'âge adulte",
+    "identité collective",
+    "maîtrise de soi"
+  ],
+  "tags": [
+    "initiation",
+    "ancetres"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "wele",
+      "kintu",
+      "eunoto",
+      "ukwaluko"
+    ]
+  },
+  "attributs": [
+    "couteau du circonciseur",
+    "levure de brassage (kamamela)",
+    "argile du marais sacré (litosi)",
+    "tambour inemba",
+    "orchestre kadodi"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "L'imbalu reste massivement pratiqué en pays gisu. La saison 2026 a été ouverte le 1er août au terrain culturel de Mutoto, à Mbale, par des garçons du clan Bamutoto ; le Daily Monitor annonçait environ 10 000 candidats dans l'ensemble du Bugisu.",
+  "sources": [
+    "Heald, S. (1982). The Making of Men: The Relevance of Vernacular Psychology to the Interpretation of a Gisu Ritual. Africa, 52 (1), 15-36",
+    "Heald, S. (1999). Manhood and Morality: Sex, Violence and Ritual in Gisu Society. Routledge",
+    "Khamalwa, W. (2004). Identity, Power and Culture: Imbalu Initiation Ritual among the Bamasaba of Uganda. Bayreuth African Studies",
+    "Makwa, D. (2010). Musicking and Dancing Imbalu Circumcision Rituals (Khushina Imbalu): Performing Gender among the Bagisu of Eastern Uganda. Mémoire de master, Makerere University"
+  ],
+  "notes": "Le cycle des années paires et le calendrier (août pour les non-scolarisés, décembre pour les élèves) sont tirés du mémoire de Makwa ; Heald parle de cérémonies « biennales ». Le lien entre Kundu et Kintu, fondateur du Buganda, provient d'un roman de Timothy Wangusa (1987) et de Khamalwa : c'est une tradition orale parmi d'autres, non une donnée historique. Les rôles rituels et les termes vernaculaires varient selon les régions du Bugisu (nord, centre et sud), et les orthographes diffèrent d'un auteur à l'autre. Les chiffres de la saison 2026 viennent de la presse ougandaise (Daily Monitor), non d'une source académique."
+}

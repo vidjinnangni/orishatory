@@ -1,0 +1,55 @@
+{
+  "id": "kromanti-play",
+  "nom": "Kromanti Play",
+  "variantes": [
+    "Kromanti Dance",
+    "Kromanti",
+    "Coromantee Play"
+  ],
+  "region": "diaspora",
+  "categorie": "rites",
+  "peuples": [
+    "Marrons de Jamaïque (Moore Town, Scott's Hall, Charles Town, Accompong)"
+  ],
+  "resume": "Cérémonie des Marrons de Jamaïque au cours de laquelle les ancêtres marrons prennent possession des participants pour leur venir en aide, le plus souvent afin de guérir des maux attribués aux esprits. Elle associe danses, chants, tambours et une langue rituelle d'origine akan, elle aussi appelée kromanti. La tradition marronne de Moore Town, dont elle est le fondement, figure depuis 2008 sur la liste représentative du patrimoine culturel immatériel de l'UNESCO.",
+  "description_detaillee": "Le Kromanti Play, ou Kromanti Dance, est la cérémonie centrale des Marrons de Jamaïque, descendants des Africains qui fuirent les plantations pour fonder des communautés autonomes dans les montagnes de l'île. L'UNESCO y voit le fondement même de l'identité marronne de Moore Town, dans l'est de l'île. Le nom vient de Kormantin (Coromantyn), comptoir de traite de la Côte-de-l'Or, dans l'actuel Ghana, d'où partirent de nombreux captifs de langue akan.\n\nL'anthropologue Kenneth Bilby, qui a enregistré ces cérémonies à Moore Town, Scott's Hall, Accompong et Charles Town à la fin des années 1970, les définit comme des rituels où les ancêtres marrons prennent possession des vivants et leur offrent leur aide, le plus souvent pour soigner des maladies causées par des esprits. Le spécialiste rituel, appelé fete-man (ou science-man), en est la figure centrale ; il tire son pouvoir d'un esprit personnel, le pakit. La possession se dit myal, et la personne possédée par un ancêtre masculin est appelée granfa (grandy pour un ancêtre féminin), assistée d'un kwatamassa. Bilby distingue les danses « de plaisir » (yanga), où l'on n'invoque pas les esprits, des danses « d'affaires » (nyaba), sérieuses et fermées aux étrangers. Le répertoire comprend plusieurs styles de musique et de danse, dont Jawbone, Sa Leone, Mandinga, Tambu, Prapa et Ibo, dont les noms renvoient à des origines africaines diverses.\n\nLa langue compte autant que le tambour. Selon le linguiste Mervyn Alleyne, le kromanti est très proche de l'akan (twi-asante) ; on l'emploie pour s'adresser aux premiers ancêtres, souvent nés en Afrique, tandis qu'une autre langue rituelle, le « deep patwa », sert à parler aux ancêtres plus récents nés en Jamaïque. Bilby n'y voit plus une langue pleinement fonctionnelle, mais un ensemble fragmentaire de formules, même si une minorité de Marrons sait encore en traduire beaucoup de mots et d'expressions. Le Kromanti Play entretient la mémoire de Nanny, dont les descendants se disent « true-born » Maroons. L'UNESCO signale que l'opposition des missionnaires a rendu la pratique en partie clandestine et divisé les communautés, et que l'émigration économique fragilise sa transmission. Bilby a aussi enregistré, dans les mêmes régions, la musique du kumina, pratiqué par des non-Marrons et dont un style de tambour marron est jugé proche.",
+  "domaines": [
+    "possession",
+    "guérison",
+    "ancestralité",
+    "identité marronne"
+  ],
+  "tags": [
+    "ancetres",
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "nanny-des-marrons",
+      "kumina",
+      "myal",
+      "obeah",
+      "duppy"
+    ]
+  },
+  "attributs": [
+    "tambours",
+    "langue kromanti",
+    "fete-man",
+    "pakit (esprit personnel)"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Toujours pratiqué dans les communautés marronnes, notamment à Moore Town, parfois discrètement en raison de l'hostilité religieuse ; des styles de musique et de danse du Kromanti sont présentés publiquement lors de la fête annuelle de Nanny (Nanny Day). La tradition marronne de Moore Town, proclamée chef-d'œuvre du patrimoine oral et immatériel par l'UNESCO en 2003, est inscrite sur la liste représentative depuis 2008.",
+  "sources": [
+    "Bilby, K.M. (1981). The Kromanti Dance of the Windward Maroons of Jamaica. Nieuwe West-Indische Gids, 55(1/2), 52-101",
+    "Bilby, K.M. (2005). True-Born Maroons",
+    "UNESCO (2008). Maroon Heritage of Moore Town. Liste représentative du patrimoine culturel immatériel de l'humanité",
+    "Devonish, H. (2005). Kromanti. University of the West Indies, Mona",
+    "Alleyne, M. (1988). Roots of Jamaican Culture",
+    "Library of Congress, American Folklife Center (2009). Kenneth M. Bilby Jamaican Maroon Collection (AFC 1983/008). Collection guide"
+  ],
+  "notes": "Ont été lus en entier : la notice UNESCO, le guide de la collection Bilby de la Library of Congress (avec le glossaire tiré du mémoire de Bilby, Partisan Spirits, 1979) et la note de Devonish (2005). L'article de Bilby (1981), son livre de 2005 et l'ouvrage d'Alleyne (1988) sont connus par leurs références et par ces documents. Le degré de vitalité de la langue kromanti fait débat : langue morte pour certains, langue vivante réservée aux échanges avec les ancêtres pour d'autres. Les Marrons associent le mot obeah à des pratiques extérieures et malveillantes, et préfèrent parler de « science » pour le pouvoir sur les esprits."
+}

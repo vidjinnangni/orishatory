@@ -1,0 +1,54 @@
+{
+  "id": "congo-square",
+  "nom": "Congo Square",
+  "variantes": [
+    "Place Congo",
+    "Place des Nègres",
+    "Place Publique",
+    "Circus Square",
+    "Beauregard Square"
+  ],
+  "region": "diaspora",
+  "categorie": "rites",
+  "peuples": [
+    "Africains et Afro-Créoles de La Nouvelle-Orléans (esclaves et libres de couleur)"
+  ],
+  "resume": "Place de La Nouvelle-Orléans, dans le quartier de Tremé, où des Africains réduits en esclavage et des libres de couleur se réunissaient le dimanche après-midi pour danser, jouer de la musique, chanter et commercer, du 18e siècle au milieu du 19e siècle. Ces rassemblements, encadrés par une ordonnance municipale de 1817, sont devenus un lieu de mémoire majeur de la culture afro-américaine de la ville.",
+  "description_detaillee": "Congo Square occupe aujourd'hui l'angle sud-ouest du parc Louis Armstrong, sur North Rampart Street, dans le Tremé, le plus ancien quartier afro-américain de La Nouvelle-Orléans. Sous les régimes français, espagnol puis américain, ce terrain en bordure de la ville a accueilli les rassemblements dominicaux des esclaves et des libres de couleur. Le Code noir de 1724 faisait du dimanche un jour chômé ; en 1817, une ordonnance municipale restreignit les assemblées dansantes des esclaves au dimanche après-midi et à ce seul lieu.\n\nLes participants arrivaient par centaines. L'architecte Benjamin Latrobe, de passage en février 1819, décrit cinq à six cents personnes réparties en cercles, chaque cercle autour de ses musiciens : des tambours de tailles diverses, un instrument à cordes à long manche, une sorte de racloir frappé au bâton ; les danseurs portaient des queues de petits animaux, des rubans, des clochettes et des coquillages. L'historienne Freddi Williams Evans cite parmi les danses la calinda, la bamboula, la chica (ou congo) et la juba, et parmi les instruments, outre les tambours, la banza, des hochets en calebasse, des balafons et des mâchoires d'animaux, auxquels s'ajoutèrent ensuite le violon, le triangle et le tambourin. Le marché faisait partie de la fête : on y vendait pralines, calas (beignets de riz), bière de gingembre et autres douceurs, ce qui permettait aux esclaves de gagner un peu d'argent. Les origines des participants reflètent celles de la traite vers la Louisiane : Sénégambie surtout à l'époque française, Kongo-Angola surtout à l'époque espagnole et américaine, avec des apports passés par Saint-Domingue et Cuba. Evans relie aussi ces rassemblements aux croyances qui nourrissaient le vaudou louisianais.\n\nLes danses déclinent à partir des années 1830 et 1840 sous l'effet de restrictions successives, et la place est rebaptisée Beauregard Square en 1893, du nom d'un général confédéré. Son nom populaire, Congo Square, n'est rendu officiel qu'en 2011, après une inscription au registre national des lieux historiques en 1993. La mémoire du lieu s'est construite en partie sur des récits tardifs : des écrivains comme George Washington Cable ou Lafcadio Hearn, qui n'avaient pas vu les danses, en ont donné une image exotique, et l'idée de Congo Square comme « berceau du jazz » simplifie une filiation musicale réelle mais indirecte. De même, aucun document officiel n'y place Marie Laveau, dont la présence repose sur des témoignages recueillis dans les années 1930. Le lieu reste associé dans la mémoire locale au vaudou de la ville, et accueille aujourd'hui cercles de tambours et festivals.",
+  "domaines": [
+    "musique",
+    "danse",
+    "rassemblement communautaire",
+    "mémoire de l'esclavage"
+  ],
+  "tags": [
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "marie-laveau",
+      "hoodoo-rootwork",
+      "vodou-haitien"
+    ]
+  },
+  "attributs": [
+    "tambours",
+    "banza",
+    "danses en cercle (bamboula, calinda, chica, juba)",
+    "marché dominical",
+    "Tremé"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "La place accueille des cercles de tambours le dimanche, des festivals (le premier New Orleans Jazz & Heritage Festival s'y est tenu en 1970, le Congo Square New World Rhythms Festival depuis 2007), des commémorations et des cérémonies ; elle est inscrite au registre national des lieux historiques des États-Unis depuis 1993.",
+  "sources": [
+    "Johnson, J. (1991). New Orleans's Congo Square: An Urban Setting for Early Afro-American Culture Formation. Louisiana History, 32(2), 117-157",
+    "Evans, F.W. (2011). Congo Square: African Roots in New Orleans",
+    "Evans, F.W. (s.d.). Congo Square. 64 Parishes, Louisiana Endowment for the Humanities",
+    "Long, C.M. (2006). A New Orleans Voudou Priestess: The Legend and Reality of Marie Laveau",
+    "Majewski, A. & Mason, K. (s.d.). Congo Square: Mythology and Music. New Orleans Historical, University of New Orleans"
+  ],
+  "notes": "La notice d'Evans dans l'encyclopédie 64 Parishes et les deux notices de New Orleans Historical ont été lues ; l'article de Johnson (1991) et le livre d'Evans (2011) ne sont connus que par leurs références et leurs résumés. La citation de Latrobe (« five or six hundred persons ») est reprise de sources secondaires. La date de fin des danses varie selon les auteurs : arrêt de la musique dominicale en 1835 selon New Orleans Historical, 1838 selon d'autres, nouvelles restrictions en 1851 et interdiction des tambours et cuivres pour les personnes d'ascendance africaine en 1856. La présence de Marie Laveau à Congo Square n'est attestée que par des entretiens de la Works Progress Administration (années 1930)."
+}

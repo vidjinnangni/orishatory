@@ -1,0 +1,46 @@
+{
+  "id": "andrianampoinimerina",
+  "nom": "Andrianampoinimerina",
+  "variantes": [],
+  "region": "afrique-est",
+  "categorie": "heros",
+  "peuples": [
+    "Merina"
+  ],
+  "resume": "Andrianampoinimerina est le souverain qui, à la fin du XVIIIe siècle, réunifia l'Imerina, sur les hautes terres centrales de Madagascar, après des décennies de guerres entre principautés. Parti d'Ambohimanga, il s'imposa comme le seul médiateur entre ses sujets et leurs ancêtres et organisa le culte royal autour de douze ancêtres royaux, de douze montagnes sacrées et des sampy, talismans protecteurs du royaume. Il mourut en 1810, laissant le trône à son fils Radama Ier.",
+  "description_detaillee": "Les historiens tiennent Andrianampoinimerina pour le fondateur de l'État merina, qui domina ensuite la plus grande partie de Madagascar. La tradition le place après Andriamasinavalona, qui aurait unifié les petits royaumes du nord des hautes terres puis partagé son domaine entre ses fils, ouvrant une période de guerres civiles. Prince d'Ambohimanga, il prit un nom qui signifie à peu près « le désir de l'Imerina ». Gerald Berg situe entre 1775 et 1810 la construction de son pouvoir, et en 1783 sa première prise du pouvoir durable à Ambohimanga ; on date généralement son règne de 1787 à 1810.\n\nBerg explique sa réussite moins par les fusils, les esclaves ou le riz irrigué, que d'autres possédaient aussi, que par son habileté dans la politique de parenté : enrichi par le commerce avec la côte est, il élargit son groupe et devint le seul intermédiaire entre les habitants d'Ambohimanga et leurs ancêtres. Pour David Graeber, c'est lui qui semble avoir mis en système le culte royal décrit dans les Tantara ny Andriana, les histoires des rois recueillies au XIXe siècle par le père Callet : douze ancêtres royaux, douze montagnes sacrées portant chacune un tombeau royal, douze talismans nationaux. Ces sampy, charmes politiques qui protégeaient des groupes de plus en plus larges jusqu'au royaume entier, avaient leurs gardiens, qui comptaient parmi les principaux « nourriciers » (mpitaiza) du roi. Andrianampoinimerina mobilisa aussi la corvée royale (fanompoana) pour assécher les marais autour de la capitale et les mettre en rizières ; les traditions lui prêtent la formule « moi et le riz, nous sommes une même chose ». Il s'empara d'Antananarivo au terme d'une guerre de plus de dix ans contre le roi Andrianamboatsimarofy, et affirmait vouloir étendre son autorité à l'île entière.\n\nGraeber rappelle combien sa figure est difficile à évaluer. Dans les années 1860, quand ses hauts faits furent mis par écrit, il était déjà le modèle du vieux roi sage. Des sources plus anciennes montrent un souverain soucieux de la prospérité de ses sujets, mais aussi responsable de massacres et de l'usage massif de l'ordalie du poison (tangena), dont certains se souvenaient comme d'un usurpateur allié aux marchands d'esclaves. Après lui, sous Radama, Berg décrit le roi au centre du flux de bénédiction (hasina) qui descend des ancêtres collectifs vers les vivants. La colline royale d'Ambohimanga, berceau de la dynastie, est restée un lieu de culte. Le codex présente ailleurs le famadihana, rite des hautes terres autour des tombeaux familiaux, et Zanahary, le créateur de la cosmologie malgache.",
+  "domaines": [
+    "royauté",
+    "ancêtres royaux",
+    "unification politique",
+    "riziculture"
+  ],
+  "tags": [
+    "royaute-sacree",
+    "ancetres"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "famadihana",
+      "zanahary"
+    ]
+  },
+  "attributs": [
+    "sampy (talismans royaux)",
+    "douze montagnes sacrées",
+    "colline royale d'Ambohimanga",
+    "rizières conquises sur les marais"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "La colline royale d'Ambohimanga, inscrite au patrimoine mondial de l'UNESCO en 2001, reste un lieu de culte des rois et des ancêtres et de pèlerinage ; les restes des souverains, retirés par les autorités coloniales en 1897, y ont été replacés et les cases des tombeaux reconstruites en 2008. Graeber, qui enquêtait dans les années 1990, signale qu'Andrianampoinimerina est encore un important esprit guérisseur.",
+  "sources": [
+    "Berg, G.M. (1988). Sacred Acquisition: Andrianampoinimerina at Ambohimanga, 1777-1790, Journal of African History, 29 (2)",
+    "Graeber, D. (2017). The People as Nursemaids of the King: Notes on Monarchs as Children, Women's Uprisings, and the Return of the Ancestral Dead in Central Madagascar, in Graeber, D. et Sahlins, M., On Kings",
+    "Berg, G.M. (1998). Radama's Smile: Domestic Challenges to Royal Ideology in Early Nineteenth-Century Imerina, History in Africa, 25",
+    "UNESCO (2001). Colline royale d'Ambohimanga, Liste du patrimoine mondial, bien n° 950"
+  ],
+  "notes": "Les dates diffèrent : 1787-1810 dans la liste canonique reprise par Graeber, 1783 pour la prise d'Ambohimanga chez Berg, dont seul le résumé a été lu. Le nom de naissance Ramboasalama, la prise d'Antananarivo en 1793 ou 1794, la date de mort du 6 juillet 1810 et la formule « la mer est la limite de ma rizière » (ny ranomasina no valam-parihiko) ne sont connus ici que par Wikipédia et des sites non académiques. Le rôle du roi dans l'organisation des sampy repose sur Graeber, qui écrit qu'il « semble » avoir systématisé ce culte. L'idéalisation du roi dans les Tantara ny Andriana invite à lire avec prudence les traditions qui le concernent."
+}

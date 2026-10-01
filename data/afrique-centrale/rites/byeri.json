@@ -1,0 +1,53 @@
+{
+  "id": "byeri",
+  "nom": "Byeri",
+  "variantes": [
+    "Bieri",
+    "Byéri",
+    "Melan"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "rites",
+  "peuples": [
+    "Fang"
+  ],
+  "resume": "Le byeri est le culte des ancêtres des Fang (Gabon, Guinée équatoriale, sud du Cameroun), fondé sur la conservation des crânes des ancêtres du lignage dans des boîtes en écorce. Ces reliquaires étaient surmontés d'une tête ou d'une statuette en bois, l'eyima byeri, qui tenait à l'écart les femmes et les non-initiés. Pourchassé à l'époque coloniale et décrit comme disparu dans les années 1930, il aurait survécu sous des formes plus discrètes.",
+  "description_detaillee": "Chez les Fang, le byeri (ou bieri) désignait à la fois le culte des ancêtres, ses rites et ses objets. Il était l'affaire du lignage : les crânes des pères, et parfois de femmes qui avaient beaucoup donné à la famille, étaient conservés dans un cylindre d'écorce, le nsekh byeri, gardé dans la case du chef de famille. Selon l'anthropologue James Fernandez, qui a enquêté chez les Fang du nord du Gabon entre 1958 et 1960, chaque reliquaire contenait en moyenne huit à dix crânes réunis sur plusieurs générations, et il se partageait quand le lignage se divisait. Le culte compte parce qu'il était au cœur de l'organisation sociale fang, une société sans pouvoir centralisé, et parce que les sculptures qui le servaient sont parmi les œuvres africaines les plus connues des musées occidentaux.\n\nLe but du culte était d'assurer la protection bienveillante des morts sur le lignage et le village. On initiait surtout de jeunes hommes mariés, qui allaient avoir des enfants à placer sous la garde des ancêtres. L'initiation se faisait dans un enclos en forêt : le novice absorbait l'écorce râpée de l'alan (Alchornea floribunda), une plante psychoactive, jusqu'à « mourir », c'est-à-dire perdre connaissance, pendant qu'on chantait autour de lui des chants funèbres. Revenu à lui, il recevait des rêves que les membres interprétaient, puis on lui montrait les crânes, alignés sur des troncs de bananier, après les avoir lavés dans le sang des animaux sacrifiés. Les figures sculptées, têtes seules ou personnages assis, étaient appelées eyima byeri ou « enfant du remède » (mwan biang). Le savant allemand Günther Tessmann, qui observa le culte vers 1907-1909, écrit qu'elles ne représentaient personne en particulier et servaient à décourager les curieux ; Fernandez insiste sur la façon dont elles associent la gravité de l'âge et les proportions d'un nourrisson. Le pouvoir résidait dans les crânes, que l'on ne pouvait regarder sans initiation, et non dans la statue.\n\nLe culte a été combattu par l'administration coloniale française et par les missions. Pour éviter la saisie des reliques, des fragments de crâne furent cachés dans les statuettes elles-mêmes, et les crânes passèrent dans des reliquaires individuels, ce que Fernandez lit comme un glissement du bien commun du lignage vers des usages privés. Il considère que le culte s'était largement effondré avant la Seconde Guerre mondiale, et que le bwiti, qui en reprend certains éléments, s'est développé en réponse à ce vide (voir la fiche bwiti). Le ngil, l'association fang de lutte contre la sorcellerie, intervenait entre villages et clans, alors que le byeri restait l'affaire du lignage ; un informateur de Fernandez opposait le byeri, qui « vient doucement », au ngil, qui arrive avec violence. Les historiens de l'art, à la suite de Louis Perrois, distinguent plusieurs styles régionaux de figures, et débattent de l'ancienneté respective des têtes et des statuettes en pied.",
+  "domaines": [
+    "culte des ancêtres",
+    "protection du lignage",
+    "fertilité"
+  ],
+  "tags": [
+    "ancetres",
+    "initiation"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "ngil",
+      "bwiti",
+      "nzame",
+      "mebeghe",
+      "mwiri"
+    ]
+  },
+  "attributs": [
+    "boîte reliquaire en écorce (nsekh byeri)",
+    "crânes des ancêtres",
+    "statuette ou tête gardienne (eyima byeri)",
+    "alan (Alchornea floribunda)",
+    "poudre rouge de padouk"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "L'ethnobotaniste Giorgio Samorini affirme en 2002-2003, d'après ses enquêtes au Gabon et les travaux de Nguema-Obam (1983) et de Swiderski, que le culte n'a pas disparu : il se serait maintenu sous une forme privée et simplifiée, avec un regain dans les années 1980 chez les Fang du Moyen-Ogooué et de l'Estuaire. Ces indications n'ont pas été recoupées par d'autres sources.",
+  "sources": [
+    "Fernandez, J.W. (1982). Bwiti: An Ethnography of the Religious Imagination in Africa (chapitre 10)",
+    "Fernandez, J.W. & Fernandez, R.L. (1975). Fang Reliquary Art: Its Quantities and Qualities. Cahiers d'études africaines, 15(60)",
+    "Perrois, L. (1992). Byeri fang : sculptures d'ancêtres en Afrique",
+    "Samorini, G. (2002-2003). Il culto Byeri degli antenati e la pianta psicoattiva alan (Alchornea floribunda) fra i Fang dell'Africa equatoriale occidentale. Eleusis, nouvelle série, 6-7"
+  ],
+  "notes": "Tessmann (Die Pangwe, 1913) estimait que les têtes étaient les formes les plus anciennes, les demi-figures et les statuettes en pied venant ensuite ; Perrois pense au contraire que les deux types ont coexisté dès l'origine. Ces deux positions sont connues ici par la citation qu'en donne Samorini, pas par la lecture directe de Tessmann et de Perrois. Le nombre de crânes par reliquaire varie selon les auteurs : huit à dix en moyenne chez Fernandez, quinze à vingt pour quelques grands chefs au début du XXe siècle et quatre ou cinq pour les autres selon Samorini. L'idée que les figures auraient, en elles-mêmes, été adorées est jugée par Fernandez comme une projection européenne. L'article de Fernandez et Fernandez (1975) n'a été consulté que par son premier feuillet, et le catalogue de Perrois (1992) n'a pas été consulté directement. La plante de l'initiation s'appelle alan (pluriel melan) ; Fernandez nomme malan les rites eux-mêmes (« manger le malan »), et certaines sources parlent de cérémonies melan pour désigner l'initiation au byeri."
+}

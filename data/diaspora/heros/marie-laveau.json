@@ -21,7 +21,9 @@
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": []
+    "entites_liees": [
+      "congo-square"
+    ]
   },
   "attributs": [
     "tombeau visité au cimetière Saint-Louis n°1, réputé exaucer les vœux"

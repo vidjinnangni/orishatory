@@ -1,0 +1,47 @@
+{
+  "id": "mbega",
+  "nom": "Mbega",
+  "variantes": [
+    "Mbegha"
+  ],
+  "region": "afrique-est",
+  "categorie": "heros",
+  "peuples": [
+    "Shambaa (monts Usambara, Tanzanie)"
+  ],
+  "resume": "Mbega, ou Mbegha, est le héros fondateur du royaume shambaa, dans les monts Usambara du nord-est de la Tanzanie, et l'ancêtre de la dynastie royale kilindi. Selon le plus célèbre des récits shambaa, ce chasseur chassé de son pays fut accueilli par les Shambaa, dont il tua les sangliers et un lion, reçut des épouses et devint roi à Vugha. L'historien Steven Feierman a montré que ce récit est aussi une réflexion sur la nature du pouvoir royal.",
+  "description_detaillee": "Le royaume shambaa, dans les monts Usambara (le Shambaai), fut gouverné par la dynastie kilindi, qui se dit issue de Mbega. Son histoire est le plus connu des récits shambaa, et l'on en a recueilli plus de vingt-six versions. Dans The Shambaa Kingdom (1974), Steven Feierman en fait « à la fois le modèle intellectuel et le modèle moral du royaume » : il dit comment le royaume devrait fonctionner et comment il fonctionne en temps de malheur. Feierman a aussi montré, selon le compte rendu d'Isaria Kimambo, que le récit existait avant Mbega et que des événements historiques y furent intégrés après coup.\n\nMbega vient des collines de Ngulu, au sud du Shambaai. Il y est privé de son héritage : enfant, il a percé d'abord ses dents du haut, et l'on tient sa présence pour responsable de la mort de ses parents. Devenu chasseur, il se lie par le sang avec le fils d'un chef du Kilindi, qui meurt accidentellement au cours d'une chasse ; Mbega doit fuir de nouveau. Il gagne le Shambaai et vit en marge, dans des grottes et des campements, chassant les sangliers qui ravagent les cultures. Les habitants, à qui il offre la viande, apprécient le chasseur, l'arbitre et le conteur. Il tue un lion qui menaçait un village, et l'on dit alors, selon une version citée par Marshall Sahlins : « Cet homme a tué un lion, cet homme est un lion. » Vugha et Bumbuli, deux régions peuplées qui refusaient de se soumettre l'une à l'autre, s'allient chacune à ce puissant étranger. On lui donne des épouses ; il devient roi à Vugha, et son fils Buge, d'abord chef de Bumbuli, lui succède.\n\nFeierman lit dans ce récit une théorie de la royauté. Le roi shambaa est un faiseur de pluie, et la tradition fait remonter la magie de la pluie à Mbega : pour rendre la terre fertile, le magicien doit la posséder tout entière, si bien que le roi-lion qui « mange » la richesse du pays est aussi celui qui la fait croître. Le chasseur sauvage se transforme, une fois le Shambaai devenu son bien, en dispensateur de vie. Sahlins range Mbega parmi les rois étrangers d'Afrique, venus d'ailleurs et acceptés par les habitants : il s'impose par des dons de viande et par des alliances matrimoniales plus que par la conquête, et les gens du commun affirmaient que leurs ancêtres avaient eux-mêmes demandé des chefs. Feierman soutient de son côté que la royauté kilindi exaltait la culture shambaa plus qu'elle ne l'effaçait. Le royaume connut son extension maximale sous Kimweri ye Nyumbai, mort en 1862, avant de se fragmenter sous l'effet du commerce caravanier. L'ouvrage où Sahlins analyse Mbega consacre aussi un chapitre à Nyikang, le fondateur de la royauté shilluk.",
+  "domaines": [
+    "royauté",
+    "chasse",
+    "pluie et fertilité",
+    "fondation dynastique"
+  ],
+  "tags": [
+    "royaute-sacree",
+    "terre-fertilite"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "nyikang"
+    ]
+  },
+  "attributs": [
+    "sanglier (chasse et don de viande)",
+    "lion",
+    "magie de la pluie",
+    "Vugha, capitale royale"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Feierman, S. (1974). The Shambaa Kingdom: A History",
+    "Kimambo, I.N. (1976). Compte rendu de S. Feierman, The Shambaa Kingdom: A History, Utafiti, 1 (2)",
+    "Sahlins, M. (2017). The Atemporal Dimensions of History: In the Old Kongo Kingdom, for Example, in Graeber, D. et Sahlins, M., On Kings",
+    "Shambaa (s.d.). Worldmark Encyclopedia of Cultures and Daily Life (via encyclopedia.com)"
+  ],
+  "notes": "Le livre de Feierman n'a pas été consulté directement : son contenu est connu par le compte rendu de Kimambo, par les citations de Sahlins et par la notice de la Worldmark Encyclopedia. Les versions divergent sur l'origine du héros : Sahlins, d'après Edgar Winans (Shambala, 1962), en fait le fils déshérité du roi du Kilindi, alors que les autres résumés le font venir de Ngulu et ne passer au Kilindi qu'en exil. La datation (Mbega est souvent placé au début du XVIIIe siècle) et le surnom de Simbe Mwene, « roi lion », ne sont connus ici que par Wikipédia. Le mot Kilindi désigne à la fois un lieu et la dynastie."
+}

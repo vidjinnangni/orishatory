@@ -25,9 +25,12 @@
   "genealogie": {
     "parents": [],
     "conjoints": [],
-    "enfants": [],
+    "enfants": [
+      "menelik-ier"
+    ],
     "entites_liees": [
-      "gudit"
+      "gudit",
+      "lalibela"
     ]
   },
   "attributs": [

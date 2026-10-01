@@ -1,0 +1,55 @@
+{
+  "id": "duppy",
+  "nom": "Duppy",
+  "variantes": [
+    "Duffy",
+    "Dopi",
+    "Jumbie (Petites Antilles)"
+  ],
+  "region": "diaspora",
+  "categorie": "creatures",
+  "peuples": [
+    "Jamaïcains",
+    "Caribéens anglophones (Bahamas, Barbade)"
+  ],
+  "resume": "Esprit d'un mort dans les croyances de la Jamaïque et d'autres îles anglophones de la Caraïbe. Le duppy reste près de la tombe et des lieux familiers, apparaît la nuit sous forme humaine ou animale et peut nuire aux vivants, surtout lorsqu'un praticien d'obeah l'a « posé » sur quelqu'un. Le mot est généralement rattaché à des langues d'Afrique de l'Ouest, l'akan ou le ga.",
+  "description_detaillee": "En Jamaïque, le duppy est l'esprit d'un mort qui continue de hanter le monde des vivants. Le mot sert au singulier comme au pluriel ; dans les Petites Antilles, on parle plutôt de jumbie. Ces croyances comptent parce qu'elles organisent une bonne partie des gestes qui entourent la mort, de la veillée des neuf nuits aux précautions quotidiennes, et parce qu'elles sont au cœur de ce que l'on attend de l'obeah.\n\nMartha Warren Beckwith, qui enquêtait dans les campagnes jamaïcaines dans les années 1920, rapporte que le duppy n'est ni l'âme, qui monte au ciel, ni le corps, qui retourne à la terre, mais l'« ombre » du défunt, restée près de la tombe. Selon certains de ses informateurs, chaque personne est accompagnée de deux esprits, l'un bon et l'autre « trickify », et c'est ce second qui demeure au cimetière après la mort. Le mort se relève dans les jours qui suivent l'enterrement et revient dans sa maison jusqu'à la neuvième nuit, d'où la veillée du nine night. Les duppies vivent entre les racines des fromagers et dans les touffes de bambous, sortent de sept heures du soir à cinq heures du matin et à midi, parlent d'une voix de fausset et ne touchent pas le sol en marchant. Ils peuvent aussi prendre forme animale, et certains duppies particulièrement dangereux ont leur propre nom, comme le rolling calf, le cheval à trois pattes (Three-foot Horse) ou Long-bubby Susan. Pour s'en protéger, on porte un ruban noir au cou, on brûle des herbes odorantes, on répand du riz ou du sable devant la porte (le duppy doit compter les grains) ou l'on retourne sa veste.\n\nUn duppy ne nuit vraiment, disaient les informateurs de Beckwith, que s'il a été « posé » sur quelqu'un : l'obeah man passe pour savoir tirer l'ombre d'un mort de sa tombe et l'envoyer contre une victime, et d'autres spécialistes pour « retirer » ce qu'un rival a posé. C'est ce même langage de l'ombre captée que l'on retrouve dans le mouvement myal de 1841. L'origine du mot reste débattue : un rapprochement avec le ga adópé et d'autres termes akan est le plus souvent cité, mais Beckwith jugeait déjà fantaisistes certaines étymologies proposées avant elle, et la question n'est pas tranchée.",
+  "domaines": [
+    "morts",
+    "nuit",
+    "maléfice",
+    "protection"
+  ],
+  "tags": [
+    "mort-au-dela",
+    "ancetres",
+    "metamorphose",
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "nine-night",
+      "rolling-calf",
+      "obeah",
+      "myal"
+    ]
+  },
+  "attributs": [
+    "fromager (cotton tree)",
+    "touffes de bambous",
+    "ombre du défunt",
+    "ruban noir de protection",
+    "grains de riz à compter"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "La croyance aux duppies reste vivante en Jamaïque et dans sa diaspora, où elle informe les veillées funéraires comme le nine night et nourrit une abondante tradition de récits, de proverbes et de chansons ; le mot est passé dans l'argot londonien contemporain. Le duppy n'est pas l'objet d'un culte ; Beckwith notait dans les années 1920 qu'on laissait de l'eau ou du punch aux esprits de la famille, et un peu de rhum est encore versé au sol lors des veillées.",
+  "sources": [
+    "Beckwith, M.W. (1929). Black Roadways: A Study of Jamaican Folk Life",
+    "Leach, M. (1961). Jamaican Duppy Lore. The Journal of American Folklore, 74(293), 207-215",
+    "Farquharson, J.T. (2012). The African Lexis in Jamaican: Its Linguistic and Sociohistorical Significance"
+  ],
+  "notes": "Seul l'ouvrage de Beckwith (1929) a été lu directement (chapitre « The Spirit World ») ; l'article de Leach et la thèse de Farquharson sont connus par leurs références et par des résumés secondaires. L'étymologie par le ga adópé (« nain », les esprits étant décrits comme de petite taille) est rapportée d'après Farquharson par Wikipédia ; une autre hypothèse, qui rattache le mot à un rite akan du neuvième jour, n'apparaît que dans des sources non académiques et n'est pas vérifiée. Les croyances varient d'un informateur à l'autre : Beckwith signale des divergences sur le moment où le mort se relève (troisième jour, neuvième nuit, quarante jours chez les adventistes)."
+}

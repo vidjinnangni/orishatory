@@ -1,0 +1,55 @@
+{
+  "id": "menelik-ier",
+  "nom": "Ménélik Ier",
+  "variantes": [
+    "Menelik I",
+    "Menyelek",
+    "Bayna-Lehkem",
+    "Ebna Hakim",
+    "David (nom de règne dans le Kebra Nagast)"
+  ],
+  "region": "afrique-est",
+  "categorie": "heros",
+  "peuples": [
+    "Éthiopiens (Amhara, Tigréens)",
+    "Érythréens"
+  ],
+  "resume": "Ménélik Ier est, selon le Kebra Nagast, le fils du roi Salomon et de la reine de Saba, appelée Makeda, et le premier roi de la lignée dite salomonide d'Éthiopie. Le texte, compilé au XIVe siècle, raconte qu'il revint de Jérusalem avec l'Arche d'alliance. Aucune source ancienne n'atteste son existence : il appartient à la tradition dynastique et religieuse, que la constitution impériale de 1931 invoquait encore.",
+  "description_detaillee": "Dans la tradition éthiopienne, Ménélik Ier est le fondateur : c'est par lui que les rois chrétiens d'Éthiopie se disaient descendants de Salomon, donc de la maison de David. On le connaît surtout par le Kebra Nagast, « la Gloire des rois », compilé en ge'ez dans les premières années du règne d'Amda Seyon (1314-1344) selon l'historien Taddesse Tamrat. Le texte l'appelle d'abord Bayna-Lehkem, nom que son traducteur Wallis Budge rapproche de l'arabe Ibn al-Hakim, « le fils du sage » ; à Jérusalem, il reçoit en étant oint le nom de David, celui de son grand-père.\n\nLe récit le fait naître neuf mois et cinq jours après que sa mère a quitté Salomon, pendant le voyage du retour. À douze ans, il interroge Makeda sur son père ; dix ans plus tard, rien ne peut le retenir, et elle l'envoie à Jérusalem avec Tamrin, son vieux chef de caravanes, en lui confiant l'anneau que Salomon lui avait donné. À Gaza, on le prend pour Salomon lui-même, tant il lui ressemble, et le roi le reconnaît sans avoir besoin de l'anneau. Salomon lui offre le royaume d'Israël ; le jeune homme refuse, car il a juré sur les seins de sa mère de revenir vite. Le roi le fait alors oindre roi d'Éthiopie dans le Saint des saints par le prêtre Sadoq et lui donne pour compagnons les fils aînés des grands d'Israël. L'un d'eux, Azarias, fils de Sadoq, fait fabriquer une caisse de même taille que l'Arche et la substitue à celle-ci avec l'aide d'un ange ; Ménélik est dans la confidence. L'archange Michel porte ensuite la caravane au-dessus du sol jusqu'en Éthiopie. Makeda abdique en sa faveur le troisième jour et fait jurer aux nobles que seuls les descendants mâles de son fils régneront ; le nouveau roi part en campagne avec l'Arche en tête de son armée.\n\nLes historiens n'y voient pas un souvenir de l'Antiquité. Taddesse Tamrat montre que la tradition d'une origine israélite de l'État éthiopien circulait déjà avant la compilation du texte, et qu'elle servit les rois qui, depuis Yekouno Amlak en 1270, se disaient « salomonides » contre la dynastie zagwé. Une note de copiste du Kebra Nagast rapporte même qu'une version arabe, apparue en 1225 sous le règne de Lalibela, ne fut pas traduite parce que le livre déclarait transgresseurs de la Loi les rois qui n'étaient pas israélites. L'hagiographie de Lalibela, rédigée après 1270, fait d'ailleurs souhaiter à ce roi zagwé que la royauté retourne à la « maison d'Israël ». La constitution de 1931 rattachait encore, dans son article 3, la lignée de Haïlé Sélassié à « la dynastie de Ménélik Ier, fils du roi Salomon de Jérusalem et de la reine d'Éthiopie, connue comme la reine de Saba ». Le codex présente aussi Makeda, sa mère, et Gudit, la reine que la tradition accuse d'avoir interrompu sa lignée.",
+  "domaines": [
+    "légitimité royale",
+    "fondation dynastique",
+    "Arche d'alliance"
+  ],
+  "tags": [
+    "royaute-sacree"
+  ],
+  "genealogie": {
+    "parents": [
+      "makeda"
+    ],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "gudit",
+      "lalibela"
+    ]
+  },
+  "attributs": [
+    "anneau de Salomon remis par Makeda",
+    "Arche d'alliance (Sion)",
+    "onction royale dans le Saint des saints"
+  ],
+  "recits_associes": [
+    "kebra-nagast"
+  ],
+  "culte_contemporain": "Ménélik ne reçoit pas de culte, mais la tradition qui lui fait rapporter l'Arche reste centrale pour l'Église orthodoxe éthiopienne : chaque église conserve un tabot, coffret qui en rappelle le trésor (Prouty Rosenfeld).",
+  "sources": [
+    "Budge, E.A.W. (trad.) (1922). The Queen of Sheba and Her Only Son Menyelek (traduction du Kebra Nagast)",
+    "Taddesse Tamrat (1972). Church and State in Ethiopia, 1270-1527",
+    "Prouty Rosenfeld, C. (s.d.). Makeda, Dictionary of African Christian Biography (repris de l'Encyclopaedia Africana Dictionary of African Biography)",
+    "Perruchon, J. (1892). Vie de Lalibala, roi d'Éthiopie",
+    "Empire d'Éthiopie (1931). Constitution de l'Empire d'Éthiopie, article 3"
+  ],
+  "notes": "La forme « Ebna Hakim » (Ebna-Hakim) est relevée par Perruchon ; le sens du nom Ménélik est discuté et n'est pas tranché ici. Les dates de règne parfois proposées (Xe siècle avant notre ère, par exemple 975-950 dans des listes royales du XXe siècle) proviennent de listes tardives, connues ici seulement par Wikipédia, et n'ont aucune valeur historique établie. Le récit du Kebra Nagast a été lu dans le résumé détaillé que Budge donne en introduction de sa traduction ; selon les versions (notamment arabe), c'est le fils de Salomon lui-même qui fait fabriquer la fausse Arche. Ménélik Ier ne doit pas être confondu avec Ménélik II, empereur de 1889 à 1913."
+}
