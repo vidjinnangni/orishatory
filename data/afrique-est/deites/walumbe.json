@@ -20,7 +20,9 @@
     "mort-au-dela"
   ],
   "genealogie": {
-    "parents": [],
+    "parents": [
+      "ggulu"
+    ],
     "conjoints": [],
     "enfants": [],
     "entites_liees": [
@@ -39,5 +41,5 @@
     "Ray, B.C. (1991). Myth, Ritual, and Kingship in Buganda",
     "Ray, B.C. (1987). East African Religions: Northeast Bantu Religions, in Eliade, M. (dir.), The Encyclopedia of Religion"
   ],
-  "notes": "Ggulu, son père, et Kaikuzi, son frère, n'ont pas de fiche. L'orthographe ancienne de Roscoe (Gulu, Nambi, Tanda) diffère de l'orthographe luganda actuelle (Ggulu, Nnambi, Ttanda). Selon les versions, la mort est imputée surtout à Nnambi ou à l'ensemble de la famille de Kintu."
+  "notes": "Kaikuzi, son frère, n'a pas de fiche ; son père Ggulu a la sienne (ggulu). L'orthographe ancienne de Roscoe (Gulu, Nambi, Tanda) diffère de l'orthographe luganda actuelle (Ggulu, Nnambi, Ttanda). Selon les versions, la mort est imputée surtout à Nnambi ou à l'ensemble de la famille de Kintu."
 }

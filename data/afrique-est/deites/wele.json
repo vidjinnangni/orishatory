@@ -1,0 +1,48 @@
+{
+  "id": "wele",
+  "nom": "Wele",
+  "variantes": [
+    "Were",
+    "Wele Khakaba",
+    "Wele omuwanga (« le Dieu blanc »)"
+  ],
+  "region": "afrique-est",
+  "categorie": "deites",
+  "peuples": [
+    "Luhya (Kenya), en particulier Bukusu (Vugusu)",
+    "Gisu (Ouganda)"
+  ],
+  "resume": "Wele, ou Were, est le dieu créateur de plusieurs peuples luhya de l'ouest du Kenya, en particulier des Bukusu, et de leurs voisins gisu. On le prie comme celui qui a fait les hommes et le bétail et qui veille sur leur prospérité. Les Bukusu l'appellent « le Dieu blanc » et l'opposent à un dieu noir, source de maladie.",
+  "description_detaillee": "Wele est le nom du dieu suprême chez les Bukusu (Vugusu dans la graphie de l'ethnologue Günter Wagner), le groupe luhya du mont Elgon, et, selon Wagner, chez les Gisu, les Wanga, les Kabras et d'autres voisins. Chez les Luhya méridionaux comme les Logoli, fortement christianisés plus tôt, Wagner ne parvenait pas dans les années 1930 à retrouver avec certitude l'ancien nom de Dieu : on y employait Nyasai, que le premier missionnaire de la région tenait pour un terme introduit par les missions. C'est donc surtout à travers les Bukusu que l'on connaît Wele.\n\nWagner ne trouve pas de véritable mythe de création, mais une formule de prière constante : « Wele, toi qui nous as faits pour que nous marchions sur ta terre, toi qui as fait le bétail et les choses qui sont dessus. » On disait aussi que Wele, après avoir créé les hommes, avait déclaré : « C'est moi qui ai fait les gens ; celui que j'aime grandira, celui que je refuse mourra. » Le premier homme se nommait Umugoma, la première femme Malava. Wele n'est pas un dieu retiré : on souhaite au voyageur que Wele le protège, on attribue à Wele les bonnes surprises, et on lui offre de la viande lors des sacrifices faits aux ancêtres. Il vit « en haut » mais pénètre partout comme l'air ou la fumée ; il est masculin et blanc, et « celui qui voit Wele meurt ». Le soleil n'est pas Wele, qui l'a créé, même si la prière du matin, faite en crachant vers l'est puis vers l'ouest, lui est adressée à l'aube.\n\nLe nom désigne en fait toute une série d'êtres. Au-dessus des autres se tient Wele omuwanga, le Dieu blanc, unique ; en face, wele gumali, le dieu noir ou mauvais, présenté selon les versions comme son jumeau cadet ou comme une de ses créatures, chassé dans la brousse et les grottes d'où il envoie la maladie. Quand un malade perd connaissance puis se rétablit, on dit que les deux se sont battus et que le Dieu blanc l'a emporté. Soixante ans après Wagner, l'anthropologue Stevie Nangendo recueille chez les Bukusu le nom de Wele Khakaba, le créateur, et deux récits d'origine : l'union du ciel et de l'argile aux carrières de glaise (biumbwa), ou le mélange d'une poussière de l'étoile du matin avec cette argile. Les carrières sont restées des lieux sacrés, et les potières comme les rites de circoncision rejouent cette création : celui qui enduit de boue le jeune initié figure Wele Khakaba. Le rapport entre Wele et Nyasaye, le nom luo de Dieu repris dans plusieurs parlers luhya, reste discuté ; Wagner lui-même laissait ouverte la question de l'ancienneté de Nyasai chez les Logoli.",
+  "domaines": [
+    "création",
+    "prospérité",
+    "protection",
+    "vie et mort"
+  ],
+  "tags": [
+    "creation",
+    "jumeaux"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "nyasaye"
+    ]
+  },
+  "attributs": [
+    "couleur blanche",
+    "ciel (« en haut »)",
+    "carrières d'argile (biumbwa)",
+    "prière de l'aube"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Chez les Bukusu, Nangendo relevait dans les années 1990 que les carrières d'argile restaient associées à la création par Wele Khakaba et que le rite de circoncision (embalu) conservait un geste qui représente le dieu façonnant l'homme.",
+  "sources": [
+    "Wagner, G. (1949). The Bantu of North Kavirondo, vol. 1",
+    "Nangendo, S.M. (1996). Pottery Taboos and Symbolism in Bukusu Society, Western Kenya, African Study Monographs, 17 (2)"
+  ],
+  "notes": "Wagner insiste sur le fait que la clarté des idées sur Dieu variait beaucoup d'un groupe luhya à l'autre, selon l'ancienneté de la présence missionnaire. Il cite aussi le père Stam (1910), selon qui les Bantous du Kavirondo appelaient Dieu Nasaye ; les deux noms ont donc coexisté dans les sources dès le début du XXe siècle. Le mouvement Dini ya Msambwa, fondé par le Bukusu Elijah Masinde dans les années 1940, aurait invoqué Wele ; cette information ne repose ici que sur des sources non académiques."
+}

@@ -1,0 +1,53 @@
+{
+  "id": "litaolane",
+  "nom": "Litaolane",
+  "variantes": [
+    "Ditaolane",
+    "Moshanyana oa Senkatana",
+    "Senkatana",
+    "Moshanyana"
+  ],
+  "region": "afrique-australe",
+  "categorie": "heros",
+  "peuples": [
+    "Basotho"
+  ],
+  "resume": "Héros d'un récit basotho, né d'une femme restée seule après qu'un monstre a avalé tous les êtres vivants, et devenu adulte dans l'instant même de sa naissance. Il tue la bête, libère les gens et les troupeaux enfermés dans son ventre, puis devient la cible de ceux qu'il a sauvés. Publié dès 1841 par le missionnaire Eugène Casalis, le récit a été repris par Édouard Jacottet et adapté au théâtre en 1952 par S. M. Mofokeng sous le titre Senkatana.",
+  "description_detaillee": "Litaolane est le jeune libérateur d'un récit que les Basotho, au Lesotho et dans les régions voisines d'Afrique du Sud, racontaient au 19e siècle et qui compte parmi les premiers contes bantous publiés en Europe. Son nom, dans la version d'Eugène Casalis, vient du collier d'osselets divinatoires (litaola) qu'il portait au cou en venant au monde ; sa mère l'appelle pour cette raison « le Devin ». Les versions recueillies plus tard le nomment plutôt Moshanyana oa Senkatana, « le petit garçon », et Senkatana a fini par devenir un nom propre.\n\nLe récit s'ouvre sur une catastrophe : un monstre immense, Kammapa ou Kholumolumo selon les versions (voir Khodumodumo), a englouti les hommes, et dans la version de Jacottet le bétail, les chiens et les poules. Une femme enceinte lui échappe en se couvrant de cendres et en se cachant dans un enclos à veaux, où la bête la prend pour une pierre. Elle accouche, sort chercher de la bouse sèche pour coucher l'enfant et trouve à son retour un homme fait, vêtu et armé de lances, qui lui demande où sont passés les gens. Chez Casalis, il se laisse avaler et déchire les entrailles du monstre de l'intérieur avec un couteau ; chez Jacottet, il le contourne, le transperce de ses lances, puis ouvre son ventre en s'y reprenant plusieurs fois parce qu'un homme, une vache, un chien et une poule crient sous la lame. Les rescapés le proclament chef, puis se mettent à le craindre : on creuse sous son siège une fosse dissimulée, on veut le jeter au feu, le pousser dans un précipice, l'enfermer dans une caverne au cours d'une chasse et y allumer un brasier. Il déjoue chaque piège, et ce sont ses adversaires qui tombent à sa place. La première version de Jacottet le montre finalement se laisser tuer, et son cœur s'échappe de son corps sous la forme d'un oiseau. Chez Casalis, il se change en pierre au bord d'une rivière ; un poursuivant lance la pierre sur l'autre rive, où elle redevient homme. Une seconde version recueillie par Jacottet ajoute un bœuf magique, Tololi-phatšoa, qui avertit le héros des complots, ressuscite après avoir été mangé et lui révèle que sa propre mère a empoisonné son pain ; c'est le père qui le mange et qui meurt.\n\nLe récit a été lu très tôt à la lumière du christianisme. Casalis se demandait s'il gardait le souvenir confus de la rédemption, relevait la conception sans père, la naissance dans une étable et la persécution du sauveur, tout en notant que ses informateurs ne savaient pas l'expliquer. Alice Werner rapporte que Thomas Mofolo l'a intégré à son roman Moeti oa Bochabela comme l'annonce lointaine d'un rédempteur, et Chris Dunton souligne les parallèles avec le Christ dans la pièce de Mofokeng. Jacottet, lui, rapprochait plutôt l'enfant qui grandit d'un coup et que les siens jalousent d'autres héros bantous : uHlakanyana chez les Zulu, Sudika-Mbambi dans un conte d'Angola, Nwamubia chez les Ronga. Werner compare la mort volontaire du héros à celle que la tradition prête à Chaminuka chez les Shona. Ces rapprochements, chrétiens ou comparatistes, sont ceux des éditeurs et ne disent pas comment les conteurs basotho comprenaient eux-mêmes l'histoire.",
+  "domaines": [
+    "délivrance",
+    "naissance prodigieuse",
+    "ingratitude du groupe"
+  ],
+  "tags": [
+    "metamorphose",
+    "divination"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "khodumodumo",
+      "hlakanyana",
+      "chaminuka",
+      "moshoeshoe-i"
+    ]
+  },
+  "attributs": [
+    "collier d'osselets divinatoires",
+    "lances",
+    "couteau",
+    "bœuf Tololi-phatšoa (seconde version de Jacottet)"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Le récit n'est pas l'objet d'un culte. Il reste présent dans la littérature en sesotho grâce à la pièce Senkatana de Sophonia Machabe Mofokeng (1952), considérée comme un classique et rééditée par Wits University Press avec une introduction de Mike Mahase.",
+  "sources": [
+    "Casalis, E. (1859). Les Bassoutos, ou vingt-trois années de séjour et d'observations au sud de l'Afrique. Paris, Meyrueis (« Kammapa et Litaolané », p. 363-365 ; première publication dans les Études sur la langue séchuana, 1841)",
+    "Jacottet, E. (1908). The Treasury of Ba-Suto Lore, vol. 1. Morija, Sesuto Book Depot (contes XI et XII, « Moshanyana oa Senkatana »)",
+    "Werner, A. (1933). Myths and Legends of the Bantu. Londres, Harrap (chapitre XIV, « The Swallowing Monster »)",
+    "Mofokeng, S.M. (1952). Senkatana. Johannesburg, Witwatersrand University Press (réédition avec introduction de M. Mahase, Wits University Press)",
+    "Dunton, C. (2021). A Vital Question for Contemporary South Africans: SM Mofokeng's Senkatana. Current Writing: Text and Reception in Southern Africa 33(1)"
+  ],
+  "notes": "Les deux noms viennent de traditions éditoriales différentes : Litaolane (Ditaolane en orthographe moderne) chez Casalis, Moshanyana oa Senkatana chez Jacottet, dont les deux versions avaient d'abord paru dans la Revue des traditions populaires en 1888. Les fins divergent : métamorphose en pierre et fuite chez Casalis, mort consentie et cœur changé en oiseau dans la première version de Jacottet, bœuf protecteur et mère empoisonneuse dans la seconde. Selon Werner, Thomas Mofolo utilise le récit dans Moeti oa Bochabela ; ce point n'a pas été vérifié dans le roman lui-même. L'article de Dunton n'a été consulté que par son résumé."
+}

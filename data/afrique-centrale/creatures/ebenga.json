@@ -1,0 +1,39 @@
+{
+  "id": "ebenga",
+  "nom": "Ebenga",
+  "variantes": [
+    "Ebangala"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "creatures",
+  "peuples": [
+    "Ngombe"
+  ],
+  "resume": "Ebenga, ou Ebangala dans la source d'origine, est un être velu à l'apparence humaine qui apparaît dans un mythe des origines des Ngombe, peuple forestier du nord de l'actuelle République démocratique du Congo. Il ensorcelle la première femme sur terre, et l'enfant qu'elle porte devient le premier sorcier : c'est ainsi que la sorcellerie serait entrée dans le monde. Le récit n'est connu que par une seule source ethnographique, publiée en 1950.",
+  "description_detaillee": "Ebenga appartient au mythe ngombe qui raconte comment les humains sont descendus du ciel, où ils vivaient auprès du créateur Akongo. Les Ngombe, peuple de langue bantoue de la forêt équatoriale, vivent, selon J. Davidson, entre l'équateur et le quatrième parallèle nord, dans le nord du bassin du Congo. Davidson, qui a vécu et travaillé plus de vingt ans parmi eux, a publié ce récit en 1950 dans le recueil collectif African Ideas of God. La créature y tient peu de place, mais elle porte une idée importante : le malheur ne vient pas du créateur, il vient d'une rencontre en dehors de l'ordre humain.\n\nUne femme nommée Mbokomu est devenue insupportable au ciel ; Akongo la descend sur terre dans un grand panier avec son fils, sa fille, du manioc, du maïs et de la canne à sucre. Leur jardin prospère, et Mbokomu s'inquiète de ce qu'il deviendra après leur mort. Elle presse son fils de prendre sa sœur pour femme ; il proteste longtemps contre cet inceste, puis cède. La sœur, enceinte, rencontre un jour dans la forêt un être semblable à un homme mais couvert de poils noirs. Elle a peur, mais il lui parle avec douceur et ils deviennent amis. Elle revient avec le rasoir de son mari et le rase entièrement : il ressemble alors tout à fait à un homme. Davidson précise que, pour les Ngombe, un corps velu est une abomination, et qu'il revient à l'épouse de raser son mari. Cet être, selon l'un des narrateurs, s'appelait Ebangala, « celui qui commence ». Il ensorcelle la femme, si bien que l'enfant qu'elle met au monde apporte la sorcellerie sur terre ; le mari, qui la suivait, ne voit jamais Ebangala. Le couple a d'autres enfants, la terre se peuple, mais la sorcellerie demeure.\n\nLe récit a été repris dans des anthologies de mythes de création en langue anglaise sous la forme Ebenga, puis dans des encyclopédies comme celle de David Leeming, qui y lit un mythe de l'origine du mal associant la femme corrompue et le monstre, et une justification de l'interdit de l'inceste. Ces lectures appartiennent aux commentateurs : la source de Davidson se borne au récit et à la remarque sur la pilosité, et elle insiste sur le fait que les vieillards qui le racontaient ne connaissaient rien de l'enseignement chrétien. La figure est liée à celle du créateur retiré, Akongo (voir sa fiche), dont Davidson rapporte aussi, d'après un vieil homme, le départ dans la forêt, lassé des querelles humaines.",
+  "domaines": [
+    "sorcellerie",
+    "origine du mal",
+    "forêt"
+  ],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "akongo"
+    ]
+  },
+  "attributs": [
+    "corps couvert de poils noirs",
+    "rasoir"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Davidson, J. (1950). The Doctrine of God in the Life of the Ngombe, Congo. In Smith, E.W. (dir.), African Ideas of God: A Symposium (section « Myths and Legends »)",
+    "Leeming, D.A. (1994). Creation Myths of the World: An Encyclopedia (notice « Ngombe (Bangala) »)"
+  ],
+  "notes": "Sources minces : tout ce que l'on sait d'Ebenga provient d'un seul récit, attribué par Davidson à « un narrateur », et les ouvrages ultérieurs consultés (Leeming, qui renvoie à Barbara Sproul, Primal Myths, 1979) le reprennent sans source nouvelle. La graphie Ebenga, devenue courante, ne figure pas chez Davidson, qui écrit Ebangala ; l'origine de ce changement n'a pas été établie. Davidson présente Mbokomu comme « une femme » vivant au ciel, et non comme une fille d'Akongo. Leeming situe les Ngombe en République du Congo, alors que les coordonnées données par Davidson correspondent surtout au nord de l'actuelle République démocratique du Congo. Le terme ngombe désignant la sorcellerie n'est pas donné dans le passage consulté."
+}

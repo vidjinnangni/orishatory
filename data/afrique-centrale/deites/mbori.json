@@ -1,0 +1,46 @@
+{
+  "id": "mbori",
+  "nom": "Mbori",
+  "variantes": [
+    "Mboli",
+    "Mbali",
+    "Bapaizegino (dans le mythe de création)"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "deites",
+  "peuples": [
+    "Azande"
+  ],
+  "resume": "Mbori est le nom que les Azande (Soudan du Sud, nord-est de la République démocratique du Congo, République centrafricaine) donnent à l'être auquel ils attribuent la création du monde. Il n'a ni sanctuaire ni prêtres, et les Azande l'invoquent surtout pour expliquer ce qui dépasse l'entendement, de la stérilité aux phénomènes naturels étranges. Sa place exacte dans leur pensée a fait l'objet d'un débat entre missionnaires et anthropologues.",
+  "description_detaillee": "Les Azande, peuple de la ligne de partage des eaux entre le Nil et le Congo, désignent par le nom de Mbori la puissance à laquelle ils rapportent la création : le soleil et la lune, les rivières, les collines, les hommes et les animaux. L'anthropologue E. E. Evans-Pritchard, qui a enquêté chez eux, a consacré en 1936 un article entier à cette figure, « Zande Theology », dont le propos tient en partie dans son constat : les idées des Azande sur Mbori sont vagues et peu liées à leurs institutions. Le cas a pris valeur d'exemple pour l'étude des « dieux suprêmes » africains, parce que les observateurs en ont donné des portraits très différents.\n\nLe seul mythe de création recueilli met en scène Bapaizegino, que les Azande identifient à Mbori. Il a enfermé toutes les créatures dans une pirogue ronde, scellée à la cire, dont l'unique ouverture est marquée d'une tache de jus de mbiango. Sentant sa fin venir, il convoque ses fils, le Soleil, la Lune, la Nuit, le Froid et les Étoiles, et leur demande d'ouvrir la pirogue. Seul le Soleil, à qui un messager a révélé le secret, y parvient : il gratte la cire sous la tache, et il en sort les hommes, les animaux, les arbres, les rivières, les collines et l'herbe. Voilà pourquoi, disent les Azande, le Soleil est le roi de toutes choses. Pour le reste, Mbori n'a pas de culte organisé. On le dit établi aux sources des ruisseaux, et une cérémonie publique, irrégulière, appelée maziga ou baati, s'y tenait en temps de sécheresse ou d'épidémie : on y apportait des produits des champs en chantant. Evans-Pritchard n'a pu en voir que la fin, lors d'une épidémie de méningite pour laquelle le prince Gangura avait consulté son oracle. Ailleurs, Mbori répond aux questions sans réponse : la conception d'un enfant, la stérilité, les naissances anormales, la longue chevelure de certains hommes, ou les cupules creusées dans les affleurements rocheux, appelées fua Mbori, « empreintes de Mbori ».\n\nLe désaccord entre les sources est au cœur de la question. Mgr Lagae et le capitaine Philipps décrivaient dans les années 1920 un dieu personnel, juge et père, que l'on prie avec ferveur ; le major Larken un « dieu du hasard » indifférent à la morale ; le colonel Bertrand voyait en Mbori un héros culturel du même ordre que Ture, l'araignée des contes. Evans-Pritchard reproche à Lagae d'avoir tenu ses informations surtout d'élèves des écoles catholiques. Pour lui, les Azande ne sont guère intéressés par une doctrine sur Mbori, qu'ils rattachent vaguement aux esprits des morts : quand ceux-ci sont oubliés, dit-on, « ils sont avec Mbori ». Il relève aussi des indices d'influences extérieures, comme la pirogue, objet que les Azande du Soudan ne voyaient guère que chez les peuples des grands fleuves, sans pouvoir conclure.\n\nLes cupules fua Mbori relient Mbori à Ture : certains informateurs d'Evans-Pritchard les attribuaient à Ture, qui y aurait moulu son grain au temps où il se promenait avec Mbori. Beaucoup de parents donnent aussi à leurs enfants des noms formés sur celui de Mbori, sans que ces noms aient, selon la synthèse de Baxter et Butt (1953), de portée religieuse particulière.",
+  "domaines": [
+    "création",
+    "pluie",
+    "fécondité",
+    "explication de l'inexplicable"
+  ],
+  "tags": [
+    "creation",
+    "ancetres"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "ture"
+    ]
+  },
+  "attributs": [
+    "sources des ruisseaux",
+    "pirogue ronde du mythe de création",
+    "cupules rocheuses fua Mbori"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Evans-Pritchard, E.E. (1936). Zande Theology. Sudan Notes and Records, 19(1), 5-46 (repris dans Essays in Social Anthropology, 1962 ; consulté dans la traduction espagnole, Ensayos de antropología social, 1990)",
+    "Baxter, P.T.W. & Butt, A. (1953). The Azande and Related Peoples of the Anglo-Egyptian Sudan and Belgian Congo (Ethnographic Survey of Africa, International African Institute)"
+  ],
+  "notes": "Les ouvrages de Lagae (Les Azande, 1926), Philipps (1926), Larken et Bertrand ne sont connus ici qu'à travers Evans-Pritchard et Baxter et Butt. Le nom Bapaizegino, identifié à Mbori par les informateurs, n'a pas d'explication dans les sources consultées. Selon le vieux prince Rikita, fils du roi Gbudwe, Baati, nommé dans les chants de pluie, et Mbori ne font qu'un ; un autre informateur faisait de Baati un fils de Mbori, tombé du ciel et blessé à la jambe, trait qu'Evans-Pritchard soupçonne d'origine chrétienne ancienne. Une étymologie de Mbori par « tu es au-dessus des têtes », proposée dans un article en ligne, n'a pas été vérifiée."
+}

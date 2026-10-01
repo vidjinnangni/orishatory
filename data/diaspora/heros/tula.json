@@ -1,0 +1,45 @@
+{
+  "id": "tula",
+  "nom": "Tula",
+  "variantes": [
+    "Toela",
+    "Thoela",
+    "Rigaud (surnom pris pendant la révolte)"
+  ],
+  "region": "diaspora",
+  "categorie": "heros",
+  "peuples": [
+    "Esclaves de Curaçao",
+    "Curaçaoliens"
+  ],
+  "resume": "Esclave de la plantation De Knip, à l'ouest de Curaçao, Tula mena la révolte qui éclata le 17 août 1795 et rassembla en deux jours quelque deux mille esclaves sur les douze mille que comptait l'île. Il invoquait l'exemple des esclaves libérés des colonies françaises et l'occupation des Pays-Bas par la France. Capturé en septembre, il fut exécuté le 3 octobre 1795 ; il est aujourd'hui héros national de Curaçao.",
+  "description_detaillee": "Curaçao, colonie néerlandaise au large du Venezuela, entretenait à la fin du XVIIIe siècle des échanges intenses avec les colonies françaises, en particulier Saint-Domingue. Tula y était esclave sur la plantation De Knip (Kenepa), dans la région de Bandabou, propriété de Caspar Lodewijk van Uytrecht. On ignore où et quand il était né ; selon Gert Oostindie, il était peut-être originaire d'une autre île et avait sans doute séjourné dans les colonies françaises. Son nom est attaché à la plus importante révolte d'esclaves des Antilles néerlandaises, que Curaçao commémore chaque 17 août comme le point de départ de sa lutte pour la liberté.\n\nLe 17 août 1795, une cinquantaine d'esclaves de De Knip refusent le travail et partent vers les plantations voisines. Le mouvement prend une ampleur que nul n'attendait : en deux jours, environ deux mille esclaves ont rejoint les insurgés, qui libèrent des prisonniers et l'emportent dans les premiers affrontements contre les milices. Tula, que les siens appellent « Rigaud » d'après le général André Rigaud de Saint-Domingue, avec qui il prétendait être en relation, reçoit le prêtre franciscain Jacobus Schinck, envoyé pour obtenir la reddition. Les propos qu'on lui prête sont restés célèbres : les esclaves ont été trop maltraités, ils ne veulent de mal à personne mais réclament leur liberté, puisque les Noirs des colonies françaises ont été libérés et que la Hollande est désormais aux mains des Français. Il rappelle aussi que tous les hommes descendent d'Adam et Ève et qu'on soigne mieux une bête qu'un esclave. L'un de ses compagnons, Louis Mercier, se faisait appeler Toussaint, et l'on chantait des airs révolutionnaires français dans le camp des insurgés.\n\nLes négociations échouent et les troupes coloniales finissent par l'emporter. Trahi, Tula est capturé avec Bastiaan Karpata dans la seconde quinzaine de septembre. Le 3 octobre 1795, au lieu dit le Rif, près de Willemstad, il est supplicié publiquement : roué, brûlé au visage, puis décapité, et son corps est jeté à la mer. Selon Oostindie, la révolte coûta la vie à deux Blancs et à une centaine d'esclaves, dont une trentaine exécutés. Pour David Geggus, Tula justifiait la révolte par le décret d'abolition français et par un égalitarisme chrétien plutôt que par une idéologie libérale abstraite. Passée presque inaperçue aux Pays-Bas, la révolte n'est devenue que dans la seconde moitié du XXe siècle le récit central du nationalisme curaçaolien ; il appartient à la même vague de soulèvements caribéens nés de la Révolution haïtienne, ouverte en 1791 par l'insurrection à laquelle le nom de Boukman reste attaché.",
+  "domaines": [
+    "révolte",
+    "liberté",
+    "mémoire nationale"
+  ],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "dutty-boukman"
+    ]
+  },
+  "attributs": [
+    "plantation De Knip (Landhuis Knip)",
+    "17 août 1795",
+    "surnom de Rigaud"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Le 17 août est commémoré à Curaçao depuis 1984 sous le nom de Dia di lucha pa libertat (« jour de la lutte pour la liberté »). Un musée Tula occupe la maison de maître de la plantation Knip, et un monument s'élève au Rif, lieu de l'exécution. Tula a été proclamé héros national de Curaçao et officiellement reconnu par le gouvernement néerlandais en 2023.",
+  "sources": [
+    "Paula, A.F. (éd.) (1974). Zeventien vijf en negentig: De slavenopstand op Curaçao. Een bronnenuitgave van de originele overheidsdocumenten",
+    "Oostindie, G. (2011). Slave resistance, colour lines, and the impact of the French and Haitian revolutions in Curaçao. In W. Klooster & G. Oostindie (éd.), Curaçao in the Age of Revolutions, 1795-1800",
+    "Geggus, D.P. (2011). Slave rebellion during the Age of Revolution. In W. Klooster & G. Oostindie (éd.), Curaçao in the Age of Revolutions, 1795-1800",
+    "Nationaal Archief Curaçao (s.d.). Tula, notice éducative"
+  ],
+  "notes": "Les sources de 1795 sont toutes coloniales : journaux du gouvernement, procès-verbaux du conseil, rapport du père Schinck ; les paroles de Tula ne nous parviennent que par elles, et ses aveux furent obtenus sous la torture. La date de sa capture (18 ou 19 septembre) et celle de sa proclamation comme héros national (2009 selon Oostindie, 2010 selon d'autres sources) varient. Les trois revendications parfois attribuées aux insurgés (fin des punitions collectives, repos du dimanche, liberté d'acheter ailleurs que chez le maître) et les nouvelles règles promulguées en novembre 1795 ne sont rapportées que par des encyclopédies en ligne, non vérifiées dans les sources académiques consultées. Sa prétendue liaison avec Sablika, femme libre de l'époque devenue figure de mémoire, n'est attestée par aucune source historique. Le film Tula: The Revolt (2013) a contribué à faire connaître le personnage hors de l'île."
+}

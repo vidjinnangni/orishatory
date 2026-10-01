@@ -1,0 +1,60 @@
+{
+  "id": "contes-de-compere-lapin",
+  "nom": "Les contes de Compère Lapin",
+  "variantes": [
+    "Konpè Lapen (créole antillais)",
+    "Compair Lapin (Louisiane)",
+    "Compère Lapin et Compère Zamba",
+    "Bouki et Malice (cycle haïtien apparenté)"
+  ],
+  "region": "diaspora",
+  "categorie": "recits",
+  "peuples": [
+    "Martiniquais",
+    "Guadeloupéens",
+    "Guyanais",
+    "Haïtiens",
+    "Créoles de Louisiane"
+  ],
+  "resume": "Cycle de contes animaliers des pays de langue créole à base française, où le petit Compère Lapin triomphe par la ruse d'animaux plus forts que lui : Compère Zamba l'éléphant et Compère Tigre aux Antilles, Compair Bouki en Louisiane. Racontés à la veillée, notamment lors des veillées funèbres, ces récits mêlent un héritage africain, sensible jusque dans certains noms, à des motifs européens. Ils appartiennent à la même famille que les contes de Br'er Rabbit et d'Anancy.",
+  "description_detaillee": "Dans les campagnes de la Martinique, de la Guadeloupe et de la Guyane, comme en Louisiane, le conteur fait vivre un petit animal sans force ni scrupules, Compère Lapin, qui se joue des puissants. Ses dupes changent selon les lieux : aux Antilles, ce sont surtout Compère Zamba, l'éléphant, lourd et vorace, et Compère Tigre ; en Louisiane, Compair Bouki. Ce dernier nom est un indice d'origine que relevait dès 1895 le folkloriste Alcée Fortier : en wolof, bouki désigne l'hyène, éternelle dupe du lièvre dans les contes du Sénégal. En Haïti, la même paire se retrouve dans le cycle de Bouki et Malice, où Bouki, glouton et naïf, subit les tours de son neveu Ti Malice.\n\nLes récits recueillis par Fortier auprès de conteurs noirs de La Nouvelle-Orléans et de la région de La Vacherie s'ouvrent parfois par la formule « Bonnefoi, Bonnefoi ; Lapin, Lapin ! ». Dans l'un d'eux, Lapin surprend l'éléphant et la baleine qui se partagent l'empire de la terre et de la mer ; il leur demande à chacun de tirer sur une corde pour sortir sa vache de la boue, attache les deux bouts et bat du tambour pour donner le signal, si bien que les deux géants s'épuisent l'un contre l'autre. Fortier rapprochait ce conte d'une fable wolof publiée en 1828. À la Martinique, Marcel Goldenberg retrouve la même ruse entre Compère Thon et Compère Éléphant, liés par une corde de mahot, et d'autres épisodes où Lapin chasse Tigre jusqu'en Guyane avec l'aide du Lamentin, ou doit rapporter au roi Lion une griffe de Tigre, une dent de Caïman et du lait de vache marronne. La Louisiane connaît aussi sa version de la poupée de goudron, Piti Bonhomme Godron, célèbre aux États-Unis sous le nom de Tar Baby. Joëlle Laurent et Ina Césaire ont enregistré dans les années 1970 des contes de ce répertoire lors de veillées funéraires en Martinique et en Guadeloupe, cadre où la parole du conteur accompagne la nuit du deuil.\n\nGoldenberg lisait dans Tigre et Éléphant les figures du maître et du propriétaire, et dans les victoires de Lapin une revanche de l'esclave ; il notait aussi que ces contes doivent beaucoup aux fabliaux et au Roman de Renart, et rattachait Zamba à l'éléphant des forêts d'Afrique centrale. Fortier lui-même distinguait en Louisiane des contes animaliers d'origine africaine et d'autres venus d'Europe, et ses notes renvoient à des parallèles lorrains. Le personnage n'a rien d'exemplaire : il trompe les faibles comme les forts, et c'est sa ruse, non sa vertu, que l'on applaudit. Dans le codex, Compère Lapin rejoint Br'er Rabbit aux États-Unis, l'araignée des contes d'Anancy dans la Caraïbe anglophone et néerlandophone, et, de l'autre côté de l'Atlantique, Leuk-le-Lièvre et son compère Bouki chez les Wolof ou Kalulu en Afrique centrale.",
+  "domaines": [
+    "ruse",
+    "conte oral",
+    "veillée funéraire",
+    "résistance symbolique"
+  ],
+  "tags": [
+    "trickster",
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "brer-rabbit",
+      "contes-d-anancy",
+      "leuk-le-lievre",
+      "kalulu"
+    ]
+  },
+  "attributs": [
+    "lapin",
+    "Compère Zamba (éléphant) et Compère Tigre",
+    "Compair Bouki (Louisiane)",
+    "corde et tambour (conte de l'éléphant et de la baleine)"
+  ],
+  "recits_associes": [
+    "contes-d-anancy"
+  ],
+  "culte_contemporain": "Le répertoire continue d'être conté et publié aux Antilles et en Haïti, souvent en éditions bilingues créole-français, comme le recueil Compère Lapin et Compère Zamba, Bouki et Malis consacré aux contes de la Guadeloupe et d'Haïti ; les contes louisianais recueillis par Fortier ont été réédités en fac-similé par UL Press, en Louisiane.",
+  "sources": [
+    "Fortier, A. (1895). Louisiana Folk-Tales in French Dialect and English Translation",
+    "Parsons, E.C. (1933-1943). Folk-Lore of the Antilles, French and English",
+    "Comhaire-Sylvain, S. (1940). Le Roman de Bouqui",
+    "Goldenberg, M. (1964). Nature et culture dans les contes populaires du compère lapin en Martinique. Parallèles, 1",
+    "Laurent, J. & Césaire, I. (1976). Contes de mort et de vie aux Antilles"
+  ],
+  "notes": "L'étymologie de Zamba à partir d'un mot bantou désignant l'éléphant (nzamba) est souvent avancée mais n'a été vérifiée dans aucune source linguistique consultée ; Goldenberg se borne à rattacher le personnage à l'Afrique centrale. Le sens wolof de Bouki (hyène) est donné par Fortier (1895). En Haïti, le rusé du cycle principal est Ti Malice et non un lapin ; Compère Lapin y apparaît dans des recueils communs avec la Guadeloupe, mais la répartition exacte des personnages selon les îles varie selon les collecteurs. La présence du cycle en Guyane est signalée par des sources encyclopédiques plus que par les recueils consultés. La formule d'ouverture « Krik ? Krak ! », très connue en Haïti, n'est documentée ici que par des sources non académiques. La lecture des contes comme revanche de l'esclave est une interprétation (Goldenberg) ; l'introduction de Fortier reflète en outre les préjugés raciaux de son époque à l'égard des conteurs qu'il interrogeait."
+}

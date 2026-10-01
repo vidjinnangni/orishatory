@@ -1,0 +1,50 @@
+{
+  "id": "gullah-jack",
+  "nom": "Gullah Jack",
+  "variantes": [
+    "Jack Pritchard",
+    "Couter Jack",
+    "Cooter Jack"
+  ],
+  "region": "diaspora",
+  "categorie": "heros",
+  "peuples": [
+    "Afro-Américains de Charleston (Caroline du Sud)",
+    "Africains déportés aux États-Unis"
+  ],
+  "resume": "Africain réduit en esclavage à Charleston, en Caroline du Sud, connu comme « conjurer », c'est-à-dire spécialiste de la protection magique, Gullah Jack fut l'un des principaux lieutenants de Denmark Vesey dans la conspiration découverte en 1822. Il aurait distribué à ses recrues des charmes censés les rendre invulnérables. Condamné par le tribunal spécial de la ville, il fut pendu le 12 juillet 1822.",
+  "description_detaillee": "Gullah Jack, appelé aussi Jack Pritchard du nom de son propriétaire ou Couter Jack, vivait à Charleston au début du XIXe siècle. Il appartenait à Paul Pritchard, constructeur de navires, et travaillait comme calfat sur ses chantiers. Né en Afrique, il jouissait d'un grand ascendant parmi les esclaves nés comme lui sur le continent, qui voyaient en lui un homme de pouvoir capable de soigner et de protéger. Son importance tient à ce qu'il incarne, au cœur d'un projet de révolte urbaine, la persistance de savoirs religieux africains dans le Sud des États-Unis, à côté du christianisme des églises noires où Vesey recrutait.\n\nLes témoignages réunis par le tribunal de 1822 le décrivent comme un petit homme aux favoris abondants, chargé de rallier les Africains et de les rendre confiants. Il aurait remis aux conjurés du maïs grillé et des arachides, à manger seuls le matin du soulèvement, ainsi qu'une pince de crabe à garder dans la bouche pendant le combat pour échapper aux blessures ; les témoins lui prêtaient aussi des projets d'empoisonnement des puits de la ville, et le tribunal lui reprocha de s'être présenté comme invulnérable, impossible à prendre ou à tuer. L'historien David Robertson souligne qu'il savait parler la langue et manier les symboles religieux de ceux qui ne pratiquaient pas le christianisme, ou qui le pratiquaient à côté d'une autre religion. Après l'arrestation de Vesey, il chercha encore à maintenir le projet, avant d'être pris le 5 juillet 1822. Le juge Lionel Kennedy, en prononçant sa sentence le 9 juillet, se moqua de ses « charmes » qui ne l'avaient pas protégé ; il fut pendu trois jours plus tard.\n\nSes origines restent obscures. Le négrier et planteur Zephaniah Kingsley affirma en 1828 l'avoir acheté comme prisonnier de guerre à « Zinguebar », sur la côte orientale de l'Afrique, avec un sac d'objets rituels qu'il garda toujours, et le décrivit comme un prêtre dans son pays ; l'historienne Amani Marshall juge ce souvenir tardif sujet à caution, et le surnom de « Gullah » a souvent été rapproché de l'Angola. Plus largement, presque tout ce que l'on sait de lui provient du rapport officiel publié par les juges, fondé sur des aveux obtenus sous la contrainte. Michael Johnson a soutenu en 2001 que la conspiration elle-même avait été en grande partie construite par le tribunal, thèse vivement contestée par d'autres historiens. Gullah Jack reste néanmoins une figure de référence pour l'histoire du conjure afro-américain, cette pratique de protection et de guérison que le codex décrit sous le nom de hoodoo.",
+  "domaines": [
+    "résistance",
+    "protection magique",
+    "savoirs rituels africains"
+  ],
+  "tags": [
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "hoodoo-rootwork",
+      "high-john-the-conqueror"
+    ]
+  },
+  "attributs": [
+    "pince de crabe tenue dans la bouche",
+    "maïs grillé et arachides",
+    "sac d'objets rituels"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Kennedy, L.H. & Parker, T. (1822). An Official Report of the Trials of Sundry Negroes, Charged with an Attempt to Raise an Insurrection in the State of South-Carolina",
+    "Robertson, D. (1999). Denmark Vesey",
+    "Johnson, M.P. (2001). Denmark Vesey and His Co-Conspirators. The William and Mary Quarterly, 58(4)",
+    "Egerton, D.R. (2004). He Shall Go Out Free: The Lives of Denmark Vesey",
+    "Millett, N. (s.d.). Pritchard, « Gullah » Jack. African American National Biography (version adaptée sur Enslaved.org)",
+    "National Park Service (s.d.). Gullah Jack. Timucuan Ecological & Historic Preserve"
+  ],
+  "notes": "Origine discutée : côte orientale de l'Afrique selon Kingsley (Zanzibar, peut-être le Mozambique), Angola selon d'autres auteurs qui interprètent ainsi le surnom « Gullah ». La date de son arrivée à Charleston varie : 1806 selon Enslaved.org et le National Park Service, 1812 ou 1821 dans des compilations moins fiables. Les détails sur les charmes (pince de crabe, maïs grillé, arachides) proviennent de témoignages recueillis par le tribunal et doivent être lus avec la prudence qu'imposent ces conditions. La réalité même de la conspiration Vesey fait débat depuis Richard Wade (1964) et Michael Johnson (2001). Le lien avec High John the Conqueror est thématique (figures afro-américaines de la résistance et du conjure), non généalogique."
+}

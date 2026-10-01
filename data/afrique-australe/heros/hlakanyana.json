@@ -27,7 +27,10 @@
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": []
+    "entites_liees": [
+      "litaolane",
+      "khodumodumo"
+    ]
   },
   "attributs": [
     "petite taille",

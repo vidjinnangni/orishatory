@@ -1,0 +1,53 @@
+{
+  "id": "mebeghe",
+  "nom": "Mebeghe",
+  "variantes": [
+    "Mebege",
+    "Mebere",
+    "Mebeghe me Nkwa",
+    "Mebege me Nkwa Sokome Mbongwe"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "deites",
+  "peuples": [
+    "Fang"
+  ],
+  "resume": "Mebeghe est, dans la tradition des Fang (Gabon, Guinée équatoriale, sud du Cameroun), le dieu créateur primordial dont Nzame, le dieu que les hommes connaissent, serait le fils. Son nom ouvre une formule de généalogie divine encore récitée au début du XXe siècle, et les joueurs de mvett comme les fidèles du Bwiti le placent à l'origine du monde. Les sources anciennes hésitent entre un ancêtre divin, un créateur et une simple suite de titres de Nzame.",
+  "description_detaillee": "Chez les Fang, le nom de Mebeghe apparaît dès les premiers travaux écrits sur leur religion. En 1904, E. Allégret, qui fréquentait les Fang depuis une quinzaine d'années, rapporte que le nom de Dieu, Nzame, est toujours suivi d'une formule dont personne ne savait lui donner le sens : « Nzam eng'a ne Mebeghe, Mebeghe Menkwa, Sokuma, Mbongwé ». Les uns lui disaient que Mebeghe est le père, mort, et que Nzame demeure ; d'autres que Mebeghe est le fils de Sokume, sa femme ; d'autres encore que ces mots ne sont que des noms d'honneur de Nzame. Allégret y voit d'anciens qualificatifs devenus une généalogie. La figure compte parce qu'elle est au centre du débat sur le sens premier de Nzame : si Mebeghe est le créateur, Nzame pourrait être d'abord le premier être créé (voir la fiche Nzame).\n\nC'est ce que dit un texte publié en 1901 par V. Largeau dans son Encyclopédie pahouine. Mebeghe, sans compagne, sans enfant, sans père ni mère, crée l'homme avec de l'argile. Il le façonne d'abord en forme de lézard, le laisse plusieurs jours dans un bassin d'eau, puis lui ordonne d'en sortir : c'est un homme, qui le remercie à genoux. Arrivé au village de Mebeghe, le fils demande leurs noms : son père s'appellera Mebeghe, ordonnateur de toutes choses, et lui Nzame ye Mebeghe. Dans les généalogies chantées par les joueurs de mvett, Mebeghe occupe une place comparable. Celle que le Gabonais Tsira Ndong Ndoutoume place en tête du deuxième livre de son Mvett fait naître de l'invisible le cuivre, puis l'infini, les nébuleuses et les cieux, et une suite d'esprits jusqu'à Nkwa, qui engendre Mebeghe me Nkwa ; Mebeghe a trois fils, Zame ye Mebeghe, dieu de la terre et des hommes, Kare Mebeghe, ancêtre des Immortels d'Engong, et Zong Mebeghe. Le mvett de Zwè Nguéma, enregistré par l'ethnomusicologue Herbert Pepper, s'ouvre lui aussi sur « Mebeghe le créateur », père de trois fils dont descendent les peuples de l'épopée.\n\nLe Bwiti des Fang a repris et développé cette figure. Dans le récit que l'anthropologue James Fernandez a recueilli auprès de Muye Michel, membre d'une communauté du Bwiti du district d'Oyem, Mebeghe, précédé de Nkwa, Sokome et Mbongwe, est seul au-dessus des eaux avec l'araignée Dibobia ; il forme un œuf avec des poils de son aisselle, un peu de sa cervelle et un galet, l'araignée le descend jusqu'à la mer, et Mebeghe le féconde. De l'œuf sortent Zame ye Mebeghe, sa sœur Nyingwan Mebeghe, principe féminin et grande figure du culte, et leur frère Nlona Mebeghe, source de désordre ; l'informateur les rapproche lui-même de la Trinité chrétienne. Mebeghe se retire ensuite pour contempler son œuvre de loin.\n\nCes versions ne disent pas toutes la même chose. Dans la cosmogonie publiée en 1905 par le père Trilles (voir la fiche sur la création selon Nzame, Mebere et Nkwa), Mebere n'est plus le père de Nzame mais l'un des trois aspects d'un même dieu, une présentation que plusieurs chercheurs jugent influencée par la catéchèse. Fernandez note que les Fang traditionnels prêtaient peu d'attention à la création, et que c'est le Bwiti qui en a fait un objet de chant et de méditation ; l'élaboration la plus riche du personnage est donc aussi la plus récente.",
+  "domaines": [
+    "création",
+    "origine des dieux",
+    "généalogie divine"
+  ],
+  "tags": [
+    "creation"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [
+      "nzame"
+    ],
+    "entites_liees": [
+      "bwiti"
+    ]
+  },
+  "attributs": [
+    "argile du premier homme",
+    "œuf cosmique (version du Bwiti)",
+    "araignée Dibobia (version du Bwiti)"
+  ],
+  "recits_associes": [
+    "creation-nzame-mebere-nkwa",
+    "mvett"
+  ],
+  "culte_contemporain": "Mebeghe est invoqué dans les chants du Bwiti fang, qui le tient pour le créateur primordial et le père de Zame ye Mebeghe et de Nyingwan Mebeghe ; Fernandez a décrit ces chants dans les communautés du Woleu-Ntem, au nord du Gabon. Leur usage actuel n'a pas été vérifié.",
+  "sources": [
+    "Allégret, E. (1904). Les idées religieuses des Fân. Revue de l'histoire des religions, 50",
+    "Largeau, V. (1901). Encyclopédie pahouine, Congo français : éléments de grammaire et dictionnaire français-pahouin (entrée « Création »)",
+    "Pepper, H. (1962). Un mvet de Zwè Nguéma : récit fang du Gabon (manuscrit, ORSTOM, Libreville)",
+    "Ndong Ndoutoume, T. (s.d.). Le Mvett, livre II (« Généalogie du peuple d'Engong ou les Immortels »)",
+    "Fernandez, J.W. (1982). Bwiti: An Ethnography of the Religious Imagination in Africa"
+  ],
+  "notes": "Mebeghe et Mebere sont généralement tenus pour deux formes du même nom, Mebere étant la graphie retenue par Trilles. La place de Mebeghe varie selon les sources : père de Nzame (Allégret, Largeau, Fernandez), cinquième esprit d'une longue généalogie (Ndong Ndoutoume), ou simple titre de Nzame selon certains informateurs d'Allégret. L'étymologie proposée par Allégret (« celui qui porte tous les hommes », du radical bègh) est la sienne et n'a pas été confirmée par d'autres linguistes dans les sources consultées. La date du livre II du Mvett de Ndong Ndoutoume n'a pas pu être vérifiée ; le texte de Pepper consulté est un manuscrit antérieur à sa publication, daté de 1962 par l'archive qui le diffuse."
+}

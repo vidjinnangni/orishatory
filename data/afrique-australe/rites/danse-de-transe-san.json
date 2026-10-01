@@ -1,0 +1,60 @@
+{
+  "id": "danse-de-transe-san",
+  "nom": "Danse de guérison et de transe des San",
+  "variantes": [
+    "danse de guérison",
+    "danse de transe",
+    "danse de médecine",
+    "trance dance",
+    "healing dance"
+  ],
+  "region": "afrique-australe",
+  "categorie": "rites",
+  "peuples": [
+    "San",
+    "Ju/'hoansi (!Kung)"
+  ],
+  "resume": "Danse nocturne des San du Kalahari, en particulier des Ju/'hoansi du Botswana et de la Namibie, au cours de laquelle les guérisseurs, portés par le chant et les battements de mains des femmes autour d'un feu, font « bouillir » en eux une puissance de guérison (n/um ou n/om) jusqu'à entrer en transe et soigner les malades par imposition des mains. Depuis les années 1970, l'archéologue David Lewis-Williams soutient que cette danse et les visions de la transe sont la clé d'une grande partie de l'art rupestre san, thèse dominante mais contestée.",
+  "description_detaillee": "La danse de guérison est la principale cérémonie religieuse des San du Kalahari telle que l'ont décrite les ethnographes du 20e siècle, Lorna Marshall dans la région de Nyae Nyae (Namibie) dans les années 1950, Richard Lee chez les Ju/'hoansi de la région de Dobe (Botswana) dans les années 1960, puis Richard Katz. Elle réunit tout le campement, souvent la nuit entière, et sert autant à soigner les malades qu'à protéger le groupe. Elle compte aussi parce qu'elle est au centre d'un des grands débats de l'archéologie africaine : faut-il y voir la source de l'art rupestre peint et gravé par les ancêtres des San ?\n\nSelon la description de Lee (1967), la danse commence le soir, quand quelques femmes allument un feu et se mettent à chanter. Elles s'assoient épaule contre épaule autour du foyer et chantent sans paroles, en battant des mains ; le répertoire comprend une dizaine de chants nommés d'après la girafe, la pluie, Dieu ou les noix de mongongo. Les hommes dansent autour d'elles, dans un sillon circulaire creusé par leurs pas, des hochets attachés aux chevilles, un bâton pour appuyer le torse et un chasse-mouches à la main. La puissance de guérison, n/um, repose dans le ventre de ceux qui la possèdent ; la danse la réchauffe jusqu'à ce qu'elle « bout » et monte le long de la colonne vertébrale. Le danseur entre alors en transe (!kia), parfois brutalement, et peut s'effondrer dans un état que les Ju/'hoansi appellent « demi-mort ». Les guérisseurs en transe passent ensuite de personne en personne, posent les mains sur les malades, les frottent de leur sueur et tirent hors d'eux la maladie. Lee note que les femmes aussi peuvent posséder cette puissance ; le témoignage du guérisseur Kinachau, recueilli par Katz, décrit la puissance qui monte du ventre et du dos et fait trembler le corps.\n\nC'est de ces descriptions qu'est partie l'interprétation de David Lewis-Williams. Dans Believing and Seeing (1981), puis avec Thomas Dowson (1988) et leurs collègues du Rock Art Research Institute de l'université du Witwatersrand, il soutient que la danse de transe était le rite central de la religion san et que de nombreuses peintures figurent les expériences du guérisseur : saignements de nez, poils hérissés, êtres mi-humains mi-animaux, élands mourants dont l'agonie servirait de métaphore à la « mort » de la transe. Pour étayer ce modèle, il croise l'ethnographie du Kalahari, les textes /xam recueillis par Bleek et Lloyd (voir Kaggen) et des travaux de neuropsychologie sur les images perçues dans les états de conscience modifiée. Cette lecture, devenue l'approche dominante dans les années 1990, est vivement discutée. Anne Solomon reproche d'avoir fondu en un seul récit des pratiques du Kalahari et des /Xam du Cap, et estime que rien n'atteste chez les /Xam un lien entre danse, transe et guérison. Jean-Marie Dederen et Jennifer Munyai proposent de relire les mêmes panneaux à partir de la chasse et du lien entre chasseur et proie, et Chris Low rappelle que la médecine san ne se réduit pas à la danse, mais comprend aussi massages et scarifications. Ces débats portent sur l'art ancien ; ils ne remettent pas en cause l'existence de la danse elle-même, observée par de nombreux ethnographes chez les San du Kalahari.",
+  "domaines": [
+    "guérison",
+    "transe",
+    "puissance spirituelle",
+    "art rupestre"
+  ],
+  "tags": [
+    "metamorphose"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "kaggen"
+    ]
+  },
+  "attributs": [
+    "feu central",
+    "chants sans paroles et battements de mains des femmes",
+    "hochets de chevilles",
+    "chasse-mouches",
+    "bâton de danse",
+    "sueur des guérisseurs"
+  ],
+  "recits_associes": [
+    "lune-de-kaggen"
+  ],
+  "culte_contemporain": "La danse de guérison reste pratiquée chez les Ju/'hoansi et d'autres groupes san du Kalahari, dans un contexte profondément transformé par la sédentarisation et le tourisme ; Richard Katz, Megan Biesele et Verna St. Denis ont étudié ces transformations dans Healing Makes Our Hearts Happy (1997).",
+  "sources": [
+    "Marshall, L. (1969). The Medicine Dance of the !Kung Bushmen. Africa",
+    "Lee, R.B. (1967). Trance Cure of the !Kung Bushmen (article, dépôt TSpace, Université de Toronto)",
+    "Katz, R. (1982). Boiling Energy: Community Healing among the Kalahari Kung",
+    "Katz, R., Biesele, M. & St. Denis, V. (1997). Healing Makes Our Hearts Happy: Spirituality and Cultural Transformation among the Kalahari Ju/'hoansi. Rochester (Vermont), Inner Traditions",
+    "Lewis-Williams, J.D. (1981). Believing and Seeing: Symbolic Meanings in Southern San Rock Paintings",
+    "Lewis-Williams, J.D. & Dowson, T.A. (1988). The Signs of All Times: Entoptic Phenomena in Upper Palaeolithic Art. Current Anthropology",
+    "Solomon, A. (2013). The death of trance: recent perspectives on San ethnographies and rock arts. Antiquity",
+    "Dederen, J.-M. & Munyai, J. (2021). Trivial pursuit? Interpreting San rock art in terms of the mystical bond between hunter and prey. Pharos Journal of Theology 102",
+    "Low, C. (2007). Khoisan wind: hunting and healing. Journal of the Royal Anthropological Institute"
+  ],
+  "notes": "Les termes varient selon les langues et les auteurs : n/um (Lee, Marshall) ou n/om pour la puissance, !kia pour l'état de transe chez Katz. Le rattachement de l'art rupestre à la danse de transe est une thèse de Lewis-Williams et de son école, et non un fait établi : les San du Kalahari ne peignent plus, et les /Xam n'ont pas commenté les peintures. La proportion de guérisseurs dans la population (environ la moitié des hommes et un tiers des femmes, selon Wikipédia d'après Katz) n'a pas été vérifiée dans Boiling Energy. Le texte de Lee, consulté dans un scan partiellement illisible, n'a pu être lu qu'en partie ; les articles de Marshall, Solomon et Low, ainsi que les ouvrages de Katz et de Lewis-Williams, n'ont été consultés que par leurs résumés ou à travers les auteurs qui les citent."
+}

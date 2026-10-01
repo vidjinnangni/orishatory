@@ -1,0 +1,52 @@
+{
+  "id": "matsieng",
+  "nom": "Matsieng",
+  "variantes": [
+    "Loe",
+    "Lowe",
+    "Empreintes de Matsieng (Matsieng Footprints)"
+  ],
+  "region": "afrique-australe",
+  "categorie": "recits",
+  "peuples": [
+    "Tswana (Batswana)",
+    "Bakgatla",
+    "Bangwaketse"
+  ],
+  "resume": "Récit tswana de l'origine des hommes et des animaux, sortis d'un trou d'eau dans la roche, à Loe (ou Lowe), près de Mochudi, au sud-est du Botswana, à la suite de Matsieng, ancêtre souvent décrit comme un géant à une seule jambe. Leurs pas, imprimés dans la pierre encore molle, seraient les empreintes gravées qui entourent le trou, aujourd'hui monument national. Les archéologues attribuent ces gravures à des chasseurs-cueilleurs bien antérieurs aux Tswana.",
+  "description_detaillee": "Matsieng désigne à la fois un ancêtre des récits d'origine tswana et le lieu où ces récits situent l'émergence de la vie : un affleurement de grès percé de trous d'eau, à quelques kilomètres du village de Rasesa, au nord-est de Gaborone, dans le district de Kgatleng. Le site, appelé aussi trou de Loe (Lowe), est l'un des plus connus parmi les lieux de « création » des Sotho-Tswana. Plusieurs groupes tswana, dont les Bakgatla de Mochudi et les Bangwaketse, se disent issus de Matsieng.\n\nLe récit le plus répandu raconte que Matsieng sortit du trou quand la terre était encore humide et molle, suivi de ses animaux puis des hommes ; leurs pieds s'enfoncèrent dans la roche, qui garda leurs traces en durcissant. Selon les versions, Matsieng a une seule jambe ou deux, et la suite qui l'accompagne réunit les San, les Kgalagadi et les Tswana. Le missionnaire Robert Moffat, établi à Kuruman, rapportait en 1842 une tradition proche : Modimo, l'homme et toutes les espèces animales étaient sortis d'une caverne ou d'un trou situé au nord, « dans le pays des Bakone », où l'on montrait leurs empreintes dans une roche jadis sable, celles de Modimo se reconnaissant à l'absence d'orteils ; Moffat ne nomme pas le lieu. Un article de presse botswanais présente Lowe comme un être à un seul côté, pouvant apparaître sous la forme d'un géant unijambiste, qui aurait attiré Matsieng hors d'un monde souterrain appelé Tintibane. Le nom de Lowe passe ainsi, selon les sources, du lieu à un être primordial, et la question de savoir qui de Lowe ou de Matsieng était le créateur reste ouverte (voir la fiche Modimo).\n\nLe site garde une fonction rituelle. D'après les entretiens menés en 2017 par Motheo Koitsiwe auprès d'anciens de Mochudi, on venait y puiser l'eau très tôt le matin et y célébrer des rites de pluie, et il était interdit d'y faire quoi que ce soit à l'heure de midi, réservée aux ancêtres ; le responsable du patrimoine y lisait aussi, dans les taches claires et sombres de la roche, la lune, les étoiles et le ciel. Les archéologues proposent une autre histoire de la pierre. Selon l'étude de Nick Walker (1997), les quelque cent dix-sept gravures, surtout des empreintes humaines et des traces de félins, avec quelques girafes de profil, ont été piquetées par des chasseurs-cueilleurs, peut-être ancêtres des San, et non par les Tswana ; la chercheuse Maria Wilman en avait déjà relevé des estampages en 1918. Les géologues M. J. McFarlane, A. Gieske et J. Wormald ont montré en 2002 que le trou de Loe et la grande cuvette voisine ne sont pas des cheminées volcaniques mais des vasques creusées par l'altération du grès (gnammas). Pour Walker, des sites de ce type ont été intégrés à la mythologie tswana, et Matsieng est devenu, ou resté, un lieu de pluie important.",
+  "domaines": [
+    "origine des hommes",
+    "origine des animaux",
+    "pluie",
+    "ancêtres"
+  ],
+  "tags": [
+    "creation",
+    "ancetres"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "modimo"
+    ]
+  },
+  "attributs": [
+    "trou d'eau dans le grès",
+    "empreintes gravées dans la roche",
+    "géant unijambiste",
+    "troupeaux et animaux sauvages"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Le site, déclaré monument national en 1997 et géré par le Musée national du Botswana, reste visité comme lieu d'origine des Batswana. Selon Koitsiwe (2019) et Van der Ryst et al. (2004), des habitants y accomplissent encore des cérémonies pour obtenir les pluies saisonnières.",
+  "sources": [
+    "Walker, N. (1997). In the Footsteps of the Ancestors: The Matsieng Creation Site in Botswana. South African Archaeological Bulletin 52(166), p. 95-104",
+    "McFarlane, M.J., Gieske, A. & Wormald, J. (2002). The origin of the Loe hole of Matsieng. Botswana Notes and Records 34",
+    "Van der Ryst, M., Lombard, M. & Biemond, W. (2004). Rocks of Potency: Engravings and Cupules from the Dovedale Ward, Southern Tuli Block, Botswana. South African Archaeological Bulletin 59",
+    "Koitsiwe, M.T. (2019). African indigenous astronomy of Batswana in Botswana and South Africa. Thèse de doctorat, North-West University (section 6.3.3, « Matsieng creation site »)",
+    "Moffat, R. (1842). Missionary Labours and Scenes in Southern Africa (consulté dans la 6e édition, New York, Robert Carter, 1844, p. 180-181)"
+  ],
+  "notes": "Les versions divergent sur la forme de Matsieng (une ou deux jambes), sur son rôle (ancêtre et grand chasseur, ou créateur) et sur le statut de Lowe, tantôt simple nom du trou, tantôt être primordial ; un dictionnaire de mythologie consulté indirectement fait de Lowe le créateur et de Matsieng son serviteur, version qui n'a pas pu être vérifiée dans une source primaire. Le récit de Lowe attirant Matsieng hors de Tintibane et la liste des groupes « enfants de Matsieng » (Bangwaketse, Bakgatla, Barolong, Bakaa, Bakwatheng) proviennent d'un article non signé du Sunday Standard (Gaborone, 2011), source de presse non académique. La datation des gravures (entre 3 000 et 10 000 ans) circule sur les sites touristiques et dans Wikipédia ; McFarlane et al. rapportent l'avis d'Ouzman (1995), qui les attribue à des chasseurs-cueilleurs de l'âge de la pierre récent ou à des agro-pasteurs de l'âge du fer. L'article de Walker n'a été consulté qu'à travers les résumés et les citations qu'en donnent Koitsiwe et Wikipédia."
+}

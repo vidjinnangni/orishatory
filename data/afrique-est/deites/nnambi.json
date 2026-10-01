@@ -22,7 +22,9 @@
     "creation"
   ],
   "genealogie": {
-    "parents": [],
+    "parents": [
+      "ggulu"
+    ],
     "conjoints": [
       "kintu"
     ],
@@ -42,5 +44,5 @@
     "Ray, B.C. (1987). East African Religions: Northeast Bantu Religions, in Eliade, M. (dir.), The Encyclopedia of Religion",
     "Ray, B.C. (1991). Myth, Ritual, and Kingship in Buganda"
   ],
-  "notes": "Classée parmi les divinités parce qu'elle est fille de Ggulu, Nnambi ne semble pas avoir fait l'objet d'un culte propre dans les sources consultées. Son père Ggulu et son frère Kaikuzi n'ont pas de fiche. Roscoe écrit « Nambi » ; l'orthographe luganda actuelle est « Nnambi »."
+  "notes": "Classée parmi les divinités parce qu'elle est fille de Ggulu, Nnambi ne semble pas avoir fait l'objet d'un culte propre dans les sources consultées. Son frère Kaikuzi n'a pas de fiche ; son père a la sienne (ggulu). Roscoe écrit « Nambi » ; l'orthographe luganda actuelle est « Nnambi »."
 }

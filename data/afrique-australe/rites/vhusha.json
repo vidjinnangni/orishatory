@@ -1,0 +1,49 @@
+{
+  "id": "vhusha",
+  "nom": "Vhusha",
+  "variantes": [
+    "vhusha ha vhasiwana",
+    "vhusha ha vhakololo"
+  ],
+  "region": "afrique-australe",
+  "categorie": "rites",
+  "peuples": [
+    "Venda"
+  ],
+  "resume": "Le vhusha est l'école d'initiation que les jeunes filles venda du nord-est de l'Afrique du Sud suivent en principe peu après leurs premières règles. Tenu chez un chef de district, il comporte une réclusion, des épreuves, des danses et l'apprentissage de « lois » (milayo), et annonce publiquement qu'une jeune fille est désormais bonne à marier. C'est la première étape d'un cycle qui se poursuit avec le tshikanda puis le domba.",
+  "description_detaillee": "Chez les Venda de l'actuelle province du Limpopo, l'initiation des filles se faisait en trois écoles successives : le vhusha, le tshikanda et le domba. Le vhusha en est l'entrée. On le dit « ancien », antérieur aux familles régnantes arrivées en pays venda au 18e siècle, qui l'auraient trouvé en place. L'ethnomusicologue John Blacking, qui l'observa entre 1956 et 1958 dans le district de Sibasa, y voyait moins une réponse à la puberté elle-même qu'une reconnaissance publique d'un statut acquis : la jeune fille devient khomba, nubile et bonne à marier. Elle doit le suivre dans le district où elle a grandi, et ce sont souvent les familles qui la prendront pour épouse qui en paient les frais.\n\nÀ la différence du domba, réservé aux capitales des chefs et tenu tous les quelques années, le vhusha pouvait se tenir plusieurs fois par an chez n'importe quel chef de district, dans la hutte du conseil. Il en existait plusieurs formes. Les filles du commun allaient au vhusha des roturiers, où l'on « chante pour » la novice ; les filles de lignées nobles suivaient un vhusha à part, sans musique, fait d'instructions orales, d'un lavage rituel et d'une flagellation ; Blacking signale aussi un vhusha « des croyants », plus récent, que fréquentaient les filles des Églises sionistes, souvent en plus du vhusha traditionnel. Chaque fille y passait trois fois. Au premier passage, le muhulu, elle restait recluse six jours (huit chez les nobles), le corps rasé, sans parure, interdite de parole avec les hommes autres que son père et ses frères, et soumise aux brimades des aînées. Au deuxième, elle respectait encore un interdit sur le sel mais aidait déjà à instruire les nouvelles ; le troisième, facultatif, faisait d'elle la « mère d'école » d'une novice. Comme on ne passait d'une étape à l'autre qu'à l'arrivée d'une nouvelle recrue, l'attente pouvait durer d'un ou deux mois à huit ou neuf mois.\n\nLe contenu tient dans des chants, des danses et des formules. Les novices répétaient les ndayo, exercices accroupis exigeants plutôt que danses au sens habituel, qui servaient selon une maîtresse d'initiation interrogée par Blacking à faire souffrir les filles et à leur apprendre le respect dû aux aînées. Le chant propre à l'école, scandé par un tambour qui évoque la lune et les règles, se dansait en cercle dans le sens inverse des aiguilles d'une montre. Les novices apprenaient aussi les milayo, des « lois » souvent réduites à des mots codés pour des choses ordinaires, qui servaient ensuite de mot de passe entre femmes initiées. Le dernier jour, au bord de la rivière, on leur montrait des figurines d'argile, parmi lesquelles une femme enceinte et un zèbre rayé de rouge et de blanc, couleurs que l'on rapportait au sang menstruel et à la semence. Une femme de rang de la maison du chef inspectait alors les initiées, puis la novice, lavée et enduite de graisse et d'ocre rouge, recevait une jupe en peau de chèvre, signe visible de son nouveau statut.\n\nLa séquence théorique n'était pas toujours suivie. Comme aucun vhusha ne pouvait se tenir là où un domba était en cours, une fille réglée à ce moment entrait directement au domba et ne faisait son vhusha qu'après la clôture de celui-ci. Blacking insistait pourtant sur l'unité du cycle, qu'il comparait à un seul drame dansé et chanté, des danses individuelles et pénibles du vhusha jusqu'à la grande chaîne collective du domba (voir la fiche domba). L'intonjane des Xhosa répond à une logique proche, avec réclusion et enseignement des aînées à la puberté. Une enquête menée en 2019 dans le district de Vhembe décrit un schéma plus récent où une école d'avant la puberté, le musevhetho, précède le vhusha et le domba, et où le vhusha associe inspection de virginité et messages de prévention du VIH.",
+  "domaines": [
+    "initiation",
+    "puberté",
+    "passage à l'âge adulte",
+    "mariage"
+  ],
+  "tags": [
+    "initiation",
+    "terre-fertilite"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "domba",
+      "intonjane"
+    ]
+  },
+  "attributs": [
+    "danses ndayo",
+    "milayo",
+    "figurines d'argile",
+    "ocre rouge",
+    "jupe en peau de chèvre (tshirivha)"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Le vhusha est encore pratiqué dans le district de Vhembe (Limpopo) : une enquête ethnographique de 2019 le décrit comme tenu chaque année, avec inspection de virginité, enseignements sur la fidélité conjugale et l'abstinence avant le mariage, et des conseils de prévention du VIH.",
+  "sources": [
+    "Blacking, J. (1969). Songs, Dances, Mimes and Symbolism of Venda Girls' Initiation Schools, Part 1: Vhusha. African Studies 28(1), p. 3-35",
+    "Blacking, J. (1985). Movement, Dance, Music, and the Venda Girls' Initiation Cycle. In Spencer, P. (dir.), Society and the Dance: The Social Anthropology of Process and Performance. Cambridge University Press, p. 64-91",
+    "Ndou-Mammbona, A.A. (2023). Exploring initiation schools' impact on HIV and AIDS management in the Vhembe district of South Africa: An ethnography. Health SA Gesondheid 28, art. 2105"
+  ],
+  "notes": "Les deux textes de Blacking ont été lus dans l'édition en ligne Venda Girls' Initiation Schools du projet Experience Rich Anthropology (University of Kent), qui les reproduit avec autorisation. Les monographies de Stayt (1931) et de van Warmelo (1932) ne sont connues ici qu'à travers Blacking, qui signale des écarts avec ses propres observations et les attribue plutôt à des variations régionales ; il cite ainsi d'après van Warmelo un rite où la novice est enduite de cendres à la manière d'un zèbre, qu'il n'a lui-même jamais vu. L'idée que le vhusha précède l'arrivée des familles régnantes vient de Blacking (1985) et n'a pas été recoupée. Le schéma décrit par Ndou-Mammbona (musevhetho, vhusha, domba) ne mentionne pas le tshikanda, et ses informateurs sont surtout des hommes ; on ne peut pas dire à partir de cette seule étude si le tshikanda a disparu ou s'il n'a simplement pas été évoqué. L'article de Caroline Jeannerat, « Invoking the female vhusha ceremony and the struggle for identity and security in Tshiendeulu, Venda » (Journal of Contemporary African Studies 15(1), 1997), traite d'une reprise du vhusha dans les années 1990 mais n'a pas pu être consulté."
+}

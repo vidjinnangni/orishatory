@@ -1,0 +1,51 @@
+{
+  "id": "kabezya-mpungu",
+  "nom": "Kabezya Mpungu",
+  "variantes": [
+    "Kabezya-Mpungu",
+    "Kabezya",
+    "Vilye Mukulu",
+    "Kalunga-nyembo (comme maître du pays des morts)"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "deites",
+  "peuples": [
+    "Luba",
+    "Tabwa"
+  ],
+  "resume": "Kabezya Mpungu est le nom du dieu créateur chez les Luba de l'est du Katanga (pays de l'Urua, dans l'actuelle République démocratique du Congo), et un nom secondaire de l'être suprême chez leurs voisins tabwa. Créateur du monde et des premiers humains, il ne reçoit ni culte régulier ni représentation. Un mythe publié en 1925 raconte comment il se retira du monde en laissant aux humains le « cœur », mutima.",
+  "description_detaillee": "Le père Pierre Colle, missionnaire des Pères Blancs, décrit en 1913 dans Les Baluba la religion des Luba de l'Urua, à l'est du Lualaba. Selon lui, ils appellent le principe créateur Vilye Mukulu ou Kabezya Mpungu, qu'il traduit par « le grand Esprit, le Tout-Puissant d'en haut ». Il a toujours existé, il a tout fait, et les autres esprits, si puissants soient-ils, sont ses créatures. Le nom revient dans la langue de tous les jours : devant un événement inexplicable, un rocher qui glisse, une épidémie, une mort, on dit simplement « i Kabezya Mpungu », c'est l'affaire de Dieu, et Colle note que c'est ainsi que l'on rend l'idée de hasard. Chez les Tabwa voisins, le père Weghsteen relevait en 1954 que Kabezya, « le puissant », s'emploie au Kitabwa et dans les régions environnantes à côté du nom principal, Leza ; Mpungu y désigne un aigle au vol très haut, si bien que Kabezya Mpungu serait le Tout-Puissant qui voit tout de là-haut.\n\nLe récit le plus diffusé figure dans les Afrikanische Legenden de Carl Einstein (1925), présenté comme la parole d'un vieux chef. Kabezya Mpungu a créé le ciel, la terre et un couple humain doué de raison, mais privé de mutima, le cœur, principe qui entretient la vie, et incapable d'engendrer. Il a quatre enfants : le Soleil, la Lune, l'Obscurité et la Pluie. Avant de disparaître, car il ne veut plus que les hommes le voient, il les interroge un à un. La Pluie voudrait tout noyer, le Soleil tout brûler, l'Obscurité régner sans fin ; il leur ordonne d'alterner pour que les humains puissent vivre et se nourrir, et laisse à la Lune le temps d'éclairer la terre. Il s'en va. Le cœur paraît alors, dans un petit récipient grand comme la main, et demande où est passé le père ; personne ne connaît son chemin. Faute de le trouver, le cœur entre dans l'homme, qui peut alors avoir des enfants, tous pourvus de mutima, et passe ainsi de génération en génération. La traduction anglaise de Charlotte et Wolf Leslau (1963) a fait connaître ce texte bien au-delà de l'Afrique centrale.\n\nColle rapporte d'autres récits où Kabezya Mpungu intervient. Il envoie sur la terre le premier homme, Kyomba, avec deux femmes, des semences cachées dans ses cheveux et l'instrument pour faire le feu ; d'une de ces femmes, qui aurait pu se rajeunir en changeant de peau si sa compagne ne l'avait surprise, vient l'origine de la mort. Kabezya Mpungu n'a ni temple ni emblème, ne reçoit pas de sacrifices destinés à se le concilier, tout au plus une part de chasse ou de récolte laissée en signe de reconnaissance ; la vie religieuse ordinaire passe par les esprits et les morts. C'est pourtant vers lui que vont les âmes, car il gouverne aussi le pays des ombres sous le nom de Kalunga-nyembo, et c'est avec sa permission qu'un défunt peut venir chercher un vivant qu'il aime, ce qui se traduit par la maladie et la mort.\n\nLe nom rapproche Kabezya Mpungu de plusieurs figures du codex : Leza, autre nom de l'être suprême chez les Tabwa et dans une partie du pays luba, et Kalunga-ngombe, le roi des morts des Mbundu, dont le nom rappelle Kalunga-nyembo. Dans les traditions de l'Urua réunies par Einstein, Kyomba est aussi l'ancêtre de la lignée d'où sort Kongolo, l'arc-en-ciel, c'est-à-dire Nkongolo Mwamba, le premier roi de l'épopée luba à l'origine du bulopwe. Les sources sont presque toutes missionnaires, et Colle lit volontiers ces croyances à travers sa propre théologie quand il qualifie les Luba de « nettement monothéistes » ; la provenance exacte du mythe du cœur, que le texte d'Einstein situe seulement chez un vieux chef de « Kukiga », n'a pas pu être établie.",
+  "domaines": [
+    "création",
+    "ciel",
+    "pays des morts"
+  ],
+  "tags": [
+    "creation",
+    "mort-au-dela"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "leza",
+      "kalunga-ngombe",
+      "nkongolo-mwamba",
+      "bulopwe"
+    ]
+  },
+  "attributs": [
+    "aigle mpungu (étymologie proposée chez les Tabwa)",
+    "mutima, le cœur donné aux humains"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Colle, P. (1913). Les Baluba (Congo belge), 2 vol. (Collection de monographies ethnographiques dirigée par Cyr. van Overbergh)",
+    "Einstein, C. (1925). Afrikanische Legenden (section « Baluba », récit « Erschaffung der Welt »)",
+    "Weghsteen, J. (1954). Croyances religieuses des Watabwa. Kongo-Overzee, 20(3)",
+    "Smith, E.W. (dir.) (1950). African Ideas of God: A Symposium (introduction de l'éditeur, passage sur Kalunga Nyembo)"
+  ],
+  "notes": "Les traductions du nom divergent : Colle donne « le grand Esprit, le Tout-Puissant d'en haut », Weghsteen « le puissant » suivi du nom d'un aigle. Une étymologie faisant de Kabezya « le veilleur », qui circule en ligne, n'a été trouvée dans aucune source vérifiée ici. Le mythe du cœur est connu par Einstein (1925), qui ne précise pas sa source dans l'édition consultée, puis par l'adaptation anglaise de C. et W. Leslau, African Folk Tales (1963), vue seulement en extraits ; plusieurs sites et encyclopédies en ligne écrivent Mutshima au lieu de mutima. Les Luba du Kasaï et ceux de l'ouest du Katanga emploient aussi d'autres noms pour l'être suprême, que des synthèses en ligne mettent sur le même plan que Kabezya Mpungu ; ces équivalences n'ont pas été vérifiées dans des sources de première main pour cette fiche."
+}

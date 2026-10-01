@@ -1,0 +1,48 @@
+{
+  "id": "simon-kimbangu",
+  "nom": "Simon Kimbangu",
+  "variantes": [
+    "Kimbangu",
+    "Papa Simon Kimbangu",
+    "Ngunza Kimbangu"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "heros",
+  "peuples": [
+    "Kongo"
+  ],
+  "resume": "Simon Kimbangu (vers 1887-1951) est un catéchiste baptiste du Bas-Congo, alors colonie belge, dont les guérisons et la prédication attirèrent en 1921 des milliers de pèlerins à Nkamba, son village. Arrêté la même année, condamné à mort puis gracié en réclusion à perpétuité, il mourut en prison à Élisabethville trente ans plus tard. L'Église fondée en son nom, reconnue en 1959, est l'une des plus grandes Églises africaines indépendantes.",
+  "description_detaillee": "Simon Kimbangu est le plus connu des prophètes kongo du XXe siècle, ces figures qui, dans le bassin du bas Congo, ont repris le christianisme des missions pour lui donner une forme et une autorité africaines. Le mouvement qu'il lança en 1921 ne dura que quelques mois sous sa conduite directe, mais il est à l'origine de l'Église de Jésus-Christ sur la terre par le prophète Simon Kimbangu (EJCSK), qui compte aujourd'hui des millions de fidèles en Afrique centrale et dans la diaspora.\n\nNé à Nkamba, dans le Bas-Congo, Kimbangu fréquente l'école de la Baptist Missionary Society, dont il devient catéchiste. Selon la tradition kimbanguiste, il reçoit en mars 1921 l'appel de prêcher et de guérir, et accomplit sa première guérison publique le 6 avril 1921. En quelques semaines, des milliers de personnes affluent à Nkamba, que ses fidèles appellent bientôt la Nouvelle Jérusalem. Inquiète de ce rassemblement, l'administration coloniale ordonne son arrestation dès juin ; Kimbangu échappe à l'administrateur Léon Morel, puis revient à Nkamba où il est arrêté en septembre. Le 3 octobre 1921, un conseil de guerre réuni à Thysville le condamne à mort pour sédition et hostilité envers l'autorité coloniale, au terme d'une procédure expéditive. Le roi Albert Ier commue la peine en réclusion à perpétuité ; transféré à Élisabethville (Lubumbashi), Kimbangu y meurt le 12 octobre 1951, sans avoir été libéré.\n\nL'Église kimbanguiste s'organise dans les années 1950 sous la direction de son fils cadet Joseph Diangienda et obtient sa reconnaissance officielle le 24 décembre 1959, à la veille de l'indépendance ; elle entre au Conseil œcuménique des Églises en 1969. Nkamba en est le centre sacré, où le corps du prophète repose dans un mausolée. L'anthropologue Anne Mélice a décrit la diversification de la doctrine au fil du temps, en particulier la place croissante donnée à la divinité de Kimbangu et de ses fils, et les scissions qui ont suivi la mort de Joseph Diangienda en 1992. Elle distingue aussi un kimbanguisme officiel, qui a souvent servi à légitimer le pouvoir d'État au Congo-Kinshasa, d'une mémoire plus critique héritée des origines du mouvement.\n\nKimbangu est souvent rapproché de Kimpa Vita, la prophétesse kongo du début du XVIIIe siècle (voir sa fiche), et d'André Matswa, dont le mouvement apparaît quelques années plus tard sur l'autre rive du fleuve (voir sa fiche) : Martial Sinda a étudié ensemble kimbanguisme et matsouanisme comme deux réponses politico-religieuses kongo à la situation coloniale.",
+  "domaines": [
+    "prophétie",
+    "guérison",
+    "christianisme africain"
+  ],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "kimpa-vita",
+      "andre-matswa",
+      "nzambi-a-mpungu"
+    ]
+  },
+  "attributs": [
+    "Nkamba, la Nouvelle Jérusalem",
+    "Bible",
+    "mausolée de Nkamba"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "L'Église de Jésus-Christ sur la terre par le prophète Simon Kimbangu est active en République démocratique du Congo, dans les pays voisins et dans la diaspora, notamment en Belgique et au Portugal ; Nkamba reste son lieu de pèlerinage principal. Plusieurs branches dissidentes se réclament aussi du prophète.",
+  "sources": [
+    "Martin, M.-L. (1975). Kimbangu: An African Prophet and His Church. Oxford, Blackwell",
+    "MacGaffey, W. (1983). Modern Kongo Prophets: Religion in a Plural Society. Bloomington, Indiana University Press",
+    "Mélice, A. (2006). Un terrain fragmenté : le kimbanguisme et ses ramifications. Civilisations, 54",
+    "Mélice, A. (2009). Le kimbanguisme et le pouvoir en RDC : entre apolitisme et conception théologico-politique. Civilisations, 58(2)",
+    "Sinda, M. (1972). Le messianisme congolais et ses incidences politiques. Paris, Payot",
+    "Loba Mkole, J.-C. (s.d.). Kimbangu, Simon. Dictionary of African Christian Biography. dacb.org"
+  ],
+  "notes": "La date de naissance varie selon les sources (1887 ou 1889). Les dates de l'appel (18 mars 1921) et de la première guérison (6 avril 1921) proviennent de l'historiographie kimbanguiste, reprise par le Dictionary of African Christian Biography. La date exacte de l'arrestation de septembre 1921 n'a été trouvée que dans des notices non académiques (12 ou 14 septembre). Le chiffre parfois avancé de 37 000 fidèles bannis ou emprisonnés entre 1921 et 1957, attribué à Marie-Louise Martin, n'a pas été vérifié dans l'ouvrage. Le transfert du corps de Kimbangu d'Élisabethville à Nkamba, en avril 1960, n'est documenté ici que par des sites kimbanguistes et de presse. Les ouvrages de Martin, MacGaffey et Sinda n'ont été consultés qu'à travers des comptes rendus et des citations ; l'article de Mélice de 2006 à travers sa version en ligne, celui de 2009 à travers son résumé."
+}

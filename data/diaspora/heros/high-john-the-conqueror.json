@@ -22,7 +22,9 @@
     "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": []
+    "entites_liees": [
+      "gullah-jack"
+    ]
   },
   "attributs": [
     "racine de John le Conquérant (Ipomoea jalapa), utilisée comme talisman"
