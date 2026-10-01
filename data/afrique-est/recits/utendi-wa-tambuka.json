@@ -1,0 +1,46 @@
+{
+  "id": "utendi-wa-tambuka",
+  "nom": "Utendi wa Tambuka",
+  "variantes": [
+    "Chuo cha Herekali",
+    "Kyuo kya Herekali",
+    "Utenzi wa Tambuka",
+    "Utenzi wa Hirqal",
+    "Chuo cha Utenzi"
+  ],
+  "region": "afrique-est",
+  "categorie": "recits",
+  "peuples": [
+    "Swahili (Pate, archipel de Lamu, côte nord du Kenya)"
+  ],
+  "resume": "L'Utendi wa Tambuka, aussi appelé Chuo cha Herekali (« le livre d'Héraclius »), est un long poème épique swahili composé par Bwana Mwengo wa Athumani à Pate, sur la côte nord du Kenya. Il raconte l'expédition de Tabuk et les guerres des premiers musulmans contre l'empereur byzantin Héraclius. Son plus ancien manuscrit connu, daté de 1728, est souvent présenté comme le plus ancien utendi conservé et l'un des plus anciens manuscrits swahilis datés.",
+  "description_detaillee": "L'Utendi wa Tambuka appartient à la poésie classique de la côte swahilie, née dans les cités-États de l'archipel de Lamu. Son titre renvoie à Tabuk (Tambuka en swahili), dans le nord-ouest de l'actuelle Arabie saoudite, et l'on désigne aussi l'œuvre comme Chuo cha Herekali, le livre d'Héraclius, du nom de l'empereur byzantin qui y affronte les musulmans. Le manuscrit le plus ancien que décrivait Jan Knappert porte la date de 1141 de l'hégire, soit 1728 de notre ère. Cela en fait l'un des plus anciens textes écrits en swahili, en caractères arabes, et l'exemple le plus ancien connu de l'utendi, la forme narrative qui allait dominer la poésie swahilie aux XVIIIe et XIXe siècles.\n\nLe poème est écrit en strophes de quatre vers de huit syllabes, dont les trois premiers riment entre eux et le dernier porte une rime constante d'un bout à l'autre de l'œuvre ; il compte plus de mille cent strophes. L'auteur se nomme vers la fin, Mwengo, fils d'Athumani, et explique au début qu'un souverain, ayant lu en arabe le récit de Tabuk et l'ayant beaucoup aimé, l'a appelé pour qu'il le « traduise ». Il annonce ainsi le sujet : la guerre des Byzantins et du Prophète, transposée d'un poème arabe. Le récit suit les campagnes des premiers musulmans contre l'armée byzantine, avec Ali, gendre du Prophète, comme principal héros ; il se termine par la défaite des Byzantins. L'utendi se récitait plus qu'il ne se lisait, notamment lors des veillées funèbres, mais le genre reste, comme le souligne Clarissa Vierke, plus étroitement lié à l'écrit que les chants de danse de la même côte.\n\nL'origine du texte pose plusieurs questions. Serena Talento relève qu'aucune source arabe directe n'a été retrouvée : le poète affirme traduire, mais il s'agit probablement de ce que les spécialistes de la traduction appellent une pseudo-traduction, une œuvre originale présentée comme venue d'un livre arabe, ce qui conférait du prestige au souverain commanditaire et aux élites de Pate. Mugyabuso Mulokozi et Tigiti Sengo, puis Andreï Joukov, y ont lu un écho de la résistance des cités swahilies aux Portugais, puisque le poème raconte la première victoire des musulmans sur des chrétiens. La date de 1728 a elle-même été mise en doute, notamment par Joukov en 1992, et le manuscrit conservé à l'Institut Asie-Afrique de l'université de Hambourg y est signalé disparu depuis 2011. Le titre de plus ancien manuscrit swahili reste disputé : la Hamziya a été datée de 1652, et un poème attribué à Fumo Liyongo serait conservé dans un manuscrit de 1517 selon Mulokozi et Sengo.",
+  "domaines": [
+    "poésie épique",
+    "islam",
+    "guerre",
+    "littérature écrite"
+  ],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "fumo-liyongo"
+    ]
+  },
+  "attributs": [
+    "strophes de quatre vers de huit syllabes",
+    "écriture swahilie en caractères arabes",
+    "manuscrit daté de 1141 AH (1728)"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Knappert, J. (1958). Het epos van Heraklios: een proeve van Swahili-poëzie. Tekst en vertaling (thèse, université de Leyde)",
+    "Talento, S. (2013). Of Presences/Absences, Identity and Power: The Ideological Role of Translation into Swahili during Late Pre-colonial and Early Colonial Times, Swahili Forum, 20",
+    "Vierke, C. (2021). Writing Songs, Singing Texts, in Samsom, R.H. & Vierke, C. (dir.), One Text, Many Forms: A Comparative View of the Variability of Swahili Manuscripts, manuscript cultures, 17"
+  ],
+  "notes": "Les sources ne s'accordent pas sur la conservation du manuscrit de 1728 : Clarissa Vierke le situe à la bibliothèque de l'Institut Asie-Afrique de Hambourg, où il est signalé disparu depuis 2011, tandis que l'article de Wikipédia renvoie à un manuscrit de la bibliothèque de la SOAS (Londres, ms. 45022), peut-être une autre copie ; ce point n'a pas été vérifié. Wikipédia situe aussi la composition au palais royal de Yunga, à Pate, et compte 1146 strophes ; ces précisions et le résumé de l'intrigue (rôle d'Ali, fin d'Héraclius et de ses proches) reposent sur Wikipédia et n'ont pas été vérifiés dans l'édition de Knappert, que nous n'avons pas lue. La datation en 1728 est contestée (Joukov 1992), et le statut de « plus ancien manuscrit swahili daté » dépend des datations retenues pour la Hamziya (1652) et pour le manuscrit de 1517 signalé par Mulokozi et Sengo."
+}

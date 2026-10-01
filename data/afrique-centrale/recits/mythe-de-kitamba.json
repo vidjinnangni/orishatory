@@ -1,0 +1,49 @@
+{
+  "id": "mythe-de-kitamba",
+  "nom": "Le roi Kitamba kia Xiba",
+  "variantes": [
+    "Mbanza Kitamba kia Xiba",
+    "Kitamba kia Shiba",
+    "King Kitamba kia Xiba"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "recits",
+  "peuples": [
+    "Mbundu",
+    "Imbangala"
+  ],
+  "resume": "Récit kimbundu d'Angola publié par Héli Chatelain en 1894 : le roi Kitamba kia Xiba, de Kasanji, refuse de manger, de parler et de laisser parler son village tant qu'on ne lui aura pas ramené sa première épouse morte, la reine Muhongo. Un devin descend par une tombe creusée sous son foyer jusqu'au village de Kalunga-ngombe, le roi des morts. La reine refuse de revenir et lui confie le bracelet avec lequel on l'a enterrée.",
+  "description_detaillee": "Ce récit fait partie des Folk-Tales of Angola, le recueil de textes kimbundu avec traduction anglaise que le linguiste et missionnaire suisse Héli Chatelain publia en 1894. Il vient de Kasanji, le pays des Imbangala sur le Kwango, et Chatelain l'a reçu d'un informateur nommé Jelemia dia Sabatelu, dans le dialecte mbaka. C'est l'une des descriptions les plus complètes du monde des morts, Kalunga, que livre la tradition orale mbundu publiée, et l'une des deux sources principales sur la figure de Kalunga-ngombe.\n\nÀ la mort de la reine Muhongo, Kitamba porte le deuil et l'impose à tous : les jeunes gens ne crieront plus, les femmes ne pileront plus, personne ne parlera au village. Il ne mangera ni ne boira tant qu'on ne lui aura pas rendu sa femme. Les notables font venir un devin (kimbanda), payé d'un fusil puis d'une vache. Celui-ci prépare des herbes dans un mortier, fait laver le roi et le village, puis demande qu'on creuse une tombe dans sa case, à l'emplacement du foyer. Il y descend avec son jeune fils, après avoir recommandé à sa femme de ne plus porter de ceinture et de verser chaque jour de l'eau sur le foyer. Sous terre, une large route s'ouvre et les mène à un village : c'est celui de Kalunga-ngombe. Muhongo y tresse une corbeille. Elle montre au devin un homme assis, « le seigneur Kalunga-ngombe, qui nous consume tous », puis un homme enchaîné, dans lequel il reconnaît Kitamba : le roi n'a plus que quelques années à vivre. Elle refuse de partir, car personne ne revient de Kalunga, lui interdit de manger quoi que ce soit sur place, sous peine de ne plus pouvoir remonter, et lui remet son bracelet comme preuve, en lui demandant de taire au roi ce qu'il a vu de lui. Le devin ressort par le foyer fendu, ranime son fils évanoui à la lumière du soleil et rend compte aux notables. Kitamba reconnaît le bracelet, recommence à manger et à boire, et meurt quelques années plus tard.\n\nSelon Chatelain, son informateur classait ce récit et les deux qui l'encadrent dans le recueil parmi les maka, les histoires tenues pour vraies, et non parmi les misoso, les contes de fiction ; Chatelain dit qu'il les aurait lui-même rangés parmi les contes et les présente comme un lien entre les deux genres. Il note que Kitamba kia Xiba figure comme vingtième roi de Kasanji dans une liste dynastique publiée par Henrique de Carvalho en 1890, et que la description du monde d'en bas concorde avec celle du conte de Sudika-mbambi : les morts y mènent une vie semblable à celle des vivants, puis meurent une seconde fois. Il rapproche aussi l'eau versée sur le foyer de l'arbre de vie que l'on arrose dans ce même conte. Alice Werner, qui résume le récit en 1933, s'arrête sur l'interdit de la nourriture des morts : elle pense à Perséphone et aux pépins de grenade, mais juge que le motif revient trop souvent dans les récits bantous de l'au-delà pour qu'on y voie un emprunt aux Grecs.",
+  "domaines": [
+    "deuil",
+    "mort",
+    "monde des morts",
+    "royauté"
+  ],
+  "tags": [
+    "mort-au-dela"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "kalunga-ngombe"
+    ]
+  },
+  "attributs": [
+    "tombe creusée sous le foyer",
+    "bracelet funéraire de la reine",
+    "interdit de la nourriture des morts",
+    "roi enchaîné au pays des morts"
+  ],
+  "recits_associes": [
+    "sudika-mbambi"
+  ],
+  "culte_contemporain": "",
+  "sources": [
+    "Chatelain, H. (1894). Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English Translation, Introduction, and Notes (conte XL, « King Kitamba kia Xiba », et notes)",
+    "Werner, A. (1933). Myths and Legends of the Bantu (chapitre II)"
+  ],
+  "notes": "Le nom est transcrit Kitamba kia Xiba par Chatelain (x se prononçant ch) et Kitamba kia Shiba par Werner. La mention de Kitamba dans la liste des rois de Kasanji de Carvalho (1890, sous la forme Quintamba-quia-Xiba) est rapportée par Chatelain et n'a pas été vérifiée dans l'ouvrage de Carvalho. Werner fait remarquer que le texte n'explique pas pourquoi le roi, encore vivant, apparaît enchaîné chez les morts, ni s'il lève le deuil imposé au village. La recommandation de ne plus porter de ceinture est glosée par Chatelain comme une manière de nouer le pagne sans ceinture ; Werner y voit une tenue de deuil, interprétation qui reste la sienne."
+}

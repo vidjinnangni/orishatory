@@ -37,7 +37,9 @@
     "anthropophagie",
     "villages de makishi"
   ],
-  "recits_associes": [],
+  "recits_associes": [
+    "sudika-mbambi"
+  ],
   "culte_contemporain": "",
   "sources": [
     "Chatelain, H. (1894). Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English Translation, Introduction, and Notes",

@@ -1,0 +1,53 @@
+{
+  "id": "fanany",
+  "nom": "Fanany",
+  "variantes": [
+    "Fangany",
+    "Fañany"
+  ],
+  "region": "afrique-est",
+  "categorie": "creatures",
+  "peuples": [
+    "Betsileo",
+    "Malgaches"
+  ],
+  "resume": "Dans les traditions des Betsileo, sur les hautes terres du centre-sud de Madagascar, le fanany est un serpent d'eau en lequel renaissaient les nobles défunts : on le disait né d'un ver apparu dans les liquides de leur corps en décomposition. Lorsqu'on en trouvait un, on lui demandait de quel ancêtre il était la réincarnation avant de l'honorer et de le ramener près du tombeau. Des contes malgaches lui prêtent aussi la forme d'un serpent à sept têtes, détail que les sources académiques consultées ne confirment pas.",
+  "description_detaillee": "Le fanany appartient aux croyances funéraires des Betsileo, qui vivent sur les hautes terres au sud de l'Imerina. Chez eux, les hova formaient la noblesse dirigeante, distincte des roturiers (olompotsy) et des esclaves (andevo) ; on les tenait pour masina, sacrés, et entourés d'interdits. Selon l'anthropologue Denis Regnier, qui reprend des sources plus anciennes, lorsqu'un hova important mourait, on laissait son cadavre se décomposer, on en recueillait les liquides et l'on attendait sa renaissance en un serpent appelé fanany. Cette transformation était réservée aux nobles : elle marquait la distance qui les séparait des autres groupes, jusque dans la mort.\n\nDavid Graeber, qui rassemble les témoignages du XIXe siècle (missionnaires comme George Shaw et James Sibree, puis le jésuite Henri Dubois), décrit des funérailles royales organisées pour séparer les parties humides du corps des parties sèches. Tantôt on retirait les entrailles pour les jeter dans un lac, où elles devenaient fanany ; tantôt on drainait les fluides du corps, et le ver qui s'y développait était déposé dans le tombeau avec le corps desséché, un tube de bambou lui ménageant une sortie. Le fanany était un serpent d'eau aux couleurs vives, que l'on comparait à un lamba arin-drano, étoffe funéraire betsileo à bandes claires entre des raies noires et blanches. Quand on en trouvait un, les gens s'assemblaient et lui récitaient des noms de chefs défunts ; le serpent hochait la tête au bon nom. On le faisait alors glisser sur une étoffe propre, on le portait dans l'ancienne demeure du défunt, on sacrifiait des bœufs, puis on le relâchait près de la tombe.\n\nAu XXe siècle, selon Graeber, les habitants de l'Imerina pensaient que n'importe quel Betsileo pouvait devenir fanany ; on lui racontait l'histoire de familles réunies pour reconnaître un serpent-ancêtre, le nourrir de riz au lait et au miel, avant de lui demander de partir parce qu'il effrayait les enfants. Il rapporte aussi des récits de travailleurs betsileo morts loin de chez eux et revenus sous cette forme vers la terre de leurs ancêtres, ce qui rapproche le fanany des préoccupations qu'exprime le famadihana : ramener les morts au tombeau familial. Le mythe de création de Zanahary et de Ratovoantany, où le corps revient à la terre et le souffle au ciel, forme l'arrière-plan de ces conceptions. Ailleurs dans l'île, des contes font du fanany un monstre dévorant, parfois un serpent à sept têtes ; ces versions ne sont décrites que par des sites de vulgarisation, et leur rapport avec la croyance betsileo n'est pas établi.",
+  "domaines": [
+    "mort",
+    "ancêtres",
+    "noblesse",
+    "réincarnation"
+  ],
+  "tags": [
+    "ancetres",
+    "mort-au-dela",
+    "metamorphose",
+    "royaute-sacree"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "famadihana",
+      "ratovoantany",
+      "zanahary"
+    ]
+  },
+  "attributs": [
+    "serpent d'eau",
+    "couleurs du lamba arin-drano",
+    "ver né des liquides du cadavre",
+    "tube de bambou dans le tombeau",
+    "riz au lait et au miel"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Graeber, D. (1997). Painful Memories, Journal of Religion in Africa, 27 (4)",
+    "Regnier, D. (2014). Les esclaves morts et leur invocation dans les rituels du Sud betsileo, Études océan Indien, 51-52",
+    "Dubois, H.-M. (1938). Monographie des Betsileo (Madagascar)"
+  ],
+  "notes": "Les sources sur le fanany sont minces et anciennes : Graeber et Regnier s'appuient sur des récits missionnaires du XIXe siècle (Shaw 1878, Sibree, Abinal) et sur la monographie de Dubois (1938, p. 716-718), que nous n'avons pas pu consulter directement. Les pratiques décrites concernent la noblesse betsileo du XIXe siècle ; nous n'avons pas trouvé d'étude récente sur leur éventuelle survivance. Le serpent à sept têtes (« fananim-pitoloha »), l'ogre des contes et une mention écrite remontant à 1521 ne figurent que dans des sites non académiques (fandom, sites de voyage, blogs de contes) et n'ont pas été vérifiés. Le lien avec le fanany betsileo n'est donc pas établi, et la fiche ne le présente pas comme une caractéristique de la croyance."
+}

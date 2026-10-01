@@ -35,7 +35,10 @@
     "village souterrain des morts",
     "hache"
   ],
-  "recits_associes": [],
+  "recits_associes": [
+    "mythe-de-kitamba",
+    "sudika-mbambi"
+  ],
   "culte_contemporain": "",
   "sources": [
     "Chatelain, H. (1894). Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English Translation, Introduction, and Notes (contes « Sudika-mbambi », « King Kitamba kia Xiba », « Ngunza Kilundu kia Ngunza » et notes)",

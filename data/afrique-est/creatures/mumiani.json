@@ -1,0 +1,50 @@
+{
+  "id": "mumiani",
+  "nom": "Mumiani",
+  "variantes": [
+    "Mumiyani",
+    "Wazimamoto",
+    "Bazimamoto",
+    "Kachinja",
+    "Banyama",
+    "Batumbula"
+  ],
+  "region": "afrique-est",
+  "categorie": "creatures",
+  "peuples": [
+    "Populations swahiliphones du Kenya et du Tanganyika",
+    "Baganda (Ouganda)",
+    "Luo (Kenya)",
+    "Populations de Rhodésie du Nord et du Congo belge"
+  ],
+  "resume": "Mumiani désigne, en swahili, les extracteurs de sang dont parlaient de nombreuses rumeurs dans l'Afrique de l'Est et l'Afrique centrale coloniales, surtout entre les années 1920 et 1950 : des hommes au service des Européens, souvent des pompiers ou des policiers, enlevaient des passants pour leur prendre le sang. Ce n'est pas une créature d'une mythologie ancienne mais un ensemble de récits modernes, que l'historienne Luise White a étudiés comme des sources sur l'expérience coloniale.",
+  "description_detaillee": "Le mot mumiani apparaît dans les dictionnaires swahilis de la fin du XIXe siècle. Celui de l'évêque Edward Steere, publié à Zanzibar en 1870, lui donne le sens de « momie » et de remède ; celui de Johann Ludwig Krapf, compilé près de Mombasa, en fait un remède fabuleux que les Européens tireraient, selon les habitants, du sang humain. Le terme vient, par l'arabe et le persan, du nom d'une substance médicinale (mumiya) que l'on prêtait aux momies, et il serait arrivé sur la côte par les circuits de l'océan Indien. À partir de la fin de la Première Guerre mondiale, il sert à nommer à la fois un remède fait de sang et ceux qui le prélèvent, et il entre dans des rumeurs qui circulent du Kenya au Tanganyika, à l'Ouganda, à la Rhodésie du Nord et au Congo belge.\n\nLes récits suivent un canevas assez fixe. Des Africains employés par les Européens capturent des passants imprudents, les retiennent dans des fosses ou des bâtiments officiels et leur prennent leur sang, souvent par des injections, pour le livrer à leurs maîtres. Les accusés portent souvent un uniforme : pompiers surtout, d'où le nom de wazimamoto (« ceux qui éteignent le feu ») en swahili et de bazimamoto à Kampala, mais aussi policiers, gardes-chasse (banyama en Rhodésie du Nord), médecins, propriétaires ou responsables de mines. À Mombasa, en 1947, une rumeur selon laquelle les pompiers transportaient des seaux de sang et retenaient une femme à la caserne déclencha une émeute ; leurs combinaisons noires ressemblaient, disait-on, à la tenue des hommes du mumiani. À Buguruni, quartier périphérique de Dar es Salaam, une émeute éclata en 1959 après des accusations visant des gardiens et des policiers, soupçonnés d'enlever des habitants pour fabriquer des remèdes avec leur sang.\n\nDans Speaking with Vampires (2000), Luise White prend ces histoires au sérieux sans les tenir pour vraies. Personne ne savait ce que les Européens faisaient du sang africain, mais beaucoup étaient certains qu'ils en prenaient, et c'est précisément cette incertitude qui fait de ces récits une source : ils montrent le monde tel que le voyaient ceux qui les racontaient, un monde de vulnérabilité face aux prélèvements des hôpitaux, aux campagnes sanitaires, à la police et aux employeurs. Elle y voit un idiome nouveau, construit à partir d'anciennes idées sur la sorcellerie et de l'expérience coloniale, plutôt qu'une simple incompréhension de la médecine occidentale. James Brennan a repris le cas de Buguruni en le replaçant dans l'urbanisation, les conflits fonciers et le nationalisme de la fin de l'époque coloniale. Comme le Popobawa de Zanzibar, le mumiani appartient à ces figures récentes que l'on comprend mieux par l'histoire sociale que par la mythologie.",
+  "domaines": [
+    "rumeur",
+    "sang",
+    "pouvoir colonial",
+    "médecine"
+  ],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "popobawa"
+    ]
+  },
+  "attributs": [
+    "injections",
+    "seaux de sang",
+    "fosses",
+    "uniformes (pompiers, policiers)"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "White, L. (2000). Speaking with Vampires: Rumor and History in Colonial Africa",
+    "Brennan, J.R. (2008). Destroying Mumiani: Cause, Context, and Violence in Late Colonial Dar es Salaam, Journal of Eastern African Studies, 2 (1)"
+  ],
+  "notes": "Les rumeurs de mumiani ne relèvent pas d'une tradition ancienne : les témoins interrogés par Luise White les font commencer après la Première Guerre mondiale, alors que le mot figure déjà dans les dictionnaires des années 1870. Les noms varient selon les régions et les langues (wazimamoto, bazimamoto, banyama, batumbula, kachinja) et ne recouvrent pas toujours exactement la même figure. Le récit de Mombasa (1947) et les détails sur Buguruni (1959) proviennent respectivement du livre de White et du résumé de l'article de Brennan, que nous n'avons pas pu lire en entier. Les explications d'administrateurs coloniaux, qui y voyaient une superstition ou une manière de penser l'invasion étrangère, font elles-mêmes partie des archives que White analyse avec précaution."
+}

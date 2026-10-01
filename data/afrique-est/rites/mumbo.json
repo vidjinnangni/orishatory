@@ -1,0 +1,49 @@
+{
+  "id": "mumbo",
+  "nom": "Mumbo",
+  "variantes": [
+    "Culte de Mumbo",
+    "Mumboïsme"
+  ],
+  "region": "afrique-est",
+  "categorie": "rites",
+  "peuples": [
+    "Luo (Nyanza, Kenya)",
+    "Gusii (Kisii, Kenya)"
+  ],
+  "resume": "Le culte de Mumbo est un mouvement religieux né en 1913 au bord du lac Victoria, lorsque le Luo Onyango Dunde annonça qu'un serpent géant nommé Mumbo l'avait avalé puis recraché pour lui confier un message. Le serpent promettait l'abondance à ses fidèles et la disparition des Européens et des chefs africains qui les servaient. Le mouvement se répandit surtout chez les Gusii du sud-ouest du Kenya et fut réprimé par les autorités britanniques jusque dans les années 1930.",
+  "description_detaillee": "Le culte de Mumbo s'est développé dans le sud-ouest du Kenya, chez les Luo puis surtout chez les Gusii, au moment où l'administration britannique s'installait dans la région. Il compte parmi les mouvements prophétiques est-africains les mieux documentés, et les historiens le citent, avec la Dini ya Msambwa des Luhya, comme un exemple de résistance politique portée par une idéologie religieuse. Les autorités coloniales l'ont classé comme une secte millénariste ; il est aujourd'hui lu aussi comme un mouvement anticolonial.\n\nSelon le récit fondateur rapporté par l'historien Brett Shadle, Onyango Dunde se trouvait en 1913 au bord du lac Victoria quand un serpent géant sortit de l'eau, l'avala puis le recracha. Le serpent se présenta sous le nom de Mumbo : il promettait à ceux qui le suivraient une abondance perpétuelle, des récoltes sans travail et du bétail sorti du lac, et annonçait qu'il chasserait les Européens et leurs alliés africains ; le christianisme était déclaré pourri. Matthew Kustenbauder décrit Mumbo comme un dieu qui avait ses demeures dans le ciel et dans le lac, et qui prenait la forme d'un immense serpent reliant les deux. Les adeptes devaient lui sacrifier et suivre certaines règles : porter des peaux plutôt que des vêtements européens, ne pas se laver ni se couper les cheveux, pratiquer les danses anciennes ; la consommation de chanvre était admise.\n\nChez les Gusii, le message rencontra une société vaincue militairement entre 1905 et 1908, éprouvée par le recrutement de porteurs pendant la Première Guerre mondiale et dont les chefs traditionnels avaient été écartés au profit de jeunes hommes instruits. Dès 1918, selon Shadle, les fidèles avaient remis 155 têtes de bétail et près d'une centaine de moutons aux adeptes, représentants terrestres de Mumbo. Vers 1920, le culte intégra la figure de Sakawa, un prophète gusii disparu vers 1902 ; une femme, Bonairiri, annonçait qu'il reviendrait obscurcir le ciel et chasser les Européens. L'administration l'interna dans un asile et exila quatre dirigeants sur la côte. En 1934, après un rassemblement de fidèles l'année précédente, neuf adeptes furent jugés : huit furent déportés et un condamné à six mois de prison. Kustenbauder signale encore des réapparitions en 1938 et en 1947, après quoi le mouvement s'éteignit pour l'essentiel.\n\nShadle propose de ne voir dans Mumbo ni une pure révolte politique ni une simple religion, mais un système de patronage concurrent : comme les chefs ou les missions, les adeptes offraient protection et redistribution, en exigeant moins. L'historiographie du culte a aussi ses pièges. Robert Maxon a montré que le pillage de la ville de Kisii par des Gusii en septembre 1914, après le retrait de l'administration britannique face à une incursion allemande, avait été attribué à tort au culte de Mumbo par plusieurs historiens, faute d'un retour aux archives. Le mouvement rappelle d'autres réponses religieuses à la conquête dans la région, comme le culte de Nyabingi en Ouganda et au Rwanda ou le maji de Kinjikitile au Tanganyika.",
+  "domaines": [
+    "prophétisme",
+    "résistance anticoloniale",
+    "abondance",
+    "patronage"
+  ],
+  "tags": [
+    "eau"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "nyabingi",
+      "kinjikitile"
+    ]
+  },
+  "attributs": [
+    "serpent géant du lac Victoria",
+    "vêtements de peau",
+    "cheveux non coupés",
+    "sacrifices",
+    "danses anciennes"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Shadle, B.L. (2002). Patronage, Millennialism and the Serpent God Mumbo in South-West Kenya, 1912-34, Africa, 72 (1)",
+    "Maxon, R.M. (1986). The Thorny Road from Primary to Secondary Source: The Cult of Mumbo and the 1914 Sack of Kisii, History in Africa, 13",
+    "Kustenbauder, M. (2008). Prophetic Movements: Eastern Africa, in Middleton, J. & Miller, J.C. (dir.), New Encyclopedia of Africa, vol. 4"
+  ],
+  "notes": "Les sources varient sur la chronologie et les noms. Kustenbauder fait arriver le culte chez les Gusii au début des années 1920 et le fait s'étendre surtout dans les années 1930, alors que Shadle signale des dons de bétail dès 1918. Les noms des prophètes gusii varient aussi : Sakawa ou Zakawa, Bonairiri ou Borairiri. L'ouvrage d'Audrey Wipper, Rural Rebels: A Study of Two Protest Movements in Kenya (1977), référence classique sur le sujet, n'a pas été consulté. Le lieu exact de la révélation d'Onyango Dunde n'est pas précisé dans les sources lues. Nous n'avons trouvé aucune pratique contemporaine attestée ; le culte reste évoqué dans la presse kényane comme un épisode de l'histoire de la résistance."
+}

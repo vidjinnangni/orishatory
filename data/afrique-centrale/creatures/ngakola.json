@@ -1,0 +1,51 @@
+{
+  "id": "ngakola",
+  "nom": "Ngakola",
+  "variantes": [
+    "Ngakora",
+    "N'gakola",
+    "Ngakoura"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "creatures",
+  "peuples": [
+    "Banda",
+    "Manja"
+  ],
+  "resume": "Ngakola est, chez les Banda et les Manja de l'actuelle Centrafrique, un être de la brousse au corps noir et velu, auquel était voué le culte initiatique du semali. Selon un mythe manja, il prétendait tuer les hommes pour les recracher renouvelés, mais n'en rendait que la moitié, et les villageois le tuèrent. L'initiation mettait en scène la mort du novice avalé par Ngakola et son retour à la vie.",
+  "description_detaillee": "Ngakola est la figure centrale d'une institution qui a structuré la vie religieuse des Banda, peuple du centre de l'actuelle République centrafricaine, et de leurs voisins manja. Le missionnaire spiritain Joseph Daigre, qui vécut parmi les Banda, le présente en 1931 comme le grand esprit, tout-puissant et redouté, qui habite la brousse avec sa compagne Yamisi et vient présider les réunions de ses fidèles sous une forme tantôt humaine, tantôt animale. Ces fidèles, les semali (sémalé chez Daigre), formaient des sociétés secrètes mixtes. La figure compte parce qu'elle lie explicitement un mythe de monstre dévorant à un rite d'initiation, ce qui en a fait un exemple repris par l'helléniste Henri Jeanmaire en 1939, puis par l'historien des religions Mircea Eliade.\n\nLe mythe a été recueilli chez les Manja par A.-M. Vergiat, qui l'a publié en 1936. Ngakola vivait autrefois sur terre ; il avait le corps très noir et couvert de longs poils, le vent le précédait et le brouillard le cachait. Il hantait la brousse près d'un marigot et réclamait à manger aux villages. Un jour, il proposa son secret : il pouvait tuer un homme, le couper en morceaux et en refaire un homme nouveau, guéri de ses maux. On lui envoya des gens, mais sur deux il n'en recrachait qu'un. Furieux, les villageois lui firent avaler des pains garnis de cailloux, le tuèrent et le mutilèrent ; sa barbe fut confiée au plus ancien. Vergiat ajoute que les enclos d'initiation, appelés bada, abritaient une pierre sacrée, réputée tirée du ventre de Ngakola, sur laquelle on déposait les offrandes. D'après les sources reprises par Eliade, le novice entrait dans une case figurant le corps du monstre, y entendait sa voix et apprenait qu'il était en train d'être digéré, avant que le maître d'initiation n'annonce que Ngakola l'avait recraché.\n\nDaigre décrit l'initiation banda telle qu'il dit y avoir assisté. Garçons et filles de quinze à vingt ans y passaient plusieurs mois en secret, apprenant une langue spéciale, des danses, des remèdes et des formules. La nuit de la consécration, les initiés chantaient « Ngakola, prends nos entrailles à tous ; Ngakola, prends nos foies à tous ! », puis subissaient l'attaque des mânes, que des aînés repoussaient, avant de sortir à l'aube, enduits d'huile et de poudre rouge, devant leurs familles. Les membres se répartissaient selon lui en quatre catégories, des anciens détenteurs des secrets (gbangava) aux enfants voués à Ngakola par leurs parents (meta). On offrait à Ngakola volailles, chèvres et une part du gibier ; on lui attribuait de nombreuses maladies et l'on jurait par son nom. Félix Eboué, administrateur en Oubangui-Chari, consacra plusieurs textes à ces sociétés au début des années 1930 ; Jeanmaire en retient que les danses du semali étaient symboliques et servaient à rythmer l'enseignement de la retraite, au point qu'un scénario de danse mettait en scène la maladie du sommeil et une mission médicale.\n\nLes sources anciennes sont toutes coloniales ou missionnaires, et Daigre mêle à sa description des jugements très durs sur les « supercheries » des anciens, qu'il faut lire comme tels. Elles ne s'accordent pas non plus sur la nature de Ngakola : grand esprit chez Daigre, esprit à forme humaine pour le père Charles Tisserant, auteur d'un dictionnaire banda (1931), ogre tué par les hommes dans le mythe manja, grand chef mis à mort par ses sujets selon les traditions banda résumées par l'historien Pierre Kalck. L'anthropologue Andrea Ceriana Mayneri rapporte que le culte a été en grande partie détruit dans les années 1960, quand le mouvement de Ngoutidé, entre 1962 et 1966, s'en prit aux bada et aux objets protecteurs (ayo) des anciens initiés.",
+  "domaines": [
+    "initiation",
+    "mort et renaissance",
+    "brousse",
+    "maladie"
+  ],
+  "tags": [
+    "initiation"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [
+    "corps noir couvert de longs poils",
+    "pierre sacrée tirée de son ventre",
+    "enclos d'initiation (bada)",
+    "compagne Yamisi"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Selon Andrea Ceriana Mayneri (2014), les camps bada et les objets ayo des initiés semali ont été en grande partie détruits par le mouvement de Ngoutidé dans les années 1960 ; ses interlocuteurs banda évoquent aujourd'hui avec ambivalence la perte des savoirs des anciens initiés. Aucune pratique actuelle du culte n'a été vérifiée.",
+  "sources": [
+    "Daigre, J. (1931). Les Bandas de l'Oubangui-Chari (Afrique Équatoriale Française). Anthropos, 26",
+    "Eboué, F. (1933). Les peuples de l'Oubangui-Chari : essai d'ethnographie, de linguistique et d'économie sociale",
+    "Eboué, F. (1931). Les sociétés d'initiés en pays banda. Bulletin de la Société des recherches congolaises, 13",
+    "Vergiat, A.-M. (1936). Les rites secrets des primitifs de l'Oubangui",
+    "Jeanmaire, H. (1939). Couroi et Courètes : essai sur l'éducation spartiate et sur les rites d'adolescence dans l'Antiquité hellénique",
+    "Kalck, P. (1971). Central African Republic: A Failure in De-colonisation",
+    "Eliade, M. (1958). Rites and Symbols of Initiation: The Mysteries of Birth and Rebirth",
+    "Ceriana Mayneri, A. (2014). Ngoutidé, « l'illuminé de Lioua ». Destruction de fétiches et représentations de la sorcellerie en Centrafrique. Cahiers d'études africaines, 215"
+  ],
+  "notes": "Les textes d'Eboué n'ont pas pu être consultés directement : ils sont connus ici par les citations de Jeanmaire (qui renvoie à la première parution des Peuples de l'Oubangui-Chari dans les Renseignements coloniaux du Comité de l'Afrique française en 1932, et à l'article de 1931 sur une affaire judiciaire) et de Ceriana Mayneri. Le mythe de Ngakola est connu par Vergiat à travers la citation qu'en donne Jeanmaire ; Eliade le résume d'après une autre source (Andersson, 1953) et l'attribue aux Manja et aux Banda. Les noms de l'entourage de Ngakola varient : Daigre lui donne une compagne, Yamisi ; Ceriana Mayneri parle de sa femme Yamissi et de leur fille Ngandala, alors qu'une notice de l'ouvrage Art and Life in Africa inverse les deux rôles. La version de Kalck (grand chef mis à mort par ses sujets, dont l'esprit reçoit un culte) n'est connue que par un extrait. D'après un extrait d'Hubert Deschamps (Les religions de l'Afrique noire, 1960), la voix de Ngakola était produite pendant l'initiation par une tige de roseau frottée sur un tambour ; ce détail n'a pas été vérifié dans une source plus complète. Tisserant signale aussi que le mot ngakola sert d'interjection marquant l'étonnement. Le romancier René Maran, ami d'Eboué, mentionne Ngakoura et Yamissi dans Le livre de la brousse (1934)."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "mbudye",
+  "nom": "Mbudye",
+  "variantes": [
+    "Bambudye",
+    "Bumbudye",
+    "Budye",
+    "Balwaba"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "rites",
+  "peuples": [
+    "Luba"
+  ],
+  "resume": "La Mbudye est une association initiatique des Luba du sud-est de la République démocratique du Congo, formée d'hommes et de femmes, qui conservait et interprétait l'histoire et les principes politiques du royaume. Ses « hommes de mémoire » récitaient généalogies et listes royales à l'aide des planchettes lukasa, et ses danses rejouaient le récit des origines de la royauté. Elle servait à la fois à célébrer les rois et à contrebalancer leur pouvoir.",
+  "description_detaillee": "Chez les Luba du Katanga, la Mbudye est l'institution qui a eu la garde de l'histoire officielle du royaume. Mary Nooter Roberts et Allen Roberts, qui l'ont étudiée sur le terrain à la fin des années 1980, la décrivent comme un conseil d'hommes et de femmes chargé de maintenir et d'interpréter les principes politiques et historiques de l'État luba, et ils placent sa création au XVIIIe siècle. Elle n'avait pas de centre unique : Burton notait déjà en 1930 que chaque chefferie ou groupe de villages avait sa propre communauté, et Alisa LaGamma précise que chaque section régionale possédait collectivement ses planchettes de mémoire. L'association compte parce qu'elle montre comment un royaume sans écriture a confié la mémoire de sa légitimité à un corps distinct du roi lui-même.\n\nSes membres franchissaient une série de grades en apprenant des savoirs de plus en plus réservés, et seuls ceux du sommet savaient lire les lukasa (voir cette fiche). Les historiens de la Mbudye, les bana balute, que les Roberts appellent à la suite de Reefe les « hommes de mémoire », étaient formés à réciter les généalogies, les listes de rois et les épisodes de l'épopée fondatrice ; les Roberts précisent que ces bana balute sont toujours des hommes, même si l'association accueille des femmes. Leurs récitations rattachaient les souverains à Kalala Ilunga, fils du chasseur Mbidi Kiluwe et vainqueur de Nkongolo Mwamba, et elles rappelaient ainsi sur quoi reposait le bulopwe, la royauté sacrée luba. La danse avait la même fonction : les performances nocturnes de la Mbudye, que les spectateurs prenaient volontiers pour un simple divertissement, étaient conçues pour faire revivre les origines de la royauté. L'ancêtre fondatrice de l'association est Lolo Inang'ombe, que les récits présentent comme une femme unie à un buffle ou comme l'enfant d'une femme et d'un buffle ; les Roberts relèvent que le buffle est aussi l'emblème de Mbidi Kiluwe, et la tortue l'animal de Lolo.\n\nLes premières descriptions écrites viennent de missionnaires hostiles. En 1930, le pentecôtiste britannique William Burton décrit les « Bambudye » comme une société de danseurs dont les vrais desseins se jouent dans une loge cachée en forêt, le kinyengele. Il en détaille la hiérarchie (le président, kikungulu, son second, musenge, des charges parfois tenues par des femmes) et rapporte deux traditions d'origine, l'une rattachant la société à un certain Ngoi ya Nkongolo venu des collines de l'est, l'autre à une épreuve imposée par Nkongolo lui-même. Il accuse aussi l'association de recruter de force et de terroriser les villages, des accusations à lire à la lumière de son hostilité déclarée envers les sociétés qu'il décrit. Les travaux de Thomas Reefe, puis ceux des Roberts, ont replacé la Mbudye dans l'histoire politique : Jan Vansina y voyait déjà un élément d'un système de contrepoids au pouvoir royal, et Allen Roberts souligne que les mêmes membres qui célébraient un roi pouvaient aussi contribuer à sa chute.",
+  "domaines": [
+    "mémoire dynastique",
+    "histoire orale",
+    "légitimité politique",
+    "danse"
+  ],
+  "tags": [
+    "royaute-sacree",
+    "initiation"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "lukasa",
+      "bulopwe",
+      "nkongolo-mwamba",
+      "mbidi-kiluwe",
+      "kalala-ilunga"
+    ]
+  },
+  "attributs": [
+    "planchette de mémoire lukasa",
+    "loge d'initiation (kinyengele)",
+    "danses nocturnes",
+    "buffle et tortue (Lolo Inang'ombe)"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Allen Roberts écrit en 2013 que les membres de la Mbudye continuent de célébrer le patrimoine luba, et qu'ils sont aujourd'hui surtout réputés pour leurs danses spectaculaires ; Mary Nooter Roberts a photographié leurs performances à la fin des années 1980. Les Roberts signalent aussi que d'importants chefs luba ont encore des bana balute pour les assister dans les litiges. L'état actuel de l'association n'a pas été vérifié au-delà de ces publications.",
+  "sources": [
+    "Burton, W.F.P. (1930). The Secret Societies of Lubaland, Congo Belge. Bantu Studies, 4",
+    "Reefe, T.Q. (1977). Lukasa: A Luba Memory Device. African Arts, 10(4)",
+    "Reefe, T.Q. (1981). The Rainbow and the Kings: A History of the Luba Empire to 1891",
+    "Nooter Roberts, M. & Roberts, A.F. (dir.) (1996). Memory: Luba Art and the Making of History",
+    "Roberts, A.F. (2013). A Dance of Assassins: Performing Early Colonial Hegemony in the Congo",
+    "LaGamma, A. (2002). Genesis: Ideas of Origin in African Sculpture"
+  ],
+  "notes": "Le nom apparaît sous plusieurs formes : Mbudye chez les Roberts, Bambudye (pluriel des membres) et Bumbudye (l'institution) chez Burton, qui signale aussi le nom de Balwaba que se donneraient les membres. La datation au XVIIIe siècle est celle des Roberts ; Burton ne donne pas de date et rapporte des traditions d'origine contradictoires. Les Roberts rappellent que bana signifie « enfants » et que l'expression suggère une filiation ; l'équivalence avec « hommes de mémoire » vient de Reefe, et le sens exact de balute n'a pas été vérifié. Les ouvrages des Roberts (1996, 2013), de LaGamma et de Reefe n'ont été consultés que par extraits ; l'article de Burton a été lu dans sa partie consacrée à la Mbudye."
+}
