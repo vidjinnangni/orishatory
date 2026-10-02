@@ -109,6 +109,14 @@ export function entityHref(entity: Pick<Entite, "region" | "categorie" | "id">):
   return `/${entity.region}/${entity.categorie}/${entity.id}/`;
 }
 
+const REPO_URL = "https://github.com/vidjinnangni/orishatory";
+
+/** Lien vers l'éditeur GitHub du fichier JSON de la fiche (propose automatiquement un fork + pull request aux contributeurs sans droits d'écriture). */
+export function entityEditUrl(entity: Pick<Entite, "id">): string | undefined {
+  const path = FILE_PATH_BY_ID.get(entity.id);
+  return path ? `${REPO_URL}/edit/main/${path}` : undefined;
+}
+
 /**
  * Suggestions "à lire aussi" calculées à partir des tags et peuples partagés
  * (les liens explicites de généalogie/récits associés ont déjà leur propre

@@ -1,4 +1,10 @@
 ---
+interface Props {
+  /** Lien vers l'éditeur GitHub de la fiche affichée, le cas échéant. */
+  editUrl?: string;
+}
+
+const { editUrl } = Astro.props;
 const repoUrl = "https://github.com/vidjinnangni/orishatory";
 ---
 
@@ -13,6 +19,17 @@ const repoUrl = "https://github.com/vidjinnangni/orishatory";
     se fait directement sur GitHub.
   </p>
   <a class="contribute-cta" href={repoUrl} target="_blank" rel="noopener">Voir sur GitHub</a>
+  {
+    editUrl && (
+      <a class="edit-link" href={editUrl} target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" width="1em" height="1em" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M4 20h4L19 9a2.1 2.1 0 0 0-3-3L5 17v3Z" />
+          <path d="M14.5 7.5l3 3" />
+        </svg>
+        Suggérer une modification
+      </a>
+    )
+  }
 </div>
 
 <style>
@@ -26,7 +43,7 @@ const repoUrl = "https://github.com/vidjinnangni/orishatory";
     background: var(--bg-elevated);
   }
 
-  .contribute-card svg {
+  .contribute-card > svg {
     width: 1.5rem;
     height: 1.5rem;
     color: var(--fg-muted);
@@ -35,6 +52,7 @@ const repoUrl = "https://github.com/vidjinnangni/orishatory";
   .contribute-card h2 {
     margin: 0;
     font-size: 1rem;
+    font-weight: 700;
   }
 
   .contribute-card p {
@@ -69,5 +87,23 @@ const repoUrl = "https://github.com/vidjinnangni/orishatory";
   .contribute-cta:active {
     transform: scale(0.96);
     transition-duration: 100ms;
+  }
+
+  .edit-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4em;
+    font-size: 0.8rem;
+    color: var(--fg-muted);
+    transition: color var(--duration-fast) var(--ease-out);
+  }
+
+  .edit-link:hover {
+    color: var(--fg);
+  }
+
+  .edit-link svg {
+    flex-shrink: 0;
   }
 </style>
