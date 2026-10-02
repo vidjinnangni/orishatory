@@ -1,0 +1,48 @@
+{
+  "id": "ntsikana",
+  "nom": "Ntsikana",
+  "variantes": [
+    "Ntsikana kaGaba",
+    "Ntsikana, fils de Gaba"
+  ],
+  "region": "afrique-australe",
+  "categorie": "heros",
+  "peuples": [
+    "Xhosa"
+  ],
+  "resume": "Ntsikana (vers 1780-1821), fils d'un conseiller du chef xhosa Ngqika, est tenu pour le premier Xhosa converti à avoir rassemblé sa propre communauté de prière. Après une vision vers 1815, il prêcha un christianisme exprimé dans les images de la culture xhosa et composa des hymnes, dont le « Grand Hymne », Ulo Thixo omkhulu, qui figure toujours dans les recueils xhosa. Les historiens l'opposent à son contemporain Makhanda (Nxele), qui appelait à la résistance armée.",
+  "description_detaillee": "Ntsikana appartient à la génération xhosa qui vécut les premières grandes ruptures de la frontière orientale du Cap. En 1811-1812, les troupes britanniques chassèrent les Xhosa au-delà de la rivière Fish, ouvrant une crise que les chefs ne savaient pas résoudre. Dans un article de 1979, Jeff Peires a montré que deux hommes du commun y répondirent de façon opposée : Nxele, que le codex présente sous le nom de Makhanda, prêcha la résistance, Ntsikana la soumission et la foi chrétienne. Pour Peires, leur attrait tenait moins à leur charisme qu'à leur capacité à rendre intelligible un monde devenu incompréhensible.\n\nFils de Gaba, conseiller de Ngqika, et de sa seconde épouse, Ntsikana était connu comme chanteur, danseur et orateur. Jeune homme, il avait entendu prêcher Johannes van der Kemp, de la London Missionary Society, entre 1799 et 1801. La tradition rapportée par John Knox Bokwe situe sa conversion vers 1815 : un matin, au lever du soleil, il vit un rayon plus brillant que les autres frapper le flanc de son bœuf favori, Hulushe, sans que l'enfant qui l'accompagnait ne voie rien. Peu après, lors d'une noce, un tourbillon de vent se leva par trois fois quand il voulut danser ; il alla se laver dans la rivière de l'ocre rouge qui couvrait son corps, puis passa le lendemain à fredonner un chant inconnu, avant d'appeler son entourage à la prière. Il fréquenta ensuite les missionnaires Joseph Williams et John Brownlee, sans jamais s'installer à la mission ni, semble-t-il, recevoir le baptême. Avant la bataille d'Amalinde (1818), il aurait mis en garde Ngqika en lui disant qu'il voyait les têtes de ses guerriers dévorées par les fourmis ; Ngqika fut battu par Ndlambe, que soutenait Nxele. Ntsikana mourut en 1821 : selon Bokwe, il fit creuser sa tombe à l'avance, confia ses fils Kobe et Dukwana à la communauté et demanda à ses fidèles de rejoindre Brownlee à la mission de Gwali. Deux de ses convertis, Robert Balfour (Noyi) et Charles Henry Matshaya, l'enterrèrent dans un tronc d'arbre évidé.\n\nSon héritage tient surtout à ses quatre hymnes, les premiers composés en langue xhosa sur une musique xhosa. Le plus célèbre s'ouvre sur les mots « Ulo Thixo omkhulu, ngosezulwini », « Lui, le grand Dieu, qui est au ciel ». Dieu y est appelé bouclier, forteresse et fourré de la vérité, chasseur qui chasse les âmes, celui qui rassemble les troupeaux qui se combattent, grande couverture dont on se revêt ; le chant s'achève sur les mains et les pieds blessés et le sang versé. La mélodie se transmit oralement jusqu'à ce que Bokwe, à Lovedale, la publie en notation tonic sol-fa à la fin du 19e siècle. On y retrouve, comme dans sa prédication, la langue de la chasse et de l'élevage mise au service de la doctrine missionnaire du péché et du salut.\n\nLa lecture de sa vision divise les auteurs. Bokwe la comparait à la conversion de Paul sur le chemin de Damas ; Peires y voyait une expérience mystique comme en connaissaient les devins xhosa, sans rien de spécifiquement chrétien ; Janet Hodgson l'a interprétée à partir des croyances xhosa liées au bétail et aux ancêtres. L'opposition avec Nxele, qui distinguait le dieu des Blancs de celui des Noirs, a longtemps été présentée par les missionnaires comme celle du vrai et du faux prophète, un cadre que Peires a remplacé par l'étude de deux réponses à une même crise. Un siècle plus tard, l'Industrial and Commercial Workers' Union invoquait sa mémoire, et le fils de l'un de ses fidèles, Tiyo Soga, devint le premier pasteur xhosa ordonné. Dans le codex, Ntsikana se lit en regard de Makhanda et du nom divin Qamata, en usage chez les Xhosa à côté du Thixo de son hymne.",
+  "domaines": [
+    "prophétie",
+    "hymnodie",
+    "christianisme xhosa"
+  ],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "makhanda-nxele",
+      "qamata",
+      "nongqawuse"
+    ]
+  },
+  "attributs": [
+    "le bœuf Hulushe",
+    "l'ocre rouge lavée dans la rivière",
+    "le Grand Hymne (Ulo Thixo omkhulu)",
+    "l'arbre sous lequel il réunissait ses fidèles"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Le Grand Hymne figure dans les recueils de cantiques xhosa et se chante aussi bien dans les Églises issues des missions (Uniting Presbyterian Church in Southern Africa, Methodist Church of Southern Africa) que dans les Églises indépendantes africaines. En juillet 1911, son petit-fils, le révérend Burnet Gaba, a fondé à Pirie, près de King William's Town, une Église commémorative de Ntsikana (Ntsikana Memorial Church).",
+  "sources": [
+    "Peires, J.B. (1979). Nxele, Ntsikana and the Origins of the Xhosa Religious Reaction. Journal of African History 20(1), p. 51-61",
+    "Bokwe, J.K. (1914). Ntsikana: The Story of an African Hymn. Lovedale, Lovedale Press",
+    "Hodgson, J. (1980). Ntsikana's Great Hymn: A Xhosa Expression of Christianity in the Early 19th Century Eastern Cape. Le Cap, Centre for African Studies, University of Cape Town",
+    "Mokhoathi, J. (2021). Christianity in Transformation: The Rise of African Christianity among the AmaXhosa of the Eastern Cape. Acta Theologica 41, suppl. 32",
+    "Jentile, T.E. (2024). 'Amadodana enu abone imibono': The interpretation of Ntsikana's vision against the book of Acts's vision experiences. Verbum et Ecclesia 45(1)",
+    "van Niekerk, A. (s.d.). Ntsikana. Dictionary of African Christian Biography (repris de l'Encyclopaedia Africana)"
+  ],
+  "notes": "Les dates varient : naissance vers 1760 ou vers 1780, mort en 1820, 1821 (Bokwe, Hodgson) ou 1822 (Peires, selon Jentile). La nature de sa relation avec Nxele est surtout connue par des sources missionnaires ou des auteurs qui en dépendent, et le récit de la vision, du tourbillon et de la tombe creusée d'avance vient de la tradition recueillie par John Knox Bokwe et publiée à Lovedale, dont le texte de 1914 emploie un vocabulaire missionnaire daté (« heathen », « Kaffir »). La seconde partie de l'opuscule de Bokwe a été lue directement, ainsi que l'article de Jentile et celui de Mokhoathi ; l'article de Peires n'est connu que par son résumé et l'ouvrage de Hodgson par les citations de ces auteurs. Une notice du Dictionary of African Christian Biography qualifie Nxele de « witch doctor », expression coloniale qui n'est pas reprise ici. L'absence de baptême formel est affirmée par Jentile (2024) et n'a pas été recoupée ailleurs."
+}
