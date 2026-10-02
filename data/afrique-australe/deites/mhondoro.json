@@ -1,0 +1,59 @@
+{
+  "id": "mhondoro",
+  "nom": "Mhondoro",
+  "variantes": [
+    "esprits lions"
+  ],
+  "region": "afrique-australe",
+  "categorie": "deites",
+  "peuples": [
+    "Shona (Korekore, Tavara, Zezuru et autres groupes)"
+  ],
+  "resume": "Dans la religion shona du Zimbabwe, les mhondoro (« lions ») sont les esprits des chefs et des rois défunts, réputés habiter le corps d'un lion lorsqu'ils ne parlent pas par la bouche d'un médium. Gardiens d'un territoire, ils commandent la pluie et la fertilité, protègent les récoltes et le gibier, et interviennent dans le choix des chefs. Pendant la guerre de libération des années 1970, leurs médiums ont donné aux guérilleros une légitimité ancestrale, étudiée par David Lan dans Guns and Rain (1985).",
+  "description_detaillee": "Chez les Shona du Zimbabwe, le mot mhondoro, qui veut dire « lion », désigne l'esprit d'un chef du passé, ancêtre des lignées royales qui détiennent les chefferies. Les vadzimu, ancêtres de chaque famille, veillent sur leurs descendants ; les mhondoro veillent sur un pays entier et sur tous ceux qui y vivent, qu'ils soient de leur sang ou non. Par eux passent la propriété de la terre, la pluie et la légitimité du pouvoir, ce qui explique le rôle qu'ils ont tenu dans l'histoire politique du pays, des révoltes de 1896 à la guerre de libération.\n\nDans la vallée du Dande, au nord-est du Zimbabwe, David Lan a recueilli au début des années 1980 la conception suivante. À sa mort, l'esprit d'un chef gagne la brousse et entre dans un lion ; certains disent qu'un lionceau sans crinière sort de la tombe quelques jours après l'inhumation. Quand le mhondoro veut parler aux vivants, il choisit un homme, plus rarement une femme, comme médium (svikiro). L'élu tombe malade sans que rien ne le guérisse, un guérisseur (n'anga) reconnaît l'appel d'un esprit, puis vient l'épreuve publique : le candidat récite l'histoire de la lignée royale jusqu'au chef en place et doit reconnaître, parmi plusieurs bâtons, celui de son prédécesseur. Vêtu de noir, muni d'une hache rituelle et d'une tabatière, le médium fuit le sang, la mort et tout ce qui touche à la naissance ; chez les Korekore et les Tavara, il refuse aussi les aliments industriels, les médicaments occidentaux, la voiture et la route goudronnée. Le pays est découpé en « provinces d'esprit » (mhondoro ye nyika, selon la traduction de Kingsley Garbett), souvent bornées par des rivières qui ne suivent pas les limites des chefferies. Une demande de pluie remonte de l'esprit le plus récent au plus ancien de la généalogie royale, longue parfois d'une quinzaine de générations ; dans le Dande, seuls les mhondoro des premiers occupants passent pour capables de faire vraiment tomber la pluie, les lignées conquérantes devant s'en remettre à eux. Inceste, meurtre ou sorcellerie suffisent à tarir les pluies. Comme c'est le médium qui désigne le successeur d'un chef, l'autorité du chef et celle du médium dépendent l'une de l'autre.\n\nQuand les guérilleros de la ZANLA entrèrent dans le Dande au début des années 1970, on les conduisit auprès de Kunzaruwa, une vieille femme possédée par Nehanda. Elle leur indiqua les chemins, la nourriture permise, les lieux interdits, leur défendit toute relation sexuelle et leur apprit à lire les signes de la forêt ; en 1972, les combattants la portèrent sur une civière jusqu'au Mozambique, où elle mourut en 1973. D'autres médiums, comme Chipfene ou ceux des mhondoro Chidyamauyu et Chiodzamamera, guidèrent les colonnes et frottèrent le front des combattants avec le tabac à priser des médiums. Les guérilleros observaient des interdits proches de ceux des médiums et des chasseurs : pas de relations sexuelles, pas de contact avec les femmes en période de règles, interdiction de tuer éléphants et babouins, d'où la protection qu'ils attribuaient à la brousse. Pour Lan, les chefs, transformés en petits administrateurs de l'État colonial et impuissants devant la perte des terres, passaient pour avoir été rejetés par les ancêtres ; les médiums ont fait des guérilleros leurs successeurs, les « descendants des mhondoro », et le symbolisme de la lignée royale s'est étendu à toute la population, celui de la province d'esprit à la nation. Les chants de la guerre invoquaient ensemble Nehanda, Chaminuka et Monomotapa.\n\nCette lecture a été discutée. Norma Kriger (1992) a souligné la contrainte exercée par les guérilleros et les divisions internes à la paysannerie, que les travaux de Lan et de Terence Ranger laissaient dans l'ombre ; d'autres ont rappelé que l'expérience de la guerre variait fortement d'une région à l'autre. Matthew Schoffeleers a contesté l'interprétation que Lan donnait du Guruuswa, terre d'origine du mhondoro Mutota, et Garbett voyait dans la médiumnité un mouvement de balancier, les médiums affaiblissant les pouvoirs trop forts et renforçant les plus faibles. Dans le codex, l'institution éclaire plusieurs fiches : Nehanda et Chaminuka sont les plus célèbres des mhondoro, les rois du Mwene Mutapa devenaient mhondoro à leur mort, et le bira est l'une des cérémonies où l'on appelle les esprits, tandis que Mwari demeure au-dessus d'eux comme être suprême.",
+  "domaines": [
+    "pluie",
+    "fertilité de la terre",
+    "protection du territoire",
+    "légitimité des chefs",
+    "guerre"
+  ],
+  "tags": [
+    "ancetres",
+    "royaute-sacree",
+    "terre-fertilite",
+    "metamorphose"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "nehanda",
+      "chaminuka",
+      "mwene-mutapa",
+      "bira",
+      "mwari"
+    ]
+  },
+  "attributs": [
+    "lion (lionceau sans crinière selon certaines traditions)",
+    "étoffe noire et étoffe blanche du médium",
+    "hache rituelle et bâton",
+    "tabatière et tabac à priser (bute)",
+    "bière de mil offerte au sanctuaire"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Des médiums de mhondoro restent actifs dans le nord du Zimbabwe. Marja Spierenburg a montré leur rôle, après l'indépendance, dans la résistance des habitants du Dande aux projets de réforme agraire conçus par l'État. Dans la province de Manica, au Mozambique, Bjørn Bertelsen a recueilli entre 2005 et 2008 des témoignages déplorant au contraire l'absence de médiums de mhondoro et la prolifération de lions jugés malfaisants.",
+  "sources": [
+    "Lan, D. (1985). Guns and Rain: Guerrillas and Spirit Mediums in Zimbabwe. Londres, James Currey ; Berkeley, University of California Press",
+    "Lan, D.M. (1983). Making History: Spirit Mediums and the Guerilla War in the Dande Area of Zimbabwe. Thèse de doctorat, London School of Economics and Political Science",
+    "Garbett, G.K. (1969). Spirit Mediums as Mediators in Valley Korekore Society. In Beattie, J. & Middleton, J. (dir.), Spirit Mediumship and Society in Africa. Londres, Routledge, p. 104-127",
+    "Bourdillon, M.F.C. (1987). Shona Religion. In Eliade, M. (dir.), The Encyclopedia of Religion. New York, Macmillan",
+    "Kriger, N.J. (1992). Zimbabwe's Guerrilla War: Peasant Voices. Cambridge, Cambridge University Press",
+    "Raftopoulos, B. (1999). Problematising Nationalism in Zimbabwe: A Historiographical Review. Zambezia 26(2)",
+    "Spierenburg, M. (2004). Strangers, Spirits, and Land Reforms: Conflicts about Land in Dande, Northern Zimbabwe. Leyde, Brill",
+    "Bertelsen, B.E. (2016). Violent Becomings: State Formation, Sociality, and Power in Mozambique. New York, Berghahn Books (chap. 3)"
+  ],
+  "notes": "La description du système (provinces d'esprit, chaîne des demandes de pluie, épreuve des médiums, interdits) vient de la thèse de David Lan (1983), lue directement, qui précise lui-même décrire le système tel qu'on le lui a exposé plutôt que tel qu'il fonctionne en pratique ; le livre de 1985, qui en est issu, n'a pas été consulté en entier. Les pratiques varient selon les régions : Bourdillon note que là où des conquêtes ont eu lieu, on distingue souvent les esprits des chefs, tournés vers le pouvoir, et ceux des premiers occupants, tournés vers la terre et la pluie. Lan signale aussi que les médiums chikunda, dont les mhondoro passent pour avoir été des Portugais, n'observent pas les interdits liés aux objets européens, et Schoffeleers relève qu'en Zambézie des personnages étrangers ont pu devenir des mhondoro. Les positions de Kriger et de Schoffeleers sont connues ici à travers Raftopoulos (1999) et Bertelsen (2016), non par lecture directe ; l'ouvrage de Spierenburg n'est connu que par sa présentation éditoriale. Le terme svikiro s'écrit aussi tsvikiro."
+}
