@@ -25,7 +25,9 @@
     ]
   },
   "attributs": [],
-  "recits_associes": [],
+  "recits_associes": [
+    "conte-du-naufrage"
+  ],
   "culte_contemporain": "",
   "sources": [
     "Parkinson, R.B. (1997). The Tale of Sinuhe and Other Ancient Egyptian Poems",

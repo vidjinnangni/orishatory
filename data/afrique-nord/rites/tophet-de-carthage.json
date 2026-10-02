@@ -1,0 +1,57 @@
+{
+  "id": "tophet-de-carthage",
+  "nom": "Tophet de Carthage",
+  "variantes": [
+    "Tophet de Salammbô",
+    "Sanctuaire de Tanit (première appellation)",
+    "Molk (nom du rite selon une interprétation)"
+  ],
+  "region": "afrique-nord",
+  "categorie": "rites",
+  "peuples": [
+    "Carthaginois (Puniques)",
+    "Phéniciens d'Occident"
+  ],
+  "resume": "Le tophet de Carthage, dit « de Salammbô », est un sanctuaire à ciel ouvert du quartier des ports où, du VIIIe au IIe siècle avant notre ère, furent déposées des milliers d'urnes contenant les restes incinérés de très jeunes enfants et d'animaux, surmontées de stèles votives dédiées à Tanit et à Baal Hammon. Les chercheurs restent divisés sur la nature du rite : sacrifice d'enfants accompli à la suite d'un vœu (le molk), ou lieu réservé aux tout-petits morts de causes naturelles.",
+  "description_detaillee": "Le tophet de Carthage est le plus vaste et le plus célèbre des sanctuaires que les archéologues appellent « tophets », propres au monde phénicien d'Occident : Carthage, Motyé en Sicile, Sulci et Tharros en Sardaigne, puis de nombreuses cités d'Afrique du Nord. Le mot est emprunté à la Bible, qui condamne sous ce nom un lieu de la vallée de Ben-Hinnom, près de Jérusalem, où des enfants étaient « passés par le feu » (Jérémie 7, 31 ; II Rois 23, 10). Le nom de Salammbô vient du roman de Gustave Flaubert (1862), dont les pages sur les enfants livrés au feu ont durablement marqué l'image du site.\n\nDes stèles puniques dédiées à Tanit et à Baal Hammon circulaient dans les collections dès 1817, et des milliers furent extraites au XIXe siècle, notamment par Évariste Pricot de Sainte-Marie, sans que l'on sache d'où elles venaient. Le champ de stèles ne fut repéré qu'en décembre 1921, près des ports puniques, après qu'on eut proposé à Paul Gielly la stèle dite « du prêtre à l'enfant ». Les fouilles se succédèrent : François Icard en 1922, Francis Kelsey en 1925, Gabriel-Guillaume Lapeyre de 1934 à 1936, Pierre Cintas de 1944 à 1947, Lawrence Stager à la fin des années 1970 dans le cadre de la campagne internationale de sauvegarde de Carthage, enfin Imed ben Jerbania depuis 2015. Elles ont mis au jour quatre niveaux d'occupation, du VIIIe au IIe siècle avant notre ère : des urnes empilées contenant des os brûlés de nouveau-nés, de nourrissons ou de jeunes animaux (agneaux, chevreaux), parfois mêlés, avec de petits bijoux ou amulettes, surmontées de cippes puis de stèles. Les inscriptions suivent une formule fixe : « à la Dame, à Tanit face de Baal, et au Seigneur, à Baal Hammon », suivie du nom du dédicant, qui a « voué » l'offrande, et parfois de la mention « parce qu'ils ont entendu sa voix » ou « qu'ils le bénissent ».\n\nLa question du sacrifice divise depuis un siècle. Des auteurs grecs et latins accusent les Carthaginois d'immoler des enfants à Kronos ; Diodore de Sicile (XX, 14) rapporte qu'en 310 avant notre ère, assiégés par Agathocle de Syracuse, ils sacrifièrent deux cents enfants des meilleures familles, jetés dans le feu depuis les mains d'une statue de bronze. En 1935, Otto Eissfeldt a proposé que le mot punique mlk (molk) désigne non un dieu « Moloch » mais un type d'offrande, et des formules comme « stèle d'un mlk d'agneau » ou « d'un mlk d'être humain » sont au cœur du dossier. Paolo Xella et d'autres chercheurs (Antiquity, 2013 ; Pallas, 2017) défendent l'idée d'un sanctuaire où l'on accomplissait un vœu en offrant un enfant, et Brien Garnand et Joseph Greene, à partir des urnes des fouilles Stager, plaident aussi pour le sacrifice. Hélène Bénichou-Safar a proposé au contraire, depuis les années 1980, d'y voir avant tout une aire réservée aux tout-petits, tout en admettant des sacrifices occasionnels, et l'équipe de Jeffrey Schwartz, après l'étude de 348 urnes, conclut que la moitié environ des sujets étaient des prénatals ou des périnatals, profil compatible avec une mortalité naturelle. Patricia Smith et ses collègues, sur le même matériel, estiment au contraire que la plupart des enfants étaient morts entre un mois et un mois et demi, une répartition qui, selon eux, s'explique mal par la seule mortalité naturelle.\n\nLe débat dépasse l'ostéologie. Clémentine Gutron a montré comment l'imaginaire de Flaubert, les rivalités entre missions françaises, américaines et tunisiennes et les enjeux de mémoire nationale se sont mêlés à l'interprétation du site ; en Tunisie, plusieurs chercheurs récusent une lecture qui noircit l'héritage punique. Le tophet reste en tout cas le lieu principal du culte de Baal Hammon et de Tanit, dont les fiches du codex détaillent la théologie, et la légende d'Élissa, fondatrice de la cité, appartient au même horizon des origines phéniciennes de Carthage.",
+  "domaines": [
+    "vœu et offrande",
+    "enfance et mort",
+    "culte de Baal Hammon et de Tanit"
+  ],
+  "tags": [
+    "mort-au-dela"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "baal-hammon",
+      "tanit",
+      "elissa"
+    ]
+  },
+  "attributs": [
+    "urnes cinéraires",
+    "stèles votives à fronton",
+    "cippes",
+    "signe de Tanit",
+    "restes incinérés d'enfants et d'agneaux ou de chevreaux",
+    "formule de dédicace à Tanit et Baal Hammon"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Bénichou-Safar, H. (2004). Le tophet de Salammbô à Carthage. Essai de reconstitution. Rome, École française de Rome",
+    "Le Meaux, H., Bernardin, S. & Amann, S. (2024). Les stèles puniques de Carthage au musée du Louvre. Des offrandes à Tanit et à Baal Hammon. Paris, musée du Louvre (édition en ligne)",
+    "Xella, P. (2017). Pourquoi tous ces enfants ? Quelques réflexions sur les sanctuaires infantiles à incinération de tradition phénicienne (« tophet »). Pallas, 104, p. 345-357",
+    "Xella, P., Quinn, J., Melchiorri, V. & van Dommelen, P. (2013). Cemetery or sacrifice? Infant burials at the Carthage Tophet: Phoenician bones of contention. Antiquity, 87, p. 1199-1207",
+    "Schwartz, J.H., Houghton, F., Macchiarelli, R. & Bondioli, L. (2010). Skeletal remains from Punic Carthage do not support systematic sacrifice of infants. PLoS ONE, 5(2), e9177",
+    "Smith, P., Avishai, G., Greene, J.A. & Stager, L.E. (2011). Aging cremated infants: the problem of sacrifice at the Tophet of Carthage. Antiquity, 85, p. 859-875",
+    "Garnand, B.K. & Greene, J.A. (2023). Infants as votive offerings: Phoenician tophet precincts in context. De Gruyter",
+    "Gutron, C. (2008). La mémoire de Carthage en chantier : les fouilles du tophet Salammbô et la question des sacrifices d'enfants. L'Année du Maghreb, 4, p. 45-65",
+    "Diodore de Sicile (Ier s. av. n. è.). Bibliothèque historique, livre XX, 14"
+  ],
+  "notes": "La nature du rite n'est pas tranchée et la fiche ne prend pas parti : les arguments en faveur du sacrifice reposent sur les sources gréco-latines (hostiles à Carthage), sur la lecture de mlk comme terme sacrificiel, sur les inscriptions votives et sur la présence d'animaux sacrifiés dans les mêmes urnes ; ceux en faveur d'une aire funéraire reposent sur le très jeune âge des sujets et la forte proportion de prénatals. Les estimations d'âge divergent selon les méthodes (Schwartz et al. 2010 et 2017 contre Smith et al. 2011 et 2013), sur le même échantillon des fouilles américaines. La position de Bénichou-Safar est rapportée d'après Gutron (2008) et la bibliographie du Louvre (2024), qui renvoie à la p. 171 de son livre pour la pratique occasionnelle du sacrifice humain ; l'ouvrage n'a pas été lu en entier. Les dates des fouilles Stager varient selon les sources (1975-1979 ou 1976-1979). Le nombre total d'urnes, souvent estimé à plusieurs dizaines de milliers dans la littérature de vulgarisation, n'a pas été vérifié dans une source académique et n'est donc pas donné."
+}
