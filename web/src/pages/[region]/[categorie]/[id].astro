@@ -17,6 +17,7 @@ import {
 } from "../../../lib/constants";
 import {
   ALL_ENTITIES,
+  entityEditUrl,
   entityHref,
   getEntitiesByRegionAndCategorie,
   getEntityById,
@@ -248,7 +249,7 @@ const entityJsonLd = {
   <aside class="entity-sidebar" aria-label="Actions">
     <div class="sidebar-sticky">
       <SupportCard />
-      <ContributeCard />
+      <ContributeCard editUrl={entityEditUrl(entity)} />
     </div>
   </aside>
   </div>
@@ -325,7 +326,8 @@ const entityJsonLd = {
   }
 
   h2 {
-    font-size: 1.1rem;
+    font-size: 1.3rem;
+    font-weight: 700;
     margin-bottom: 0.6rem;
   }
 

@@ -1,7 +1,7 @@
-@import "@fontsource-variable/inter/wght.css";
+@import "@fontsource-variable/nunito/wght.css";
 
 :root {
-  --font-sans: "Inter Variable", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+  --font-sans: "Nunito Variable", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
 
   --bg: oklch(1 0 0);
   --bg-elevated: oklch(0.971 0 0);
