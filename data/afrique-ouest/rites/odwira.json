@@ -1,0 +1,60 @@
+{
+  "id": "odwira",
+  "nom": "Odwira",
+  "variantes": [
+    "Odwera",
+    "Yam Custom",
+    "Fête de l'igname"
+  ],
+  "region": "afrique-ouest",
+  "categorie": "rites",
+  "peuples": [
+    "Akan",
+    "Asante",
+    "Akuapem"
+  ],
+  "resume": "Grande fête annuelle de purification des Akan du Ghana, liée à la récolte de la nouvelle igname et à l'hommage aux ancêtres royaux. À Kumasi, capitale du royaume asante, elle réunissait chaque année les chefs autour de l'Asantehene pour renouveler leur allégeance, jusqu'à l'occupation britannique et l'exil du roi Prempeh Ier en 1896. Elle reste célébrée chaque année dans l'Akuapem, où elle remonte à 1826, et sa reprise à Kumasi a été annoncée en 2024.",
+  "description_detaillee": "Le nom vient du verbe twi dwira, « purifier, nettoyer ». Chez les Asante, l'odwira fermait une année rituelle (afe) faite de neuf cycles de quarante-deux jours (adaduanan) et en ouvrait une nouvelle, entre août et octobre, quand la nouvelle igname arrivait à maturité. L'historien Kwasi Konadu rappelle qu'il ne s'agissait pas d'une simple fête des récoltes, même si la consommation rituelle de l'igname en marquait un moment central : on y purifiait la communauté des vivants et des morts, on y renouvelait l'allégeance à l'État et on y faisait le point sur la marche du pays. Selon la tradition reprise par T. C. McCaskie et Ivor Wilks, la première odwira aurait suivi de peu la victoire sur le Denkyira en 1701, ce qui la rattache à la naissance même du royaume.\n\nLe témoignage le plus détaillé du XIXe siècle est celui de Thomas Edward Bowdich, envoyé britannique présent à Kumasi en septembre 1817. Il décrit l'arrivée des chefs et des tributaires, tenus de venir sauf dispense, la présentation au roi dans un fracas de tambours et de mousqueterie, et le règlement à cette occasion des affaires des chefs soupçonnés d'infidélité. Il rapporte aussi des mises à mort, surtout de condamnés, et du sang de moutons versé sur les tabourets royaux et les montants des portes. Une dizaine de jours plus tard, la maisonnée royale mangeait pour la première fois la nouvelle igname ; le roi, vêtu de blanc comme sa suite, lavait ensuite de ses propres mains sa personne, ses sièges, ses tabourets et sa vaisselle d'or et d'argent. C'est aussi à l'odwira que siégeait l'assemblée des chefs de tout le royaume, l'Asantemanhyiamu, et l'on y rendait hommage aux occupants défunts et vivants du Tabouret d'or. Dans State and Society in Pre-Colonial Asante (1995), McCaskie fait de cette fête le centre de son analyse : une représentation par laquelle l'État asante se donnait à voir comme une entité qui avait été, était et serait toujours, réglait l'entrée de la nouvelle récolte et faisait passer le pays de la souillure à la pureté au seuil de l'année nouvelle.\n\nLa conquête britannique a interrompu ce cycle. Après l'occupation de Kumasi et l'exil de Prempeh Ier aux Seychelles en 1896, l'odwira cesse d'y être célébrée ; en exil, le roi écrivait encore en 1907 que l'année asante était rythmée par elle. Rattray en publia une description dans Religion and Art in Ashanti (1927). D'après Konadu, la fête resta en sommeil à Kumasi jusqu'en 1985, où elle fut reprise pour le cinquantenaire de la restauration de la confédération asante par les Britanniques en 1935. En décembre 2024, l'Asantehene Osei Tutu II a annoncé son retour ; prévue du 31 octobre au 30 novembre 2025, elle a été reportée après la mort de la reine mère Nana Konadu Yiadom III, le roi jugeant qu'elle ne pouvait se tenir avant l'intronisation d'une nouvelle Asantehemaa. Ces derniers développements ne sont connus que par la presse ghanéenne et le site du palais de Manhyia.\n\nDans l'Akuapem, au sud-est du Ghana, l'odwira a une autre histoire. Selon l'historien de l'art Kwame Amoah Labi, les Akuapem et leurs alliés, vainqueurs des Asante à Akatamanso en 1826, s'emparèrent de l'Odwira Apafram, puissance de guerre asante, et des regalia liés à la fête, ce qui leur donna l'autorité de la célébrer. Depuis, chaque année en septembre ou en octobre, Akropong vit cinq jours de rites : nettoyage du chemin vers Amamprobi, le cimetière royal, pour inviter les ancêtres ; entrée de la nouvelle igname, interdite jusque-là ; journée de deuil en noir et rouge pour les morts de l'année ; purification nocturne des tabourets noircis des anciens rois à la rivière ; enfin, grand rassemblement où les chefs de l'Akuapem viennent saluer l'Okuapehene. L'anthropologue Michelle Gilbert y voit un rituel réputé immuable dont les petites modifications d'une année sur l'autre servent pourtant à négocier les rapports de pouvoir dans le royaume. Le codex permet de rapprocher la fête du Tabouret d'or, dont Okomfo Anokye est le héros fondateur et que Yaa Asantewaa défendit en 1900, et du culte de Tano : chez les Bono de Techiman, la fête voisine du fofie exigeait l'accord de la divinité Taa Mensa, alors que l'odwira de Kumasi relevait du roi et de ses conseillers.",
+  "domaines": [
+    "purification",
+    "nouvel an rituel",
+    "récolte de l'igname",
+    "ancêtres royaux",
+    "allégeance politique"
+  ],
+  "tags": [
+    "ancetres",
+    "royaute-sacree",
+    "terre-fertilite"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "okomfo-anokye",
+      "yaa-asantewaa",
+      "tano"
+    ]
+  },
+  "attributs": [
+    "nouvelle igname",
+    "Tabouret d'or (Sika Dwa Kofi)",
+    "tabourets noircis des rois défunts",
+    "vêtements de deuil noirs et rouges, puis blancs",
+    "Odwira Apafram (Akuapem)"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Célébrée chaque année en septembre ou en octobre à Akropong et dans d'autres villes de l'Akuapem, dont Larteh, sous l'autorité de l'Okuapehene. À Kumasi, l'Asantehene Osei Tutu II a annoncé en décembre 2024 sa reprise pour 2025, puis l'a reportée en octobre 2025 après la mort de l'Asantehemaa ; aucune nouvelle date n'avait été trouvée à la rédaction de cette fiche (informations de presse).",
+  "sources": [
+    "McCaskie, T.C. (1995). State and Society in Pre-Colonial Asante",
+    "Bowdich, T.E. (1819). Mission from Cape Coast Castle to Ashantee",
+    "Rattray, R.S. (1927). Religion and Art in Ashanti",
+    "Gilbert, M. (1994). Aesthetic Strategies: The Politics of a Royal Ritual. Africa, 64(1)",
+    "Labi, K.A. (2002). Akanization of the Hill Guan Arts. Research Review (Institute of African Studies, Legon), 18(2)",
+    "Konadu, K. (2012). The Calendrical Factor in Akan History. International Journal of African Historical Studies, 45(2)",
+    "Müller, L.F. (2007). Religious Peacekeeping and the Persistence of Divine Kingship in Ghana, communication à la 2e European Conference on African Studies (AEGIS), Leyde",
+    "Greene, S.E. (1997). Compte rendu de T.C. McCaskie, State and Society in Pre-Colonial Asante. H-Africa, H-Net Reviews"
+  ],
+  "notes": "Les chapitres de McCaskie (1995) et de Rattray (1927) consacrés à l'odwira n'ont pas pu être consultés directement : ce qui leur est attribué ici vient du compte rendu de S. E. Greene et des renvois précis de Konadu (2012) et de Müller (2007). Le récit de Bowdich (1819), témoin direct en 1817, emploie un vocabulaire colonial (il compare la fête aux Saturnales et oppose les Asante à un pays « civilisé ») ; ses chiffres sur les mises à mort, environ une centaine de personnes selon lui, ne sont pas vérifiables. La date de la première odwira (1701 selon la tradition reprise par McCaskie et Wilks) est discutée, et une date de 1717 avancée par des sites non académiques n'a pas été vérifiée. La reprise de 1985 à Kumasi repose sur Konadu et sur une brochure de E. K. Braffi (1985) ; la presse ghanéenne de 2025 (Press1News, ModernGhana) affirme au contraire que la dernière odwira de Kumasi remonte à 1961, sous Prempeh II : les deux versions sont contradictoires. L'annonce de décembre 2024 provient du site du palais de Manhyia, le calendrier de 2025 et le report d'octobre 2025 de la presse (3News, Onua, Asaase Radio, News Ghana) ; l'intronisation d'une nouvelle Asantehemaa en juillet 2026 est rapportée par la Ghana News Agency. Le déroulé jour par jour de l'odwira d'Akropong suit Labi (2002) ; la version plus détaillée qui circule en ligne (Wikipédia, sites associatifs) n'est pas académique. Müller (2007) applique à Kumasi certaines observations de Gilbert faites dans l'Akuapem, ce qui invite à la prudence sur les détails rituels attribués à l'odwira asante."
+}
