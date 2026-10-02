@@ -1,0 +1,57 @@
+{
+  "id": "hapy",
+  "nom": "Hâpy",
+  "variantes": [
+    "Hapy",
+    "Hapi",
+    "Hâpi",
+    "Ḥꜥpy"
+  ],
+  "region": "afrique-nord",
+  "categorie": "deites",
+  "peuples": [
+    "Égyptiens anciens"
+  ],
+  "resume": "Hâpy est la personnification de la crue annuelle du Nil dans l'Égypte ancienne, plutôt que du fleuve lui-même. On le représente en homme au ventre lourd et à la poitrine pendante, chargé d'offrandes, figure de l'abondance que l'inondation apporte. Il n'avait pas de temple propre, mais recevait hymnes et offrandes au moment de la crue, notamment au Gebel el-Silsila.",
+  "description_detaillee": "Hâpy est le nom que les Égyptiens donnaient à la crue du Nil, cette montée des eaux qui, chaque été, recouvrait la vallée et y déposait le limon dont dépendaient les récoltes. Le mot désigne à la fois l'eau de l'inondation et le dieu qui l'incarne ; Dirk van der Plas souligne que Hâpy est autant un phénomène naturel qu'une personne divine. Sa venue réglait la vie du pays entier : une crue trop faible annonçait la famine, une crue trop forte la destruction.\n\nSon image appartient à un genre que John Baines a appelé les « figures de fécondité », autrefois nommées « dieux Nils » : un homme corpulent, au ventre rebondi et à la poitrine tombante, portant des plantes aquatiques sur la tête et un plateau chargé de pains, de volailles ou de fleurs. Ces formes, qui mêlent traits masculins et féminins, expriment l'abondance nourricière plutôt qu'une identité sexuelle. Les figures de fécondité vont souvent par paires, et les textes de Philae distinguent un Hâpy du Sud et un Hâpy du Nord ; sur les parois des temples, des cortèges de personnages de ce type apportent aux dieux les produits des provinces. La crue était censée surgir de deux sources ou d'une caverne situées dans la région de la première cataracte, près d'Éléphantine, sous l'autorité de Khnoum. À Thonis-Héracléion, port englouti du delta occidental, l'équipe de Franck Goddio a mis au jour une statue colossale de 5,40 m qui présente tous les traits de ces figures, rapprochée des fêtes osiriennes où l'eau nouvelle était célébrée.\n\nLe texte le plus célèbre qui lui soit consacré est l'Hymne à la crue (ou Hymne au Nil), connu par quatre papyrus, deux tablettes et près de soixante-dix ostraca d'époque ramesside, pour la plupart trouvés à Deir el-Médina, où il servait de texte d'école. Le poème suit la crue depuis le sud jusqu'à la mer, décrit la joie qu'elle provoque et la misère qui suit son absence, et nomme à ses côtés Rê, Geb, Nepri, Ptah, Khnoum et Sobek. Il insiste sur le caractère insaisissable du dieu : on ne le taille pas dans la pierre, on ne lui connaît pas de sanctuaire. Les Égyptiens n'ont en effet laissé aucun temple de Hâpy ni aucune statue de culte ; son culte se concentrait sur l'arrivée de l'eau. Au Gebel el-Silsila, Séthi Ier, Ramsès II, Mérenptah et Ramsès III firent graver des stèles presque identiques qui prescrivent des offrandes à Amon-Rê, à Hâpy et aux dieux du flot deux fois par an, et mentionnent le jour où l'on jetait dans l'eau le « livre de Hâpy ».\n\nHâpy est étroitement lié à Osiris : les textes funéraires font de l'eau de la crue l'écoulement du corps du dieu, et une stèle de Ramsès IV à Abydos dit d'Osiris qu'il est « le grand Hâpy ». Au Nouvel Empire, le roi régnant est appelé « fils de Hâpy », signe du lien entre la crue et la prospérité garantie par la monarchie. Ce Hâpy de l'inondation ne doit pas être confondu avec Hâpy, l'un des quatre fils d'Horus, gardien du vase canope des poumons, dont le nom s'écrit autrement.",
+  "domaines": [
+    "crue du Nil",
+    "fertilité des champs",
+    "abondance et nourriture"
+  ],
+  "tags": [
+    "eau",
+    "terre-fertilite"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "khnoum",
+      "osiris",
+      "sobek",
+      "ptah",
+      "geb",
+      "ra",
+      "amon"
+    ]
+  },
+  "attributs": [
+    "ventre rebondi et poitrine pendante",
+    "plantes aquatiques sur la tête",
+    "plateau d'offrandes",
+    "peau parfois peinte en bleu"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "van der Plas, D. (1986). L'Hymne à la crue du Nil, 2 vol. Leyde, Nederlands Instituut voor het Nabije Oosten",
+    "Lichtheim, M. (1973). Ancient Egyptian Literature, vol. I: The Old and Middle Kingdoms (Hymn to Hapy, p. 204-210)",
+    "Baines, J. (1985). Fecundity Figures: Egyptian Personification and the Iconology of a Genre",
+    "Barguet, P. (1952). Les stèles du Nil au Gebel Silsileh. Bulletin de l'Institut français d'archéologie orientale, 50, p. 49-63",
+    "Bonneau, D. (1964). La crue du Nil, divinité égyptienne, à travers mille ans d'histoire (332 av.-641 ap. J.-C.)",
+    "Goddio, F. / IEASM (s.d.). God Hapy: colossal statue of a deity (fiche de fouille, Thonis-Héracléion)"
+  ],
+  "notes": "La date de l'Hymne à la crue est discutée : la plupart des égyptologues en font une œuvre du Moyen Empire, attribuée au scribe Khéty parce qu'elle est copiée à la suite de ses Enseignements, tandis que van der Plas (1986) plaide pour une composition du début du Nouvel Empire, à partir d'arguments linguistiques et religieux ; tous les manuscrits connus sont ramessides. L'iconographie (ventre, poitrine, teinte bleue ou verte) est ici rapportée d'après la description de Baines (1985) telle que la résument l'éditeur Peeters et des notices de musée, sans lecture directe de l'ouvrage. Le rôle des prêtres de Hâpy à Éléphantine dans la lecture du nilomètre et le nom de Méret comme parèdre, souvent cités, ne reposent dans nos recherches que sur Wikipédia et des sites non académiques ; ils ne sont pas repris ici. Les deux dates d'offrandes des stèles de Silsila (15e jour du premier mois de la crue, 15e jour du troisième mois de la saison sèche) sont données par van der Plas d'après Barguet."
+}

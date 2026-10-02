@@ -1,0 +1,50 @@
+{
+  "id": "conte-du-naufrage",
+  "nom": "Le conte du Naufragé",
+  "variantes": [
+    "Récit du Naufragé",
+    "Conte du marin naufragé",
+    "Tale of the Shipwrecked Sailor",
+    "Papyrus Ermitage 1115"
+  ],
+  "region": "afrique-nord",
+  "categorie": "recits",
+  "peuples": [
+    "Égyptiens anciens"
+  ],
+  "resume": "Récit littéraire du Moyen Empire égyptien, connu par un seul manuscrit, le papyrus 1115 du musée de l'Ermitage à Saint-Pétersbourg. Un serviteur y raconte comment, seul survivant d'un naufrage, il échoua sur une île merveilleuse gouvernée par un serpent géant, « souverain de Pount », qui l'accueillit, lui prédit son retour et le renvoya chargé de présents.",
+  "description_detaillee": "Le conte du Naufragé est l'un des textes les plus lus de la littérature du Moyen Empire. Il n'est conservé que par une copie unique, sur un rouleau de 3,80 m de long entré au musée de l'Ermitage dans des circonstances inconnues, où l'égyptologue russe Wladimir Golénischeff l'identifia au début de 1881 avant de le présenter la même année au congrès des orientalistes de Berlin ; il y voyait déjà un parallèle avec Ulysse chez les Phéaciens et avec Sindbad. Rédigé en moyen égyptien classique, le texte est souvent daté de la XIIe dynastie, et le colophon final attribue la copie au scribe Amen-aâ, fils d'Amény. Devenu un classique de l'enseignement de la langue égyptienne, il a aussi laissé une trace dans l'Antiquité même : un ostracon d'époque ramesside y fait allusion.\n\nLe récit emboîte trois histoires. Au retour d'une expédition en Nubie, un serviteur cherche à rassurer son chef, inquiet de devoir rendre compte au roi, en lui racontant sa propre aventure. Parti vers la « région minière » du souverain, que la plupart des égyptologues situent au Sinaï, sur un navire de 120 coudées monté par 120 marins, il fut pris dans une tempête qui souleva une vague de huit coudées ; seul survivant, il fut jeté sur une île couverte de figues, de raisins, de poissons et d'oiseaux. Survint alors un serpent long de trente coudées, à la barbe de plus de deux coudées, au corps couvert d'or et aux sourcils de vrai lapis-lazuli, qui menaça de le réduire en cendres s'il ne disait pas qui l'avait amené. Rassuré, le serpent lui annonça qu'un navire viendrait le chercher au bout de quatre mois, puis lui confia sa propre histoire : il vivait là avec ses frères et ses enfants, soixante-quinze serpents en tout, quand une étoile tomba et les fit tous périr dans les flammes, lui seul excepté. Lorsque le naufragé promit de lui envoyer de l'encens et des huiles d'Égypte, le serpent répondit qu'il était le souverain de Pount et que la myrrhe lui appartenait ; il le renvoya avec myrrhe, encens, ivoire, chiens et babouins, en l'avertissant que l'île disparaîtrait dans les flots. Revenu à la cour, le naufragé fut récompensé par le roi. Le chef, lui, reste sceptique et répond par un proverbe désabusé sur l'oiseau qu'on abreuve à l'aube alors qu'il sera égorgé le matin.\n\nLa portée du conte divise les spécialistes. Pour John Baines, c'est une œuvre écrite complexe, nourrie d'un savoir religieux savant, qui emprunte au conte oral son anonymat, son ton et ses personnages typés. D'autres y lisent un voyage initiatique vers un dieu primordial, et la traduction commentée de Ronaldo Gurgel Pereira et Thais Rocha da Silva souligne que le serpent, qui obtient sa fille par la prière, relève d'une puissance créatrice divine plutôt que d'un monstre gardien ; ils lisent l'« île du ka » comme un espace idéalisé et inaccessible, où se dessine un modèle social et spirituel. Le décor, lui, est ancré dans le réel : Claude Obsomer rappelle que le Moyen Empire est l'époque où les expéditions royales vers le Sinaï et vers Pount, par la mer Rouge, sont les plus nombreuses, et que l'île imaginaire du souverain de Pount peut être aussi lointaine que la taille du serpent est démesurée. Le codex rapproche ce conte du récit de Sinouhé, son contemporain, qui partage avec lui le thème du retour au pays et devant le roi.",
+  "domaines": [
+    "voyage maritime",
+    "naufrage et survie",
+    "retour au pays",
+    "parole et maîtrise de soi"
+  ],
+  "tags": [],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": []
+  },
+  "attributs": [
+    "serpent de trente coudées au corps d'or et aux sourcils de lapis-lazuli",
+    "île du souverain de Pount",
+    "navire de 120 coudées",
+    "étoile tombée",
+    "myrrhe et encens"
+  ],
+  "recits_associes": [
+    "conte-de-sinouhe"
+  ],
+  "culte_contemporain": "",
+  "sources": [
+    "Obsomer, C. (2020). Le terme ḫnw et le début du Naufragé. Babelao, 9, p. 1-27",
+    "Baines, J. (1990). Interpreting the Story of the Shipwrecked Sailor. Journal of Egyptian Archaeology, 76, p. 55-72",
+    "Lichtheim, M. (1973). Ancient Egyptian Literature, vol. I: The Old and Middle Kingdoms (The Story of the Shipwrecked Sailor, p. 211-215)",
+    "Parkinson, R.B. (1997). The Tale of Sinuhe and Other Ancient Egyptian Poems, 1940-1640 BC",
+    "Pereira, R.G.G. & Rocha da Silva, T. (2023). O Conto do Náufrago (P. Hermitage 1115): tradução comentada. Revista de História (São Paulo), 182",
+    "Golénischeff, W. (1912). Le Conte du Naufragé"
+  ],
+  "notes": "La date de composition est discutée (XIe dynastie, début ou seconde moitié de la XIIe dynastie, selon les auteurs recensés par Obsomer 2020), de même que celle de la copie ; la ressemblance paléographique avec le papyrus Prisse a fait proposer un même copiste. La localisation de la « région minière » (Sinaï pour la majorité, Pount pour Golénischeff et quelques autres) et celle de la mer « Ouadj-our » (mer Rouge ou Nil selon Claude Vandersleyen) sont débattues ; celle de Pount aussi, placée par Rodolfo Fattovich aux confins du Soudan et de l'Éthiopie. La découverte du papyrus est datée de 1880 dans plusieurs sources secondaires et de début 1881 par Obsomer. L'interprétation initiatique ou cosmique du voyage n'est rapportée ici que d'après des synthèses non académiques (Wikipédia) et n'est pas attribuée à un auteur précis."
+}
