@@ -1,0 +1,48 @@
+{
+  "id": "adze",
+  "nom": "Adze",
+  "variantes": [
+    "Adzé",
+    "adzetɔ (personne habitée par l'adze)"
+  ],
+  "region": "afrique-ouest",
+  "categorie": "creatures",
+  "peuples": [
+    "Ewe"
+  ],
+  "resume": "Dans la pensée ewe du sud-est du Ghana et du Togo, puissance de sorcellerie qui habite une personne, souvent à son insu, et sort la nuit sous la forme d'une lumière semblable à une luciole pour sucer le sang des dormeurs. La personne habitée par l'adze est appelée adzetɔ, terme qui désigne le sorcier ou la sorcière.",
+  "description_detaillee": "L'adze appartient au complexe de la sorcellerie chez les Ewe, peuple réparti entre le sud-est du Ghana et le sud du Togo. Le missionnaire et ethnographe Jakob Spieth, qui recueille au début du XXe siècle des témoignages dans plusieurs localités ewe (Ho, Akoviewe, Kpenoe), la présente comme l'une des puissances les plus redoutées : elle prend possession d'une personne, homme ou femme, jeune ou âgée, parfois sans que celle-ci le sache, et ne la mène que la nuit, pendant que les autres dorment.\n\nLes descriptions recueillies par Spieth insistent sur la lumière. À Akoviewe, on dit que l'adze ressemble à de grandes lucioles et que la regarder éblouit comme le soleil ; à Ho, on la voit comme une flamme qui sort de la bouche et du nez d'un dormeur, parfois en forme de main qui s'ouvre et se ferme, ou comme une torche dont tombent des braises. Elle entre dans les chambres même closes et suce le sang des dormeurs, qui tombent malades un ou deux jours plus tard et dépérissent. Les petits enfants sont des proies privilégiées, et l'adze aime aussi l'huile de palme et l'eau de coco : une noix de coco vide, dit-on, a été mangée par elle. Celui qui ose saisir la lumière découvre un être humain qui le supplie de se taire et lui offre des cauris ; s'il parle, l'argent disparaît. Pour s'en protéger, on offre de l'eau et un peu de nourriture aux étrangers, puisque l'adze rassasiée laisse les gens en paix, et l'on peut délivrer une personne en frottant son corps avec sept torches, sept coquillages, une poule noire, un petit pot de vin de palme et un crapaud.\n\nLa notion a été profondément remaniée par le christianisme. Dans son étude des Ewe de Peki, l'anthropologue Birgit Meyer montre comment les missionnaires piétistes allemands ont traduit le Diable par Abosam et comment les fidèles de l'Église évangélique presbytérienne ont intégré les adzetɔwo, les sorciers, à l'empire du Diable : la sorcellerie n'y disparaît pas, elle devient une affaire démoniaque. On rapproche souvent l'adze du sasabonsam akan ou des enfants-esprits comme l'àbíkú, qui servent eux aussi à expliquer la mort soudaine des enfants, mais ces figures relèvent de systèmes différents : l'adze est une force logée dans une personne vivante, non un monstre de la forêt ni un enfant qui revient.",
+  "domaines": [
+    "sorcellerie",
+    "nuit",
+    "maladie",
+    "mort des enfants"
+  ],
+  "tags": [
+    "metamorphose"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "sasabonsam",
+      "abiku"
+    ]
+  },
+  "attributs": [
+    "lumière semblable à une luciole ou à une flamme",
+    "sang des dormeurs",
+    "huile de palme",
+    "eau de coco",
+    "cauris offerts pour acheter le silence"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Les accusations de sorcellerie (adze) restent présentes chez les Ewe du Ghana, où elles sont largement reprises dans le langage des Églises chrétiennes, qui en font une œuvre du Diable (Meyer).",
+  "sources": [
+    "Spieth, J. (1906). Die Ewe-Stämme. Material zur Kunde des Ewe-Volkes in Deutsch-Togo. Berlin, Dietrich Reimer, p. 544-545, 682-684, 724",
+    "Meyer, B. (1992). 'If You Are a Devil, You Are a Witch and, If You Are a Witch, You Are a Devil'. The Integration of 'Pagan' Ideas into the Conceptual Universe of Ewe Christians in Southeastern Ghana. Journal of Religion in Africa, 22(2), p. 98-132",
+    "Meyer, B. (1999). Translating the Devil: Religion and Modernity among the Ewe in Ghana. Edinburgh University Press"
+  ],
+  "notes": "Spieth était missionnaire de la Mission de Brême ; son ouvrage, lu ici dans les passages consacrés à l'adze (p. 544-545 pour Ho, 682-684 pour Akoviewe, 724 pour Kpenoe), traduit adze par « Hexe » (sorcière) et rapporte des témoignages locaux, dont la description en forme de luciole (« Leuchtkäfer »). Les travaux de Birgit Meyer n'ont pas été lus en entier : seul leur propos général (intégration des adzetɔwo à la figure du Diable chez les Ewe chrétiens) a été vérifié. L'idée, répandue en ligne, que l'adze serait une transposition des moustiques et du paludisme est une hypothèse moderne sans appui dans les sources consultées ; de même, le terme « abasom » donné par Wikipédia pour « sorcier » paraît confondre avec Abosam, le Diable des missionnaires. La présentation de l'adze comme « vampire » vient des encyclopédies populaires et ne correspond pas au vocabulaire ewe."
+}

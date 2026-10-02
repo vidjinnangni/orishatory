@@ -1,0 +1,57 @@
+{
+  "id": "mmanwu",
+  "nom": "Mmanwu",
+  "variantes": [
+    "Mmonwu",
+    "Mmuo",
+    "Mmo",
+    "mascarade igbo"
+  ],
+  "region": "afrique-ouest",
+  "categorie": "rites",
+  "peuples": [
+    "Igbo"
+  ],
+  "resume": "Terme qui désigne, dans le centre et le nord du pays igbo, les mascarades où des initiés masqués et entièrement couverts incarnent les esprits des morts revenus parmi les vivants. Les mmanwu sortent lors des fêtes, des funérailles et des grandes occasions de la communauté, et assuraient autrefois aussi une fonction de police et de justice.",
+  "description_detaillee": "Chez les Igbo du sud-est du Nigeria, les ancêtres continuent de vivre dans le monde des esprits et viennent visiter leurs descendants, lors des fêtes, sous forme de mascarades. Le terme mmanwu, ou mmonwu selon les parlers, désigne cette tradition dans l'axe Awka, Nri et Ekwulobia ; ailleurs, d'autres systèmes de masques existent, comme l'odo et l'omabe dans la région de Nsukka, l'owu et l'okorosha chez les Igbo riverains, ou l'ekpe et l'okonko vers la Cross River. Pour le sociologue Augustine Onyeneke, chaque mmanwu est un esprit perceptible des morts en général, sans être lié à un défunt précis, et la mascarade découle directement de la croyance en la vie après la mort.\n\nLe porteur est entièrement dissimulé dans le pays de Nri et d'Awka, alors que les masques odo laissent voir les mains et les pieds. On modifie sa voix pour qu'elle sonne comme celle d'un esprit, et les non-initiés, les femmes et les enfants doivent se tenir à distance. À Arondizuogu, étudié par l'historien Ndubuisi Iroanofe, les esprits sont réveillés par des libations et des sacrifices au cours d'une nuit rituelle, puis sortent trois jours de marché d'affilée pendant la fête d'Ikeji, accompagnés de tambours à fente (ekwe), de cloches (ogene) et de flûtes, et escortés d'initiés armés de cannes. Il existe aussi des masques de nuit (mmonwu abani), qui agissent sans costume, par la seule voix et l'obscurité. Les types sont nombreux : l'agbogho mmuo, « esprit de la jeune fille », dansé par des hommes, célèbre la beauté féminine ; l'ijele, haut d'environ quatre mètres et inscrit en 2009 par l'UNESCO sur la Liste représentative du patrimoine culturel immatériel, danse dans l'État d'Anambra à la fin des autres mascarades, porteur d'un miroir censé capter et punir les malfaiteurs.\n\nLes mascarades exerçaient aussi une autorité : elles maintenaient l'ordre, punissaient et marquaient le passage des garçons par l'initiation. Cette dimension a souffert de la colonisation. Chike Okoye cite le rapport de M.D.W. Jeffreys selon lequel la police coloniale arrêtait et démasquait publiquement les membres des sociétés de masques après des plaintes, brisant la crainte qu'elles inspiraient. Les mmanwu ont survécu sous des formes plus festives et spectaculaires, et leur logique invite à la comparaison avec l'egungun yoruba, où les ancêtres reviennent aussi sous le masque.",
+  "domaines": [
+    "ancêtres",
+    "mort",
+    "fêtes",
+    "funérailles",
+    "ordre social",
+    "théâtre"
+  ],
+  "tags": [
+    "ancetres",
+    "mort-au-dela",
+    "initiation"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "egungun",
+      "ala"
+    ]
+  },
+  "attributs": [
+    "costume couvrant tout le corps",
+    "voix déguisée",
+    "tambour à fente (ekwe) et cloche (ogene)",
+    "masques agbogho mmuo et ijele",
+    "cannes des initiés"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Les mascarades restent très vivantes dans le pays igbo, lors des fêtes (comme l'Ikeji d'Arondizuogu), des funérailles et des célébrations. La mascarade ijele, propre à l'État d'Anambra, est inscrite depuis 2009 sur la Liste représentative du patrimoine culturel immatériel de l'humanité de l'UNESCO.",
+  "sources": [
+    "Okoye, C. (2020). The Effects of Sound and Darkness: Peculiar Elements in the Igbo Night Mask Tradition. Interdisciplinary Journal of African and Asian Studies, 6(2)",
+    "Iroanofe, N.U.J. (2025). Masking and Masquerading in Arondizuogu: A Historical Perspective. Journal of Development Communication and Applied Theatre, 2(6)",
+    "UNESCO (2009). Décision 4.COM 13.63 : La mascarade ijele (Nigeria), inscription sur la Liste représentative du patrimoine culturel immatériel de l'humanité",
+    "Onyeneke, A.O. (1987). The Dead Among the Living: Masquerades in Igbo Society. Enugu, Chuka Printing",
+    "Cole, H.M. & Aniakor, C.C. (1984). Igbo Arts: Community and Cosmos. Los Angeles, Museum of Cultural History, UCLA",
+    "Arinze, F.A. & Kalu, O. (2005). Igbo Religion. In L. Jones (dir.), Encyclopedia of Religion, 2e éd., Macmillan Reference"
+  ],
+  "notes": "L'étymologie du mot est débattue : Meki Nzewi y lit mma (beauté) et onwu (mort), quand Chike Okoye y voit plutôt une forme abrégée de mmuo ndi nwuru anwu, « esprits des morts », et une simple variante dialectale de mmonwu. Nnabuenyi Ugonna réserve le terme mmonwu à un type particulier de théâtre masqué, alors qu'Onyeneke l'étend à toute mascarade. Les ouvrages d'Onyeneke et de Cole et Aniakor n'ont pas été lus directement : ils sont connus par les citations d'Okoye, d'Iroanofe et d'une notice de conservation du projet [Re:]Entanglements (UCL) sur les masques agbogho mmuo collectés par Northcote Thomas à Agukwu-Nri en 1911. Le lien avec Ala n'est pas documenté directement dans les sources consultées sur les mascarades ; il relève du rôle de gardienne de la morale que la tradition prête à la déesse."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "agwu",
+  "nom": "Agwu",
+  "variantes": [
+    "Agwụ",
+    "Agwu Nsi",
+    "Agwusi",
+    "Akaose",
+    "Mmuo nkpasa uche"
+  ],
+  "region": "afrique-ouest",
+  "categorie": "deites",
+  "peuples": [
+    "Igbo"
+  ],
+  "resume": "Divinité igbo de la divination et de la médecine, patronne des dibia, les guérisseurs-devins. Puissance ambivalente, Agwu passe pour donner l'intelligence, le talent et la richesse, mais aussi pour envoyer la confusion mentale, les pertes et les malheurs à ceux qu'il a choisis et qui refusent son appel.",
+  "description_detaillee": "Chez les Igbo du sud-est du Nigeria, Agwu compte parmi les divinités issues de Chukwu Okike, le créateur, au même titre qu'Anyanwu, Amadioha ou Ala. Le philosophe Ikechukwu Anthony Kanu, qui reprend les travaux de Jude Aguwa, en fait l'une des notions de base de la religion igbo : c'est par Agwu que l'on explique la santé et la maladie, la richesse et la pauvreté, la chance et l'infortune. Il est avant tout le patron des dibia, ceux qui soignent par les plantes et ceux qui consultent l'oracle afa. Selon Arinze, chaque dibia lui adresse une prière chaque matin en frappant une carapace de tortue.\n\nLes auteurs igbo le décrivent comme un esprit de la confusion : Arinze l'appelle mmuo nkpasa uche ou Akaose, et rapporte l'image, souvent reprise, de l'homme possédé qui cherche frénétiquement une clé qu'il tient dans la main. Cette confusion, nommée ara agwu, passe pour le signe d'une vocation. Uchendu le présente comme un esprit en quête de serviteurs, qui frappe de pertes de biens, de stérilité ou de troubles psychosomatiques ceux qui résistent à son appel, et Metuh note que la vocation se transmet souvent par le matrilignage. Le remède est rituel : l'iru agwu ou ilu agwu, que l'universitaire Alex Anedo traduit par « accueillir Agwu et lui donner une place » dans sa vie et sa concession, apaise l'esprit et, chez le futur dibia, ouvre la voie à la formation. Le sanctuaire est un petit bosquet délimité par des arbres comme l'ogirisi ou l'ogbu ; certains informateurs d'Anedo y voient pousser un fromager quelques mois après le rite, ce qui annonce la grandeur de la personne possédée.\n\nKanu le range parmi les figures de décepteur, aux côtés d'Èṣù et d'Ananse, et souligne qu'on ne peut lui assigner de sexe : il apparaît homme, femme ou les deux à la fois. Le même esprit qui trouble l'esprit inspire aussi le talent, et ses exigences pèsent sur les guérisseurs, qui doivent ne pas réclamer de trop gros honoraires sous peine de folie. Cette ambivalence explique le débat actuel que décrit Anedo : une partie des chrétiens igbo assimile Agwu au démon de la Bible, tandis que d'autres y voient une puissance qui peut apporter le bien quand on la reconnaît.",
+  "domaines": [
+    "divination",
+    "médecine",
+    "guérison",
+    "folie",
+    "talent",
+    "vocation des dibia"
+  ],
+  "tags": [
+    "divination",
+    "trickster"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "chukwu",
+      "ala",
+      "amadioha",
+      "ogbanje",
+      "eshu-elegba",
+      "anansi"
+    ]
+  },
+  "attributs": [
+    "carapace de tortue frappée par le dibia",
+    "sanctuaire en bosquet (arbres ogirisi, ogbu)",
+    "représentations en bois sculpté, parfois en forme de chien",
+    "offrandes de l'ilu agwu (ignames, poulet, pièces de monnaie, poisson séché, huile de palme)"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Les auteurs nigérians contemporains (Kanu en 2018, Anedo) décrivent l'iru agwu comme un rite encore pratiqué dans le pays igbo pour les personnes chez qui un devin diagnostique un trouble envoyé par Agwu, même si une partie des chrétiens igbo assimile désormais Agwu au démon.",
+  "sources": [
+    "Kanu, I.A. (2018). Igbo-African Gods and Goddesses. Nnadiebube Journal of Philosophy, 2(2)",
+    "Anedo, A.A.O. (2006). Concept of Agwụ in Igbo Traditional Ritual Enactment. Nnamdi Azikiwe University, Awka",
+    "Aguwa, J.C.U. (1995). The Agwu Deity in Igbo Religion: A Study of the Patron Spirit of Divination and Medicine in an African Society. Enugu, Fourth Dimension",
+    "Arinze, F.A. & Kalu, O. (2005). Igbo Religion. In L. Jones (dir.), Encyclopedia of Religion, 2e éd., Macmillan Reference"
+  ],
+  "notes": "La forme « Agwu Nsi » est courante en ligne mais les auteurs universitaires consultés écrivent Agwu ou Agwusi ; son étymologie n'a pas été vérifiée. Les détails rituels (offrandes de l'ilu agwu, nombre de huit pièces, arbres du sanctuaire, fromager) proviennent des informateurs d'Anedo et varient selon les localités. L'article d'Anedo est daté de 2006 par ResearchGate, sans revue identifiée. La monographie d'Aguwa (1995) n'a pas été lue directement : elle est citée à travers Kanu (2018). Le lien avec l'ọgbanje tient au rôle des dibia afa, que l'on consulte aussi pour ces enfants (Arinze et Kalu) ; aucune source consultée ne fait d'Agwu la cause de l'ọgbanje."
+}
