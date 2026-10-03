@@ -1,0 +1,56 @@
+{
+  "id": "ndop",
+  "nom": "Ndop",
+  "variantes": [
+    "ndop (statues royales kuba)"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "rites",
+  "peuples": [
+    "Kuba",
+    "Bushoong"
+  ],
+  "resume": "Les ndop sont des statues en bois représentant les rois (nyim) du royaume kuba, dans le Kasaï, en République démocratique du Congo. Chaque figure, assise en tailleur, se reconnaît non à ses traits mais à un emblème, l'ibol, sculpté devant elle. Tenues pour le double du souverain, elles intervenaient dans les rites de la naissance et de la succession, puis servaient à la mémoire de la dynastie.",
+  "description_detaillee": "Les ndop appartiennent à l'art de cour des Bushoong, le groupe qui dirige le royaume kuba entre le Kasaï et le Sankuru. Ce sont parmi les sculptures africaines les plus étudiées, parce qu'elles unissent une forme très codifiée à une fonction rituelle et historique : chaque statue renvoie à un roi de la liste dynastique. Toutes montrent un homme assis en tailleur sur un socle orné, coiffé de la coiffe royale, qui tient le plus souvent de la main gauche un couteau d'apparat ; celle de Shyaam a-Mbul a-Ngoong conservée au British Museum mesure 55 cm. Elles sont taillées dans un bois dur, celui de Crossopteryx febrifuga, et polies jusqu'au lustre. Les visages, sereins et idéalisés, se ressemblent tous : ce qui distingue un roi d'un autre est l'ibol, emblème choisi lors de son installation et sculpté devant lui. Shyaam a un plateau de jeu de lela (un mancala), signe selon la tradition de la paix de son règne ; Mishe miShyaang maMbul, un tambour orné d'une main coupée ; Mbo Pelyeeng, une enclume, en souvenir de son goût pour la forge.\n\nLeur rôle rituel est connu surtout par les enquêtes de Jan Vansina, publiées en 1972. Du vivant du roi, la statue était censée abriter son double, la contrepartie de son âme. On la gardait dans le quartier des femmes ; quand une épouse allait accoucher, on la plaçait près d'elle pour que la naissance se passe bien, et en l'absence du roi les femmes de la cour l'oignaient et la caressaient. L'historienne de l'art Kathy Curnow ajoute que les ndop étaient conservés dans un sanctuaire royal avec des préparations puissantes et frottés d'huile pour garder leur force ; à la mort d'un roi, son successeur dormait en présence de la statue pendant son accession, puis les anciennes épouses du défunt en avaient la garde. Après la mort du souverain, le ndop devenait une statue commémorative, montrée lors d'occasions particulières.\n\nLeur datation reste discutée. La tradition recueillie par Emil Torday au début du XXe siècle attribue l'invention des ndop à Shyaam, le fondateur du royaume au XVIIe siècle, mais le ndop à son nom est daté par le British Museum de la seconde moitié du XVIIIe siècle. D'autres auteurs, dont le Metropolitan Museum, font remonter le genre aux environs de 1700, sous Mishe miShyaang maMbul ; le ndop de ce roi conservé au Brooklyn Museum, souvent tenu pour le plus ancien, est daté de 1760-1780 environ, et le musée hésite à l'attribuer à lui, à Mbo Mboosh ou à Kot aNee. Vansina pensait que les statues servaient du vivant du roi puis après sa mort ; Joseph Cornet y voyait d'abord des monuments commémoratifs sculptés après la mort du souverain pour ses épouses, ce qui change les calculs chronologiques. On a aussi supposé que certaines statues recueillies au début du XXe siècle remplaçaient des pièces plus anciennes. Selon l'article de Jean Rosenwald (1974), repris par le musée de l'université de l'Iowa, on sculpta un ndop par roi à partir du milieu du XVIIIe siècle, jusqu'à la guerre civile de 1886 qui désorganisa la cour.\n\nL'histoire de ces statues est aussi celle de leur départ. Le missionnaire presbytérien William Sheppard en vit quatre à Nsheng, la capitale, en 1892 ; Vansina estime que six ou sept s'y trouvaient alors. Torday, lors de son expédition de 1907-1909, obtint celle de Shyaam et d'autres pour le British Museum, après de longues négociations avec le roi et son conseil qu'il décrit lui-même comme faites de cadeaux et de flatteries. L'historienne de l'art Mallory Sharp rappelle, à la suite de David Binkley et de Darish, qu'il ne faut pas pour autant voir les Kuba comme des acteurs passifs de ces transferts. William Fagg datait d'environ 1913 l'apparition d'imitations destinées aux visiteurs, dépourvues de valeur sacrée. Les ndop prolongent ainsi l'histoire officielle du royaume, de Woot à Shyaam (voir leurs fiches), et la royauté sacrée du nyim (voir la fiche sur le nyim kuba).",
+  "domaines": [
+    "royauté",
+    "mémoire dynastique",
+    "naissance",
+    "succession",
+    "art de cour"
+  ],
+  "tags": [
+    "royaute-sacree",
+    "ancetres"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "nyim-kuba",
+      "shamba-bolongongo",
+      "woot"
+    ]
+  },
+  "attributs": [
+    "ibol (emblème personnel du roi)",
+    "posture assise en tailleur",
+    "couteau d'apparat tenu de la main gauche",
+    "bois de Crossopteryx febrifuga",
+    "onctions d'huile et de tukula"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Les ndop anciens se trouvent aujourd'hui dans des musées occidentaux (British Museum, Brooklyn Museum, Musée royal de l'Afrique centrale à Tervuren). Elisabeth Cameron, qui séjourna à Nsheng en 1989, rapporte que l'Institut des Beaux-Arts de la capitale kuba, fondé par des prêtres joséphites pour préserver le patrimoine kuba, apprenait alors à ses élèves à sculpter des figures de style kuba, dont des ndop de Shyaam. Aucun usage rituel actuel des ndop n'a été trouvé dans les sources consultées.",
+  "sources": [
+    "Vansina, J. (1972). Ndop: Royal Statues among the Kuba. In D. Fraser & H.M. Cole (dir.), African Art and Leadership. Madison, University of Wisconsin Press",
+    "Vansina, J. (1978). The Children of Woot: A History of the Kuba Peoples. Madison, University of Wisconsin Press",
+    "Rosenwald, J.B. (1974). Kuba King Figures. African Arts, 7(3), 26-31",
+    "Cornet, J. (1982). Art royal kuba",
+    "Cameron, E.L. (2012). Coming to Terms with Heritage: Kuba Ndop and the Art School of Nsheng. African Arts, 45(3)",
+    "Sharp, M.E. (2024). Object Lessons: The Hampton University Sheppard Collection of African Art. Thèse de doctorat, University of California, Santa Barbara",
+    "Curnow, K. (s.d.). The Bright Continent: African Art History, chap. 3.8 « Portraiture ». Cleveland State University (manuel en libre accès)",
+    "Brooklyn Museum (s.d.). Ndop figure depicting Nyim Mbó Mbóosh, Nyim Mishé miShyááng máMbúl, or Nyim Kot áNée, n° 61.33. Notice de collection"
+  ],
+  "notes": "L'origine des ndop est rapportée tantôt à Shyaam a-Mbul a-Ngoong (tradition recueillie par Torday, reprise dans la fiche de Shyaam), tantôt à Mishe miShyaang maMbul vers 1700 (Metropolitan Museum, essai « Kingdoms of the Savanna: The Kuba Kingdom », lu par extraits seulement). Le nombre de ndop anciens varie selon les auteurs : dix-sept effigies réunies par Frans Olbrechts en 1937, dont un groupe ancien de neuf (catalogue Sotheby's de 2016, source commerciale), sept statues d'importance historique dans les musées occidentaux (Smarthistory, site de vulgarisation). Les textes de Vansina (1972 et 1978), de Rosenwald et de Cornet n'ont pas été consultés directement : leurs positions sont connues par la thèse de Sharp, qui cite Vansina (1978, p. 213-214) et Rosenwald, par le manuel de Curnow et par le catalogue Sotheby's pour le débat entre Vansina et Cornet. L'article de Cameron n'a été lu que par son résumé, la notice du Brooklyn Museum par son titre et sa description reprise dans les résultats de recherche ; la phrase sur la guerre civile de 1886 vient de la notice du musée de l'université de l'Iowa, citée à travers un extrait. L'ouvrage de Cornet n'a pas été consulté. La thèse de Sharp a été lue pour les passages consacrés aux ndop."
+}
