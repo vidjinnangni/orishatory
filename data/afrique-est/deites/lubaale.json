@@ -1,0 +1,59 @@
+{
+  "id": "lubaale",
+  "nom": "Lubaale",
+  "variantes": [
+    "Balubaale (pluriel)",
+    "Lubare, Balubare (graphie de Roscoe)"
+  ],
+  "region": "afrique-est",
+  "categorie": "deites",
+  "peuples": [
+    "Baganda"
+  ],
+  "resume": "Les lubaale (au pluriel balubaale) sont les dieux du Buganda, dans le centre de l'Ouganda. La plupart passaient pour d'anciens humains devenus divins ; chacun avait ses temples, ses prêtres et ses médiums, et les plus importants servaient la royauté. Leur culte public a décliné avec l'islam, le christianisme et la colonisation, mais des médiums les consultent encore aujourd'hui.",
+  "description_detaillee": "Chez les Baganda, les lubaale forment la catégorie des dieux proprement dits, que John Roscoe distinguait en 1911 des objets chargés de pouvoir (mayembe), des amulettes et des esprits des morts (mizimu). Selon lui, les principaux étaient d'anciens êtres humains réputés pour leur habileté ou leur bravoure, divinisés ensuite, à côté de quelques dieux animaux et de pierres ou d'arbres vénérés. Benjamin Ray retrouve ce modèle chez les voisins du Buganda : les misimbwa des Basoga et les cwezi du Bunyoro et du Nkore sont eux aussi des « dieux héros », des humains morts et devenus dieux, et c'est vers eux plutôt que vers le créateur que se tournait l'essentiel de la vie religieuse.\n\nRoscoe sépare les dieux nationaux, dont le culte dépendait du roi, des dieux propres à un clan. Les premiers avaient pour tâche de protéger le kabaka et l'État : le roi leur attribuait des temples sur les sommets et des domaines sur les pentes, gérés par le chef du clan qui en avait la charge, et il pouvait aussi faire piller le temple d'un dieu qui l'avait contrarié. Le prêtre (kabona) recevait les visiteurs et leurs offrandes, entretenait le feu et le tapis d'herbe odorante, et interprétait l'oracle ; le médium (mandwa), homme ou femme choisi par le dieu lui-même, en était la bouche. La première possession s'appelait « être épousé par le dieu », les suivantes « être saisi par la tête » ; avant de parler, le médium fumait une pipe sacrée près du feu et entrait dans un état de transe dont le prêtre traduisait les paroles. Chaque temple n'avait qu'un médium, sauf ceux des dieux de la guerre Kibuka et Nende, qui en envoyaient avec les expéditions armées, et Mukasa, présent dans de nombreux sanctuaires. Des fillettes consacrées, nées de prières exaucées, gardaient le feu et la pipe jusqu'à la puberté. Les grands temples étaient réservés au roi et aux chefs, mais la plupart des dieux nationaux avaient de petits sanctuaires ouverts à tous.\n\nLe panthéon décrit par Roscoe couvre presque tous les domaines de la vie : Mukasa, maître du lac Victoria et de l'abondance ; Kibuka et Nende pour la guerre ; Kaumpuli, enfant difforme devenu dieu de la peste, gardé dans une fosse couverte de peaux de chats sauvages ; Dungu pour la chasse ; Kitaka pour la terre et les jardins ; Musisi, qui fait trembler la terre ; Wamala, dont l'outre renversée aurait formé le lac du même nom ; Nagawonyi, qui intercède auprès de Musoke et de Gulu pour faire tomber la pluie ; Walumbe, la Mort. Katonda, le créateur, n'avait qu'un petit temple. Beaucoup étaient rattachés les uns aux autres par des liens de parenté, Wanga passant pour le père de Musisi, lui-même père de Mukasa.\n\nLe déclin de ce culte commence avant la colonisation. L'archéologue Pauline Harding, qui s'appuie sur Neil Kodesh et sur Ray, rappelle que l'influence des médiums pâlissait déjà devant l'autorité croissante du kabaka au XIXe siècle et que Mutesa I adopta l'islam pour la restreindre encore. La guerre civile qui suivit l'arrivée des missionnaires chrétiens, l'accord de 1900 passé avec les Britanniques, la pression des missions, puis l'administration coloniale, qui confisquait comme preuves de « sorcellerie » des objets rituels ensuite exposés au musée de l'Ouganda, achevèrent de marginaliser prêtres et médiums ; Roscoe lui-même fit partir pour Cambridge les reliques du temple de Kibuka. Les lubaale n'ont pourtant pas disparu. Ray notait en 1987 qu'on les consulte toujours, par l'intermédiaire de médiums, pour la maladie, la stérilité, les mauvaises récoltes ou la perte d'un emploi, et que certains clients finissent initiés au culte du dieu. Depuis le rétablissement des royaumes en 1993, Harding observe des sanctuaires nouveaux bâtis sur l'injonction de rêves, notamment autour des puits de Ttanda attribués à Walumbe, et des offrandes déposées devant les vitrines consacrées à Kibuka et à Nakaima au musée de Kampala.",
+  "domaines": [
+    "protection du royaume",
+    "guerre",
+    "fécondité",
+    "guérison",
+    "oracles"
+  ],
+  "tags": [
+    "divination",
+    "royaute-sacree",
+    "ancetres"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "mukasa",
+      "kibuka",
+      "katonda",
+      "walumbe",
+      "ggulu",
+      "chwezi",
+      "nakayima",
+      "tombeaux-de-kasubi"
+    ]
+  },
+  "attributs": [
+    "temple conique de chaume",
+    "pipe sacrée du médium",
+    "feu entretenu jour et nuit",
+    "tapis d'herbe odorante",
+    "vêtements rituels des prêtres",
+    "domaines du dieu sur les collines"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Des médiums continuent de recevoir les lubaale et de consulter en leur nom, en particulier dans le cadre du kusamira, tradition de guérison chantée étudiée par l'ethnomusicologue Peter Hoesing, malgré l'hostilité d'une partie des Églises. Des sanctuaires actifs existent notamment à Ttanda (district de Mityana) et sur la colline de Dindo (district de Mukono), d'après l'enquête de terrain de Pauline Harding en 2018.",
+  "sources": [
+    "Roscoe, J. (1911). The Baganda: An Account of Their Native Customs and Beliefs, chapitre IX « Religion »",
+    "Ray, B.C. (1987). East African Religions: Northeast Bantu Religions, in Eliade, M. (dir.), The Encyclopedia of Religion",
+    "Harding, P. (2023). Myths, Dreams and the Business of Spiritual Heritage in Uganda. Journal of African Cultural Heritage Studies, 3 (1), p. 151-168",
+    "Pier, D. (2023). Compte rendu de Hoesing, P.J., Kusamira Music in Uganda: Spirit Mediumship and Ritual Healing (2021). African Studies Review, 66 (4)"
+  ],
+  "notes": "L'ouvrage de Benjamin Ray, Myth, Ritual, and Kingship in Buganda (1991), n'a pas pu être consulté : les vues de Ray sont prises dans son article de l'Encyclopedia of Religion (1987) et dans les citations qu'en fait Harding. Les travaux de Kodesh (2010) et de Kasozi (1981) ne sont connus ici que par Harding. Roscoe, missionnaire anglican, emploie un vocabulaire daté (« fétiches », « vestales ») et décrit un état du culte déjà affecté par les bouleversements des années 1880 ; la liste des dieux qu'il donne n'est pas exhaustive, et beaucoup de lubaale de clan n'y figurent pas. La pluie relève chez lui de Musoke et de Gulu, et le rapport entre ce Gulu et le Ggulu du mythe de Kintu est discuté (voir la fiche ggulu). Nakaima est l'orthographe employée par Harding pour la figure associée à l'arbre de Nakayima, à Mubende."
+}
