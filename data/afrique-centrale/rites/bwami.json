@@ -1,0 +1,49 @@
+{
+  "id": "bwami",
+  "nom": "Bwami",
+  "variantes": [],
+  "region": "afrique-centrale",
+  "categorie": "rites",
+  "peuples": [
+    "Lega (Balega, Rega)"
+  ],
+  "resume": "Le bwami est l'association initiatique des Lega de l'est de la République démocratique du Congo, ouverte aux hommes circoncis et, à certains niveaux, à leurs épouses et parentes. Ses membres gravissaient une hiérarchie de grades jusqu'au kindi, au fil d'initiations où des sculptures de bois et d'ivoire, des masques et des milliers d'aphorismes servaient à enseigner une philosophie morale. L'administration coloniale belge l'interdit en 1933 puis le dissout en 1948.",
+  "description_detaillee": "Les Lega, qui vivent entre le Sud-Kivu et le Maniema, n'avaient pas de chefs centralisés : leur société reposait sur des lignages et des clans. Le bwami traversait ces divisions. Daniel Biebuyck, qui l'a étudié sur le terrain dans les années 1950, écrit qu'il remplissait une fonction d'intégration dans tous les domaines de la vie, de l'économie au droit, du rituel à l'éducation. On comprend mal l'art lega sans lui : presque toutes les sculptures connues ont été faites pour ses initiations, et Elisabeth Cameron rappelle qu'elles n'avaient de sens qu'à l'intérieur de l'association.\n\nLe statut s'y acquérait, il ne s'héritait pas. Biebuyck et Cameron énumèrent cinq grades masculins, du plus bas au plus haut : kongabulumbu, kansilembo, ngandu, yananio et kindi, ces deux derniers étant divisés en niveaux dont le plus élevé est le lutumbo lwa kindi. Les femmes avaient leurs propres grades (bombwa, bulonda, bunyamwa), liés à ceux de leur mari, et Biebuyck précise qu'un homme n'est jamais pleinement kindi si l'une de ses épouses n'a pas atteint le bunyamwa. Monter d'un grade demandait d'être circoncis, de réunir des biens pour les cadeaux, les droits et la nourriture, d'avoir le soutien de sa parenté et de montrer patience et rigueur morale.\n\nLes objets n'apparaissaient qu'aux deux grades supérieurs, et ils restaient cachés dans des sacs, des paniers ou des maisons. Les figurines de bois, que Biebuyck appelle iginga (« ce qui soutient »), appartenaient collectivement aux yananio et dormaient dans des paniers communs ; les pièces d'ivoire ou d'os étaient la propriété personnelle des kindi. Il en allait de même pour les masques : chaque yananio possédait un petit masque de bois, le lukwakongo, et chaque lutumbo lwa kindi un masque d'ivoire ou d'os, le lukungu. Chaque objet était présenté avec des aphorismes chantés et dansés, les « paroles du pays », et Biebuyck insiste sur le fait que la forme de la sculpture ne permet presque jamais de deviner le texte : c'est l'initié qui fait parler l'objet. L'enseignement procédait souvent par contraste, en mettant en scène des personnages exemplaires (Kankubungu, le « Bon et Beau ») et d'autres à fuir (Isabulema, « Père Misère »), pour transmettre des valeurs comme la persévérance, la modération, l'équité et la retenue dans la parole.\n\nC'est justement ce poids social qui inquiéta le pouvoir colonial. Selon Cameron, le bwami fut interdit en 1933, toléré ou persécuté selon les moments, puis aboli en 1948. Biebuyck cite l'arrêté publié au Bulletin administratif du Congo belge du 25 septembre 1948, qui dissout « la secte hiérarchisée des bami » des territoires de Fizi, Shabunda, Pangi et Kindu comme une menace pour la tranquillité publique. Il a consacré un article aux effets de cette interdiction sur l'art lega, et un autre chapitre au déclin de la sculpture qui s'ensuivit. Le bwami relève donc du même type d'institution que la Mbudye des Luba (voir les fiches mbudye et lukasa), où des grades successifs, des objets réservés et un savoir verbal codifié se répondent, même si le bwami ne servait pas une royauté.",
+  "domaines": [
+    "initiation",
+    "philosophie morale",
+    "organisation politique",
+    "sculpture",
+    "aphorismes"
+  ],
+  "tags": [
+    "initiation"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "mbudye",
+      "lukasa"
+    ]
+  },
+  "attributs": [
+    "figurines anthropomorphes de bois (iginga) gardées dans des paniers collectifs",
+    "figurines et masques d'ivoire ou d'os des kindi",
+    "masque de bois lukwakongo (grade yananio)",
+    "masque d'ivoire ou d'os lukungu (grade lutumbo lwa kindi)",
+    "chapeau des kindi surmonté d'une queue d'éléphant",
+    "aphorismes chantés (« paroles du pays »)"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "",
+  "sources": [
+    "Biebuyck, D.P. (1973). Lega Culture: Art, Initiation, and Moral Philosophy among a Central African People. University of California Press",
+    "Biebuyck, D.P. (1967). Effects on Lega Art of the Outlawing of the Bwami Association. Journal of the New African Literature and the Arts, 1, 87-94",
+    "Biebuyck, D.P. (1976). The Decline of Lega Sculptural Art. In N.H.H. Graburn (dir.), Ethnic and Tourist Arts: Cultural Expressions from the Fourth World. University of California Press, 334-339",
+    "Biebuyck, D.P. (2010). Sculptures do not speak. The Balega made them speak: Art, text and context. Cahiers de littérature orale, 67-68",
+    "Cameron, E.L. (2001). Art of the Lega. UCLA Fowler Museum of Cultural History"
+  ],
+  "notes": "Seul l'article de Biebuyck (2010, Cahiers de littérature orale, en libre accès) a été lu en entier ; Lega Culture (1973), Art of the Lega (2001) et le chapitre de 1976 n'ont été consultés que par extraits (aperçus Google Books), dont la citation de l'arrêté du 25 septembre 1948 et la chronologie 1933-1948 donnée par Cameron. L'article de 1967 n'a pas été consulté : il est cité d'après sa référence bibliographique. Le nombre de grades varie selon les auteurs et les régions : cinq grades masculins chez Biebuyck et Cameron, mais certaines listes intercalent les grades féminins et en comptent sept, et Biebuyck (2010) mentionne aussi un grade féminin kanyamwa ; une notice de l'exposition African Brilliance de Penn State compte trois niveaux pour les femmes. Le chapeau des kindi et la symbolique de l'éléphant viennent de cette même notice de Penn State, non d'une publication universitaire. La reconnaissance officielle du bwami en 1958, peu avant l'indépendance, et sa réapparition ensuite sont affirmées par Wikipédia (qui renvoie à Biebuyck 1973, p. 13, sans que ce passage ait été vérifié) et par un extrait d'African Arts (2003) ; elles n'ont pas été confirmées dans le texte même de Biebuyck. Le chiffre d'environ 5 000 aphorismes recueillis par Biebuyck ne vient que d'un compte rendu d'African Arts (2003). L'état actuel de l'association n'a pas pu être vérifié : un article de Migo Omari (Djiboul, 2023) décrit le bwami et son lieu de réunion, le lusu, surtout au passé."
+}
