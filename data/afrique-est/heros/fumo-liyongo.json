@@ -34,7 +34,9 @@
     "lime cachée dans un pain",
     "puits"
   ],
-  "recits_associes": [],
+  "recits_associes": [
+    "shungwaya"
+  ],
   "culte_contemporain": "Liyongo n'est pas l'objet d'un culte, mais sa tradition reste vivante : l'Utenzi wa Liyongo a été réédité dans le cadre des canons littéraires nationaux du Kenya et de la Tanzanie, et l'histoire est régulièrement adaptée pour la scène, les livres pour enfants et Internet.",
   "sources": [
     "Vierke, C. (2025). A Hero's Many Worlds: The Swahili Liyongo Epic and World Literature, in Oral Literary Worlds: Location, Transmission and Circulation",

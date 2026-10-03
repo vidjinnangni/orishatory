@@ -1,0 +1,50 @@
+{
+  "id": "shungwaya",
+  "nom": "Shungwaya",
+  "variantes": [
+    "Singwaya",
+    "Shingwaya"
+  ],
+  "region": "afrique-est",
+  "categorie": "recits",
+  "peuples": [
+    "Mijikenda",
+    "Pokomo",
+    "Swahili",
+    "Taita",
+    "Segeju"
+  ],
+  "resume": "Shungwaya, ou Singwaya, est le pays d'origine que plusieurs peuples de la côte kényane, au premier rang desquels les Mijikenda, situent au nord du fleuve Tana, vers le sud de la Somalie. Selon leurs traditions, ils en furent chassés par les Oromo et migrèrent vers le sud, où ils fondèrent les villages fortifiés kaya. L'existence et la nature de ce lieu font l'objet d'un long débat entre historiens, archéologues et linguistes.",
+  "description_detaillee": "Le récit de Shungwaya appartient aux traditions d'origine de la côte du Kenya. L'historien Thomas Spear relevait en 1974 qu'il était revendiqué par les Pokomo, les Taita, sept des neuf peuples mijikenda, les Segeju et les Swahili de Kilindini et de Jomvu, tous situant ce pays sur la côte méridionale de la Somalie, au nord de la Tana. Pour les Mijikenda, il fonde à la fois l'unité des « neuf peuples » et l'ordre de préséance entre eux ; chez les Swahili, des chroniques de la fin du XIXe siècle comme le Kitab al-Zunuj, ou Livre des Zenj, y placent aussi leurs propres origines.\n\nDans la version mijikenda résumée par le dossier présenté à l'UNESCO pour les forêts kaya, les ancêtres vivaient à Singwaya parmi d'autres peuples, Taita, Pokomo, Swahili et Oromo (appelés « Galla » dans les sources anciennes). Le meurtre d'un Oromo par un jeune Mijikenda, et le refus de payer la compensation, déclenchèrent des persécutions qui les poussèrent vers le sud. Ils se séparèrent en six groupes, Digo, Ribe, Giriama, Jibana, Chonyi et Kambe ; les Digo, partis les premiers, sont tenus pour les aînés. Chaque groupe emporta son fingo, le charme protecteur qu'il enterra au cœur de son kaya, et les chasseurs-cueilleurs waata les guidèrent vers des refuges forestiers. Le premier âge des Giriama s'appelle Amwendo, « le départ » : en comptant les classes d'âge depuis, Spear plaçait l'arrivée sur la côte kényane vers 1560, un ordre de grandeur compatible avec l'expansion oromo du XVIe siècle et avec les mentions portugaises des Mosungulos dans l'arrière-pays de Mombasa en 1610 et 1612.\n\nCette lecture, développée dans The Kaya Complex (1978), a été vivement contestée. Rodger Morton soutenait dès 1972 que le récit n'apparaît dans les sources qu'à la fin du XIXe siècle et qu'il pourrait être en partie une construction arabo-swahilie destinée aux nouveaux maîtres britanniques ; Willis y a vu l'instrument d'une identité mijikenda commune forgée à l'époque coloniale. Les fouilles de Mutoro puis de Richard Helm ont montré que les environs des kaya étaient occupés de façon presque continue au moins depuis 600 environ, sans trace de l'arrivée massive d'une population nouvelle ; une expédition portugaise des années 1660 n'avait d'ailleurs pas trouvé Shungwaya. James de Vere Allen a proposé, dans un article de 1983 puis dans Swahili Origins (1993), une tout autre lecture : un « grand Shungwaya », État multiethnique dominé par une alliance de pasteurs couchitophones et de Segeju, qui aurait prospéré entre le IXe et le XIVe siècle et serait à l'origine d'une grande part de la culture swahilie. Spear, qui avait répondu à Allen dès 1983, juge en 2000 cette interprétation « profondément erronée ».\n\nLe débat ne se réduit pas pour autant à une alternative entre vérité et invention. Revenant sur la question en 2000, Spear admet que les données archéologiques et linguistiques imposent une présence continue de locuteurs bantous sur la côte kényane depuis le début du Ier millénaire, mais refuse de voir dans Shungwaya une simple invention : le récit pourrait désigner le foyer septentrional de la première société swahilie et les processus d'intégration par lesquels elle s'est formée. Les traditions de Shungwaya restent en tout cas vivantes dans les kaya, dont le fingo est censé venir de ce pays d'origine. La région au nord de la Tana, vers laquelle elles orientent Shungwaya, est aussi celle des récits de Fumo Liyongo, entre les deltas de la Tana et de l'Ozi et l'archipel de Lamu.",
+  "domaines": [
+    "origines",
+    "migration",
+    "identité collective"
+  ],
+  "tags": [
+    "ancetres"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "forets-kaya",
+      "fumo-liyongo"
+    ]
+  },
+  "attributs": [
+    "fingo, charme protecteur rapporté de Shungwaya",
+    "classe d'âge Amwendo (« le départ »)",
+    "fleuve Tana"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Le récit reste la référence des origines dans les forêts sacrées kaya, où les anciens situent l'emplacement du fingo apporté de Shungwaya ; les grandes cérémonies ne se tiennent que dans les kaya réputés directement liés à ce pays d'origine.",
+  "sources": [
+    "Spear, T. (1974). Traditional Myths and Historian's Myths: Variations on the Singwaya Theme of Mijikenda Origins. History in Africa, 1, p. 67-84",
+    "Spear, T. (2000). Early Swahili History Reconsidered. The International Journal of African Historical Studies, 33 (2), p. 257-290",
+    "National Museums of Kenya (2008). The Sacred Mijikenda Kaya Forests: Nomination Dossier for Inscription on the World Heritage List, UNESCO",
+    "Walsh, M. (2011). Jim Allen's unfinished work (and an unfinished conversation). East African Notes and Records (carnet en ligne)"
+  ],
+  "notes": "De l'article de Spear de 1974, seuls le résumé et l'extrait publics ont été lus. Les travaux de Morton (1972, 1977), de Willis (1993), de Mutoro et de Helm (2000) ainsi que The Kaya Complex de Spear (1978) sont cités d'après le dossier UNESCO de 2008 et d'après Spear (2000), non lus directement. Les thèses de James de Vere Allen (1983, 1984, 1993) sont connues par le résumé qu'en donne le chercheur Martin Walsh sur son carnet en ligne, source non publiée dans une revue, et par la critique de Spear ; Walsh a lui-même discuté Allen dans Azania (1993). L'emplacement de Shungwaya reste indéterminé : les traditions parlent vaguement d'une région comprise entre la Juba ou le Wabe Shebelle et la Tana. L'identification avec le « Zhongli » du géographe chinois Zhao Rugua (XIIIe siècle), proposée par Paul Wheatley, n'a été lue que sur Wikipédia. Le récit du meurtre d'un Oromo comme cause du départ est la version résumée par le dossier UNESCO ; d'autres versions existent. Le terme « Galla », employé par les sources anciennes pour les Oromo, est aujourd'hui considéré comme péjoratif."
+}

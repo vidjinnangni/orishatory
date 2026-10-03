@@ -36,7 +36,9 @@
     "kadzumba ka Mulungu (hutte à offrandes)",
     "interdiction de couper les arbres vivants"
   ],
-  "recits_associes": [],
+  "recits_associes": [
+    "shungwaya"
+  ],
   "culte_contemporain": "Les kaya restent des lieux rituels actifs, surtout dans les zones rurales : les conseils d'anciens y célèbrent prières pour la pluie, bénédictions et purifications, et veillent sur les interdits. Leur protection s'appuie depuis les années 1990 sur leur statut de monuments nationaux et sur l'action des Musées nationaux du Kenya, face au défrichement, à l'exploitation du bois, aux mines, aux projets hôteliers de la côte sud et à la désaffection d'une partie des jeunes générations.",
   "sources": [
     "National Museums of Kenya (2008). The Sacred Mijikenda Kaya Forests: Nomination Dossier for Inscription on the World Heritage List, UNESCO",
