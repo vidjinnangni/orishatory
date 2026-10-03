@@ -29,7 +29,9 @@
     "diaspora-survivance"
   ],
   "genealogie": {
-    "parents": [],
+    "parents": [
+      "nana"
+    ],
     "conjoints": [],
     "enfants": [],
     "entites_liees": [
