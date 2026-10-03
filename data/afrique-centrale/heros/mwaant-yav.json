@@ -1,0 +1,60 @@
+{
+  "id": "mwaant-yav",
+  "nom": "Mwaant Yav",
+  "variantes": [
+    "Mwata Yamvo",
+    "Mwant Yav",
+    "Mwaant Yaav",
+    "Muatiânvua",
+    "Matiamvo",
+    "Mwata Jamwo"
+  ],
+  "region": "afrique-centrale",
+  "categorie": "heros",
+  "peuples": [
+    "Lunda (Ruund)"
+  ],
+  "resume": "Mwaant Yav est le titre des souverains de l'État lunda, ou ruund, dont la capitale royale, la Musumba, se trouve près de Kapanga, dans le sud-ouest de l'actuelle République démocratique du Congo. Chaque titulaire hérite du nom, du rang et des liens de parenté attachés à la charge, et la tradition fait remonter sa légitimité à l'union de Lueji et du chasseur Chibinda Ilunga. À partir de la fin du XVIIe siècle, de nombreux chefs de l'est de l'Angola, du Katanga et de la Zambie reconnurent sa prééminence ; le titre est toujours porté.",
+  "description_detaillee": "Mwaant Yav ne désigne pas un personnage mais une charge : celle du roi des Ruund, le noyau du monde lunda, installé le long de la rivière Nkalaany. Les premiers documents portugais où les Lunda sont identifiables avec certitude, en 1755, nomment déjà ce titulaire, alors que le récit de Lueji et de Chibinda Ilunga qui en explique l'origine n'apparaît que plus d'un siècle après. Jan Vansina a proposé de parler de « commonwealth » lunda plutôt que d'empire : l'unité de cet ensemble, qui couvrait l'est de l'Angola, le Katanga et le nord-ouest de la Zambie, tenait surtout à ce que les chefs reconnaissaient le Mwaant Yav comme supérieur aux autres, et plusieurs royaumes de cet ensemble avaient été fondés par des colons ruund. Vansina place le début de l'expansion au plus tard vers 1670.\n\nLa cour repose sur ce que les anthropologues, à la suite d'Ian Cunnison, appellent la parenté perpétuelle : chaque nouveau titulaire d'une charge reprend le nom et la position de ses prédécesseurs, et les charges restent liées entre elles par des relations de parenté ou d'alliance fixées une fois pour toutes. Selon Manuela Palmeirim, qui a travaillé chez les Ruund de Kapanga et de Kahemba, tous les notables sont ainsi unis au souverain par une relation perpétuelle. Le Mwaant Yav gouverne avec les ayilol (singulier cilol), chefs politiques et administratifs, tandis que dix-huit dignitaires, les atubung, représentent les premiers maîtres de la terre et n'exercent que des fonctions rituelles. Deux femmes titulaires prolongent à la cour les figures du récit fondateur. La Nswaan Murund continue Lueji : elle garde le rukan (lukano), bracelet de tendons humains conservé dans un panier purifié au kaolin, et passe pour l'épouse symbolique du roi, ce qui explique qu'elle soit choisie dans un groupe de descendance différent du sien. La Rukonkish (lukokesha) est la « mère » symbolique du Mwaant Yav ; choisie parmi ses proches parents, elle est sa conseillère et la dignitaire qui détient le plus de terres. Le plan de la Musumba lui-même traduisait cette organisation politique, d'après l'historien Alfredo Margarido, qui l'étudiait à partir d'un plan de 1886 ; David Gordon a toutefois montré que le célèbre plan de la capitale publié par l'explorateur portugais Henrique Dias de Carvalho dérive d'un croquis de la cour en exil d'un prétendant, Xa Madiamba, dessiné fin 1885.\n\nLa dimension sacrée du titre passe par ces figures féminines. Dans l'idéologie lunda telle que la décrit l'historien David Gordon, la souveraineté procède de Lueji, première Nswaan Murund, qui remit le lukano à Chibinda Ilunga et à ses descendants ; elle détenait la clé du pouvoir lunda, la fertilité et la faculté de faire tomber la pluie. L'investiture du roi a lieu au bord de la Nkalaany : la Nswaan Murund y porte une plume blanche, kasal katok, qui rappelle le premier village fondé par les ancêtres à leur sortie de la grotte des origines. Lorsque le Mwaant Yav quitte la capitale, elle revêt un pagne blanc, verse du vin de palme sur le rukan et invoque les ancêtres pour qu'ils protègent le souverain. Luc de Heusch voyait dans le passage de Lueji au chasseur venu d'ailleurs l'avènement d'une royauté sacrée placée sous le signe de la fécondité ; Jeffrey Hoover lui a opposé en 1978 une lecture nourrie de ses enquêtes chez les Ruund.\n\nCes institutions ont une histoire, et elle est agitée. À partir des années 1870, des prétendants rivaux s'appuient sur des mercenaires chokwe : Mwaant Yav Mbumba (Xanama, règne 1874-1883) accède au titre sans descendre d'une épouse principale reconnue, et fin 1885 parvient la nouvelle de la mort de Muriba et de la capture de la Nswaan Murund avec les reliques royales. C'est dans ce contexte que Carvalho et les traditionalistes lunda invoquent le récit de Lueji pour fixer les règles de succession, avant que Mushidi (règne 1887-1907) ne l'emporte. Sous la colonisation belge, le titre garde un poids politique : en 1959, le Mwaant Yav écrit à l'administration pour contester la prétention des centres urbains à parler au nom de la province, Moïse Tshombe épouse une de ses filles, et pendant la sécession katangaise le souverain devient ministre d'État et mobilise de jeunes Lunda pour la gendarmerie. Edouard Bustin, cité par Miles Larmer et Erik Kennes, notait que les études ethnographiques de l'époque avaient fourni à son entourage des arguments pour défendre l'idée d'un « empire » lunda.",
+  "domaines": [
+    "royauté",
+    "succession",
+    "fertilité",
+    "pluie",
+    "pouvoir politique"
+  ],
+  "tags": [
+    "royaute-sacree",
+    "ancetres"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "lueji",
+      "chibinda-ilunga",
+      "kinguri",
+      "bulopwe",
+      "chitimukulu"
+    ]
+  },
+  "attributs": [
+    "rukan ou lukano (bracelet de tendons humains)",
+    "Musumba (capitale royale)",
+    "investiture au bord de la rivière Nkalaany",
+    "plume blanche kasal katok de la Nswaan Murund"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Le titre est toujours porté. Selon la presse congolaise (allAfrica, septembre 2012), Mwaant Yav Mushid III a été intronisé à la Musumba le 1er septembre 2012, au terme de cérémonies ouvertes le 20 août qui comprenaient un parcours d'environ 200 km vers des lieux liés aux ancêtres et la traversée de la rivière Kalany (Nkalaany). Ces détails ne viennent que de la presse et n'ont pas été vérifiés dans une source universitaire.",
+  "sources": [
+    "Vansina, J. (1998). It Never Happened: Kinguri's Exodus and Its Consequences. History in Africa, 25, 387-403",
+    "Gordon, D.M. (2023). The Quotidian Politics of a Love Story: Researching, Assembling, and Mobilizing the Lunda Legend in the Late Nineteenth Century. Journal of African History, 64(2), 209-228",
+    "Palmeirim, M. (2003). As duas faces de Ruwej: da ambiguidade no pensamento simbólico dos Aruwund (Lunda). In A Antropologia dos Tshokwe e Povos Aparentados, Porto, FLUP",
+    "Hoover, J.J. (1978). Mythe et remous historique: A Lunda Response to De Heusch. History in Africa, 5, 63-80",
+    "Margarido, A. (1970). La capitale de l'Empire lunda, un urbanisme politique. Annales. Économies, Sociétés, Civilisations, 25(4), 857-861",
+    "Larmer, M. & Kennes, E. (2014). Rethinking the Katangese Secession. Journal of Imperial and Commonwealth History, 42(4)",
+    "Bustin, E. (1975). Lunda under Belgian Rule: The Politics of Ethnicity. Cambridge (Mass.), Harvard University Press"
+  ],
+  "notes": "Le sens du titre est discuté. L'explorateur allemand Paul Pogge, cité par Vansina (1998), rapportait dans les années 1870 que les partisans du conquérant Jamwo Kibinda l'appelaient « Mwata Jamwo », glosé « Big Father Jamwo » ; des sites de vulgarisation traduisent par « le vénérable Yav » ou « seigneur de la vipère », sans source universitaire vérifiée. Les noms des charges varient selon les auteurs : lukokesha (Gordon) ou Rukonkish (Palmeirim), nswan murund ou Nswaan Murund. Gordon présente la Nswaan Murund comme gardienne des reliques royales, Palmeirim comme épouse symbolique du roi ; les deux descriptions se complètent. L'origine du premier Mwaant Yav dépend des versions : fils de Lueji chez Carvalho, fils d'une seconde épouse, Kamong, dans les versions du XXe siècle (voir la fiche de Lueji). Le rapprochement avec la succession positionnelle bemba vient de Palmeirim, qui renvoie à Audrey Richards. L'ouvrage de Bustin n'a pas été consulté directement : il est cité à travers Larmer et Kennes. L'article de Hoover et celui de Margarido n'ont été lus que par leur résumé ; la thèse de Hoover (The Seduction of Ruwej, Yale, 1978) est citée à travers Palmeirim. Gordon et Vansina (1998) ont été lus pour les passages consacrés au titre et à la succession. La date de publication de l'article de Palmeirim (actes d'un colloque en hommage à Marie-Louise Bastin) est incertaine. Les informations sur l'intronisation de 2012 ne reposent que sur la presse."
+}
