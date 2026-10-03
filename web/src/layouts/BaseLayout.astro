@@ -3,6 +3,7 @@ import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import Analytics from "../components/Analytics.astro";
 import ConsentBanner from "../components/ConsentBanner.astro";
+import BackToTop from "../components/BackToTop.astro";
 import "../styles/global.css";
 
 export interface Crumb {
@@ -98,6 +99,7 @@ const jsonLdBlocks = [breadcrumbJsonLd, ...(jsonLd ? (Array.isArray(jsonLd) ? js
       <slot />
     </main>
     <Footer />
+    <BackToTop />
     <ConsentBanner />
   </body>
 </html>

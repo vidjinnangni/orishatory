@@ -1,0 +1,99 @@
+<button type="button" id="back-to-top" class="back-to-top" aria-label="Retour en haut de la page">
+  <svg viewBox="0 0 24 24" width="1em" height="1em" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+    <path d="M12 19V5" />
+    <path d="M5 12l7-7 7 7" />
+  </svg>
+</button>
+
+<script is:inline>
+  (function () {
+    var button = document.getElementById("back-to-top");
+    var shown = false;
+
+    function update() {
+      var shouldShow = window.scrollY > 500;
+      if (shouldShow !== shown) {
+        shown = shouldShow;
+        button.classList.toggle("is-visible", shown);
+      }
+    }
+
+    window.addEventListener("scroll", update, { passive: true });
+    update();
+
+    button.addEventListener("click", function () {
+      var keyboard = button.matches(":focus-visible");
+      var reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      window.scrollTo({ top: 0, behavior: reduceMotion ? "auto" : "smooth" });
+      // Le bouton se masque une fois en haut : on évite à l'utilisateur
+      // clavier de perdre sa position en replaçant le focus au début de page.
+      if (keyboard) {
+        var home = document.querySelector(".wordmark");
+        if (home) home.focus({ preventScroll: true });
+      }
+    });
+  })();
+</script>
+
+<style>
+  .back-to-top {
+    position: fixed;
+    right: clamp(1rem, 3vw, 2rem);
+    bottom: 1.25rem;
+    z-index: 40;
+    display: grid;
+    place-items: center;
+    width: 2.75rem;
+    height: 2.75rem;
+    padding: 0;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    background: color-mix(in oklch, var(--bg-elevated) 85%, transparent);
+    backdrop-filter: blur(12px) saturate(180%);
+    -webkit-backdrop-filter: blur(12px) saturate(180%);
+    box-shadow: 0 4px 14px oklch(0 0 0 / 0.1);
+    color: var(--fg-muted);
+    font-size: 1.15rem;
+    cursor: pointer;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(0.5rem);
+    transition:
+      opacity var(--duration-base) var(--ease-out),
+      transform var(--duration-base) var(--ease-out),
+      visibility var(--duration-base),
+      color var(--duration-fast) var(--ease-out),
+      border-color var(--duration-fast) var(--ease-out);
+  }
+
+  .back-to-top.is-visible {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+
+  .back-to-top:hover {
+    color: var(--fg);
+    border-color: var(--fg-muted);
+  }
+
+  .back-to-top.is-visible:active {
+    transform: scale(0.94);
+    transition-duration: 100ms;
+  }
+
+  /* Tant que le bandeau de cookies attend une réponse, il occupe le bas de
+     l'écran : on masque le bouton plutôt que de le faire chevaucher "Accepter". */
+  :global(body:has(#consent-banner.is-visible)) .back-to-top {
+    opacity: 0;
+    visibility: hidden;
+  }
+
+  @media (prefers-reduced-transparency: reduce) {
+    .back-to-top {
+      background: var(--bg-elevated);
+      backdrop-filter: none;
+      -webkit-backdrop-filter: none;
+    }
+  }
+</style>
