@@ -1,0 +1,67 @@
+{
+  "id": "nana",
+  "nom": "Nanã",
+  "variantes": [
+    "Nanã Buruquê",
+    "Nanã Burucu",
+    "Nanã Buruku",
+    "Nàná Burúkú"
+  ],
+  "region": "diaspora",
+  "categorie": "deites",
+  "peuples": [
+    "Afro-Brésiliens (candomblé, tambor de mina, umbanda)"
+  ],
+  "resume": "Orixá des religions afro-brésiliennes, Nanã, ou Nanã Buruquê, passe pour la plus ancienne des divinités. Liée aux eaux dormantes, à la boue, à la mort et aux ancêtres, elle est figurée en vieille femme au pas lent. Les récits du candomblé font d'elle la mère d'Omolu et celle qui fournit la boue dont fut modelé le premier homme ; elle prolonge au Brésil la divinité primordiale Nana Buluku des Fon.",
+  "description_detaillee": "Nanã fait partie des divinités que le panthéon des orixás a reçues des peuples fon, les Jeje du Brésil, et non des Yoruba eux-mêmes : Reginaldo Prandi la compte, avec Oxumarê, parmi les voduns incorporés par les Yoruba, sous les traits d'une « ancienne divinité de la terre ». Son nom la rattache à Nana Buluku, que les Fon placent en amont du couple créateur Mawu-Lisa. Dans les terreiros brésiliens, elle est la plus âgée des orixás, celle qui précède la création elle-même, et on la représente en vieille femme ; sa danse, lente et digne, évoque le bercement d'un enfant.\n\nDans son étude classique Os Nàgô e a Morte (1976), l'anthropologue Juana Elbein dos Santos l'associe à l'eau, à la terre et à la boue, aux lacs et aux sources. Elle rappelle qu'au Dahomey Nanã passait pour l'ancêtre féminine des divinités et que certaines versions la confondent avec Mawu ; elle la place au même rang qu'Oxalá, l'un et l'autre incarnant les puissances, féminine et masculine, des origines. Les morts et les ancêtres sont dits ses enfants. Son emblème, l'ibiri, est un faisceau de nervures de palmier à huile, et Santos rattache ces matières tirées du palmier au monde des morts et des ancêtres. Le mythe le plus connu, recueilli par Prandi dans sa Mitologia dos orixás, la montre au secours d'Oxalá, qui échoue à façonner l'homme avec l'air, le bois, la pierre ou le feu : Nanã tire alors du fond de son lac une poignée de boue, dont il modèle le premier corps humain. Elle exige en retour que tout lui revienne, et c'est pourquoi, à la mort, le corps retourne à la terre.\n\nLa maternité d'Omolu est l'autre grand thème. Selon un récit rapporté par Prandi, Nanã, effrayée par les plaies qui couvraient son fils nouveau-né, l'abandonna dans une grotte au bord de la mer, où Iemanjá le recueillit et lava ses blessures à l'eau salée. Pierre Verger rapproche les deux divinités par un trait rituel : en Afrique, les animaux qui leur sont sacrifiés sont tués sans instrument de fer, indice selon lui de cultes antérieurs à l'âge du fer et à l'arrivée d'Ogum ; il ajoute que Nanã Buruku et Obaluaê sont souvent confondus dans certaines régions d'Afrique. Le chercheur Gildeci de Oliveira Leite a toutefois constaté que les prêtres de tradition nagô-ketu qu'il a interrogés à Bahia emploient le couteau pour Omolu, ce qui invite à ne pas transposer ce détail africain sans précaution.\n\nNanã n'appartient pas au seul candomblé de nation ketu. À la Casa das Minas de São Luís, maison fondatrice du tambor de mina, elle figure parmi les voduns de la famille de Quevioso, celle du tonnerre, réputée d'origine nagô. Elle reçoit aussi un culte dans l'umbanda, et le catholicisme populaire l'a rapprochée de sainte Anne, la grand-mère de Jésus, ce qui s'accorde avec son rôle d'aïeule. Les initiés qui lui sont consacrés passent pour calmes et maternels, à son image. Entre la Nana Buluku des Fon, créatrice retirée qui, selon Melville Herskovits, ne recevait guère de culte régulier, et la Nanã des terreiros, qui a ses propres initiés et descend dans leur corps, on mesure combien les divinités africaines ont été transformées au Brésil.",
+  "domaines": [
+    "eaux dormantes",
+    "boue et terre",
+    "mort",
+    "ancêtres",
+    "origine des êtres humains",
+    "grand âge"
+  ],
+  "tags": [
+    "eau",
+    "mort-au-dela",
+    "creation",
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [
+      "oxala"
+    ],
+    "enfants": [
+      "omolu"
+    ],
+    "entites_liees": [
+      "nana-buluku",
+      "mawu-lisa",
+      "yemaya",
+      "ogun",
+      "candomble",
+      "tambor-de-mina",
+      "umbanda"
+    ]
+  },
+  "attributs": [
+    "ibiri (faisceau de nervures de palmier à huile)",
+    "boue des lacs",
+    "eaux dormantes",
+    "absence d'instruments de fer dans ses sacrifices (en Afrique, selon Verger)",
+    "figure de vieille femme"
+  ],
+  "recits_associes": [],
+  "culte_contemporain": "Honorée dans les terreiros de candomblé, dans les maisons de tambor de mina du Maranhão, où elle appartient à la famille de Quevioso, et dans l'umbanda. Sa fête est souvent fixée au 26 juillet, jour de la sainte Anne.",
+  "sources": [
+    "Santos, J.E. dos (1976). Os Nàgô e a Morte: Pàde, Àsèsè e o culto Égun na Bahia",
+    "Verger, P. (1981). Orixás: deuses iorubás na África e no Novo Mundo",
+    "Prandi, R. (2001). Mitologia dos orixás",
+    "Prandi, R. (s.d.). Os orixás e a natureza (texte de travail, Université de São Paulo)",
+    "Leite, G. de O. (2019). Omolu, Obaluaê, São Lázaro, São Roque, a fé, a medicina do pobre. Fragmentos de Cultura, 29(4)",
+    "Teixeira, L.A.B. (s.d.). Os orixás da morte: uma análise do ritual Pangu Nvumbe (Anais, Revista Plura)"
+  ],
+  "notes": "Les ouvrages de Santos, Verger et Prandi n'ont pas été lus directement : leurs affirmations sont reprises à travers des articles universitaires qui les citent (Leite 2019, Teixeira), et le mythe de la boue à travers un résumé du recueil de Prandi publié par un site religieux qui le crédite. Le rapprochement avec sainte Anne, la date du 26 juillet, le salut « Salubá » et la place de Nanã dans l'umbanda ne sont attestés ici que par la presse et des sites religieux, non par des travaux universitaires. Des sources non académiques attribuent aussi à Nanã d'autres enfants (Oxumarê, Euá) et racontent qu'elle tua des animaux à mains nues pour prouver qu'elle n'avait pas besoin du fer d'Ogum ; elles rapportent encore que Verger aurait trouvé un temple de Nanã à Dassa-Zoumé, au Bénin, ce qui n'a pas pu être vérifié (la fiche Nana Buluku, d'après Herskovits, mentionne un sanctuaire à Dumè). Son union avec Oxalá est donnée par Leite, qui la dit « une des épouses d'Oxalá », mais d'autres récits en font plutôt une rivale ou l'associent à Oxalufã, l'Oxalá âgé. Le rapprochement entre Nanã et Nana Buluku relève de la filiation des noms et des cultes, non d'une identité stricte. Sa place dans la famille de Quevioso à la Casa das Minas et la remarque de Herskovits sur l'absence de culte régulier de Nana Buluku reprennent les fiches Tambor de mina (d'après Sergio Ferretti) et Nana Buluku du codex. Le tempérament attribué à ses initiés vient d'une notice du projet Sacred Arts of the Black Atlantic de l'université Duke."
+}

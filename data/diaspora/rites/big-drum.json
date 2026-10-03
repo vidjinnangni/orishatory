@@ -1,0 +1,59 @@
+{
+  "id": "big-drum",
+  "nom": "Big Drum",
+  "variantes": [
+    "Big Drum Dance",
+    "Nation Dance",
+    "Big Drum Nation Dance"
+  ],
+  "region": "diaspora",
+  "categorie": "rites",
+  "peuples": [
+    "Habitants de Carriacou (Grenade)"
+  ],
+  "resume": "Rite dansé et chanté de Carriacou, petite île de l'État de la Grenade, aussi appelé Nation Dance. Au son de deux tambours boula et d'un tambour soliste, le cutter, on y exécute les danses des « nations » africaines dont les familles de l'île se disent issues, pour honorer et réjouir les ancêtres, les Old Parents. Il accompagne surtout les rites funéraires, mais aussi d'autres moments de la vie collective, comme les fêtes de demande de pluie.",
+  "description_detaillee": "À Carriacou, île des Grenadines au nord de la Grenade, la vie religieuse s'organise autour des Old Parents, les fondateurs africains de la société insulaire au 18e siècle, et des morts plus récents, qui guident les vivants en leur apparaissant en rêve. Le Big Drum est au cœur de ce rapport aux ancêtres. Chaque danse « de nation » porte le nom d'un peuple africain (Cromanti, Igbo, Manding, Kongo, Chamba, Temne, Arada, Banda, Moko), et jusque dans les années 1970 la plupart des habitants pouvaient rattacher leur lignée à l'une de ces nations. L'ethnomusicologue Lorna McDaniel soutient que les rythmes codés des tambours conservent la mémoire des neuf nations qui peuplèrent l'île et des liens familiaux qui en découlent.\n\nL'orchestre réunit deux boulas et un tambour plus court au son plus aigu, le cut ou cutter, tous en forme de tonneau, ouverts à la base et hauts d'environ 45 centimètres ; une ficelle garnie d'épingles tendue sur la peau du cutter lui donne un timbre grésillant. Une chanson commence par la voix du chantwell, que reprend le chœur ; les boulas installent le rythme propre à la nation, puis le cutter entre en improvisant. Une danseuse s'avance alors dans le cercle face au tambourinaire soliste, qu'elle guide par ses pas, et c'est elle qui clôt la chanson en effleurant la peau du cutter avec l'ourlet de sa large jupe. Les chants Beg Pardon, les plus sacrés, appellent ou congédient les ancêtres ; on y entend une vieille houe frappée, parfois remplacée par une bouteille et une cuiller. À côté des danses de nation, le répertoire comprend des danses créoles nées dans la Caraïbe (Old People's Bongo, Juba, Kalenda, Gwa Bèlè, Hallecord, Quilbe) et des danses plus légères, soit vingt-six types en tout, selon le classement établi par Andrew Pearse en 1956 et complété par McDaniel.\n\nLe Big Drum est d'abord une affaire de morts. Les rites funéraires de Carriacou s'étendent sur des années : veillée, enterrement, réunions de prière au troisième, au neuvième et au quarantième jour (la Third Night, la Nine Night et la Forty Night), prières annuelles, puis Tombstone Feast, lorsque la pose de la pierre tombale permet enfin à l'esprit du défunt de reposer. Selon ce que les morts réclament en rêve et selon les moyens de la famille, on y chante des cantiques ou l'on fait battre le Big Drum, souvent avec la saraca, repas offert aux esprits comme aux vivants. Le rite sert aussi lors des maroons, fêtes villageoises où l'on demande aux Old Parents d'amener la saison des pluies, et plus largement aux étapes de la vie, aux crises et aux entreprises nouvelles. Les textes, en créole français et en anglais mêlés de mots africains, gardent des traces d'histoire : une chanson de consolation pleure des enfants séparés de leurs parents expédiés vers Haïti, une chanson cromanti invoque Anansi.\n\nMcDaniel lit dans ces chants une mémoire du « vol », c'est-à-dire du retour, au moins spirituel, vers les terres d'origine, un thème qui rejoint d'autres récits de la diaspora. Les enregistrements réalisés par Alan Lomax en 1962, publiés avec les commentaires de Donald R. Hill et de McDaniel, puis les tournées organisées par Winston Fleary après une première présentation à New York en 1975, ont fait du Big Drum un exemple souvent cité de mémoire africaine dans les Amériques. La pratique s'est pourtant raréfiée : lorsque Hill assista à une Tombstone Feast en 1971, les réunions de prière avaient largement remplacé les danses. Hill et McDaniel parlent eux-mêmes d'une identification « mythique » à une nation, qui unissait des familles autour d'une ascendance commune, ce qui invite à ne pas lire chaque danse comme la trace directe d'un peuple africain précis. Le parallèle avec la veillée jamaïcaine des neuf nuits ou avec le kumina, autres rites où les morts et les ancêtres réclament leur part, s'impose de lui-même.",
+  "domaines": [
+    "culte des ancêtres",
+    "rites funéraires",
+    "mémoire des origines africaines",
+    "danse et tambour"
+  ],
+  "tags": [
+    "ancetres",
+    "mort-au-dela",
+    "diaspora-survivance"
+  ],
+  "genealogie": {
+    "parents": [],
+    "conjoints": [],
+    "enfants": [],
+    "entites_liees": [
+      "nine-night",
+      "kumina",
+      "kromanti-play",
+      "anansi",
+      "contes-d-anancy"
+    ]
+  },
+  "attributs": [
+    "deux tambours boula et un tambour cutter (cut)",
+    "ficelle à épingles tendue sur la peau du cutter",
+    "chac-chac (maracas)",
+    "vieille houe frappée (chants Beg Pardon)",
+    "large jupe de la danseuse",
+    "saraca (repas offert aux ancêtres)"
+  ],
+  "recits_associes": [
+    "les-africains-qui-volent"
+  ],
+  "culte_contemporain": "Le Big Drum se pratique encore à Carriacou, en particulier lors des rites funéraires et des fêtes de village, et il a été présenté sur scène aux États-Unis et au Royaume-Uni par des troupes de l'île. Les réunions de prière l'ont toutefois remplacé dans une bonne partie des funérailles depuis les années 1970.",
+  "sources": [
+    "McDaniel, L. (1998). The Big Drum Ritual of Carriacou: Praisesongs in Rememory of Flight",
+    "Hill, D.R. & McDaniel, L. (2000). Saraca: Funerary Music of Carriacou (notes du disque, Alan Lomax Collection, Rounder)",
+    "McDaniel, L. & Hill, D.R. (s.d.). Tombstone Feast: Funerary Music of Carriacou (notes du disque, Alan Lomax Collection, Rounder)",
+    "Pearse, A. (1956). The Big Drum Dance of Carriacou (notes du disque, Ethnic Folkways Library)",
+    "Hill, D.R. (1977). The Impact of Migration on the Metropolitan and Folk Society of Carriacou, Grenada. Anthropological Papers of the American Museum of Natural History, 54(2)"
+  ],
+  "notes": "La liste des nations varie selon les auteurs et les époques : Pearse et McDaniel retiennent Cromanti, Arada, Chamba, Manding, Kongo, Banda, Igbo (avec ses variantes Jib-Ibo et Scotch Ibo), Temne et Moko, ces derniers étant identifiés aux Ibibio. L'entrée tardive des Kongo dans le système des nations est suggérée par l'anglais de leurs chants, selon McDaniel. L'idée que le rite est pratiqué depuis le début du 18e siècle vient de la présentation éditoriale du livre de McDaniel et n'a pas pu être vérifiée dans le texte. Les noms Gwa Tambu (« gros tambour » en créole) et l'usage du Big Drum pour les mariages et les mises à l'eau de bateaux ne sont attestés ici que par des sources non académiques (Wikipédia, sites éducatifs grenadiens). Les notes des disques Lomax citées ont été lues en entier ; le livre de McDaniel n'a été consulté qu'à travers sa présentation et ces notes."
+}
