@@ -54,7 +54,9 @@ export function figures() {
 
         ctx.replaceNode(node, {
           type: "paragraph",
-          data: { hName: "figure", hProperties: { className: ["figure"] } },
+          // Les SVG (cartes, frises) gardent toute la largeur : la limite de hauteur
+          // des photos les rendrait illisibles.
+          data: { hName: "figure", hProperties: { className: /\.svg$/i.test(fileName(image.url)) ? ["figure", "figure-svg"] : ["figure"] } },
           children: [
             image,
             ...(caption.length ? [{ type: "emphasis", data: { hName: "figcaption" }, children: caption }] : []),
