@@ -6,9 +6,6 @@ fiches: [shango, olodumare, oya, oshun, yemoja, osanyin, ifa, xevioso, amadioha,
 sources:
   - "Johnson, S. (1921). The History of the Yorubas from the Earliest Times to the Beginning of the British Protectorate. Routledge (Londres) et C.M.S. Bookshops (Lagos)."
   - "Agiri, B.A. (1975). Early Oyo History Reconsidered. History in Africa, 2, 1-16."
-  - "Law, R. (1977). The Oyo Empire c.1600-c.1836: A West African Imperialism in the Era of the Atlantic Slave Trade. Clarendon Press."
-  - "Law, R. (1984). How Truly Traditional Is Our Traditional History? The Case of Samuel Johnson and the Recording of Yoruba Oral Tradition. History in Africa, 11, 195-221."
-  - "Matory, J.L. (1994). Sex and the Empire That Is No More: Gender and the Politics of Metaphor in Oyo Yoruba Religion. University of Minnesota Press."
   - "Matory, J.L. (1999). The English Professors of Brazil: On the Diasporic Roots of the Yorùbá Nation. Comparative Studies in Society and History, 41(1), 72-103."
   - "Matory, J.L. (2005). Black Atlantic Religion: Tradition, Transnationalism, and Matriarchy in the Afro-Brazilian Candomblé. Princeton University Press."
   - "Tishken, J.E., Fálọlá, T. & Akínyẹmí, A. (dir.) (2009). Ṣàngó in Africa and the African Diaspora. Indiana University Press."
@@ -20,7 +17,6 @@ sources:
   - "Capone, S. (1999). La quête de l’Afrique dans le candomblé : pouvoir et tradition au Brésil. Karthala."
   - "Costa Lima, V. da (2004). O candomblé da Bahia na década de 1930. Estudos Avançados, 18(52)."
   - "Pinto Filho, O. de S. (2017). O coincidir dos santos: imagens e reversões no candomblé nagô do Recife. Revista de @ntropologia da UFSCar, 9(2)."
-  - "Brown, D.H. (2003). Santería Enthroned: Art, Ritual, and Innovation in an Afro-Cuban Religion. University of Chicago Press."
   - "Herskovits, M.J. (1938). Dahomey: An Ancient West African Kingdom. J.J. Augustin."
   - "Henry, F. (2003). Reclaiming African Religions in Trinidad. University of the West Indies Press."
   - "Kanu, I.A. (2021). Amadioha in Igbo-African Religion and the Quest for Ecological Balance. In I.A. Kanu (dir.), African Eco-Theology. Association for the Promotion of African Studies."
@@ -146,7 +142,7 @@ Stephen Glazier relève que des responsables religieux ont ensuite cherché à a
 | Nom    | Foyer                      | Saint associé                                          | Sources                     |
 | ------ | -------------------------- | ------------------------------------------------------ | --------------------------- |
 | Ṣàngó  | Oyo et pays yoruba         | aucun                                                  | Johnson 1921 ; Lovejoy 2012 |
-| Changó | La Havane et Regla, Cuba   | sainte Barbe                                           | Lovejoy 2012 ; Brown 2003   |
+| Changó | La Havane et Regla, Cuba   | sainte Barbe                                           | Lovejoy 2012                |
 | Xangô  | Salvador, Recife, São Luís | saint Jérôme, saint Jean-Baptiste                      | Verger 1981 ; Parés 2006    |
 | Shango | Trinidad                   | saint Jean ; plus récemment saint Jérôme, sainte Barbe | Glazier 2009                |
 
@@ -176,7 +172,7 @@ Restent les limites. Les traditions sur le Shango royal ne sont connues que par 
 
 [^4]: Lovejoy (2012), chapitre 1, citant Matory (1994, p. 104) et Law (1977). Sur les *mogba*, les sources divergent : Johnson en fait les prêtres de Shango et nomme « Mogba » le chef de ce culte, tandis que Lovejoy présente le Mogba comme le devin d’[Ifá](fiche:ifa) personnel de l’alaafin.
 
-[^5]: Le terme *elegun* et les objets rituels (*oṣé*, *ẹ̀dùn àrá*, *bàtá*) sont documentés dans la collection *Sacred Arts of the Black Atlantic* dirigée par Matory à l’université Duke. La description des *bàtá* et de leur fonction mnémonique est celle de Lovejoy (2012), qui s’appuie aussi sur Wescott et Morton-Williams pour le sac rituel *laba* des prêtres de Shango.
+[^5]: La thèse de Matory (1994) est rapportée d’après Lovejoy (2012), chapitre 1, qui la cite (p. 104). Le terme *elegun* et les objets rituels (*oṣé*, *ẹ̀dùn àrá*, *bàtá*) sont documentés dans la collection *Sacred Arts of the Black Atlantic* dirigée par Matory à l’université Duke. La description des *bàtá* et de leur fonction mnémonique est celle de Lovejoy (2012), qui s’appuie aussi sur Wescott et Morton-Williams pour le sac rituel *laba* des prêtres de Shango.
 
 [^6]: Pour Yemoja, Verger (1981) ; la filiation avec Shango n’apparaît que dans certaines versions. Pour Osanyin, le récit de la calebasse est rapporté par Verger avec les noms brésiliens Xangô et Iansã. Johnson ajoute que les fidèles d’Oya s’interdisent la viande de mouton, interdit que l’on retrouve au Brésil pour Iansã à propos du bélier.
 
