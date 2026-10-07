@@ -21,12 +21,14 @@
     "mort-au-dela"
   ],
   "genealogie": {
-    "parents": [
-      "nephthys"
-    ],
+    "parents": [],
     "conjoints": [],
     "enfants": [],
-    "entites_liees": []
+    "entites_liees": [
+      "nephthys",
+      "osiris",
+      "pesee-du-coeur"
+    ]
   },
   "attributs": [
     "tête de chacal",
@@ -41,5 +43,5 @@
     "Faulkner, R.O. (trad.) (1972). The Egyptian Book of the Dead",
     "Nicholson, P.T. et al. (2015). The Catacombs of Anubis at North Saqqara (Antiquity, 89)"
   ],
-  "notes": ""
+  "notes": "La filiation d'Anubis varie selon les sources : Plutarque (De Iside et Osiride) en fait le fils de Nephthys et d'Osiris, d'autres traditions le disent fils d'Isis ou de Bastet, et la paternité est parfois attribuée à Seth. Aucune n'étant plus autorisée que les autres, la fiche ne retient pas de parents."
 }

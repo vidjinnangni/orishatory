@@ -30,9 +30,7 @@
     "conjoints": [
       "seth"
     ],
-    "enfants": [
-      "anubis"
-    ],
+    "enfants": [],
     "entites_liees": [
       "isis",
       "osiris",
@@ -40,7 +38,8 @@
       "horus",
       "neith",
       "serqet",
-      "heqet"
+      "heqet",
+      "anubis"
     ]
   },
   "attributs": [
