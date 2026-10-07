@@ -1,13 +1,8 @@
 ---
-import { getAllDossiers } from "../lib/dossiers";
-
-// Le lien n'apparaît qu'à partir du premier dossier publié.
-const hasDossiers = (await getAllDossiers()).length > 0;
-
 const navItems = [
   { href: "/", label: "Accueil" },
   { href: "/nouveautes/", label: "Nouveautés" },
-  ...(hasDossiers ? [{ href: "/dossiers/", label: "Dossiers" }] : []),
+  { href: "/dossiers/", label: "Dossiers" },
   { href: "/explorer/", label: "Explorer" },
   { href: "/recherche/", label: "Rechercher" },
   { href: "/tags/", label: "Tags" },

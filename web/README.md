@@ -123,12 +123,12 @@ lus par la collection `dossiers` de [`src/content.config.ts`](src/content.config
   Le plugin ne fait que journaliser une erreur : le vrai garde-fou est
   [`src/lib/dossiers.ts`](src/lib/dossiers.ts), qui fait échouer le build sur un
   id inconnu (champ `fiches` ou lien du texte) ou un lien absent de `fiches`.
-- Tant qu'aucun dossier n'existe, `/dossiers/` est une page vide en `noindex`,
-  sans lien dans l'en-tête ni dans le sitemap. Un avertissement
+- Le lien « Dossiers » est toujours dans l'en-tête. Tant qu'aucun dossier
+  n'existe, `/dossiers/` est une page vide en `noindex`, hors du sitemap. Un avertissement
   `No files found matching "*.md" in directory "../dossiers"` s'affiche au
   build : il est sans conséquence et disparaît avec le premier dossier.
-- Le lien « Dossiers » de l'en-tête, la page `/dossiers/` et le bloc « Dossiers »
-  des fiches concernées apparaissent automatiquement avec le premier dossier.
+- La liste de `/dossiers/` (qui devient indexable) et le bloc « Dossiers » des
+  fiches concernées apparaissent automatiquement avec le premier dossier.
 - Les dossiers ne sont pas (encore) dans la recherche, ni dans Nouveautés ni
   dans le flux RSS.
 

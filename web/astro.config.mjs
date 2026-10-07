@@ -6,7 +6,7 @@ import sitemap from '@astrojs/sitemap';
 import { satteri } from '@astrojs/markdown-satteri';
 import { ficheLinks } from './src/lib/fiche-links.mjs';
 
-// La page /dossiers/ est volontairement vide (noindex) tant qu'aucun dossier
+// La page /dossiers/ est vide (noindex) tant qu'aucun dossier
 // n'existe : on la garde aussi hors du sitemap.
 const dossiersDir = fileURLToPath(new URL('../dossiers', import.meta.url));
 const hasDossiers = existsSync(dossiersDir) && readdirSync(dossiersDir).some((f) => f.endsWith('.md'));
