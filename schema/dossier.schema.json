@@ -44,12 +44,12 @@
       "type": "object",
       "additionalProperties": false,
       "required": ["fichier", "alt"],
-      "description": "Image de couverture (facultative), affichée sur la carte du dossier et en tête de page ; le fichier doit être déclaré dans 'images'.",
+      "description": "Image principale du dossier (facultative) : affichée sous le titre et sur la carte du dossier, et utilisée comme image de partage (réseaux sociaux, moteurs de recherche). Format matriciel (jpg, png, webp, avif), de préférence 1200 × 630 ; une illustration SVG doit en avoir une version exportée. Le fichier doit être déclaré dans 'images'.",
       "properties": {
         "fichier": {
           "type": "string",
-          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*\\.(jpg|jpeg|png|webp|avif|svg)$",
-          "description": "Nom du fichier dans dossiers/images/<slug>/ : kebab-case, extension jpg, jpeg, png, webp, avif ou svg."
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*\\.(jpg|jpeg|png|webp|avif)$",
+          "description": "Nom du fichier dans dossiers/images/<slug>/ : kebab-case, extension jpg, jpeg, png, webp ou avif (pas de SVG, que les réseaux sociaux n'affichent pas)."
         },
         "alt": {
           "type": "string",

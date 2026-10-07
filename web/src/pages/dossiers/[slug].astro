@@ -27,14 +27,17 @@ const { titre, type, resume, sources, images } = dossier.data;
 const { Content, headings } = await render(dossier);
 const entities = getDossierEntities(dossier);
 
-// Couverture : affichée sous le titre avec son crédit, et reprise pour l'aperçu
-// sur les réseaux sociaux (converti en JPEG, que tous les réseaux acceptent).
+// Couverture : affichée sous le titre avec son crédit, et image de partage du
+// dossier (réseaux sociaux, moteurs de recherche), convertie en JPEG 1200 × 630,
+// le format attendu par les aperçus ; recadrage centré au besoin. Le schéma
+// exclut le SVG en couverture : les réseaux sociaux ne l'affichent pas.
 const cover = getDossierCover(dossier);
 const coverCredit = cover && images?.find((image) => image.fichier === dossier.data.couverture?.fichier);
-const ogImage =
-  cover && cover.src.format !== "svg"
-    ? (await getImage({ src: cover.src, width: 1200, format: "jpg" })).src
-    : undefined;
+const OG_WIDTH = 1200;
+const OG_HEIGHT = 630;
+const ogImage = cover
+  ? (await getImage({ src: cover.src, width: OG_WIDTH, height: OG_HEIGHT, fit: "cover", format: "jpg" })).src
+  : undefined;
 
 // Sommaire : sections de niveau 2 uniquement, sans la section des notes de bas de page.
 const sections = headings.filter((h) => h.depth === 2 && !h.slug.includes("footnote-label"));
@@ -48,6 +51,7 @@ const dossierJsonLd = {
   description: resume,
   inLanguage: "fr",
   url: new URL(dossierHref(dossier), Astro.site).toString(),
+  ...(ogImage && { image: new URL(ogImage, Astro.site).toString() }),
   publisher: { "@type": "Organization", name: "Orishatory", url: Astro.site?.toString() },
 };
 ---
@@ -57,6 +61,9 @@ const dossierJsonLd = {
   description={resume}
   type="article"
   image={ogImage}
+  imageAlt={cover?.alt}
+  imageWidth={ogImage && OG_WIDTH}
+  imageHeight={ogImage && OG_HEIGHT}
   breadcrumb={breadcrumb}
   jsonLd={dossierJsonLd}
 >

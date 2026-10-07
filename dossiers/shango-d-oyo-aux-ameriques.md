@@ -25,10 +25,14 @@ sources:
   - "Henry, F. (2003). Reclaiming African Religions in Trinidad. University of the West Indies Press."
   - "Kanu, I.A. (2021). Amadioha in Igbo-African Religion and the Quest for Ecological Balance. In I.A. Kanu (dir.), African Eco-Theology. Association for the Promotion of African Studies."
 couverture:
-  fichier: carte-traversee.svg
+  fichier: carte-traversee-partage.png
   alt: "Carte de l’Atlantique reliant le golfe du Bénin aux foyers des cultes de Shango dans les Amériques"
 images:
   - fichier: carte-traversee.svg
+    credit: "Orishatory"
+    licence: "CC BY 4.0"
+    source: "https://github.com/vidjinnangni/orishatory/blob/main/dossiers/images/shango-d-oyo-aux-ameriques/carte-traversee.svg"
+  - fichier: carte-traversee-partage.png
     credit: "Orishatory"
     licence: "CC BY 4.0"
     source: "https://github.com/vidjinnangni/orishatory/blob/main/dossiers/images/shango-d-oyo-aux-ameriques/carte-traversee.svg"
