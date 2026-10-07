@@ -41,7 +41,7 @@ Un dossier aborde un sujet avec plus de détails à partir des fiches (une figur
    ---
    ```
 
-3. Rédiger le corps en Markdown (titres `##` pour les sections, notes de bas de page `[^1]`, citations, listes, tableaux). Pour renvoyer vers une fiche, utiliser `[Shango](fiche:shango)` : l'id doit exister et figurer aussi dans `fiches`. Taper directement les guillemets « » et l'apostrophe ’ : il n'y a pas de conversion automatique.
+3. Rédiger le corps en Markdown (titres `##` pour les sections, notes de bas de page `[^1]`, citations, listes, tableaux). Pour renvoyer vers une fiche, utiliser `[Shango](fiche:shango)` : l'id doit exister et figurer aussi dans `fiches`. Taper directement les guillemets « » et l'apostrophe ’ : il n'y a pas de conversion automatique. Pour expliquer une notion au lecteur qui découvre le sujet (un titre, un mot vernaculaire), ajouter un encadré « À savoir » avec une citation qui commence par `> [!NOTE]` sur sa propre ligne.
 
 4. Lancer `python scripts/validate.py` (nécessite `pip install jsonschema pyyaml`), puis ouvrir une pull request. La même validation tourne en CI et le build du site échoue aussi sur un lien ou un id invalide.
 

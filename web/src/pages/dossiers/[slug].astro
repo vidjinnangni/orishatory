@@ -256,6 +256,34 @@ const dossierJsonLd = {
     margin-bottom: 0;
   }
 
+  /* Encadrés « À savoir » (> [!NOTE], voir src/lib/callouts.mjs). */
+  .dossier-body :global(.callout) {
+    max-width: var(--measure);
+    margin: 0 0 1.1em;
+    padding: 0.85rem 1.1rem;
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--accent);
+    border-radius: var(--radius);
+    background: var(--bg-elevated);
+    font-size: 0.95rem;
+  }
+
+  .dossier-body :global(.callout p) {
+    margin: 0 0 0.6em;
+  }
+
+  .dossier-body :global(.callout p:last-child) {
+    margin-bottom: 0;
+  }
+
+  .dossier-body :global(.callout-title) {
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--accent);
+  }
+
   .dossier-body :global(hr) {
     margin: 2rem 0;
     border: none;

@@ -5,6 +5,7 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import { satteri } from '@astrojs/markdown-satteri';
 import { ficheLinks } from './src/lib/fiche-links.mjs';
+import { callouts } from './src/lib/callouts.mjs';
 
 // La page /dossiers/ est vide (noindex) tant qu'aucun dossier
 // n'existe : on la garde aussi hors du sitemap.
@@ -17,7 +18,8 @@ export default defineConfig({
   markdown: {
     processor: satteri({
       // [texte](fiche:<id>) -> lien vers la fiche (voir src/lib/fiche-links.mjs).
-      mdastPlugins: [ficheLinks()],
+      // > [!NOTE] -> encadré « À savoir » (voir src/lib/callouts.mjs).
+      mdastPlugins: [ficheLinks(), callouts()],
       features: {
         gfm: { footnotes: { label: 'Notes', backLabel: 'Retour au texte {reference}' } },
         // Les guillemets français « » et l'apostrophe ’ se tapent tels quels :
