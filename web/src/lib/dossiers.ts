@@ -1,3 +1,4 @@
+import type { ImageMetadata } from "astro";
 import { getCollection, type CollectionEntry } from "astro:content";
 import { REPO_URL, getEntityById, type Entite } from "./data";
 
@@ -5,6 +6,19 @@ export type Dossier = CollectionEntry<"dossiers">;
 
 // [texte](fiche:<id>) dans le corps Markdown ; même motif que scripts/validate.py.
 const FICHE_LINK = /\]\(\s*fiche:([^)\s]*)\s*\)/g;
+
+// ![alt](images/<slug>/x.jpg "Légende") dans le corps ; même motif que scripts/validate.py.
+const IMAGE_REF = /!\[[^\]]*\]\(\s*<?([^)\s>]+)>?/g;
+
+// Images des dossiers (dossiers/images/<slug>/<fichier>), optimisées par Astro.
+const IMAGES = import.meta.glob<ImageMetadata>("../../../dossiers/images/*/*.{jpg,jpeg,png,webp,avif,svg}", {
+  eager: true,
+  import: "default",
+});
+
+function imageKey(slug: string, fichier: string): string {
+  return `../../../dossiers/images/${slug}/${fichier}`;
+}
 
 let cache: Promise<Dossier[]> | undefined;
 
@@ -24,6 +38,25 @@ async function loadDossiers(): Promise<Dossier[]> {
       }
       if (!dossier.data.fiches.includes(id)) {
         throw new Error(`Dossier « ${dossier.id} » : le lien fiche:${id} du texte doit aussi figurer dans 'fiches'.`);
+      }
+    }
+    // Images : déclarées dans 'images' (crédit, licence, source) et présentes sur le disque.
+    const declared = new Set((dossier.data.images ?? []).map((image) => image.fichier));
+    for (const fichier of declared) {
+      if (!IMAGES[imageKey(dossier.id, fichier)]) {
+        throw new Error(`Dossier « ${dossier.id} » : l'image '${fichier}' est introuvable dans dossiers/images/${dossier.id}/.`);
+      }
+    }
+    const couverture = dossier.data.couverture?.fichier;
+    if (couverture && !declared.has(couverture)) {
+      throw new Error(`Dossier « ${dossier.id} » : la couverture '${couverture}' doit être déclarée dans 'images'.`);
+    }
+    for (const [, url] of (dossier.body ?? "").matchAll(IMAGE_REF)) {
+      const prefix = `images/${dossier.id}/`;
+      const path = url.replace(/^\.\//, "");
+      const fichier = path.slice(prefix.length);
+      if (!path.startsWith(prefix) || fichier.includes("/") || !declared.has(fichier)) {
+        throw new Error(`Dossier « ${dossier.id} » : l'image ${url} doit être dans images/${dossier.id}/ et déclarée dans 'images'.`);
       }
     }
   }
@@ -52,4 +85,12 @@ export function getDossierEntities(dossier: Dossier): Entite[] {
 
 export async function getDossiersForEntity(entityId: string): Promise<Dossier[]> {
   return (await getAllDossiers()).filter((d) => d.data.fiches.includes(entityId));
+}
+
+/** Image de couverture d'un dossier (optimisable avec <Image />), ou undefined. */
+export function getDossierCover(dossier: Dossier): { src: ImageMetadata; alt: string } | undefined {
+  const couverture = dossier.data.couverture;
+  if (!couverture) return undefined;
+  const src = IMAGES[imageKey(dossier.id, couverture.fichier)];
+  return src ? { src, alt: couverture.alt } : undefined;
 }

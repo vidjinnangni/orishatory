@@ -61,7 +61,7 @@ Champs clés :
 
 Les fiches décrivent une entité. Un **dossier**, quant à lui, aborde un sujet en détail à partir de fiches et autres sources pertinentes. Il peut s'agir d'une figure suivie de région en région, d'un thème (cosmogonies, création), d'une comparaison entre traditions, etc.
 
-Chaque dossier est un fichier Markdown `dossiers/<slug>.md`, avec un en-tête YAML (`titre`, `type`, `resume`, `fiches`, `sources`, tous obligatoires) et un corps libre. Dans le texte, `[Shango](fiche:shango)` crée un lien vers la fiche.
+Chaque dossier est un fichier Markdown `dossiers/<slug>.md`, avec un en-tête YAML (`titre`, `type`, `resume`, `fiches`, `sources`, tous obligatoires ; `couverture` et `images` en option) et un corps libre. Les images, sous licence libre et créditées, sont rangées dans `dossiers/images/<slug>/`. Dans le texte, `[Shango](fiche:shango)` crée un lien vers la fiche.
 
 Voir `CONTRIBUTING.md` pour plus de détail.
 
@@ -76,7 +76,7 @@ pip install jsonschema pyyaml
 python scripts/validate.py
 ```
 
-Le script vérifie que chaque fiche respecte le schéma et que son contenu (`region`, `categorie`, `id`) correspond bien à son emplacement dans l'arborescence. Il vérifie aussi les dossiers : en-tête conforme à `schema/dossier.schema.json`, et liens vers des fiches existantes.
+Le script vérifie que chaque fiche respecte le schéma et que son contenu (`region`, `categorie`, `id`) correspond bien à son emplacement dans l'arborescence. Il vérifie aussi les dossiers : en-tête conforme à `schema/dossier.schema.json`, liens vers des fiches existantes, et images déclarées et présentes dans `dossiers/images/<slug>/`.
 
 ## Exigence de sourçage
 
@@ -85,3 +85,5 @@ Toute fiche doit citer au moins une source (ouvrage académique, article, corpus
 ## Licence
 
 Ce projet est distribué sous licence **CC BY-NC 4.0** (Attribution - Pas d'utilisation commerciale). Voir le fichier [`LICENSE`](./LICENSE). En résumé : réutilisation et adaptation libres, à condition de créditer le projet et de ne pas en faire un usage commercial.
+
+Exception : les illustrations créées pour le projet (cartes, schémas, frises) sont sous licence **CC BY 4.0**, et les autres images des dossiers gardent la licence indiquée dans l'en-tête de chaque dossier.

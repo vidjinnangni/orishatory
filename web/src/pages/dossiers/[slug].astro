@@ -1,12 +1,20 @@
 ---
 import { render } from "astro:content";
+import { Image, getImage } from "astro:assets";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import Breadcrumb from "../../components/Breadcrumb.astro";
 import EntityCard from "../../components/EntityCard.astro";
 import SupportCard from "../../components/SupportCard.astro";
 import ContributeCard from "../../components/ContributeCard.astro";
 import { DOSSIER_TYPE_LABELS } from "../../lib/constants";
-import { dossierEditUrl, dossierHref, getAllDossiers, getDossierEntities, type Dossier } from "../../lib/dossiers";
+import {
+  dossierEditUrl,
+  dossierHref,
+  getAllDossiers,
+  getDossierCover,
+  getDossierEntities,
+  type Dossier,
+} from "../../lib/dossiers";
 
 export async function getStaticPaths() {
   const dossiers = await getAllDossiers();
@@ -14,9 +22,18 @@ export async function getStaticPaths() {
 }
 
 const { dossier } = Astro.props as { dossier: Dossier };
-const { titre, type, resume, sources } = dossier.data;
+const { titre, type, resume, sources, images } = dossier.data;
 const { Content, headings } = await render(dossier);
 const entities = getDossierEntities(dossier);
+
+// Couverture : affichée sous le titre avec son crédit, et reprise pour l'aperçu
+// sur les réseaux sociaux (converti en JPEG, que tous les réseaux acceptent).
+const cover = getDossierCover(dossier);
+const coverCredit = cover && images?.find((image) => image.fichier === dossier.data.couverture?.fichier);
+const ogImage =
+  cover && cover.src.format !== "svg"
+    ? (await getImage({ src: cover.src, width: 1200, format: "jpg" })).src
+    : undefined;
 
 // Sommaire : sections de niveau 2 uniquement, sans la section des notes de bas de page.
 const sections = headings.filter((h) => h.depth === 2 && !h.slug.includes("footnote-label"));
@@ -34,7 +51,14 @@ const dossierJsonLd = {
 };
 ---
 
-<BaseLayout title={`${titre} — Dossier`} description={resume} type="article" breadcrumb={breadcrumb} jsonLd={dossierJsonLd}>
+<BaseLayout
+  title={`${titre} — Dossier`}
+  description={resume}
+  type="article"
+  image={ogImage}
+  breadcrumb={breadcrumb}
+  jsonLd={dossierJsonLd}
+>
   <div class="container">
     <Breadcrumb items={breadcrumb} />
   </div>
@@ -46,6 +70,19 @@ const dossierJsonLd = {
         <h1>{titre}</h1>
         <p class="lede">{resume}</p>
       </header>
+
+      {
+        cover && (
+          <figure class="cover">
+            <Image src={cover.src} alt={cover.alt} widths={[640, 960, 1280]} sizes="(min-width: 1000px) 760px, 100vw" loading="eager" />
+            {coverCredit && (
+              <figcaption>
+                Crédit : <a href={coverCredit.source}>{coverCredit.credit}</a> ({coverCredit.licence})
+              </figcaption>
+            )}
+          </figure>
+        )
+      }
 
       {
         sections.length >= 3 && (
@@ -147,6 +184,32 @@ const dossierJsonLd = {
     max-width: 65ch;
     font-size: 1.1rem;
     color: var(--fg);
+  }
+
+  .cover {
+    margin: 0;
+  }
+
+  .cover img {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 26rem;
+    object-fit: cover;
+    border-radius: var(--radius);
+    background: var(--bg-elevated);
+  }
+
+  .cover figcaption,
+  .dossier-body :global(figcaption) {
+    margin-top: 0.5rem;
+    font-size: 0.8rem;
+    color: var(--fg-muted);
+  }
+
+  .cover figcaption a,
+  .dossier-body :global(.figure-credit a) {
+    color: inherit;
   }
 
   .toc {
@@ -254,6 +317,31 @@ const dossierJsonLd = {
 
   .dossier-body :global(blockquote p:last-child) {
     margin-bottom: 0;
+  }
+
+  /* Images du corps : ![alt](images/<slug>/x.jpg "Légende"), voir src/lib/figures.mjs. */
+  .dossier-body :global(.figure) {
+    max-width: var(--measure);
+    margin: 1.75rem 0;
+  }
+
+  .dossier-body :global(.figure img) {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-inline: auto;
+    border-radius: var(--radius);
+  }
+
+  .dossier-body :global(.figure-legende) {
+    display: block;
+    color: var(--fg);
+    font-style: normal;
+  }
+
+  .dossier-body :global(.figure-credit) {
+    display: block;
+    font-style: normal;
   }
 
   /* Encadrés « À savoir » (> [!NOTE], voir src/lib/callouts.mjs). */

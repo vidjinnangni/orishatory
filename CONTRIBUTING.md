@@ -43,7 +43,27 @@ Un dossier aborde un sujet avec plus de détails à partir des fiches (une figur
 
 3. Rédiger le corps en Markdown (titres `##` pour les sections, notes de bas de page `[^1]`, citations, listes, tableaux). Pour renvoyer vers une fiche, utiliser `[Shango](fiche:shango)` : l'id doit exister et figurer aussi dans `fiches`. Taper directement les guillemets « » et l'apostrophe ’ : il n'y a pas de conversion automatique. Pour expliquer une notion au lecteur qui découvre le sujet (un titre, un mot vernaculaire), ajouter un encadré « À savoir » avec une citation qui commence par `> [!NOTE]` sur sa propre ligne.
 
-4. Lancer `python scripts/validate.py` (nécessite `pip install jsonschema pyyaml`), puis ouvrir une pull request. La même validation tourne en CI et le build du site échoue aussi sur un lien ou un id invalide.
+4. Pour illustrer le dossier (facultatif), placer les images dans `dossiers/images/<slug>/` (noms en kebab-case, formats jpg, png, webp, avif ou svg) et les déclarer dans l'en-tête, avec, si on le souhaite, une image de couverture affichée sur la carte du dossier et en tête de page :
+
+   ```yaml
+   couverture:                      # facultatif
+     fichier: oshe-shango.jpg
+     alt: "Bâton de danse oṣé Shango en bois sculpté"
+   images:
+     - fichier: oshe-shango.jpg
+       credit: "Brooklyn Museum"    # auteur, photographe ou institution
+       licence: "CC0 1.0"
+       source: "https://…"          # page de l'original
+   ```
+
+   Dans le texte, une image seule sur sa ligne devient une figure : `![Texte alternatif](images/<slug>/oshe-shango.jpg "Légende")`. Le texte alternatif décrit l'image pour les lecteurs qui ne la voient pas ; la légende est facultative ; le crédit est ajouté automatiquement à partir de l'en-tête.
+
+   > [!IMPORTANT]
+   > Seules les images sous licence libre sont acceptées : domaine public, CC0 1.0, CC BY ou CC BY-SA. Les licences « pas d'utilisation commerciale » (NC) ou « pas de modification » (ND), et les images dont la licence n'est pas indiquée, sont refusées. Chaque image doit être créditée et renvoyer vers la page de l'original (musée, Wikimedia Commons, etc.), où sa licence peut être vérifiée.
+   >
+   > Les illustrations créées pour le projet (cartes, schémas, frises) sont publiées sous CC BY 4.0, avec le crédit « Orishatory » et, comme source, le lien vers le fichier sur GitHub. Ne pas reprendre la licence du projet (CC BY-NC 4.0), qui n'est pas acceptée pour les images.
+
+5. Lancer `python scripts/validate.py` (nécessite `pip install jsonschema pyyaml`), puis ouvrir une pull request. La même validation tourne en CI et le build du site échoue aussi sur un lien, un id ou une image invalide.
 
 Les standards ci-dessous s'appliquent aussi aux dossiers : toute comparaison ou affirmation s'appuie sur une source citée et ce que les sources ne permettent pas d'affirmer est dit explicitement.
 

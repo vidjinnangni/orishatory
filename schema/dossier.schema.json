@@ -39,6 +39,57 @@
         "minLength": 1
       },
       "minItems": 1
+    },
+    "couverture": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["fichier", "alt"],
+      "description": "Image de couverture (facultative), affichée sur la carte du dossier et en tête de page ; le fichier doit être déclaré dans 'images'.",
+      "properties": {
+        "fichier": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*\\.(jpg|jpeg|png|webp|avif|svg)$",
+          "description": "Nom du fichier dans dossiers/images/<slug>/ : kebab-case, extension jpg, jpeg, png, webp, avif ou svg."
+        },
+        "alt": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Texte alternatif décrivant l'image."
+        }
+      }
+    },
+    "images": {
+      "type": "array",
+      "minItems": 1,
+      "description": "Images du dossier (couverture comprise), avec leur crédit. Chaque image du corps ou de la couverture doit y figurer.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["fichier", "credit", "licence", "source"],
+        "properties": {
+          "fichier": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*\\.(jpg|jpeg|png|webp|avif|svg)$",
+            "description": "Nom du fichier dans dossiers/images/<slug>/ : kebab-case, extension jpg, jpeg, png, webp, avif ou svg."
+          },
+          "credit": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Auteur, photographe ou institution à créditer."
+          },
+          "licence": {
+            "type": "string",
+            "pattern": "^(Domaine public|CC0 1\\.0|CC BY(-SA)? [1-4]\\.[05])$",
+            "description": "Licence libre : Domaine public, CC0 1.0, CC BY x.x ou CC BY-SA x.x. Les licences NC (non commerciale) et ND (pas de modification) ne sont pas acceptées."
+          },
+          "source": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https?://",
+            "description": "Lien vers la page de l'original (musée, Wikimedia Commons…)."
+          }
+        }
+      }
     }
   }
 }
