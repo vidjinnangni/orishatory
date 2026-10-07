@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 856 472" role="img" aria-labelledby="t d" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+<title id="t">Carte : de la baie du Bénin aux Amériques</title>
+<desc id="d">Carte de l’Atlantique montrant le pays yoruba et ses voisins fon et igbo en Afrique de l’Ouest, et les principaux foyers des cultes de Shango dans les Amériques : La Havane et Matanzas à Cuba, Trinidad, São Luís, Recife et Salvador au Brésil.</desc>
+<style>
+  .sea{fill:#eef2f7}.land{fill:#dfe3dc;stroke:#b9bfb4;stroke-width:.8;stroke-linejoin:round}
+  .flow{fill:none;stroke:#b3261e;stroke-width:2;stroke-linecap:round;opacity:.85}
+  .head{fill:#b3261e}.dot{fill:#1f2328}.origin{fill:#b3261e}
+  .lbl{fill:#1f2328;font-size:12px;font-weight:600}.sub{fill:#4b5563;font-size:10.5px;font-style:italic}
+  .region{fill:#6b7280;font-size:11px;letter-spacing:.14em;font-weight:600}
+  .ocean{fill:#7b8794;font-size:13px;letter-spacing:.3em;font-style:italic}
+  .frame{fill:none;stroke:#1f2328;stroke-width:1;stroke-dasharray:3 2}
+  .inset-bg{fill:#eef2f7;stroke:#1f2328;stroke-width:1}
+  .river{fill:none;stroke:#8fb3d9;stroke-width:1.6}
+  .people{fill:#6b7280;font-size:10px;letter-spacing:.16em;font-weight:700}
+  .halo{paint-order:stroke;stroke:#eef2f7;stroke-width:3px;stroke-linejoin:round}
+  .halo-land{paint-order:stroke;stroke:#dfe3dc;stroke-width:3px;stroke-linejoin:round}
+  @media (prefers-color-scheme: dark){
+    .sea,.inset-bg{fill:#1b2430}.land{fill:#323a35;stroke:#4a534c}
+    .lbl,.dot{fill:#eceff1}.sub{fill:#b0b8c1}.region,.people{fill:#9aa3ad}.ocean{fill:#7f8b98}
+    .frame{stroke:#cfd6dc}.inset-bg{stroke:#cfd6dc}.river{stroke:#4f7aa6}
+    .flow{stroke:#ef6a5f}.head,.origin{fill:#ef6a5f}
+    .halo{stroke:#1b2430}.halo-land{stroke:#323a35}
+  }
+</style>
+<rect class="sea" width="856" height="472"/>
+<defs><clipPath id="c"><rect width="856" height="472"/></clipPath><clipPath id="ci"><rect x="618.0" y="10.0" width="228" height="156.0"/></clipPath></defs>
+<g clip-path="url(#c)">
+<path class="land" d="M856.0,-8.0 L659.2,-8.0 L659.2,12.8 L632.0,34.4 L620.0,47.2 L608.0,64.0 L599.2,88.0 L607.2,100.0 L608.0,112.0 L604.0,128.0 L596.8,138.4 L602.4,152.0 L601.6,157.6 L612.0,164.0 L620.0,172.0 L629.6,180.0 L630.4,188.0 L644.0,200.0 L649.6,205.6 L664.0,216.0 L676.0,220.8 L696.0,215.2 L712.0,215.2 L724.0,217.6 L736.0,211.2 L745.6,207.2 L755.2,205.2 L763.2,204.8 L772.0,205.6 L780.0,214.4 L784.8,221.6 L792.0,220.8 L802.4,219.2 L811.2,224.8 L814.4,236.0 L812.8,248.0 L810.4,260.0 L806.4,264.0 L814.4,278.4 L824.8,287.2 L833.6,302.4 L841.6,326.4 L836.0,364.0 L830.4,392.0 L835.2,408.0 L852.0,439.2 L856.0,464.0 L856.0,480.0 Z"/>
+<path class="land" d="M0.0,-8.0 L84.8,-8.0 L85.6,12.0 L91.2,28.0 L96.0,42.4 L92.8,54.4 L88.0,54.4 L81.6,48.0 L75.2,40.0 L73.6,32.0 L64.0,16.0 L56.0,18.4 L19.2,14.4 L0.0,19.2 Z"/>
+<path class="land" d="M0.0,107.2 L12.0,97.6 L12.8,88.0 L32.0,83.2 L41.6,84.0 L36.8,100.0 L30.4,108.0 L29.6,128.0 L48.0,128.8 L64.0,129.6 L70.4,136.0 L67.2,152.0 L65.6,168.0 L72.0,176.0 L84.0,184.0 L100.0,180.8 L116.0,186.4 L121.6,192.0 L128.0,181.6 L132.0,172.8 L142.4,167.2 L160.0,158.4 L165.6,164.0 L163.2,169.6 L176.0,159.2 L190.4,172.0 L200.8,171.2 L224.0,171.2 L240.0,170.4 L243.2,176.8 L252.0,188.0 L270.4,201.6 L294.4,208.8 L317.6,216.8 L328.0,224.0 L336.0,241.6 L340.0,256.0 L348.8,267.2 L368.0,264.0 L381.6,276.0 L401.6,279.2 L428.0,285.6 L454.4,302.4 L456.8,320.0 L450.4,332.8 L440.0,344.0 L428.0,360.0 L424.0,374.4 L422.4,398.4 L413.6,418.4 L408.0,432.0 L390.4,439.2 L376.0,444.8 L365.6,448.0 L352.0,460.0 L347.2,480.0 L168.0,480.0 L171.2,464.0 L173.6,400.0 L136.0,376.0 L120.0,352.0 L99.2,312.0 L86.4,296.0 L96.0,272.0 L92.0,256.0 L97.6,248.0 L116.8,224.0 L116.8,200.0 L112.0,189.6 L100.0,184.8 L92.0,196.0 L72.8,190.4 L50.4,176.0 L35.2,152.0 L16.0,144.8 L0.0,140.0 Z"/>
+<path class="land" d="M56.8,80.8 L64.0,74.4 L76.0,71.2 L88.0,70.4 L100.0,76.8 L113.6,81.6 L128.0,87.2 L142.4,94.4 L131.2,96.8 L114.4,97.2 L118.4,90.4 L107.2,83.2 L85.6,79.2 L78.4,76.8 L68.8,78.4 Z"/>
+<path class="land" d="M140.8,108.8 L153.6,96.8 L168.0,96.8 L176.8,99.2 L189.6,107.2 L176.0,110.4 L164.8,115.2 L153.6,111.2 Z"/>
+<path class="land" d="M109.6,108.8 L120.8,108.0 L126.4,112.0 L118.4,113.6 L109.6,110.4 Z"/>
+<path class="land" d="M198.4,108.0 L211.2,108.8 L210.4,112.0 L198.4,112.0 Z"/>
+<path class="land" d="M240.8,169.6 L248.0,169.2 L248.8,175.2 L240.8,175.6 Z"/>
+</g>
+<path class="flow" d="M760.0,219.2 C688.0,252.0 290.9,134.3 85.7,73.5"/>
+<path class="head" d="M0,0 L-9,-4.5 L-9,4.5 Z" transform="translate(79.0,71.5) rotate(-163.5)"/>
+<path class="flow" d="M760.0,219.2 C688.0,252.0 399.4,199.2 252.9,172.4"/>
+<path class="head" d="M0,0 L-9,-4.5 L-9,4.5 Z" transform="translate(246.0,171.2) rotate(-169.6)"/>
+<path class="flow" d="M760.0,219.2 C688.0,252.0 488.8,267.8 390.6,275.5"/>
+<path class="head" d="M0,0 L-9,-4.5 L-9,4.5 Z" transform="translate(383.6,276.1) rotate(175.5)"/>
+<path class="flow" d="M760.0,219.2 C688.0,252.0 537.7,296.5 465.4,317.8"/>
+<path class="head" d="M0,0 L-9,-4.5 L-9,4.5 Z" transform="translate(458.7,319.8) rotate(163.5)"/>
+<path class="flow" d="M760.0,219.2 C688.0,252.0 519.0,322.0 436.3,356.3"/>
+<path class="head" d="M0,0 L-9,-4.5 L-9,4.5 Z" transform="translate(429.8,359.0) rotate(157.5)"/>
+<circle class="dot" cx="77.0" cy="71.0" r="3.2"/>
+<text class="lbl halo" x="73.0" y="49.0" text-anchor="middle">La Havane, Matanzas</text>
+<text class="sub halo" x="73.0" y="62.0" text-anchor="middle">Changó · santería</text>
+<circle class="dot" cx="83.4" cy="71.7" r="2.4"/>
+<circle class="dot" cx="244.0" cy="170.8" r="3.2"/>
+<text class="lbl halo" x="238.0" y="146.8" text-anchor="middle">Trinidad</text>
+<text class="sub halo" x="238.0" y="159.8" text-anchor="middle">Shango · Orisha</text>
+<circle class="dot" cx="381.6" cy="276.2" r="3.2"/>
+<text class="lbl halo" x="373.6" y="262.2" text-anchor="end">São Luís</text>
+<text class="sub halo" x="373.6" y="275.2" text-anchor="end">Xangô · tambor de mina</text>
+<circle class="dot" cx="456.8" cy="320.4" r="3.2"/>
+<text class="lbl halo-land" x="448.8" y="316.4" text-anchor="end">Recife</text>
+<text class="sub halo-land" x="448.8" y="329.4" text-anchor="end">Xangô</text>
+<circle class="dot" cx="428.0" cy="359.8" r="3.2"/>
+<text class="lbl halo" x="420.0" y="363.8" text-anchor="end">Salvador (Bahia)</text>
+<text class="sub halo" x="420.0" y="376.8" text-anchor="end">Xangô · candomblé</text>
+<text class="ocean halo" x="448.0" y="104.0" text-anchor="middle">OCÉAN ATLANTIQUE</text>
+<text class="region halo-land" x="296.0" y="320.0" text-anchor="middle">BRÉSIL</text>
+<text class="region halo" x="112.0" y="35.2" text-anchor="middle">CARAÏBES</text>
+<rect class="frame" x="736.0" y="172.0" width="76.0" height="52.0"/>
+<circle class="origin" cx="760.0" cy="219.2" r="4"/>
+<path class="frame" d="M736.0,172.0 L618.0,166.0 M816.0,172.0 L846.0,166.0"/>
+<rect class="inset-bg" x="618.0" y="10.0" width="228.0" height="156.0"/>
+<g clip-path="url(#ci)">
+<path class="land" d="M594.0,-26.0 L594.0,137.2 L618.0,127.6 L646.8,115.6 L675.6,109.6 L699.6,108.4 L726.0,110.8 L750.0,137.2 L757.2,151.6 L764.4,158.8 L786.0,156.4 L817.2,151.6 L843.6,168.4 L882.0,178.0 L882.0,-26.0 Z"/>
+<path class="river" d="M704.4,-18.8 L723.6,12.4 L733.2,41.2 L752.4,48.4 L780.0,74.8 L778.8,103.6 L771.6,127.6 L764.4,151.6"/><path class="river" d="M882.0,41.2 L843.6,55.6 L810.0,65.2 L780.0,74.8"/>
+<circle class="dot" cx="721.2" cy="48.4" r="3"/>
+<text class="lbl halo-land" x="715.2" y="44.4" text-anchor="end" font-size="11">Old Oyo</text>
+<circle class="dot" cx="727.2" cy="58.0" r="3"/>
+<text class="lbl halo-land" x="733.2" y="62.0" text-anchor="start" font-size="11">Ilorin</text>
+<circle class="dot" cx="712.3" cy="73.6" r="3"/>
+<text class="lbl halo-land" x="718.3" y="77.6" text-anchor="start" font-size="11">Oyo (actuelle)</text>
+<circle class="dot" cx="727.4" cy="82.5" r="3"/>
+<text class="lbl halo-land" x="732.4" y="96.5" text-anchor="start" font-size="11">Ilé-Ifẹ̀</text>
+<circle class="dot" cx="665.8" cy="89.7" r="3"/>
+<text class="lbl halo-land" x="667.8" y="82.7" text-anchor="middle" font-size="11">Abomey</text>
+<circle class="dot" cx="667.9" cy="109.4" r="3"/>
+<text class="lbl halo-land" x="662.9" y="121.4" text-anchor="end" font-size="11">Ouidah</text>
+<circle class="dot" cx="699.1" cy="107.2" r="3"/>
+<text class="lbl halo-land" x="693.1" y="122.2" text-anchor="middle" font-size="11">Lagos</text>
+<circle class="dot" cx="786.7" cy="130.5" r="3"/>
+<text class="lbl halo-land" x="792.7" y="134.5" text-anchor="start" font-size="11">Owerri</text>
+<text class="people halo-land" x="680.4" y="24.4" text-anchor="middle" font-size="11">YORUBA</text>
+<text class="people halo-land" x="646.8" y="55.6" text-anchor="middle" font-size="11">FON</text>
+<text class="people halo-land" x="810.0" y="113.2" text-anchor="middle" font-size="11">IGBO</text>
+<text class="sub halo-land" x="759.6" y="24.4" text-anchor="start" font-size="11">Niger</text>
+</g>
+<text class="sub halo" x="624.0" y="160.0">Golfe du Bénin</text>
+</svg>

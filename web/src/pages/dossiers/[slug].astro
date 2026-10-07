@@ -329,8 +329,12 @@ const dossierJsonLd = {
 
   .dossier-body :global(.figure img) {
     display: block;
-    max-width: 100%;
+    width: 100%;
     height: auto;
+    /* Une photo en hauteur ne doit pas occuper tout l'écran : elle est réduite dans
+       son cadre (le zoom est là pour le détail). */
+    max-height: 30rem;
+    object-fit: contain;
     margin-inline: auto;
     border-radius: var(--radius);
   }
