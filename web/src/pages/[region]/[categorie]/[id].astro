@@ -2,6 +2,7 @@
 import BaseLayout from "../../../layouts/BaseLayout.astro";
 import Breadcrumb from "../../../components/Breadcrumb.astro";
 import CategoryBadge from "../../../components/CategoryBadge.astro";
+import DossierCard from "../../../components/DossierCard.astro";
 import EntityCard from "../../../components/EntityCard.astro";
 import Pill from "../../../components/Pill.astro";
 import SupportCard from "../../../components/SupportCard.astro";
@@ -24,6 +25,7 @@ import {
   getRelatedEntities,
   getTagById,
 } from "../../../lib/data";
+import { getDossiersForEntity } from "../../../lib/dossiers";
 
 export function getStaticPaths() {
   return REGIONS.flatMap((region) =>
@@ -56,6 +58,7 @@ const descriptionParagraphs = entity.description_detaillee?.split(/\n{2,}/).filt
 const recitsAssocies = entity.recits_associes.map(relatedLink);
 const tags = entity.tags.map((id) => ({ id, label: getTagById(id)?.label ?? id }));
 const relatedEntities = getRelatedEntities(entity, 3);
+const dossiers = await getDossiersForEntity(entity.id);
 
 const breadcrumb = [
   { label: "Accueil", href: "/" },
@@ -228,20 +231,36 @@ const entityJsonLd = {
     </section>
 
     {
+      (dossiers.length > 0 || relatedEntities.length > 0) && <hr class="section-sep" />
+    }
+
+    {
+      dossiers.length > 0 && (
+        <section>
+          <h2>Dossiers</h2>
+          <ul class="related-grid">
+            {dossiers.map((dossier) => (
+              <li>
+                <DossierCard dossier={dossier} />
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+
+    {
       relatedEntities.length > 0 && (
-        <>
-          <hr class="section-sep" />
-          <section>
-            <h2>À lire aussi</h2>
-            <ul class="related-grid">
-              {relatedEntities.map((related) => (
-                <li>
-                  <EntityCard entity={related} />
-                </li>
-              ))}
-            </ul>
-          </section>
-        </>
+        <section>
+          <h2>À lire aussi</h2>
+          <ul class="related-grid">
+            {relatedEntities.map((related) => (
+              <li>
+                <EntityCard entity={related} />
+              </li>
+            ))}
+          </ul>
+        </section>
       )
     }
   </article>

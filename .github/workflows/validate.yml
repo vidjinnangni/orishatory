@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - "data/**"
+      - "dossiers/**"
       - "schema/**"
       - "scripts/validate.py"
       - ".github/workflows/validate.yml"
@@ -12,6 +13,7 @@ on:
     branches: [main]
     paths:
       - "data/**"
+      - "dossiers/**"
       - "schema/**"
       - "scripts/validate.py"
       - ".github/workflows/validate.yml"
@@ -19,7 +21,7 @@ on:
 
 jobs:
   validate:
-    name: Valider les fiches JSON
+    name: Valider les fiches et les dossiers
     runs-on: ubuntu-latest
     steps:
       - name: Checkout du dépôt
@@ -31,7 +33,7 @@ jobs:
           python-version: "3.12"
 
       - name: Installer les dépendances
-        run: pip install jsonschema
+        run: pip install jsonschema pyyaml
 
       - name: Lancer la validation
         run: python scripts/validate.py

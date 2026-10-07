@@ -1,0 +1,44 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Dossier thématique d'Orishatory",
+  "description": "Métadonnées (en-tête YAML) d'un dossier thématique. Le corps du fichier Markdown est libre ; il est vérifié par scripts/validate.py (liens vers les fiches, cohérence avec le champ 'fiches').",
+  "type": "object",
+  "required": ["titre", "type", "resume", "fiches", "sources"],
+  "additionalProperties": false,
+  "properties": {
+    "titre": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Titre du dossier, affiché en en-tête de page et dans les résultats de recherche."
+    },
+    "type": {
+      "type": "string",
+      "enum": ["figure", "theme", "comparaison"],
+      "description": "figure : un dieu, un héros, une créature suivi à travers les régions ; theme : un motif ou un thème (cosmogonie, création, ancêtres) ; comparaison : un rapprochement entre traditions."
+    },
+    "resume": {
+      "type": "string",
+      "minLength": 1,
+      "description": "1 à 3 phrases : chapeau du dossier, aussi utilisé comme meta description et sur les cartes."
+    },
+    "fiches": {
+      "type": "array",
+      "description": "Ids des fiches du dossier, dans l'ordre d'affichage. Tout lien [texte](fiche:<id>) du corps doit pointer vers l'une d'elles.",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "sources": {
+      "type": "array",
+      "description": "Références bibliographiques ou académiques sur lesquelles s'appuie le dossier.",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 1
+    }
+  }
+}

@@ -22,10 +22,12 @@ orishatory/
 │   ├── afrique-nord/
 │   ├── diaspora/
 │   └── tags.json          # tags transversaux (thèmes récurrents inter-régions)
+├── dossiers/              # dossiers thématiques (Markdown)
 ├── schema/
-│   └── entite.schema.json # schéma JSON pour la validation de chaque fiche
+│   ├── entite.schema.json # schéma JSON pour la validation de chaque fiche
+│   └── dossier.schema.json # schéma de l'en-tête YAML des dossiers
 ├── scripts/
-│   └── validate.py        # validation automatique des fiches
+│   └── validate.py        # validation automatique des fiches et des dossiers
 ├── web/                    # site de présentation du codex (Astro, statique)
 └── CONTRIBUTING.md
 ```
@@ -55,6 +57,14 @@ Champs clés :
 - `genealogie`, `recits_associes` : liens vers d'autres fiches
 - `sources` : références (**obligatoire**, pas d'entrée sans source)
 
+## Dossiers thématiques
+
+Les fiches décrivent une entité. Un **dossier**, quant à lui, aborde un sujet en détail à partir de fiches et autres sources pertinentes. Il peut s'agir d'une figure suivie de région en région, d'un thème (cosmogonies, création), d'une comparaison entre traditions, etc.
+
+Chaque dossier est un fichier Markdown `dossiers/<slug>.md`, avec un en-tête YAML (`titre`, `type`, `resume`, `fiches`, `sources`, tous obligatoires) et un corps libre. Dans le texte, `[Shango](fiche:shango)` crée un lien vers la fiche.
+
+Voir `CONTRIBUTING.md` pour plus de détail.
+
 ## Pourquoi ce découpage régional ?
 
 Les frontières nationales actuelles ne correspondent presque jamais aux aires culturelles précoloniales. Le découpage par grande région (Ouest, Centrale, Est, Australe, Nord, Diaspora) suit plutôt les grandes zones de circulation historique des langues et des cosmologies. C'est une simplification assumée qui donne une bonne base de départ. Beaucoup de peuples et de traditions débordent ces catégories. Les tags transversaux (`data/tags.json`) servent justement à recoudre ce que le découpage régional sépare artificiellement (ex : les tricksters "araignée" ou "lièvre" apparaissent dans plusieurs régions).
@@ -62,11 +72,11 @@ Les frontières nationales actuelles ne correspondent presque jamais aux aires c
 ## Validation
 
 ```bash
-pip install jsonschema
+pip install jsonschema pyyaml
 python scripts/validate.py
 ```
 
-Le script vérifie que chaque fiche respecte le schéma et que son contenu (`region`, `categorie`, `id`) correspond bien à son emplacement dans l'arborescence.
+Le script vérifie que chaque fiche respecte le schéma et que son contenu (`region`, `categorie`, `id`) correspond bien à son emplacement dans l'arborescence. Il vérifie aussi les dossiers : en-tête conforme à `schema/dossier.schema.json`, et liens vers des fiches existantes.
 
 ## Exigence de sourçage
 

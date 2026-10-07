@@ -109,7 +109,7 @@ export function entityHref(entity: Pick<Entite, "region" | "categorie" | "id">):
   return `/${entity.region}/${entity.categorie}/${entity.id}/`;
 }
 
-const REPO_URL = "https://github.com/vidjinnangni/orishatory";
+export const REPO_URL = "https://github.com/vidjinnangni/orishatory";
 
 /** Lien vers l'éditeur GitHub du fichier JSON de la fiche (propose automatiquement un fork + pull request aux contributeurs sans droits d'écriture). */
 export function entityEditUrl(entity: Pick<Entite, "id">): string | undefined {

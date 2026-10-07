@@ -22,6 +22,31 @@ Cette même validation tourne automatiquement via GitHub Actions à chaque pull 
 
 5. Ouvrir une pull request.
 
+## Ajouter un dossier thématique
+
+Un dossier aborde un sujet avec plus de détails à partir des fiches (une figure à travers les régions, un thème, une comparaison) et d'autres sources pertinentes. Ainsi, la rédaction d'une fiche s'appuie sur des fiches existantes ; il ne s'agit pas de les recopier tout simplement.
+
+1. Créer `dossiers/<slug>.md`, où `<slug>` est en kebab-case (minuscules, tirets, sans accents), ex: `cosmogonies`. Il devient l'adresse `/dossiers/<slug>/`.
+
+2. Commencer par un en-tête YAML, dont tous les champs sont obligatoires :
+   
+   ```markdown
+   ---
+   titre: "Shango, d'Oyo à Cuba"
+   type: figure            # figure | theme | comparaison
+   resume: "1 à 3 phrases : chapeau du dossier et description pour les moteurs de recherche."
+   fiches: [shango, xango, chango]   # ids des fiches, dans l'ordre d'affichage
+   sources:
+     - "Référence bibliographique ou académique"
+   ---
+   ```
+
+3. Rédiger le corps en Markdown (titres `##` pour les sections, notes de bas de page `[^1]`, citations, listes, tableaux). Pour renvoyer vers une fiche, utiliser `[Shango](fiche:shango)` : l'id doit exister et figurer aussi dans `fiches`. Taper directement les guillemets « » et l'apostrophe ’ : il n'y a pas de conversion automatique.
+
+4. Lancer `python scripts/validate.py` (nécessite `pip install jsonschema pyyaml`), puis ouvrir une pull request. La même validation tourne en CI et le build du site échoue aussi sur un lien ou un id invalide.
+
+Les standards ci-dessous s'appliquent aussi aux dossiers : toute comparaison ou affirmation s'appuie sur une source citée et ce que les sources ne permettent pas d'affirmer est dit explicitement.
+
 ## Standards de qualité
 
 - **Sourçage obligatoire** : au moins une référence académique ou ethnographique par fiche (ouvrage, article, corpus de terrain). Éviter les sources uniquement encyclopédiques grand public quand une source primaire existe.

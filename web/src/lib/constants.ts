@@ -60,3 +60,13 @@ export const CATEGORY_DESCRIPTIONS: Record<Categorie, string> = {
   recits: "Mythes narratifs complets, contes",
   rites: "Pratiques rituelles, divination, initiation",
 };
+
+export const DOSSIER_TYPES = ["figure", "theme", "comparaison"] as const;
+
+export type DossierType = (typeof DOSSIER_TYPES)[number];
+
+export const DOSSIER_TYPE_LABELS: Record<DossierType, string> = {
+  figure: "Figure",
+  theme: "Thème",
+  comparaison: "Comparaison",
+};

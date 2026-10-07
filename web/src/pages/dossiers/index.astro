@@ -1,0 +1,67 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumb from "../../components/Breadcrumb.astro";
+import DossierCard from "../../components/DossierCard.astro";
+import { getAllDossiers } from "../../lib/dossiers";
+
+const dossiers = await getAllDossiers();
+const breadcrumb = [{ label: "Accueil", href: "/" }, { label: "Dossiers" }];
+---
+
+<BaseLayout
+  title="Dossiers"
+  description="Des parcours approfondis dans le codex : une figure suivie de région en région, un thème, une comparaison entre traditions."
+  breadcrumb={breadcrumb}
+  noindex={dossiers.length === 0}
+>
+  <div class="container">
+    <Breadcrumb items={breadcrumb} />
+  </div>
+
+  <section class="container intro">
+    <h1>Dossiers</h1>
+    <p class="lede">
+      Des parcours approfondis : une figure suivie de région en région, un thème, une comparaison entre
+      traditions.
+    </p>
+  </section>
+
+  <section class="container">
+    {
+      dossiers.length > 0 ? (
+        <ul class="grid">
+          {dossiers.map((dossier) => (
+            <li>
+              <DossierCard dossier={dossier} />
+            </li>
+          ))}
+        </ul>
+      ) : (
+        <p class="empty">Les premiers dossiers arrivent bientôt.</p>
+      )
+    }
+  </section>
+</BaseLayout>
+
+<style>
+  .intro {
+    padding-block: 1rem 2rem;
+  }
+
+  .lede {
+    max-width: 60ch;
+    color: var(--fg-muted);
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr));
+    gap: 1.25rem;
+    padding-bottom: 4rem;
+  }
+
+  .empty {
+    padding-bottom: 4rem;
+    color: var(--fg-muted);
+  }
+</style>

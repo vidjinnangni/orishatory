@@ -23,7 +23,10 @@ web/
 │   ├── lib/
 │   │   ├── constants.ts    # libellés des régions/catégories, couleurs par catégorie
 │   │   ├── data.ts         # lecture des fiches JSON depuis ../data au build
-│   │   └── added-dates.ts  # date d'ajout de chaque fiche, déduite de l'historique git
+│   │   ├── added-dates.ts  # date d'ajout de chaque fiche, déduite de l'historique git
+│   │   ├── dossiers.ts     # dossiers thématiques (collection Astro lue dans ../dossiers)
+│   │   └── fiche-links.mjs # plugin Markdown : fiche:<id> -> lien vers la fiche
+│   ├── content.config.ts  # collection "dossiers" et validation de son en-tête
 │   ├── layouts/           # gabarit de page commun (header, footer, styles)
 │   ├── components/        # cartes, badges, pastilles, fil d'Ariane
 │   ├── styles/global.css  # tokens de design (couleurs OKLCH, typographie)
@@ -35,6 +38,7 @@ web/
 │       ├── tags/, tags/[tag].astro               # motifs transversaux
 │       ├── recherche.astro                       # recherche côté client
 │       ├── search-index.json.ts                  # index consommé par la recherche
+│       ├── dossiers/index.astro, [slug].astro    # dossiers thématiques
 │       ├── nouveautes.astro                      # dernières fiches ajoutées
 │       └── rss.xml.ts                            # flux RSS des nouveautés
 └── astro.config.mjs
@@ -107,6 +111,26 @@ s'agit d'entrées d'un même codex de référence plutôt que de pages isolées.
 `public/og-image.png` est une image de partage générique (1200×630, générée
 manuellement, pas de build automatique) : à remplacer si l'identité visuelle
 change.
+
+## Dossiers thématiques
+
+Les dossiers sont des fichiers Markdown dans [`../dossiers/`](../dossiers),
+lus par la collection `dossiers` de [`src/content.config.ts`](src/content.config.ts)
+(en-tête validé par zod, miroir de `../schema/dossier.schema.json`).
+
+- `[texte](fiche:<id>)` est résolu par [`src/lib/fiche-links.mjs`](src/lib/fiche-links.mjs),
+  un plugin du processeur Markdown (Sätteri) branché dans `astro.config.mjs`.
+  Le plugin ne fait que journaliser une erreur : le vrai garde-fou est
+  [`src/lib/dossiers.ts`](src/lib/dossiers.ts), qui fait échouer le build sur un
+  id inconnu (champ `fiches` ou lien du texte) ou un lien absent de `fiches`.
+- Tant qu'aucun dossier n'existe, `/dossiers/` est une page vide en `noindex`,
+  sans lien dans l'en-tête ni dans le sitemap. Un avertissement
+  `No files found matching "*.md" in directory "../dossiers"` s'affiche au
+  build : il est sans conséquence et disparaît avec le premier dossier.
+- Le lien « Dossiers » de l'en-tête, la page `/dossiers/` et le bloc « Dossiers »
+  des fiches concernées apparaissent automatiquement avec le premier dossier.
+- Les dossiers ne sont pas (encore) dans la recherche, ni dans Nouveautés ni
+  dans le flux RSS.
 
 ## Nouveautés & RSS
 

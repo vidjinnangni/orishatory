@@ -1,0 +1,74 @@
+---
+import { DOSSIER_TYPE_LABELS } from "../lib/constants";
+import { dossierHref, type Dossier } from "../lib/dossiers";
+
+interface Props {
+  dossier: Dossier;
+}
+
+const { dossier } = Astro.props;
+const { titre, type, resume, fiches } = dossier.data;
+---
+
+<a class="card" href={dossierHref(dossier)}>
+  <span class="eyebrow">{DOSSIER_TYPE_LABELS[type]}</span>
+  <h3>{titre}</h3>
+  <p class="resume">{resume}</p>
+  <p class="count">{fiches.length} fiche{fiches.length > 1 ? "s" : ""}</p>
+</a>
+
+<style>
+  .card {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding: 1.25rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--bg-elevated);
+    text-decoration: none;
+    color: var(--fg);
+    height: 100%;
+    transition:
+      border-color var(--duration-fast) var(--ease-out),
+      transform var(--duration-fast) var(--ease-out),
+      box-shadow var(--duration-fast) var(--ease-out);
+  }
+
+  .card:hover {
+    border-color: var(--accent);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px oklch(0 0 0 / 0.07);
+  }
+
+  .card:active {
+    transform: translateY(-1px) scale(0.99);
+    transition-duration: 100ms;
+  }
+
+  h3 {
+    margin: 0;
+    font-size: 1.15rem;
+    overflow-wrap: anywhere;
+  }
+
+  .resume {
+    margin: 0;
+    max-width: none;
+    font-size: 0.9rem;
+    color: var(--fg-muted);
+    line-height: 1.5;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .count {
+    margin: auto 0 0;
+    padding-top: 0.25rem;
+    max-width: none;
+    font-size: 0.8rem;
+    color: var(--fg-muted);
+  }
+</style>

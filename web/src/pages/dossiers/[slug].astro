@@ -1,0 +1,339 @@
+---
+import { render } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumb from "../../components/Breadcrumb.astro";
+import EntityCard from "../../components/EntityCard.astro";
+import SupportCard from "../../components/SupportCard.astro";
+import ContributeCard from "../../components/ContributeCard.astro";
+import { DOSSIER_TYPE_LABELS } from "../../lib/constants";
+import { dossierEditUrl, dossierHref, getAllDossiers, getDossierEntities, type Dossier } from "../../lib/dossiers";
+
+export async function getStaticPaths() {
+  const dossiers = await getAllDossiers();
+  return dossiers.map((dossier) => ({ params: { slug: dossier.id }, props: { dossier } }));
+}
+
+const { dossier } = Astro.props as { dossier: Dossier };
+const { titre, type, resume, sources } = dossier.data;
+const { Content, headings } = await render(dossier);
+const entities = getDossierEntities(dossier);
+
+// Sommaire : sections de niveau 2 uniquement, sans la section des notes de bas de page.
+const sections = headings.filter((h) => h.depth === 2 && !h.slug.includes("footnote-label"));
+
+const breadcrumb = [{ label: "Accueil", href: "/" }, { label: "Dossiers", href: "/dossiers/" }, { label: titre }];
+
+const dossierJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  headline: titre,
+  description: resume,
+  inLanguage: "fr",
+  url: new URL(dossierHref(dossier), Astro.site).toString(),
+  publisher: { "@type": "Organization", name: "Orishatory", url: Astro.site?.toString() },
+};
+---
+
+<BaseLayout title={`${titre} — Dossier`} description={resume} type="article" breadcrumb={breadcrumb} jsonLd={dossierJsonLd}>
+  <div class="container">
+    <Breadcrumb items={breadcrumb} />
+  </div>
+
+  <div class="container dossier-layout">
+    <article class="dossier">
+      <header class="dossier-head">
+        <p class="eyebrow">Dossier · {DOSSIER_TYPE_LABELS[type]}</p>
+        <h1>{titre}</h1>
+        <p class="lede">{resume}</p>
+      </header>
+
+      {
+        sections.length >= 3 && (
+          <nav class="toc" aria-label="Sommaire">
+            <h2 class="toc-title">Sommaire</h2>
+            <ol>
+              {sections.map((section) => (
+                <li>
+                  <a href={`#${section.slug}`}>{section.text}</a>
+                </li>
+              ))}
+            </ol>
+          </nav>
+        )
+      }
+
+      <div class="dossier-body">
+        <Content />
+      </div>
+
+      <hr class="section-sep" />
+
+      <section>
+        <h2 class="block-title">Fiches du dossier</h2>
+        <ul class="fiches-grid">
+          {
+            entities.map((entity) => (
+              <li>
+                <EntityCard entity={entity} />
+              </li>
+            ))
+          }
+        </ul>
+      </section>
+
+      <section class="sources">
+        <h2 class="block-title">Sources</h2>
+        <ul class="plain-list">
+          {sources.map((source) => <li>{source}</li>)}
+        </ul>
+      </section>
+    </article>
+
+    <aside class="dossier-sidebar" aria-label="Actions">
+      <div class="sidebar-sticky">
+        <SupportCard />
+        <ContributeCard editUrl={dossierEditUrl(dossier)} />
+      </div>
+    </aside>
+  </div>
+</BaseLayout>
+
+<style>
+  .dossier-layout {
+    padding-block: 1.5rem 4rem;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+  }
+
+  @media (min-width: 1000px) {
+    .dossier-layout {
+      grid-template-columns: minmax(0, 1fr) 280px;
+    }
+  }
+
+  .sidebar-sticky {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+  }
+
+  @media (min-width: 1000px) {
+    .sidebar-sticky {
+      position: sticky;
+      top: 2rem;
+    }
+  }
+
+  .dossier {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    min-width: 0;
+  }
+
+  .dossier-head {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .dossier-head h1,
+  .dossier-head p {
+    margin: 0;
+  }
+
+  .lede {
+    max-width: 65ch;
+    font-size: 1.1rem;
+    color: var(--fg);
+  }
+
+  .toc {
+    max-width: var(--measure);
+    padding: 1rem 1.25rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--bg-elevated);
+  }
+
+  .toc-title {
+    margin: 0 0 0.5rem;
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--fg-muted);
+  }
+
+  .toc ol {
+    margin: 0;
+    padding-left: 1.25rem;
+    font-size: 0.95rem;
+  }
+
+  .toc li + li {
+    margin-top: 0.3rem;
+  }
+
+  .toc a {
+    color: var(--fg);
+    text-decoration-color: var(--border);
+    text-underline-offset: 0.15em;
+    transition: color var(--duration-fast) var(--ease-out);
+  }
+
+  .toc a:hover {
+    color: var(--accent);
+  }
+
+  /* Le HTML du Markdown n'est pas décoré par Astro : on cible ses éléments avec :global(). */
+  .dossier-body :global(h2) {
+    margin: 2.5rem 0 0.6rem;
+    font-size: 1.3rem;
+    font-weight: 700;
+  }
+
+  .dossier-body :global(h3) {
+    margin: 1.75rem 0 0.5rem;
+    font-size: 1.1rem;
+    font-weight: 700;
+  }
+
+  .dossier-body > :global(:first-child) {
+    margin-top: 0;
+  }
+
+  .dossier-body :global(p),
+  .dossier-body :global(ul),
+  .dossier-body :global(ol),
+  .dossier-body :global(blockquote),
+  .dossier-body :global(table) {
+    margin: 0 0 1.1em;
+  }
+
+  .dossier-body :global(ul),
+  .dossier-body :global(ol) {
+    padding-left: 1.5rem;
+    max-width: var(--measure);
+  }
+
+  .dossier-body :global(ul) {
+    list-style: disc;
+  }
+
+  .dossier-body :global(ol) {
+    list-style: decimal;
+  }
+
+  .dossier-body :global(li) {
+    padding-left: 0.25rem;
+  }
+
+  .dossier-body :global(li + li) {
+    margin-top: 0.5rem;
+  }
+
+  .dossier-body :global(a) {
+    color: var(--accent);
+    text-decoration-thickness: from-font;
+    text-underline-offset: 0.15em;
+    transition: opacity var(--duration-fast) var(--ease-out);
+  }
+
+  .dossier-body :global(a:hover) {
+    opacity: 0.75;
+  }
+
+  .dossier-body :global(blockquote) {
+    max-width: var(--measure);
+    padding-left: 1rem;
+    border-left: 3px solid var(--border);
+    color: var(--fg-muted);
+  }
+
+  .dossier-body :global(blockquote p:last-child) {
+    margin-bottom: 0;
+  }
+
+  .dossier-body :global(hr) {
+    margin: 2rem 0;
+    border: none;
+    border-top: 1px solid var(--border);
+  }
+
+  .dossier-body :global(table) {
+    display: block;
+    max-width: 100%;
+    overflow-x: auto;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+  }
+
+  .dossier-body :global(th),
+  .dossier-body :global(td) {
+    padding: 0.5rem 0.75rem;
+    border: 1px solid var(--border);
+    text-align: left;
+    vertical-align: top;
+  }
+
+  .dossier-body :global(th) {
+    font-weight: 700;
+    background: var(--bg-elevated);
+  }
+
+  /* Notes de bas de page (section générée par le processeur Markdown). */
+  .dossier-body :global(section[data-footnotes]) {
+    margin-top: 2.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border);
+    font-size: 0.85rem;
+    color: var(--fg-muted);
+  }
+
+  .dossier-body :global(section[data-footnotes] h2) {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+
+  .dossier-body :global(sup a) {
+    text-decoration: none;
+  }
+
+  .block-title {
+    margin: 0 0 0.6rem;
+    font-size: 1.3rem;
+    font-weight: 700;
+  }
+
+  .fiches-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+    gap: 1rem;
+  }
+
+  .plain-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+  }
+
+  .plain-list li {
+    max-width: var(--measure);
+    font-size: 0.85rem;
+    color: var(--fg-muted);
+  }
+
+  .section-sep {
+    width: 100%;
+    height: 1px;
+    margin: 0;
+    border: none;
+    background: var(--border);
+  }
+</style>
