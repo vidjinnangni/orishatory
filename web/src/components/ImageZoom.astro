@@ -1,0 +1,107 @@
+---
+// Agrandissement des images d'un dossier : un clic (ou Entrée / Espace) sur
+// une figure du corps l'ouvre en grand dans une boîte de dialogue ; un clic
+// ou Échap la referme. Sans JavaScript, les images restent simplement affichées.
+---
+
+<dialog id="image-zoom" class="image-zoom" aria-label="Image agrandie">
+  <img alt="" />
+  <p class="hint">Cliquer ou appuyer sur Échap pour fermer</p>
+</dialog>
+
+<script is:inline>
+  (function () {
+    var dialog = document.getElementById("image-zoom");
+    var zoomed = dialog.querySelector("img");
+    var opener = null;
+
+    function open(img) {
+      opener = img;
+      zoomed.src = img.currentSrc || img.src;
+      zoomed.alt = img.alt;
+      zoomed.classList.toggle("vector", /\.svg(\?|$)|[?&]f=svg(&|$)/.test(zoomed.src));
+      dialog.showModal();
+    }
+
+    document.querySelectorAll(".dossier-body .figure img").forEach(function (img) {
+      img.classList.add("zoomable");
+      img.setAttribute("role", "button");
+      img.setAttribute("tabindex", "0");
+      img.setAttribute("aria-label", "Agrandir l'image : " + img.alt);
+      img.addEventListener("click", function () {
+        open(img);
+      });
+      img.addEventListener("keydown", function (event) {
+        if (event.key === "Enter" || event.key === " ") {
+          event.preventDefault();
+          open(img);
+        }
+      });
+    });
+
+    dialog.addEventListener("click", function () {
+      dialog.close();
+    });
+    dialog.addEventListener("close", function () {
+      zoomed.removeAttribute("src");
+      if (opener) opener.focus({ preventScroll: true });
+    });
+  })();
+</script>
+
+<style is:global>
+  .dossier-body .figure img.zoomable {
+    cursor: zoom-in;
+  }
+
+  .dossier-body .figure img.zoomable:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 3px;
+  }
+
+  .image-zoom {
+    width: 100vw;
+    max-width: none;
+    height: 100dvh;
+    max-height: none;
+    margin: 0;
+    padding: 1rem;
+    border: none;
+    background: transparent;
+    cursor: zoom-out;
+  }
+
+  .image-zoom[open] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+  }
+
+  .image-zoom::backdrop {
+    background: oklch(0 0 0 / 0.85);
+  }
+
+  .image-zoom img {
+    display: block;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    max-height: calc(100dvh - 4rem);
+    object-fit: contain;
+    border-radius: var(--radius);
+    background: var(--bg);
+  }
+
+  /* Une carte SVG n'a pas de taille intrinsèque utile : on la fait occuper l'écran. */
+  .image-zoom img.vector {
+    width: min(100%, 1600px);
+  }
+
+  .image-zoom .hint {
+    margin: 0;
+    font-size: 0.8rem;
+    color: oklch(1 0 0 / 0.75);
+  }
+</style>

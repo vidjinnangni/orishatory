@@ -6,6 +6,7 @@ import Breadcrumb from "../../components/Breadcrumb.astro";
 import EntityCard from "../../components/EntityCard.astro";
 import SupportCard from "../../components/SupportCard.astro";
 import ContributeCard from "../../components/ContributeCard.astro";
+import ImageZoom from "../../components/ImageZoom.astro";
 import { DOSSIER_TYPE_LABELS } from "../../lib/constants";
 import {
   dossierEditUrl,
@@ -133,6 +134,7 @@ const dossierJsonLd = {
       </div>
     </aside>
   </div>
+  <ImageZoom />
 </BaseLayout>
 
 <style>
