@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 703" role="img" aria-labelledby="t d" font-family="'Nunito Variable', Nunito, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+<title id="t">Frise chronologique de la Maât</title>
+<desc id="d">Frise verticale des principaux textes, rois et rites liés à la Maât, de l’Ancien Empire (vers 2700 avant notre ère) à l’époque romaine, suivie des principales relectures modernes, de 1966 à 2018.</desc>
+<style>
+ /* Couleurs du site (web/src/styles/global.css), en hexadécimal : --bg, --bg-elevated, --fg, --fg-muted, --border, --accent. */
+ .bg{fill:#ffffff}.band{fill:#f5f5f5;stroke:#e5e5e5}.axis{stroke:#e5e5e5;stroke-width:2}
+ .pn{fill:#0a0a0a;font-size:14px;font-weight:700}.pd{fill:#737373;font-size:11.5px}
+ .dot{fill:#4a5dd4}.pdot{fill:#ffffff;stroke:#4a5dd4;stroke-width:2}
+ .d{fill:#4a5dd4;font-size:11.5px;font-weight:700}.t{fill:#0a0a0a;font-size:13px}
+ .mt{fill:#0a0a0a;font-size:12px;font-weight:700;letter-spacing:.08em}.note{fill:#737373;font-size:11px;font-style:italic}
+ .sep{stroke:#e5e5e5;stroke-dasharray:4 3}
+ @media (prefers-color-scheme: dark){
+  .bg{fill:#0a0a0a}.band{fill:#171717;stroke:#333333}.axis,.sep{stroke:#333333}.pn,.t,.mt{fill:#fafafa}.pd,.note{fill:#a1a1a1}
+  .dot,.d{fill:#758eff}.pdot{fill:#0a0a0a;stroke:#758eff}
+ }
+</style>
+<rect class="bg" width="700" height="703"/>
+<rect class="band" x="190" y="12" width="500" height="75" rx="6"/>
+<rect class="band" x="190" y="95" width="500" height="96" rx="6"/>
+<rect class="band" x="190" y="199" width="500" height="159" rx="6"/>
+<rect class="band" x="190" y="366" width="500" height="54" rx="6"/>
+<rect class="band" x="190" y="428" width="500" height="33" rx="6"/>
+<line class="axis" x1="176" y1="18" x2="176" y2="475"/>
+<circle class="pdot" cx="176" cy="28" r="6"/>
+<text class="pn" x="160" y="33" text-anchor="end">Ancien Empire</text>
+<text class="pd" x="160" y="49" text-anchor="end">v. 2700-2200 av.</text>
+<circle class="dot" cx="204" cy="33" r="2.6"/>
+<text class="d" x="214" y="37">v. 2600</text>
+<text class="t" x="312" y="37">Snéfrou se dit « maître de Maât »</text>
+<circle class="dot" cx="204" cy="54" r="2.6"/>
+<text class="d" x="214" y="58">v. 2350</text>
+<text class="t" x="312" y="58">Textes des pyramides d’Ounas</text>
+<circle class="dot" cx="204" cy="75" r="2.6"/>
+<text class="d" x="214" y="79">v. 2250</text>
+<text class="t" x="312" y="79">Autobiographie de Harkhouf</text>
+<circle class="pdot" cx="176" cy="111" r="6"/>
+<text class="pn" x="160" y="116" text-anchor="end">Moyen Empire</text>
+<text class="pd" x="160" y="132" text-anchor="end">v. 2050-1650 av.</text>
+<circle class="dot" cx="204" cy="116" r="2.6"/>
+<text class="t" x="312" y="120">Textes des sarcophages : Tefnout identifiée à la Maât</text>
+<circle class="dot" cx="204" cy="137" r="2.6"/>
+<text class="t" x="312" y="141">Conte du paysan éloquent</text>
+<circle class="dot" cx="204" cy="158" r="2.6"/>
+<text class="t" x="312" y="162">Prophétie de Néferti</text>
+<circle class="dot" cx="204" cy="179" r="2.6"/>
+<text class="t" x="312" y="183">Enseignement pour Mérikarê (date discutée)</text>
+<circle class="pdot" cx="176" cy="215" r="6"/>
+<text class="pn" x="160" y="220" text-anchor="end">Nouvel Empire</text>
+<text class="pd" x="160" y="236" text-anchor="end">v. 1550-1070 av.</text>
+<circle class="dot" cx="204" cy="220" r="2.6"/>
+<text class="d" x="214" y="224">dès 1550</text>
+<text class="t" x="312" y="224">Livre des morts, chapitre 125 et pesée du cœur</text>
+<circle class="dot" cx="204" cy="241" r="2.6"/>
+<text class="d" x="214" y="245">v. 1473-1458</text>
+<text class="t" x="312" y="245">Hatchepsout règne sous le nom de Maâtkarê</text>
+<circle class="dot" cx="204" cy="262" r="2.6"/>
+<text class="d" x="214" y="266">v. 1450</text>
+<text class="t" x="312" y="266">Thoutmôsis III : premières images de l’offrande de Maât</text>
+<circle class="dot" cx="204" cy="283" r="2.6"/>
+<text class="t" x="312" y="287">Devoirs du vizir, tombe de Rekhmirê</text>
+<circle class="dot" cx="204" cy="304" r="2.6"/>
+<text class="d" x="214" y="308">v. 1353-1336</text>
+<text class="t" x="312" y="308">Akhenaton, « vivant de Maât »</text>
+<circle class="dot" cx="204" cy="325" r="2.6"/>
+<text class="d" x="214" y="329">XIXe-XXe dyn.</text>
+<text class="t" x="312" y="329">Offrandes de Maât très nombreuses ; Aménémopé</text>
+<circle class="dot" cx="204" cy="346" r="2.6"/>
+<text class="d" x="214" y="350">v. 1150</text>
+<text class="t" x="312" y="350">Contestations d’Horus et Seth (Ramsès V)</text>
+<circle class="pdot" cx="176" cy="382" r="6"/>
+<text class="pn" x="160" y="387" text-anchor="end">Basse Époque,</text>
+<text class="pn" x="160" y="404" text-anchor="end">Ptolémées</text>
+<text class="pd" x="160" y="420" text-anchor="end">664-30 av.</text>
+<circle class="dot" cx="204" cy="387" r="2.6"/>
+<text class="d" x="214" y="391">v. 300</text>
+<text class="t" x="312" y="391">Autobiographie de Pétosiris</text>
+<circle class="dot" cx="204" cy="408" r="2.6"/>
+<text class="t" x="312" y="412">Temple d’Edfou : l’offrande de Maât se poursuit</text>
+<circle class="pdot" cx="176" cy="444" r="6"/>
+<text class="pn" x="160" y="449" text-anchor="end">Époque romaine</text>
+<text class="pd" x="160" y="465" text-anchor="end">après 30 av.</text>
+<circle class="dot" cx="204" cy="449" r="2.6"/>
+<text class="d" x="214" y="453">Ier-IIe s.</text>
+<text class="t" x="312" y="453">Domitien, Nerva, Trajan offrent encore la Maât</text>
+<line class="sep" x1="20" y1="493" x2="680" y2="493"/>
+<text class="mt" x="160" y="521" text-anchor="end">RELECTURES</text><text class="mt" x="160" y="537" text-anchor="end">MODERNES</text>
+<circle class="dot" cx="204" cy="517" r="2.6"/><text class="d" x="214" y="521">1966</text><text class="t" x="312" y="521">H.H. Schmidt : la Maât comme « ordre du monde »</text>
+<circle class="dot" cx="204" cy="538" r="2.6"/><text class="d" x="214" y="542">1989-1990</text><text class="t" x="312" y="542">J. Assmann : la « justice connective »</text>
+<circle class="dot" cx="204" cy="559" r="2.6"/><text class="d" x="214" y="563">1990</text><text class="t" x="312" y="563">Th. Obenga : une philosophie africaine</text>
+<circle class="dot" cx="204" cy="580" r="2.6"/><text class="d" x="214" y="584">1997</text><text class="t" x="312" y="584">E. Teeter : l’offrande de Maât et la légitimité royale</text>
+<circle class="dot" cx="204" cy="601" r="2.6"/><text class="d" x="214" y="605">2004</text><text class="t" x="312" y="605">M. Karenga : la Maât, « idéal moral »</text>
+<circle class="dot" cx="204" cy="622" r="2.6"/><text class="d" x="214" y="626">2018</text><text class="t" x="312" y="626">P. Harrison : le kémétisme</text>
+<text class="note" x="20" y="689">Dates approximatives, qui varient selon les auteurs.</text>
+</svg>
