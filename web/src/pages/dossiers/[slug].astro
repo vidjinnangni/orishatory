@@ -8,6 +8,7 @@ import SupportCard from "../../components/SupportCard.astro";
 import ContributeCard from "../../components/ContributeCard.astro";
 import ImageZoom from "../../components/ImageZoom.astro";
 import { DOSSIER_TYPE_LABELS } from "../../lib/constants";
+import { frenchSpacing } from "../../lib/typo.mjs";
 import {
   dossierEditUrl,
   dossierHref,
@@ -75,8 +76,8 @@ const dossierJsonLd = {
     <article class="dossier">
       <header class="dossier-head">
         <p class="eyebrow">Dossier · {DOSSIER_TYPE_LABELS[type]}</p>
-        <h1>{titre}</h1>
-        <p class="lede">{resume}</p>
+        <h1>{frenchSpacing(titre)}</h1>
+        <p class="lede">{frenchSpacing(resume)}</p>
       </header>
 
       {
@@ -129,7 +130,7 @@ const dossierJsonLd = {
       <section class="sources">
         <h2 class="block-title">Sources</h2>
         <ul class="plain-list">
-          {sources.map((source) => <li>{source}</li>)}
+          {sources.map((source) => <li>{frenchSpacing(source)}</li>)}
         </ul>
       </section>
     </article>

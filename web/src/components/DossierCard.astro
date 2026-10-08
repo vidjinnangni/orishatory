@@ -1,6 +1,7 @@
 ---
 import { Image } from "astro:assets";
 import { DOSSIER_TYPE_LABELS } from "../lib/constants";
+import { frenchSpacing } from "../lib/typo.mjs";
 import { dossierHref, getDossierCover, type Dossier } from "../lib/dossiers";
 
 interface Props {
@@ -21,8 +22,8 @@ const cover = getDossierCover(dossier);
     )
   }
   <span class="eyebrow">{DOSSIER_TYPE_LABELS[type]}</span>
-  <h3>{titre}</h3>
-  <p class="resume">{resume}</p>
+  <h3>{frenchSpacing(titre)}</h3>
+  <p class="resume">{frenchSpacing(resume)}</p>
   <p class="count">{fiches.length} fiche{fiches.length > 1 ? "s" : ""}</p>
 </a>
 

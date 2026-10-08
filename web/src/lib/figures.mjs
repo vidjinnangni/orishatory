@@ -7,6 +7,7 @@
 // `images` de l'en-tête YAML qui porte le même nom de fichier :
 // « Crédit : <auteur ou institution> (<licence>) », avec un lien vers l'original.
 // scripts/validate.py vérifie que chaque image est déclarée et que le fichier existe.
+import { frenchSpacing } from "./typo.mjs";
 
 /** Nom de fichier d'une URL d'image relative (« images/<slug>/x.jpg » -> « x.jpg »). */
 function fileName(url) {
@@ -19,7 +20,7 @@ function plain(node) {
 }
 
 function text(value) {
-  return { type: "text", value };
+  return { type: "text", value: frenchSpacing(value) };
 }
 
 /** Plugin mdast (Sätteri) : paragraphe réduit à une image -> <figure> légendée et créditée. */

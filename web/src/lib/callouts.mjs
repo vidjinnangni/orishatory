@@ -6,11 +6,19 @@
 //
 // Sätteri ne reconnaît pas cette syntaxe : sans ce plugin, « [!NOTE] »
 // s'afficherait tel quel dans une citation ordinaire.
+import { frenchSpacing } from "./typo.mjs";
+
 const MARKER = /^\[!NOTE\][ \t]*(?:\r?\n|$)/;
 
-/** Copie un nœud mdast en objet simple, sans les champs internes de Sätteri. */
+/**
+ * Copie un nœud mdast en objet simple, sans les champs internes de Sätteri. Les
+ * nœuds recopiés ne repassent pas par le plugin de typographie : on l'applique ici.
+ */
 function plain(node) {
-  return JSON.parse(JSON.stringify(node, (key, value) => (key === "position" || key.startsWith("_") ? undefined : value)));
+  return JSON.parse(
+    JSON.stringify(node, (key, value) => (key === "position" || key.startsWith("_") ? undefined : value)),
+    (key, value) => (key === "value" && typeof value === "string" ? frenchSpacing(value) : value),
+  );
 }
 
 /** Plugin mdast (Sätteri) : `> [!NOTE]` -> encadré « À savoir ». */

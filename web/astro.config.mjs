@@ -7,6 +7,7 @@ import { satteri } from '@astrojs/markdown-satteri';
 import { ficheLinks } from './src/lib/fiche-links.mjs';
 import { callouts } from './src/lib/callouts.mjs';
 import { figures } from './src/lib/figures.mjs';
+import { frenchTypography } from './src/lib/typo.mjs';
 
 // La page /dossiers/ est vide (noindex) tant qu'aucun dossier
 // n'existe : on la garde aussi hors du sitemap.
@@ -21,7 +22,8 @@ export default defineConfig({
       // [texte](fiche:<id>) -> lien vers la fiche (voir src/lib/fiche-links.mjs).
       // > [!NOTE] -> encadré « À savoir » (voir src/lib/callouts.mjs).
       // ![alt](images/<slug>/x.jpg "Légende") -> figure légendée et créditée (voir src/lib/figures.mjs).
-      mdastPlugins: [ficheLinks(), callouts(), figures()],
+      // Espaces insécables de la typographie française (voir src/lib/typo.mjs).
+      mdastPlugins: [ficheLinks(), callouts(), figures(), frenchTypography()],
       features: {
         gfm: { footnotes: { label: 'Notes', backLabel: 'Retour au texte {reference}' } },
         // Les guillemets français « » et l'apostrophe ’ se tapent tels quels :

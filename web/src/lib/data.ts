@@ -1,4 +1,5 @@
 import { readFileSync, readdirSync } from "node:fs";
+import { frenchSpacing } from "./typo.mjs";
 import { resolve } from "node:path";
 import { getAddedDate } from "./added-dates";
 import { CATEGORIES, REGIONS, type Categorie, type Region } from "./constants";
@@ -42,6 +43,18 @@ export interface Tag {
 /** Chemin du fichier source de chaque fiche, relatif à la racine du dépôt (ex: "data/afrique-ouest/deites/shango.json") — utilisé pour retrouver sa date d'ajout dans l'historique git. */
 const FILE_PATH_BY_ID = new Map<string, string>();
 
+/** Espaces insécables de la typographie française dans les champs de texte affichés (voir typo.mjs). */
+function withFrenchSpacing(entity: Entite): Entite {
+  return {
+    ...entity,
+    resume: frenchSpacing(entity.resume),
+    description_detaillee: frenchSpacing(entity.description_detaillee),
+    culte_contemporain: frenchSpacing(entity.culte_contemporain),
+    notes: frenchSpacing(entity.notes),
+    sources: entity.sources.map(frenchSpacing),
+  };
+}
+
 function loadEntities(): Entite[] {
   const entities: Entite[] = [];
   for (const region of REGIONS) {
@@ -55,7 +68,7 @@ function loadEntities(): Entite[] {
       for (const file of files) {
         if (!file.endsWith(".json")) continue;
         const raw = readFileSync(`${DATA_DIR}/${region}/${categorie}/${file}`, "utf-8");
-        const entity = JSON.parse(raw) as Entite;
+        const entity = withFrenchSpacing(JSON.parse(raw) as Entite);
         entities.push(entity);
         FILE_PATH_BY_ID.set(entity.id, `data/${region}/${categorie}/${file}`);
       }
