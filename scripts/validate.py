@@ -28,6 +28,8 @@ DOSSIER_SCHEMA_PATH = ROOT / "schema" / "dossier.schema.json"
 DOSSIER_FILENAME = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*\.md$")
 # Lien vers une fiche dans le corps d'un dossier : [texte](fiche:<id>)
 FICHE_LINK = re.compile(r"\]\(\s*fiche:([^)\s]*)\s*\)")
+# Lien vers un autre dossier : [texte](dossier:<slug>)
+DOSSIER_LINK = re.compile(r"\]\(\s*dossier:([^)\s]*)\s*\)")
 # Image dans le corps d'un dossier : ![texte alternatif](images/<slug>/<fichier> "Légende")
 IMAGE_REF = re.compile(r"!\[([^\]]*)\]\(\s*<?([^)\s>]+)>?")
 IMAGES_DIR = DOSSIERS_DIR / "images"
@@ -107,6 +109,11 @@ def check_dossiers(entities):
                 errors_found = True
             elif ref not in listed:
                 print(f"[LIEN] {rel}: le lien fiche:{ref} du texte doit aussi figurer dans 'fiches'")
+                errors_found = True
+
+        for slug in dict.fromkeys(DOSSIER_LINK.findall(body)):
+            if slug not in {p.stem for p in paths}:
+                print(f"[LIEN] {rel}: le lien dossier:{slug} du texte ne correspond à aucun dossier")
                 errors_found = True
 
         errors_found = check_dossier_images(rel, path.stem, header, body) or errors_found

@@ -62,8 +62,8 @@ const dossierJsonLd = {
   type="article"
   image={ogImage}
   imageAlt={cover?.alt}
-  imageWidth={ogImage && OG_WIDTH}
-  imageHeight={ogImage && OG_HEIGHT}
+  imageWidth={ogImage ? OG_WIDTH : undefined}
+  imageHeight={ogImage ? OG_HEIGHT : undefined}
   breadcrumb={breadcrumb}
   jsonLd={dossierJsonLd}
 >

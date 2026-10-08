@@ -1,9 +1,10 @@
-import { readdirSync } from "node:fs";
+import { existsSync, readdirSync } from "node:fs";
 import { resolve } from "node:path";
 
 // Même résolution que lib/data.ts : depuis la racine du paquet `web/`, pas
 // depuis import.meta.url (le bundling déplace le module).
 const DATA_DIR = resolve(process.cwd(), "..", "data");
+const DOSSIERS_DIR = resolve(process.cwd(), "..", "dossiers");
 
 /** id de fiche -> URL de sa page, déduite de l'arborescence data/<region>/<categorie>/<id>.json. */
 function scanFiches() {
@@ -22,16 +23,32 @@ function scanFiches() {
   return hrefs;
 }
 
+/** slugs des dossiers existants (dossiers/<slug>.md). */
+function scanDossiers() {
+  if (!existsSync(DOSSIERS_DIR)) return new Set();
+  return new Set(readdirSync(DOSSIERS_DIR).filter((f) => f.endsWith(".md")).map((f) => f.slice(0, -".md".length)));
+}
+
 /**
  * Plugin mdast (Sätteri) : dans un dossier, `[Shango](fiche:shango)` devient un
- * lien vers la page de la fiche. Un id inconnu fait échouer le build plutôt que
+ * lien vers la page de la fiche, et `[le dossier Shango](dossier:<slug>)` un lien
+ * vers un autre dossier. Un id ou un slug inconnu fait échouer le build plutôt que
  * de publier un lien cassé ; scripts/validate.py applique la même règle en CI.
  */
 export function ficheLinks() {
   const hrefs = scanFiches();
+  const dossiers = scanDossiers();
   return {
     name: "orishatory-fiche-links",
     link(node, ctx) {
+      if (node.url.startsWith("dossier:")) {
+        const slug = node.url.slice("dossier:".length);
+        if (!dossiers.has(slug)) {
+          throw new Error(`Lien dossier:${slug} dans ${ctx.fileURL ?? "un dossier"} : aucun dossier n'a ce nom.`);
+        }
+        ctx.setProperty(node, "url", `/dossiers/${slug}/`);
+        return;
+      }
       if (!node.url.startsWith("fiche:")) return;
       const id = node.url.slice("fiche:".length);
       const href = hrefs.get(id);

@@ -6,6 +6,8 @@ export type Dossier = CollectionEntry<"dossiers">;
 
 // [texte](fiche:<id>) dans le corps Markdown ; même motif que scripts/validate.py.
 const FICHE_LINK = /\]\(\s*fiche:([^)\s]*)\s*\)/g;
+// [texte](dossier:<slug>) : lien vers un autre dossier.
+const DOSSIER_LINK = /\]\(\s*dossier:([^)\s]*)\s*\)/g;
 
 // ![alt](images/<slug>/x.jpg "Légende") dans le corps ; même motif que scripts/validate.py.
 const IMAGE_REF = /!\[[^\]]*\]\(\s*<?([^)\s>]+)>?/g;
@@ -38,6 +40,11 @@ async function loadDossiers(): Promise<Dossier[]> {
       }
       if (!dossier.data.fiches.includes(id)) {
         throw new Error(`Dossier « ${dossier.id} » : le lien fiche:${id} du texte doit aussi figurer dans 'fiches'.`);
+      }
+    }
+    for (const [, slug] of (dossier.body ?? "").matchAll(DOSSIER_LINK)) {
+      if (!dossiers.some((d) => d.id === slug)) {
+        throw new Error(`Dossier « ${dossier.id} » : le lien dossier:${slug} du texte ne correspond à aucun dossier.`);
       }
     }
     // Images : déclarées dans 'images' (crédit, licence, source) et présentes sur le disque.
