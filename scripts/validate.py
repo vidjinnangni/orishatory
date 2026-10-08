@@ -140,9 +140,11 @@ def check_dossier_images(rel, slug, header, body):
         errors_found = True
 
     prefix = f"images/{slug}/"
+    used = {couverture.get("fichier")} if isinstance(couverture, dict) else set()
     for alt, url in IMAGE_REF.findall(body):
         path = url.removeprefix("./")
         name = path[len(prefix):]
+        used.add(name)
         if not path.startswith(prefix) or "/" in name:
             print(f"[IMAGE] {rel}: l'image {url} doit se trouver dans {prefix}")
             errors_found = True
@@ -152,6 +154,11 @@ def check_dossier_images(rel, slug, header, body):
         if not alt.strip():
             print(f"[IMAGE] {rel}: l'image {url} n'a pas de texte alternatif")
             errors_found = True
+
+    # Une image déclarée doit servir : dans le texte ou comme couverture
+    for name in sorted(n for n in names - used if isinstance(n, str)):
+        print(f"[IMAGE] {rel}: '{name}' est déclarée dans 'images' mais n'est utilisée ni dans le texte ni en couverture")
+        errors_found = True
 
     if folder.is_dir():
         for file in sorted(f for f in folder.iterdir() if f.is_file() and not f.name.startswith(".")):

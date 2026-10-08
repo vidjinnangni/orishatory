@@ -51,12 +51,19 @@ async function loadDossiers(): Promise<Dossier[]> {
     if (couverture && !declared.has(couverture)) {
       throw new Error(`Dossier « ${dossier.id} » : la couverture '${couverture}' doit être déclarée dans 'images'.`);
     }
+    const used = new Set(couverture ? [couverture] : []);
     for (const [, url] of (dossier.body ?? "").matchAll(IMAGE_REF)) {
       const prefix = `images/${dossier.id}/`;
       const path = url.replace(/^\.\//, "");
       const fichier = path.slice(prefix.length);
+      used.add(fichier);
       if (!path.startsWith(prefix) || fichier.includes("/") || !declared.has(fichier)) {
         throw new Error(`Dossier « ${dossier.id} » : l'image ${url} doit être dans images/${dossier.id}/ et déclarée dans 'images'.`);
+      }
+    }
+    for (const fichier of declared) {
+      if (!used.has(fichier)) {
+        throw new Error(`Dossier « ${dossier.id} » : l'image '${fichier}' est déclarée dans 'images' mais n'est utilisée ni dans le texte ni en couverture.`);
       }
     }
   }
