@@ -20,7 +20,9 @@
     "divination"
   ],
   "genealogie": {
-    "parents": [],
+    "parents": [
+      "mawu-lisa"
+    ],
     "conjoints": [],
     "enfants": [],
     "entites_liees": [
