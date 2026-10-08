@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 272" role="img" aria-labelledby="t d" font-family="'Nunito Variable', Nunito, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+<title id="t">Frise des rois d’Abomey</title>
+<desc id="d">Frise chronologique des règnes des rois du Dahomey, de Dako (vers 1620-1645, dates incertaines) à Agoli-Agbo (1894-1900), avec les principaux événements : prise d’Allada en 1724 et de Ouidah en 1727, tribut à Oyo à partir de 1738 ou 1747 jusque vers 1827, échec devant Abeokuta en 1851, prise d’Abomey en 1892 et reddition de Béhanzin en 1894.</desc>
+<style>
+ /* Couleurs du site (web/src/styles/global.css). */
+ .bg{fill:#ffffff}.bar{fill:#4a5dd4}.bar.unc{fill:#ffffff;stroke:#4a5dd4;stroke-width:1.5;stroke-dasharray:4 3}
+ .alt{fill:#3a4bb0}.name{fill:#0a0a0a;font-size:12.5px;font-weight:700}.yrs{fill:#737373;font-size:10.5px}
+ .axis{stroke:#e5e5e5;stroke-width:2}.tick{fill:#737373;font-size:11px}.lead{stroke:#cfcfcf;stroke-width:1}
+ .edot{fill:#0a0a0a}.ey{fill:#4a5dd4;font-size:11px;font-weight:700}.et{fill:#0a0a0a;font-size:11.5px}.note{fill:#737373;font-size:11px;font-style:italic}
+ @media (prefers-color-scheme: dark){
+  .bg{fill:#0a0a0a}.bar{fill:#758eff}.alt{fill:#5f75e0}.bar.unc{fill:#0a0a0a;stroke:#758eff}.name,.et{fill:#fafafa}.yrs,.tick,.note{fill:#a1a1a1}
+  .axis{stroke:#333333}.lead{stroke:#444444}.edot{fill:#fafafa}.ey{fill:#758eff}
+ }
+</style>
+<rect class="bg" width="760" height="272"/>
+<line class="axis" x1="40" y1="135" x2="730" y2="135"/>
+<line class="axis" x1="40.0" y1="135" x2="40.0" y2="140"/><text class="tick" x="40.0" y="153" text-anchor="middle">1600</text>
+<line class="axis" x1="153.1" y1="135" x2="153.1" y2="140"/><text class="tick" x="153.1" y="153" text-anchor="middle">1650</text>
+<line class="axis" x1="266.2" y1="135" x2="266.2" y2="140"/><text class="tick" x="266.2" y="153" text-anchor="middle">1700</text>
+<line class="axis" x1="379.3" y1="135" x2="379.3" y2="140"/><text class="tick" x="379.3" y="153" text-anchor="middle">1750</text>
+<line class="axis" x1="492.5" y1="135" x2="492.5" y2="140"/><text class="tick" x="492.5" y="153" text-anchor="middle">1800</text>
+<line class="axis" x1="605.6" y1="135" x2="605.6" y2="140"/><text class="tick" x="605.6" y="153" text-anchor="middle">1850</text>
+<line class="axis" x1="718.7" y1="135" x2="718.7" y2="140"/><text class="tick" x="718.7" y="153" text-anchor="middle">1900</text>
+<rect class="bar unc" x="97.1" y="119" width="44.2" height="12" rx="2"/>
+<line class="lead" x1="119.2" y1="119" x2="119.2" y2="111"/>
+<text class="name" x="119.2" y="97" text-anchor="middle">Dako</text><text class="yrs" x="119.2" y="109" text-anchor="middle">v. 1625-1645</text>
+<rect class="bar unc" x="142.3" y="119" width="89.5" height="12" rx="2"/>
+<line class="lead" x1="187.0" y1="119" x2="187.0" y2="81"/>
+<text class="name" x="187.0" y="67" text-anchor="middle">Houégbadja</text><text class="yrs" x="187.0" y="79" text-anchor="middle">v. 1645-1685</text>
+<rect class="bar unc" x="232.8" y="119" width="69.1" height="12" rx="2"/>
+<line class="lead" x1="267.4" y1="119" x2="267.4" y2="111"/>
+<text class="name" x="267.4" y="97" text-anchor="middle">Akaba</text><text class="yrs" x="267.4" y="109" text-anchor="middle">v. 1685-1716</text>
+<rect class="bar alt" x="302.9" y="119" width="53.3" height="12" rx="2"/>
+<line class="lead" x1="329.6" y1="119" x2="329.6" y2="81"/>
+<text class="name" x="329.6" y="67" text-anchor="middle">Agadja</text><text class="yrs" x="329.6" y="79" text-anchor="middle">1716-1740</text>
+<rect class="bar" x="357.2" y="119" width="75.9" height="12" rx="2"/>
+<line class="lead" x1="395.2" y1="119" x2="395.2" y2="111"/>
+<text class="name" x="395.2" y="97" text-anchor="middle">Tegbessou</text><text class="yrs" x="395.2" y="109" text-anchor="middle">1740-1774</text>
+<rect class="bar alt" x="434.1" y="119" width="32.9" height="12" rx="2"/>
+<line class="lead" x1="450.6" y1="119" x2="450.6" y2="81"/>
+<text class="name" x="450.6" y="67" text-anchor="middle">Kpengla</text><text class="yrs" x="450.6" y="79" text-anchor="middle">1774-1789</text>
+<rect class="bar" x="468.1" y="119" width="17.1" height="12" rx="2"/>
+<line class="lead" x1="476.6" y1="119" x2="476.6" y2="111"/>
+<text class="name" x="476.6" y="97" text-anchor="middle">Agonglo</text><text class="yrs" x="476.6" y="109" text-anchor="middle">1789-1797</text>
+<rect class="bar alt" x="486.2" y="119" width="46.5" height="12" rx="2"/>
+<line class="lead" x1="509.4" y1="119" x2="509.4" y2="51"/>
+<text class="name" x="509.4" y="37" text-anchor="middle">Adandozan</text><text class="yrs" x="509.4" y="49" text-anchor="middle">1797-1818</text>
+<rect class="bar" x="533.7" y="119" width="89.5" height="12" rx="2"/>
+<line class="lead" x1="578.4" y1="119" x2="578.4" y2="111"/>
+<text class="name" x="578.4" y="97" text-anchor="middle">Ghézo</text><text class="yrs" x="578.4" y="109" text-anchor="middle">1818-1858</text>
+<rect class="bar alt" x="624.2" y="119" width="69.1" height="12" rx="2"/>
+<line class="lead" x1="658.7" y1="119" x2="658.7" y2="81"/>
+<text class="name" x="658.7" y="67" text-anchor="middle">Glèlè</text><text class="yrs" x="658.7" y="79" text-anchor="middle">1858-1889</text>
+<rect class="bar" x="694.3" y="119" width="10.3" height="12" rx="2"/>
+<line class="lead" x1="699.5" y1="119" x2="699.5" y2="111"/>
+<text class="name" x="699.5" y="97" text-anchor="middle">Béhanzin</text><text class="yrs" x="699.5" y="109" text-anchor="middle">1889-1894</text>
+<rect class="bar alt" x="705.6" y="119" width="12.6" height="12" rx="2"/>
+<line class="lead" x1="711.9" y1="119" x2="711.9" y2="51"/>
+<text class="name" x="723.9" y="37" text-anchor="end">Agoli-Agbo</text><text class="yrs" x="723.9" y="49" text-anchor="end">1894-1900</text>
+<circle class="edot" cx="322.8" cy="135" r="3"/><line class="lead" x1="322.8" y1="157" x2="322.8" y2="209"/>
+<text class="ey" x="327.8" y="219" text-anchor="start">1724-1727</text><text class="et" x="327.8" y="232" text-anchor="start">prise d’Allada, puis de Ouidah</text>
+<circle class="edot" cx="361.2" cy="135" r="3"/><line class="lead" x1="361.2" y1="157" x2="361.2" y2="173"/>
+<text class="ey" x="366.2" y="183" text-anchor="start">1738 ou 1747</text><text class="et" x="366.2" y="196" text-anchor="start">début du tribut à Oyo</text>
+<circle class="edot" cx="553.5" cy="135" r="3"/><line class="lead" x1="553.5" y1="157" x2="553.5" y2="173"/>
+<text class="ey" x="558.5" y="183" text-anchor="start">v. 1827</text><text class="et" x="558.5" y="196" text-anchor="start">fin du tribut</text>
+<circle class="edot" cx="702.9" cy="135" r="3"/><line class="lead" x1="702.9" y1="157" x2="702.9" y2="209"/>
+<text class="ey" x="697.9" y="219" text-anchor="end">1892-1894</text><text class="et" x="697.9" y="232" text-anchor="end">prise d’Abomey, reddition de Béhanzin</text>
+<text class="note" x="40" y="262">Barres en pointillés : dates traditionnelles incertaines. La régence de Hangbè (1716-1718), discutée, n’est pas représentée.</text>
+</svg>
