@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 756 578" role="img" aria-labelledby="t d" font-family="'Nunito Variable', Nunito, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+<title id="t">Carte des sociétés de masques et d’initiation citées dans le dossier</title>
+<desc id="d">Carte de l’Afrique subsaharienne situant les sociétés de masques et d’initiation : Poro et Sande en Sierra Leone et au Liberia, Komo au Mali, Egungun, Gelede, Zangbeto, Mmanwu et Ékpè entre le Bénin et le Nigeria, Ngil et Mwiri au Gabon, Kipoko, Bwami et Mbudye au Congo, Mukanda en Angola et en Zambie, Nyau au Malawi, Vhusha et domba chez les Venda, Ukwaluko chez les Xhosa ; un encart situe à Cuba l’Abakuá, en Jamaïque et aux Bahamas le Junkanoo, à Trinidad le Jab Jab et le Moko Jumbie.</desc>
+<style>
+ /* Couleurs du site (web/src/styles/global.css) : --bg, --bg-elevated, --fg, --fg-muted, --border, --accent. */
+ .sea{fill:#ffffff}.land{fill:#f5f5f5;stroke:#cfcfcf;stroke-width:1}.frame{fill:#ffffff;stroke:#cfcfcf;stroke-width:1}
+ .dot{fill:#4a5dd4}.lbl{fill:#0a0a0a;font-size:12.5px;font-weight:700}.pp{fill:#737373;font-size:10.5px;font-style:italic}
+ .title{fill:#737373;font-size:11px;font-weight:700;letter-spacing:.12em}.halo{paint-order:stroke;stroke:#f5f5f5;stroke-width:3.5px;stroke-linejoin:round}
+ .halos{paint-order:stroke;stroke:#ffffff;stroke-width:3.5px;stroke-linejoin:round}.note{fill:#737373;font-size:11px;font-style:italic}
+ @media (prefers-color-scheme: dark){
+  .sea,.frame{fill:#0a0a0a}.land{fill:#171717;stroke:#333333}.frame{stroke:#333333}.dot{fill:#758eff}.lbl{fill:#fafafa}.pp,.title,.note{fill:#a1a1a1}
+  .halo{stroke:#171717}.halos{stroke:#0a0a0a}
+ }
+</style>
+<rect class="sea" width="756" height="578"/>
+<defs><clipPath id="c"><rect width="756" height="578"/></clipPath></defs><g clip-path="url(#c)"><path class="land" d="M28.3,-5.2 L29.4,10.5 L26.2,31.5 L16.8,45.2 L24.2,63.0 L23.1,70.3 L36.8,78.8 L47.2,89.2 L59.8,99.8 L60.9,110.2 L78.8,126.0 L86.1,133.3 L105.0,147.0 L120.8,153.3 L147.0,146.0 L168.0,146.0 L183.8,149.1 L199.5,140.7 L212.1,135.5 L224.7,132.8 L235.2,132.3 L246.8,133.3 L257.2,144.9 L263.6,154.3 L273.0,153.3 L286.7,151.2 L298.2,158.5 L302.4,173.2 L300.3,189.0 L297.2,204.8 L291.9,210.0 L302.4,228.9 L316.1,240.4 L327.6,260.4 L338.1,291.9 L330.8,341.2 L323.4,378.0 L329.7,399.0 L351.8,439.9 L359.1,483.0 L372.8,499.8 L387.4,530.2 L392.7,555.4 L404.2,564.9 L409.5,564.9 L430.5,556.5 L468.3,556.5 L492.4,546.0 L514.5,528.1 L525.0,512.4 L540.8,498.8 L544.9,472.5 L571.2,451.5 L572.2,430.5 L564.9,409.5 L586.9,387.4 L619.5,367.5 L625.8,351.8 L624.8,315.0 L614.2,283.5 L612.1,270.9 L616.4,242.0 L628.9,223.7 L640.5,210.0 L661.5,183.8 L682.5,173.2 L703.5,152.2 L719.2,126.0 L732.9,94.5 L738.1,75.6 L738.1,-5.2 Z"/><path class="land" d="M717.1,325.5 L729.8,362.2 L719.2,383.2 L703.5,430.5 L693.0,462.0 L672.0,467.2 L658.4,441.0 L654.1,420.0 L665.7,399.0 L661.5,372.8 L687.8,364.4 L703.5,341.2 Z"/></g>
+<circle class="dot" cx="81.9" cy="113.4" r="4.5"/>
+<text class="lbl halo" x="77.9" y="133.4" text-anchor="start">Poro, Sande</text><text class="pp halo" x="77.9" y="146.4" text-anchor="start">Mende, Temne, Kpelle</text>
+<circle class="dot" cx="126.0" cy="67.2" r="4.5"/>
+<text class="lbl halo" x="116.0" y="71.2" text-anchor="end">Komo</text><text class="pp halo" x="116.0" y="84.2" text-anchor="end">Bambara</text>
+<circle class="dot" cx="240.4" cy="115.5" r="4.5"/>
+<text class="lbl halo" x="240.4" y="89.5" text-anchor="middle">Egungun, Gelede</text><text class="pp halo" x="240.4" y="102.5" text-anchor="middle">Yoruba</text>
+<circle class="dot" cx="226.8" cy="131.8" r="4.5"/>
+<text class="lbl halo" x="230.8" y="155.8" text-anchor="middle">Zangbeto</text><text class="pp halo" x="230.8" y="168.8" text-anchor="middle">Gun</text>
+<circle class="dot" cx="275.1" cy="136.5" r="4.5"/>
+<text class="lbl halo" x="285.1" y="124.5" text-anchor="start">Mmanwu</text><text class="pp halo" x="285.1" y="137.5" text-anchor="start">Igbo</text>
+<circle class="dot" cx="287.7" cy="147.0" r="4.5"/>
+<text class="lbl halo" x="299.7" y="161.0" text-anchor="start">Ékpè</text><text class="pp halo" x="299.7" y="174.0" text-anchor="start">Efik, Ejagham</text>
+<circle class="dot" cx="318.2" cy="182.7" r="4.5"/>
+<text class="lbl halo" x="330.2" y="188.7" text-anchor="start">Ngil</text><text class="pp halo" x="330.2" y="201.7" text-anchor="start">Fang</text>
+<circle class="dot" cx="315.0" cy="216.3" r="4.5"/>
+<text class="lbl halo" x="325.0" y="224.3" text-anchor="start">Mwiri</text><text class="pp halo" x="325.0" y="237.3" text-anchor="start">Punu, Mitsogo</text>
+<circle class="dot" cx="399.0" cy="257.2" r="4.5"/>
+<text class="lbl halo" x="409.0" y="261.2" text-anchor="start">Kipoko</text><text class="pp halo" x="409.0" y="274.2" text-anchor="start">Pende</text>
+<circle class="dot" cx="488.2" cy="231.0" r="4.5"/>
+<text class="lbl halo" x="498.2" y="235.0" text-anchor="start">Bwami</text><text class="pp halo" x="498.2" y="248.0" text-anchor="start">Lega</text>
+<circle class="dot" cx="474.6" cy="285.6" r="4.5"/>
+<text class="lbl halo" x="484.6" y="289.6" text-anchor="start">Mbudye</text><text class="pp halo" x="484.6" y="302.6" text-anchor="start">Luba</text>
+<circle class="dot" cx="435.8" cy="330.8" r="4.5"/>
+<text class="lbl halo" x="425.8" y="334.8" text-anchor="end">Mukanda (makishi)</text><text class="pp halo" x="425.8" y="347.8" text-anchor="end">Chokwe, Luvale</text>
+<circle class="dot" cx="546.0" cy="344.4" r="4.5"/>
+<text class="lbl halo" x="556.0" y="348.4" text-anchor="start">Nyau (Gule Wamkulu)</text><text class="pp halo" x="556.0" y="361.4" text-anchor="start">Chewa</text>
+<circle class="dot" cx="518.7" cy="439.9" r="4.5"/>
+<text class="lbl halo" x="528.7" y="443.9" text-anchor="start">Vhusha, domba</text><text class="pp halo" x="528.7" y="456.9" text-anchor="start">Venda</text>
+<circle class="dot" cx="486.1" cy="538.6" r="4.5"/>
+<text class="lbl halo" x="496.1" y="542.6" text-anchor="start">Ukwaluko</text><text class="pp halo" x="496.1" y="555.6" text-anchor="start">Xhosa</text>
+<rect class="frame" x="12" y="366" width="250" height="200" rx="6"/>
+<defs><clipPath id="ci"><rect x="12" y="366" width="250" height="200" rx="6"/></clipPath></defs><g clip-path="url(#ci)">
+<path class="land" d="M22.2,413.2 L30.5,405.8 L44.4,402.1 L58.3,401.2 L72.2,408.6 L87.9,414.1 L104.6,420.6 L121.3,429.0 L108.3,431.7 L88.9,432.2 L93.5,424.3 L80.5,416.0 L55.5,411.4 L47.2,408.6 L36.1,410.4 Z"/>
+<path class="land" d="M119.4,445.6 L134.2,431.7 L150.9,431.7 L161.1,434.5 L175.9,443.8 L160.1,447.5 L147.2,453.0 L134.2,448.4 Z"/>
+<path class="land" d="M83.3,445.6 L96.3,444.7 L102.7,449.3 L93.5,451.2 L83.3,447.5 Z"/>
+<path class="land" d="M186.1,444.7 L200.9,445.6 L200.0,449.3 L186.1,449.3 Z"/>
+<path class="land" d="M235.1,516.0 L243.5,515.5 L244.4,522.5 L235.1,522.9 Z"/>
+<path class="land" d="M12.0,527.1 L39.8,523.4 L53.7,532.7 L72.2,529.0 L90.7,535.4 L104.6,529.9 L109.2,519.7 L121.3,513.2 L141.6,503.0 L148.1,509.5 L160.1,504.0 L176.8,518.8 L188.9,517.9 L215.7,517.9 L234.2,516.9 L237.9,524.3 L262.0,537.3 L262.0,551.2 L12.0,551.2 Z"/>
+<path class="land" d="M76.8,368.8 L95.3,369.7 L88.9,384.5 L84.2,391.0 L87.9,393.8 L95.3,384.5 L106.4,389.1 L111.1,399.3 L104.6,390.1 L92.6,379.0 Z"/>
+</g>
+<text class="title halos" x="252" y="384" text-anchor="end">CARAÏBES</text>
+<circle class="dot" cx="53.7" cy="403.0" r="4"/><text class="lbl halos" x="53.7" y="423.0" text-anchor="middle">Abakuá</text><text class="pp halos" x="53.7" y="436.0" text-anchor="middle">Cuba</text>
+<circle class="dot" cx="92.6" cy="384.5" r="4"/><text class="lbl halos" x="100.6" y="378.5" text-anchor="start">Junkanoo</text><text class="pp halos" x="100.6" y="391.5" text-anchor="start">Bahamas</text>
+<circle class="dot" cx="97.2" cy="449.3" r="4"/><text class="lbl halos" x="97.2" y="471.3" text-anchor="middle">Jonkonnu</text><text class="pp halos" x="97.2" y="484.3" text-anchor="middle">Jamaïque</text>
+<circle class="dot" cx="240.7" cy="518.8" r="4"/><text class="lbl halos" x="232.7" y="500.8" text-anchor="end">Jab Jab, Moko Jumbie</text><text class="pp halos" x="232.7" y="513.8" text-anchor="end">Trinidad</text>
+<text class="note halos" x="746" y="568" text-anchor="end">Localisations approximatives.</text>
+</svg>
