@@ -11,13 +11,13 @@
     "Yoruba"
   ],
   "resume": "Orisha du fer, de la forge, de la guerre et de la technologie. Défricheur des chemins, patron des forgerons, chasseurs et de tous ceux qui travaillent le métal.",
-  "description_detaillee": "Ogun est l'orisha yoruba du fer et de tout ce qui s'en fabrique : outils, armes, machines. Il aurait été le premier à ouvrir un chemin entre le ciel et la terre à coups de machette, à une époque où les autres orisha se trouvaient bloqués et incapables d'atteindre le monde des humains. Ce geste fondateur fait de lui le patron naturel de tous ceux qui travaillent le métal ou qui ouvrent des voies nouvelles, au sens propre comme au figuré.\n\nSon culte s'organise historiquement autour de centres comme Ile-Ife et Ondo, mais son domaine d'action s'est étendu avec les technologies elles-mêmes. Au Nigeria contemporain, chauffeurs de taxi et mécaniciens comptent parmi ses dévots aux côtés des forgerons et des chasseurs plus anciennement associés à son culte, un prolongement logique de sa fonction : quiconque manipule le fer ou emprunte une route relève un peu de lui, qu'il s'agisse d'une lame ou d'un moteur.\n\nLe serment prêté sur un objet de fer consacré à Ogun conserve une valeur coutumière dans certains tribunaux communautaires yoruba, le parjure étant censé attirer sa colère plus sûrement que la justice ordinaire. Les accidents de la route sont parfois interprétés, dans une lecture traditionnelle, comme des manifestations de sa présence sur les axes de circulation modernes.\n\nSa relation avec Èṣù, qu'il croise dans plusieurs récits, illustre une tension récurrente au sein du panthéon yoruba entre la force brute qu'incarne Ogun et la ruse qu'incarne Èṣù. Les deux orisha sont alliés autant que rivaux, chacun représentant une voie distincte vers l'accomplissement des désirs humains.",
+  "description_detaillee": "Ogun est l'orisha yoruba du fer et de tout ce qui s'en fabrique : outils, armes, machines. Il aurait été le premier à ouvrir un chemin entre le ciel et la terre à coups de machette, à une époque où les autres orisha se trouvaient bloqués et incapables d'atteindre le monde des humains. Ce geste fondateur fait de lui le patron naturel de tous ceux qui travaillent le métal ou qui ouvrent des voies nouvelles, au sens propre comme au figuré.\n\nSon culte a pour grands centres Ire, dont il passe pour avoir été le premier roi, et Iléṣà, où il est la principale divinité de la ville ; mais son domaine d'action s'est étendu avec les technologies elles-mêmes. Au Nigeria contemporain, chauffeurs de taxi et mécaniciens comptent parmi ses dévots aux côtés des forgerons et des chasseurs plus anciennement associés à son culte, un prolongement logique de sa fonction : quiconque manipule le fer ou emprunte une route relève un peu de lui, qu'il s'agisse d'une lame ou d'un moteur.\n\nLe fer d'Ogun sert aussi à jurer : à la fin du XIXe siècle, A.B. Ellis rapportait que l'on prêtait serment par Ogun en touchant de la langue un objet de fer. Le lien entre le dieu, les chauffeurs et la route a inspiré à Wole Soyinka sa pièce The Road (1965), où les accidents deviennent le tribut prélevé par Ogun.\n\nSa relation avec Èṣù, qu'il croise dans plusieurs récits, illustre une tension récurrente au sein du panthéon yoruba entre la force brute qu'incarne Ogun et la ruse qu'incarne Èṣù. Les deux orisha sont alliés autant que rivaux, chacun représentant une voie distincte vers l'accomplissement des désirs humains.",
   "domaines": [
     "fer",
     "guerre",
     "chasse",
     "technologie",
-    "justice par le serment"
+    "serment"
   ],
   "tags": [
     "forge-artisanat"
@@ -34,13 +34,17 @@
     "machette",
     "fer",
     "chien",
-    "palme"
+    "huile de palme"
   ],
   "recits_associes": [],
-  "culte_contemporain": "Toujours vénéré au Nigeria et au Bénin ; les serments prêtés sur le fer d'Ogun ont une valeur juridique coutumière dans certaines communautés yoruba. Diffusé dans les Amériques sous le nom d'Ogou (vaudou haïtien) ou Ogún (santería).",
+  "culte_contemporain": "Toujours vénéré au Nigeria et au Bénin, notamment par les forgerons, les chasseurs et les chauffeurs. Diffusé dans les Amériques sous le nom d'Ogou (vodou haïtien), d'Ogún (santería cubaine) ou d'Ogum (candomblé et umbanda au Brésil).",
   "sources": [
     "Barnes, S.T. (1997). Africa's Ogun: Old World and New",
-    "Idowu, E.B. (1962). Olodumare: God in Yoruba Belief"
+    "Idowu, E.B. (1962). Olodumare: God in Yoruba Belief",
+    "Ellis, A.B. (1894). The Yoruba-Speaking Peoples of the Slave Coast of West Africa",
+    "Johnson, S. (1921). The History of the Yorubas",
+    "Cousin Kouton, S. (2023). Ògún et les matrimoines. Histoires de Porto-Novo, Xọ̀gbónù, Àjàṣẹ́",
+    "Layiwola, D. (1996). The Philosophy of Wole Soyinka's Art. Journal of Dramatic Theory and Criticism, 10(2), 19-42"
   ],
-  "notes": "Divinité ambivalente : associée à la création (outils, civilisation) autant qu'à la violence destructrice ; les récits insistent sur cette double nature plutôt que de la résoudre."
+  "notes": "Divinité ambivalente : associée à la création (outils, civilisation) autant qu'à la violence destructrice ; les récits insistent sur cette double nature plutôt que de la résoudre. Les traditions situent Ire, la ville dont Ogun aurait été roi, dans l'actuel État d'Osun, mais plusieurs localités du sud-ouest du Nigeria portent ce nom."
 }
